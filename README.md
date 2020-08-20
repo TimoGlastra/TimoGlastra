@@ -9,9 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true" alt="timoglastra" /></p>
 
----
-
-### :zap: Recent Activity
+<h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#82](https://github.com//hyperledger/aries-framework-javascript/issues/82) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
