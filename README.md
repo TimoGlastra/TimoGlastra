@@ -3,9 +3,8 @@
 <br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
-<img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true" alt="timoglastra" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoglastra&layout=compact&hide=html" alt="timoglastra" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true&count_private=tru" alt="timoglastra" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoglastra" alt="timoglastra" /><p>
 
 <h3>Recent Activity</h3>
 
