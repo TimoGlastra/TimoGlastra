@@ -17,6 +17,8 @@
 5. 🗣 Commented on [#85](https://github.com//hyperledger/aries-framework-javascript/issues/85) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
+---
+
 <p align="center">
 <a href="https://twitter.com/timoglastra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="timoglastra" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/timoglastra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="timoglastra" height="30" width="30" /></a>
