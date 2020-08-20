@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
 <h3 align="center">A developer from Utrecht, The Netherlands</h3>
-
+<br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
 <img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true" alt="timoglastra" />
