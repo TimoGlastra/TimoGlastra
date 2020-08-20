@@ -4,7 +4,7 @@
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoglastra&layout=compact&hide=html" alt="timoglastra" />
-<div><br/><br/></div>
+<h1></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true" alt="timoglastra" />
 
 <h3>Recent Activity</h3>
