@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#89](https://github.com//hyperledger/aries-framework-javascript/pull/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#88](https://github.com//hyperledger/aries-framework-javascript/issues/88) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#2](https://github.com//TimoGlastra/aries-framework-javscript-actions/pull/2) in [TimoGlastra/aries-framework-javscript-actions](https://github.com//TimoGlastra/aries-framework-javscript-actions)
-4. ❗️ Opened issue [#87](https://github.com//hyperledger/aries-framework-javascript/issues/87) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#83](https://github.com//hyperledger/aries-framework-javascript/issues/83) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#11408](https://github.com//brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com//brave/brave-browser)
+2. 💪 Opened PR [#89](https://github.com//hyperledger/aries-framework-javascript/pull/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#88](https://github.com//hyperledger/aries-framework-javascript/issues/88) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#2](https://github.com//TimoGlastra/aries-framework-javscript-actions/pull/2) in [TimoGlastra/aries-framework-javscript-actions](https://github.com//TimoGlastra/aries-framework-javscript-actions)
+5. ❗️ Opened issue [#87](https://github.com//hyperledger/aries-framework-javascript/issues/87) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
