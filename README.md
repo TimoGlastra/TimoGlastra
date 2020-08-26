@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com//hyperledger/aries-agent-test-harness/issues/94) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-2. 🎉 Merged PR [#80](https://github.com//hyperledger/aries-framework-javascript/pull/80) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#80](https://github.com//hyperledger/aries-framework-javascript/issues/80) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#11408](https://github.com//brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com//brave/brave-browser)
-5. 💪 Opened PR [#89](https://github.com//hyperledger/aries-framework-javascript/pull/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#89](https://github.com//hyperledger/aries-framework-javascript/issues/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#94](https://github.com//hyperledger/aries-agent-test-harness/issues/94) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
+3. 🎉 Merged PR [#80](https://github.com//hyperledger/aries-framework-javascript/pull/80) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#80](https://github.com//hyperledger/aries-framework-javascript/issues/80) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#11408](https://github.com//brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com//brave/brave-browser)
 <!--END_SECTION:activity-->
 
 ---
