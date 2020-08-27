@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#91](https://github.com//hyperledger/aries-framework-javascript/issues/91) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#90](https://github.com//hyperledger/aries-framework-javascript/issues/90) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#89](https://github.com//hyperledger/aries-framework-javascript/issues/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#94](https://github.com//hyperledger/aries-agent-test-harness/issues/94) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-5. 🎉 Merged PR [#80](https://github.com//hyperledger/aries-framework-javascript/pull/80) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#92](https://github.com//hyperledger/aries-agent-test-harness/issues/92) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#79](https://github.com//hyperledger/aries-framework-javascript/issues/79) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#91](https://github.com//hyperledger/aries-framework-javascript/issues/91) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#90](https://github.com//hyperledger/aries-framework-javascript/issues/90) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#89](https://github.com//hyperledger/aries-framework-javascript/issues/89) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
