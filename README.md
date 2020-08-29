@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com//hyperledger/aries-framework-javascript/issues/64) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#92](https://github.com//hyperledger/aries-agent-test-harness/issues/92) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#79](https://github.com//hyperledger/aries-framework-javascript/issues/79) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#91](https://github.com//hyperledger/aries-framework-javascript/issues/91) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#90](https://github.com//hyperledger/aries-framework-javascript/issues/90) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#11408](https://github.com//brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com//brave/brave-browser)
+2. 🗣 Commented on [#64](https://github.com//hyperledger/aries-framework-javascript/issues/64) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#92](https://github.com//hyperledger/aries-agent-test-harness/issues/92) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#79](https://github.com//hyperledger/aries-framework-javascript/issues/79) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#91](https://github.com//hyperledger/aries-framework-javascript/issues/91) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
