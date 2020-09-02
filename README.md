@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com//hyperledger/aries-framework-javascript/pull/93) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#79](https://github.com//hyperledger/aries-framework-javascript/pull/79) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#533](https://github.com//hyperledger/aries-rfcs/pull/533) in [hyperledger/aries-rfcs](https://github.com//hyperledger/aries-rfcs)
-4. 💪 Opened PR [#93](https://github.com//hyperledger/aries-framework-javascript/pull/93) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#11408](https://github.com//brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com//brave/brave-browser)
+1. 💪 Opened PR [#94](https://github.com//hyperledger/aries-framework-javascript/pull/94) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#93](https://github.com//hyperledger/aries-framework-javascript/pull/93) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#79](https://github.com//hyperledger/aries-framework-javascript/pull/79) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#533](https://github.com//hyperledger/aries-rfcs/pull/533) in [hyperledger/aries-rfcs](https://github.com//hyperledger/aries-rfcs)
+5. 💪 Opened PR [#93](https://github.com//hyperledger/aries-framework-javascript/pull/93) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
