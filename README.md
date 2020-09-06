@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#96](https://github.com//hyperledger/aries-framework-javascript/issues/96) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#98](https://github.com//hyperledger/aries-agent-test-harness/issues/98) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-3. ❗️ Opened issue [#711](https://github.com//hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com//hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#98](https://github.com//hyperledger/aries-agent-test-harness/pull/98) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-5. 💪 Opened PR [#97](https://github.com//hyperledger/aries-agent-test-harness/pull/97) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
+1. ❗️ Opened issue [#97](https://github.com//hyperledger/aries-framework-javascript/issues/97) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#96](https://github.com//hyperledger/aries-framework-javascript/issues/96) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#98](https://github.com//hyperledger/aries-agent-test-harness/issues/98) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
+4. ❗️ Opened issue [#711](https://github.com//hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com//hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#98](https://github.com//hyperledger/aries-agent-test-harness/pull/98) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
