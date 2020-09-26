@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com//hyperledger/aries-framework-javascript/issues/99) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#98](https://github.com//hyperledger/aries-agent-test-harness/issues/98) in [hyperledger/aries-agent-test-harness](https://github.com//hyperledger/aries-agent-test-harness)
-3. 💪 Opened PR [#98](https://github.com//hyperledger/aries-framework-javascript/pull/98) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#97](https://github.com//hyperledger/aries-framework-javascript/issues/97) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#96](https://github.com//hyperledger/aries-framework-javascript/issues/96) in [hyperledger/aries-framework-javascript](https://github.com//hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#99](https://github.com/hyperledger/aries-framework-javascript/issues/99) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#98](https://github.com/hyperledger/aries-agent-test-harness/issues/98) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 💪 Opened PR [#98](https://github.com/hyperledger/aries-framework-javascript/pull/98) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#97](https://github.com/hyperledger/aries-framework-javascript/issues/97) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#96](https://github.com/hyperledger/aries-framework-javascript/issues/96) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
