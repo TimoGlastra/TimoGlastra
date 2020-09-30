@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11408](https://github.com/brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com/brave/brave-browser)
-2. 🗣 Commented on [#17](https://github.com/AbsaOSS/rn-indy-sdk/issues/17) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-3. 💪 Opened PR [#17](https://github.com/AbsaOSS/rn-indy-sdk/pull/17) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-4. 🗣 Commented on [#11](https://github.com/AbsaOSS/rn-indy-sdk/issues/11) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-5. 🗣 Commented on [#711](https://github.com/hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+2. 🗣 Commented on [#11408](https://github.com/brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com/brave/brave-browser)
+3. 🗣 Commented on [#17](https://github.com/AbsaOSS/rn-indy-sdk/issues/17) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+4. 💪 Opened PR [#17](https://github.com/AbsaOSS/rn-indy-sdk/pull/17) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+5. 🗣 Commented on [#11](https://github.com/AbsaOSS/rn-indy-sdk/issues/11) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
