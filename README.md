@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/hyperledger/aries-agent-test-harness/pull/105) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. 💪 Opened PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#105](https://github.com/hyperledger/aries-agent-test-harness/pull/105) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 3. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 4. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-5. 🗣 Commented on [#11408](https://github.com/brave/brave-browser/issues/11408) in [brave/brave-browser](https://github.com/brave/brave-browser)
+5. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
