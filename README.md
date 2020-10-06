@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/animo/hyperledger-aries-workshop/pull/1) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
-2. 💪 Opened PR [#1](https://github.com/jakubkoci/types-indy-sdk/pull/1) in [jakubkoci/types-indy-sdk](https://github.com/jakubkoci/types-indy-sdk)
-3. 💪 Opened PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#105](https://github.com/hyperledger/aries-agent-test-harness/pull/105) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#18](https://github.com/AbsaOSS/rn-indy-sdk/issues/18) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. ❗️ Opened issue [#102](https://github.com/hyperledger/aries-framework-javascript/issues/102) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#101](https://github.com/hyperledger/aries-framework-javascript/issues/101) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#1](https://github.com/animo/hyperledger-aries-workshop/pull/1) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
+4. 💪 Opened PR [#1](https://github.com/jakubkoci/types-indy-sdk/pull/1) in [jakubkoci/types-indy-sdk](https://github.com/jakubkoci/types-indy-sdk)
+5. 💪 Opened PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
