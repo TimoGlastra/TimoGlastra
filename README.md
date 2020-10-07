@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#232](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/232) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
-2. ❗️ Opened issue [#103](https://github.com/hyperledger/aries-framework-javascript/issues/103) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#102](https://github.com/hyperledger/aries-framework-javascript/issues/102) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#101](https://github.com/hyperledger/aries-framework-javascript/issues/101) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#1](https://github.com/animo/hyperledger-aries-workshop/pull/1) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
+1. 🎉 Merged PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
+2. 💪 Opened PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
+3. 🎉 Merged PR [#232](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/232) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
+4. ❗️ Opened issue [#103](https://github.com/hyperledger/aries-framework-javascript/issues/103) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#102](https://github.com/hyperledger/aries-framework-javascript/issues/102) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
