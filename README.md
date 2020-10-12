@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#88](https://github.com/hyperledger/aries-framework-javascript/issues/88) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
-4. 💪 Opened PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
-5. 🎉 Merged PR [#232](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/232) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
+1. 🎉 Merged PR [#241](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/241) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
+2. 🎉 Merged PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#88](https://github.com/hyperledger/aries-framework-javascript/issues/88) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
+5. 💪 Opened PR [#2](https://github.com/animo/hyperledger-aries-workshop/pull/2) in [animo/hyperledger-aries-workshop](https://github.com/animo/hyperledger-aries-workshop)
 <!--END_SECTION:activity-->
 
 ---
