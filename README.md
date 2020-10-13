@@ -9,11 +9,11 @@
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#711](https://github.com/hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#711](https://github.com/hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
-4. 🎉 Merged PR [#241](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/241) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
-5. 🎉 Merged PR [#100](https://github.com/hyperledger/aries-framework-javascript/pull/100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#105](https://github.com/hyperledger/aries-framework-javascript/issues/105) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#711](https://github.com/hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#711](https://github.com/hyperledger/aries-cloudagent-python/issues/711) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
+5. 🎉 Merged PR [#241](https://github.com/ula-aca/aries-cloudagent-interface-javascript/pull/241) in [ula-aca/aries-cloudagent-interface-javascript](https://github.com/ula-aca/aries-cloudagent-interface-javascript)
 <!--END_SECTION:activity-->
 
 ---
