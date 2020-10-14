@@ -3,7 +3,7 @@
 <br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true&count_private=tru" alt="timoglastra" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true&count_private=true&" alt="timoglastra" /></p>
 
 <!--
 Github language stats
