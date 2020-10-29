@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/hyperledger/aries-framework-javascript/pull/120) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#75](https://github.com/hyperledger/aries-framework-javascript/issues/75) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#120](https://github.com/hyperledger/aries-framework-javascript/pull/120) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#111](https://github.com/hyperledger/aries-framework-javascript/pull/111) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#107](https://github.com/hyperledger/aries-framework-javascript/issues/107) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
+2. ❗️ Opened issue [#123](https://github.com/hyperledger/aries-framework-javascript/issues/123) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#120](https://github.com/hyperledger/aries-framework-javascript/pull/120) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Closed issue [#75](https://github.com/hyperledger/aries-framework-javascript/issues/75) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#120](https://github.com/hyperledger/aries-framework-javascript/pull/120) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
