@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/hyperledger/aries-agent-test-harness/issues/109) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🎉 Merged PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#124](https://github.com/hyperledger/aries-framework-javascript/issues/124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
+1. 🗣 Commented on [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+2. 🗣 Commented on [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+3. ❗️ Opened issue [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+4. 🗣 Commented on [#109](https://github.com/hyperledger/aries-agent-test-harness/issues/109) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🎉 Merged PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
