@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
-3. ❗️ Opened issue [#124](https://github.com/hyperledger/aries-framework-javascript/issues/124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#124](https://github.com/hyperledger/aries-framework-javascript/issues/124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#125](https://github.com/hyperledger/aries-framework-javascript/pull/125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#132](https://github.com/typestack/class-transformer/issues/132) in [typestack/class-transformer](https://github.com/typestack/class-transformer)
-5. ❗️ Opened issue [#123](https://github.com/hyperledger/aries-framework-javascript/issues/123) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#124](https://github.com/hyperledger/aries-framework-javascript/issues/124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
