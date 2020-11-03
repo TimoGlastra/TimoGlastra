@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/hyperledger/aries-framework-javascript/pull/126) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#117](https://github.com/hyperledger/aries-framework-javascript/issues/117) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. ❗️ Opened issue [#131](https://github.com/hyperledger/aries-framework-javascript/issues/131) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#126](https://github.com/hyperledger/aries-framework-javascript/pull/126) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#117](https://github.com/hyperledger/aries-framework-javascript/issues/117) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-5. ❗️ Opened issue [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+5. 🗣 Commented on [#21](https://github.com/AbsaOSS/rn-indy-sdk/issues/21) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
