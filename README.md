@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#798](https://github.com/hyperledger/aries-cloudagent-python/issues/798) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#116](https://github.com/hyperledger/aries-agent-test-harness/issues/116) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. ❗️ Closed issue [#1](https://github.com/ula-aca/aries-cloudagent-webhook-relay/issues/1) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
-4. 🗣 Commented on [#2](https://github.com/ula-aca/aries-cloudagent-webhook-relay/issues/2) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
-5. 🎉 Merged PR [#2](https://github.com/ula-aca/aries-cloudagent-webhook-relay/pull/2) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
+1. 💪 Opened PR [#801](https://github.com/hyperledger/aries-cloudagent-python/pull/801) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#798](https://github.com/hyperledger/aries-cloudagent-python/issues/798) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#116](https://github.com/hyperledger/aries-agent-test-harness/issues/116) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. ❗️ Closed issue [#1](https://github.com/ula-aca/aries-cloudagent-webhook-relay/issues/1) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
+5. 🗣 Commented on [#2](https://github.com/ula-aca/aries-cloudagent-webhook-relay/issues/2) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
 <!--END_SECTION:activity-->
 
 ---
