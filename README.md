@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/TimoGlastra/aries-mobile-agent-javascript/pull/4) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
-2. 🗣 Commented on [#3](https://github.com/TimoGlastra/aries-mobile-agent-javascript/issues/3) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
-3. 🎉 Merged PR [#3](https://github.com/TimoGlastra/aries-mobile-agent-javascript/pull/3) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
-4. 🗣 Commented on [#138](https://github.com/hyperledger/aries-framework-javascript/issues/138) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#139](https://github.com/hyperledger/aries-framework-javascript/pull/139) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#4](https://github.com/TimoGlastra/aries-mobile-agent-javascript/pull/4) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
+2. 🗣 Commented on [#2](https://github.com/TimoGlastra/aries-mobile-agent-javascript/issues/2) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
+3. 💪 Opened PR [#4](https://github.com/TimoGlastra/aries-mobile-agent-javascript/pull/4) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
+4. 🗣 Commented on [#3](https://github.com/TimoGlastra/aries-mobile-agent-javascript/issues/3) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
+5. 🎉 Merged PR [#3](https://github.com/TimoGlastra/aries-mobile-agent-javascript/pull/3) in [TimoGlastra/aries-mobile-agent-javascript](https://github.com/TimoGlastra/aries-mobile-agent-javascript)
 <!--END_SECTION:activity-->
 
 ---
