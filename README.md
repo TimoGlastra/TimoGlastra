@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/2) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#2](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/2) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-3. ❗️ Closed issue [#126](https://github.com/decentralized-identity/didcomm-messaging/issues/126) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-4. 🗣 Commented on [#126](https://github.com/decentralized-identity/didcomm-messaging/issues/126) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-5. 🎉 Merged PR [#6](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/6) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#142](https://github.com/hyperledger/aries-framework-javascript/issues/142) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#142](https://github.com/hyperledger/aries-framework-javascript/pull/142) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#141](https://github.com/hyperledger/aries-framework-javascript/issues/141) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#7](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/7) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#2](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/2) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
