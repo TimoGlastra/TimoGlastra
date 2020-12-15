@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-3. 💪 Opened PR [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-4. 💪 Opened PR [#32](https://github.com/AbsaOSS/rn-indy-sdk/pull/32) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-5. 🗣 Commented on [#847](https://github.com/hyperledger/aries-cloudagent-python/issues/847) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#151](https://github.com/hyperledger/aries-framework-javascript/issues/151) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+4. 💪 Opened PR [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+5. 💪 Opened PR [#32](https://github.com/AbsaOSS/rn-indy-sdk/pull/32) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
