@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#861](https://github.com/hyperledger/aries-cloudagent-python/pull/861) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#151](https://github.com/hyperledger/aries-framework-javascript/issues/151) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#12](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/12) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#151](https://github.com/hyperledger/aries-framework-javascript/issues/151) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#10](https://github.com/TimoGlastra/aries-mobile-agent-react-native/pull/10) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+1. 💪 Opened PR [#154](https://github.com/hyperledger/aries-framework-javascript/pull/154) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❌ Closed PR [#153](https://github.com/hyperledger/aries-framework-javascript/pull/153) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❌ Closed PR [#151](https://github.com/hyperledger/aries-framework-javascript/pull/151) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#861](https://github.com/hyperledger/aries-cloudagent-python/pull/861) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#151](https://github.com/hyperledger/aries-framework-javascript/issues/151) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
