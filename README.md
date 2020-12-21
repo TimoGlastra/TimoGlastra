@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/animo/aries-mobile-agent-react-native/pull/4) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-2. 💪 Opened PR [#4](https://github.com/animo/aries-mobile-agent-react-native/pull/4) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-3. 🎉 Merged PR [#3](https://github.com/animo/aries-mobile-agent-react-native/pull/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-4. 💪 Opened PR [#3](https://github.com/animo/aries-mobile-agent-react-native/pull/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#11](https://github.com/TimoGlastra/aries-mobile-agent-react-native/issues/11) in [TimoGlastra/aries-mobile-agent-react-native](https://github.com/TimoGlastra/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#869](https://github.com/hyperledger/aries-cloudagent-python/issues/869) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🎉 Merged PR [#4](https://github.com/animo/aries-mobile-agent-react-native/pull/4) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+3. 💪 Opened PR [#4](https://github.com/animo/aries-mobile-agent-react-native/pull/4) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+4. 🎉 Merged PR [#3](https://github.com/animo/aries-mobile-agent-react-native/pull/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+5. 💪 Opened PR [#3](https://github.com/animo/aries-mobile-agent-react-native/pull/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
