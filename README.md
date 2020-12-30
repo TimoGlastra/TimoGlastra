@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/animo/easy-ssi/pull/2) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-2. 💪 Opened PR [#2](https://github.com/animo/easy-ssi/pull/2) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-3. 🗣 Commented on [#885](https://github.com/hyperledger/aries-cloudagent-python/issues/885) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#158](https://github.com/hyperledger/aries-framework-javascript/pull/158) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#35](https://github.com/AbsaOSS/rn-indy-sdk/issues/35) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. 🎉 Merged PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+2. 💪 Opened PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+3. 🎉 Merged PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+4. 💪 Opened PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+5. 🎉 Merged PR [#2](https://github.com/animo/easy-ssi/pull/2) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
 <!--END_SECTION:activity-->
 
 ---
