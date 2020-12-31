@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-2. 💪 Opened PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-3. 🎉 Merged PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-4. 💪 Opened PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-5. 🎉 Merged PR [#2](https://github.com/animo/easy-ssi/pull/2) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+1. ❌ Closed PR [#5](https://github.com/animo/easy-ssi/pull/5) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+2. 🎉 Merged PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+3. 💪 Opened PR [#4](https://github.com/animo/easy-ssi/pull/4) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+4. 🎉 Merged PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+5. 💪 Opened PR [#3](https://github.com/animo/easy-ssi/pull/3) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
 <!--END_SECTION:activity-->
 
 ---
