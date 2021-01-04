@@ -3,7 +3,7 @@
 <br/>
 <!-- https://github.com/rahuldkjain/github-profile-readme-generator --!>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true&count_private=true&" alt="timoglastra" /></p>
+<!--  <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=timoglastra&show_icons=true&count_private=true&" alt="timoglastra" /></p> --!>
 
 <!--
 Github language stats
@@ -11,7 +11,7 @@ Github language stats
 -->
 
 <!-- Codestats language stats -->
-<p align="left"><img src="https://codestats-readme.vercel.app/api/top-langs/?username=timoglastra&layout=compact&language_count=12" alt="timoglastra" /><p>  
+<!-- <p align="left"><img src="https://codestats-readme.vercel.app/api/top-langs/?username=timoglastra&layout=compact&language_count=12" alt="timoglastra" /><p>    --!>
   
 <h3>Recent Activity</h3>
 
