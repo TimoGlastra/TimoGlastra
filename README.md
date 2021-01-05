@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#889](https://github.com/hyperledger/aries-cloudagent-python/issues/889) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 💪 Opened PR [#889](https://github.com/hyperledger/aries-cloudagent-python/pull/889) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🎉 Merged PR [#6](https://github.com/animo/easy-ssi/pull/6) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-4. 🗣 Commented on [#6](https://github.com/animo/easy-ssi/issues/6) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
-5. ❌ Closed PR [#5](https://github.com/animo/easy-ssi/pull/5) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+1. 💪 Opened PR [#890](https://github.com/hyperledger/aries-cloudagent-python/pull/890) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#889](https://github.com/hyperledger/aries-cloudagent-python/issues/889) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 💪 Opened PR [#889](https://github.com/hyperledger/aries-cloudagent-python/pull/889) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🎉 Merged PR [#6](https://github.com/animo/easy-ssi/pull/6) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
+5. 🗣 Commented on [#6](https://github.com/animo/easy-ssi/issues/6) in [animo/easy-ssi](https://github.com/animo/easy-ssi)
 <!--END_SECTION:activity-->
 
 ---
