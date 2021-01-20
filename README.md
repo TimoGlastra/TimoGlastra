@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#917](https://github.com/hyperledger/aries-cloudagent-python/pull/917) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 💪 Opened PR [#915](https://github.com/hyperledger/aries-cloudagent-python/pull/915) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript/issues/108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#169](https://github.com/hyperledger/aries-framework-javascript/issues/169) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#169](https://github.com/hyperledger/aries-framework-javascript/pull/169) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#918](https://github.com/hyperledger/aries-cloudagent-python/pull/918) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❌ Closed PR [#1](https://github.com/animo/aries-cloudagent-python/pull/1) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+3. 💪 Opened PR [#1](https://github.com/animo/aries-cloudagent-python/pull/1) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+4. 💪 Opened PR [#917](https://github.com/hyperledger/aries-cloudagent-python/pull/917) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#915](https://github.com/hyperledger/aries-cloudagent-python/pull/915) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
