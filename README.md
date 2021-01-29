@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#929](https://github.com/hyperledger/aries-cloudagent-python/issues/929) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 💪 Opened PR [#928](https://github.com/hyperledger/aries-cloudagent-python/pull/928) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#1](https://github.com/animo/aries-mobile-agent-react-native/issues/1) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#20](https://github.com/AbsaOSS/rn-indy-sdk/issues/20) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-5. 💪 Opened PR [#923](https://github.com/hyperledger/aries-cloudagent-python/pull/923) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❌ Closed PR [#127](https://github.com/hyperledger/aries-framework-javascript/pull/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#127](https://github.com/hyperledger/aries-framework-javascript/issues/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#170](https://github.com/hyperledger/aries-framework-javascript/pull/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#929](https://github.com/hyperledger/aries-cloudagent-python/issues/929) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#928](https://github.com/hyperledger/aries-cloudagent-python/pull/928) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
