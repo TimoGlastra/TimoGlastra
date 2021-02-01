@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm/issues/1) in [decentralized-identity/didcomm](https://github.com/decentralized-identity/didcomm)
-2. ❌ Closed PR [#127](https://github.com/hyperledger/aries-framework-javascript/pull/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#127](https://github.com/hyperledger/aries-framework-javascript/issues/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#170](https://github.com/hyperledger/aries-framework-javascript/pull/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#929](https://github.com/hyperledger/aries-cloudagent-python/issues/929) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❗️ Opened issue [#172](https://github.com/hyperledger/aries-framework-javascript/issues/172) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm/issues/1) in [decentralized-identity/didcomm](https://github.com/decentralized-identity/didcomm)
+3. ❌ Closed PR [#127](https://github.com/hyperledger/aries-framework-javascript/pull/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#127](https://github.com/hyperledger/aries-framework-javascript/issues/127) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#170](https://github.com/hyperledger/aries-framework-javascript/pull/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
