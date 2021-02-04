@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#585](https://github.com/hyperledger/aries-rfcs/issues/585) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm/issues/1) in [decentralized-identity/didcomm](https://github.com/decentralized-identity/didcomm)
-3. 💪 Opened PR [#173](https://github.com/hyperledger/aries-framework-javascript/pull/173) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#582](https://github.com/hyperledger/aries-rfcs/issues/582) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. ❗️ Opened issue [#172](https://github.com/hyperledger/aries-framework-javascript/issues/172) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm-bluetooth/issues/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
+2. 💪 Opened PR [#1](https://github.com/decentralized-identity/didcomm-bluetooth/pull/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
+3. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+4. ❗️ Opened issue [#585](https://github.com/hyperledger/aries-rfcs/issues/585) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm/issues/1) in [decentralized-identity/didcomm](https://github.com/decentralized-identity/didcomm)
 <!--END_SECTION:activity-->
 
 ---
