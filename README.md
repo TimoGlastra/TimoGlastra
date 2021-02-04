@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-2. ❗️ Opened issue [#3](https://github.com/animo/aries-mobile-agent-react-native/issues/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-3. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm-bluetooth/issues/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
-5. 💪 Opened PR [#1](https://github.com/decentralized-identity/didcomm-bluetooth/pull/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
+1. 🗣 Commented on [#174](https://github.com/hyperledger/aries-framework-javascript/issues/174) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+3. ❗️ Opened issue [#3](https://github.com/animo/aries-mobile-agent-react-native/issues/3) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+4. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm-bluetooth/issues/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
 <!--END_SECTION:activity-->
 
 ---
