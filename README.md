@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/hyperledger/aries-rfcs/issues/585) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#2346](https://github.com/hyperledger/indy-sdk/issues/2346) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
-3. 💪 Opened PR [#948](https://github.com/hyperledger/aries-cloudagent-python/pull/948) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#174](https://github.com/hyperledger/aries-framework-javascript/issues/174) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#2](https://github.com/animo/aries-mobile-agent-react-native/issues/2) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#43](https://github.com/transmute-industries/vc.js/issues/43) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+2. 💪 Opened PR [#44](https://github.com/transmute-industries/vc.js/pull/44) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+3. ❗️ Opened issue [#43](https://github.com/transmute-industries/vc.js/issues/43) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+4. 🗣 Commented on [#585](https://github.com/hyperledger/aries-rfcs/issues/585) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#2346](https://github.com/hyperledger/indy-sdk/issues/2346) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
