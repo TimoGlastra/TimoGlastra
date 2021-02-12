@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/transmute-industries/linked-data/pull/3) in [transmute-industries/linked-data](https://github.com/transmute-industries/linked-data)
-2. 💪 Opened PR [#142](https://github.com/transmute-industries/sidetree.js/pull/142) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
-3. 💪 Opened PR [#69](https://github.com/transmute-industries/did-key.js/pull/69) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
-4. 🗣 Commented on [#43](https://github.com/transmute-industries/vc.js/issues/43) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-5. 💪 Opened PR [#44](https://github.com/transmute-industries/vc.js/pull/44) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+1. ❗️ Closed issue [#43](https://github.com/transmute-industries/vc.js/issues/43) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
+2. 🗣 Commented on [#590](https://github.com/hyperledger/aries-rfcs/issues/590) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 💪 Opened PR [#3](https://github.com/transmute-industries/linked-data/pull/3) in [transmute-industries/linked-data](https://github.com/transmute-industries/linked-data)
+4. 💪 Opened PR [#142](https://github.com/transmute-industries/sidetree.js/pull/142) in [transmute-industries/sidetree.js](https://github.com/transmute-industries/sidetree.js)
+5. 💪 Opened PR [#69](https://github.com/transmute-industries/did-key.js/pull/69) in [transmute-industries/did-key.js](https://github.com/transmute-industries/did-key.js)
 <!--END_SECTION:activity-->
 
 ---
