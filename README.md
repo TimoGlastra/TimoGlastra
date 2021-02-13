@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#177](https://github.com/hyperledger/aries-framework-javascript/issues/177) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#176](https://github.com/hyperledger/aries-framework-javascript/issues/176) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#175](https://github.com/hyperledger/aries-framework-javascript/issues/175) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#43](https://github.com/transmute-industries/vc.js/issues/43) in [transmute-industries/vc.js](https://github.com/transmute-industries/vc.js)
-5. 🗣 Commented on [#590](https://github.com/hyperledger/aries-rfcs/issues/590) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. ❗️ Closed issue [#4](https://github.com/animo/awesome-self-sovereign-identity/issues/4) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 🎉 Merged PR [#6](https://github.com/animo/awesome-self-sovereign-identity/pull/6) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+3. 💪 Opened PR [#6](https://github.com/animo/awesome-self-sovereign-identity/pull/6) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+4. ❗️ Opened issue [#177](https://github.com/hyperledger/aries-framework-javascript/issues/177) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#176](https://github.com/hyperledger/aries-framework-javascript/issues/176) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
