@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/animo/aries-cloudagent-python/issues/7) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-2. ❗️ Opened issue [#6](https://github.com/animo/aries-cloudagent-python/issues/6) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-3. ❗️ Opened issue [#5](https://github.com/animo/aries-cloudagent-python/issues/5) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-4. 🗣 Commented on [#170](https://github.com/hyperledger/aries-framework-javascript/issues/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#159](https://github.com/hyperledger/aries-agent-test-harness/issues/159) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🗣 Commented on [#159](https://github.com/hyperledger/aries-agent-test-harness/issues/159) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Opened issue [#7](https://github.com/animo/aries-cloudagent-python/issues/7) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+3. ❗️ Opened issue [#6](https://github.com/animo/aries-cloudagent-python/issues/6) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+4. ❗️ Opened issue [#5](https://github.com/animo/aries-cloudagent-python/issues/5) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+5. 🗣 Commented on [#170](https://github.com/hyperledger/aries-framework-javascript/issues/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
