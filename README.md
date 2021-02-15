@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/hyperledger/aries-framework-javascript/issues/181) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm-bluetooth/issues/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
-3. 🗣 Commented on [#179](https://github.com/hyperledger/aries-framework-javascript/issues/179) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#181](https://github.com/hyperledger/aries-framework-javascript/pull/181) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#180](https://github.com/hyperledger/aries-framework-javascript/pull/180) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#170](https://github.com/hyperledger/aries-framework-javascript/issues/170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#159](https://github.com/hyperledger/aries-agent-test-harness/issues/159) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#1](https://github.com/decentralized-identity/didcomm-bluetooth/issues/1) in [decentralized-identity/didcomm-bluetooth](https://github.com/decentralized-identity/didcomm-bluetooth)
+4. 💪 Opened PR [#158](https://github.com/hyperledger/aries-agent-test-harness/pull/158) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🗣 Commented on [#181](https://github.com/hyperledger/aries-framework-javascript/issues/181) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
