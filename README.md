@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/hyperledger/aries-framework-javascript/issues/187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#593](https://github.com/hyperledger/aries-rfcs/pull/593) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#165](https://github.com/hyperledger/aries-agent-test-harness/issues/165) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 🗣 Commented on [#166](https://github.com/hyperledger/aries-agent-test-harness/issues/166) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 💪 Opened PR [#8](https://github.com/animo/aries-mobile-agent-react-native/pull/8) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+2. 🗣 Commented on [#187](https://github.com/hyperledger/aries-framework-javascript/issues/187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#593](https://github.com/hyperledger/aries-rfcs/pull/593) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#165](https://github.com/hyperledger/aries-agent-test-harness/issues/165) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 5. 🗣 Commented on [#166](https://github.com/hyperledger/aries-agent-test-harness/issues/166) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
