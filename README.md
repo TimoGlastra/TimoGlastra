@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#171](https://github.com/hyperledger/aries-agent-test-harness/issues/171) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. ❗️ Opened issue [#190](https://github.com/hyperledger/aries-framework-javascript/issues/190) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#187](https://github.com/hyperledger/aries-framework-javascript/issues/187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#8](https://github.com/animo/aries-mobile-agent-react-native/pull/8) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#187](https://github.com/hyperledger/aries-framework-javascript/issues/187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#171](https://github.com/hyperledger/aries-agent-test-harness/issues/171) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Opened issue [#171](https://github.com/hyperledger/aries-agent-test-harness/issues/171) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. ❗️ Opened issue [#190](https://github.com/hyperledger/aries-framework-javascript/issues/190) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#187](https://github.com/hyperledger/aries-framework-javascript/issues/187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#8](https://github.com/animo/aries-mobile-agent-react-native/pull/8) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
