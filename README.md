@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#1007](https://github.com/hyperledger/aries-cloudagent-python/issues/1007) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. ❌ Closed PR [#591](https://github.com/hyperledger/aries-rfcs/pull/591) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#591](https://github.com/hyperledger/aries-rfcs/issues/591) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. 🎉 Merged PR [#8](https://github.com/animo/aries-mobile-agent-react-native/pull/8) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#593](https://github.com/hyperledger/aries-rfcs/issues/593) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🗣 Commented on [#1007](https://github.com/hyperledger/aries-cloudagent-python/issues/1007) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. ❌ Closed PR [#591](https://github.com/hyperledger/aries-rfcs/pull/591) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#591](https://github.com/hyperledger/aries-rfcs/issues/591) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
