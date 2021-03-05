@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#51573](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/51573) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#51573](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51573) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ❗️ Closed issue [#38](https://github.com/hyperledger/aries-framework-javascript/issues/38) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript/issues/38) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#599](https://github.com/hyperledger/aries-rfcs/issues/599) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🗣 Commented on [#51573](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/51573) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#51573](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51573) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. ❗️ Closed issue [#38](https://github.com/hyperledger/aries-framework-javascript/issues/38) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript/issues/38) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
