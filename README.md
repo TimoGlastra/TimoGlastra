@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#196](https://github.com/hyperledger/aries-framework-javascript/issues/196) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#195](https://github.com/hyperledger/aries-framework-javascript/issues/195) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#194](https://github.com/hyperledger/aries-framework-javascript/issues/194) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#141](https://github.com/hyperledger/aries-framework-javascript/issues/141) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#141](https://github.com/hyperledger/aries-framework-javascript/issues/141) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1011](https://github.com/hyperledger/aries-cloudagent-python/issues/1011) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#41](https://github.com/AbsaOSS/rn-indy-sdk/issues/41) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+3. ❗️ Opened issue [#196](https://github.com/hyperledger/aries-framework-javascript/issues/196) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#195](https://github.com/hyperledger/aries-framework-javascript/issues/195) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#194](https://github.com/hyperledger/aries-framework-javascript/issues/194) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
