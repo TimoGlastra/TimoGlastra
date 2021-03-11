@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51685](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/51685) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#51685](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/51685) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🎉 Merged PR [#201](https://github.com/hyperledger/aries-framework-javascript/pull/201) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#77](https://github.com/hyperledger/aries-framework-javascript/issues/77) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#201](https://github.com/hyperledger/aries-framework-javascript/issues/201) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#203](https://github.com/hyperledger/aries-framework-javascript/issues/203) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#203](https://github.com/hyperledger/aries-framework-javascript/issues/203) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#45](https://github.com/AbsaOSS/rn-indy-sdk/issues/45) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+4. ❗️ Opened issue [#44](https://github.com/AbsaOSS/rn-indy-sdk/issues/44) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+5. ❗️ Opened issue [#43](https://github.com/AbsaOSS/rn-indy-sdk/issues/43) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
