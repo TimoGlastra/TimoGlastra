@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/w3c/did-spec-registries/issues/235) in [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries)
-2. 💪 Opened PR [#14](https://github.com/multiformats/py-multicodec/pull/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
-3. ❗️ Opened issue [#212](https://github.com/hyperledger/aries-framework-javascript/issues/212) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#210](https://github.com/hyperledger/aries-framework-javascript/pull/210) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#192](https://github.com/hyperledger/aries-framework-javascript/issues/192) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#20](https://github.com/AbsaOSS/rn-indy-sdk/issues/20) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+2. 🗣 Commented on [#20](https://github.com/AbsaOSS/rn-indy-sdk/issues/20) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+3. 🗣 Commented on [#235](https://github.com/w3c/did-spec-registries/issues/235) in [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries)
+4. 💪 Opened PR [#14](https://github.com/multiformats/py-multicodec/pull/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
+5. ❗️ Opened issue [#212](https://github.com/hyperledger/aries-framework-javascript/issues/212) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
