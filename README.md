@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#197](https://github.com/hyperledger/aries-agent-test-harness/issues/197) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#1033](https://github.com/hyperledger/aries-cloudagent-python/issues/1033) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#14](https://github.com/multiformats/py-multicodec/issues/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
+1. ❗️ Opened issue [#198](https://github.com/hyperledger/aries-agent-test-harness/issues/198) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Opened issue [#197](https://github.com/hyperledger/aries-agent-test-harness/issues/197) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#1033](https://github.com/hyperledger/aries-cloudagent-python/issues/1033) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 4. 🗣 Commented on [#14](https://github.com/multiformats/py-multicodec/issues/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
-5. 🗣 Commented on [#20](https://github.com/AbsaOSS/rn-indy-sdk/issues/20) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+5. 🗣 Commented on [#14](https://github.com/multiformats/py-multicodec/issues/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
 <!--END_SECTION:activity-->
 
 ---
