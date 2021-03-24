@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. ❗️ Opened issue [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🎉 Merged PR [#15](https://github.com/animo/aries-cloudagent-python/pull/15) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-5. 🗣 Commented on [#29](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/29) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 🗣 Commented on [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. ❗️ Opened issue [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🎉 Merged PR [#15](https://github.com/animo/aries-cloudagent-python/pull/15) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
