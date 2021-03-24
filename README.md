@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#200](https://github.com/hyperledger/aries-agent-test-harness/issues/200) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 💪 Opened PR [#201](https://github.com/hyperledger/aries-agent-test-harness/pull/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Opened issue [#200](https://github.com/hyperledger/aries-agent-test-harness/issues/200) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 3. 🗣 Commented on [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. ❗️ Opened issue [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. ❗️ Opened issue [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
