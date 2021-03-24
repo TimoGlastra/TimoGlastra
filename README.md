@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🎉 Merged PR [#15](https://github.com/animo/aries-cloudagent-python/pull/15) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-3. 🗣 Commented on [#29](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/29) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. ❗️ Opened issue [#199](https://github.com/hyperledger/aries-agent-test-harness/issues/199) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🎉 Merged PR [#15](https://github.com/animo/aries-cloudagent-python/pull/15) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
 4. 🗣 Commented on [#29](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/29) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#235](https://github.com/w3c/did-spec-registries/issues/235) in [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries)
+5. 🗣 Commented on [#29](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/29) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
