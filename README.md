@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/animo/aries-cloudagent-python/issues/19) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-2. ❗️ Opened issue [#18](https://github.com/animo/aries-cloudagent-python/issues/18) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-3. ❗️ Opened issue [#17](https://github.com/animo/aries-cloudagent-python/issues/17) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-4. ❗️ Opened issue [#16](https://github.com/animo/aries-cloudagent-python/issues/16) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-5. ❗️ Closed issue [#11](https://github.com/animo/aries-cloudagent-python/issues/11) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+1. 🎉 Merged PR [#220](https://github.com/hyperledger/aries-framework-javascript/pull/220) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#19](https://github.com/animo/aries-cloudagent-python/issues/19) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+3. ❗️ Opened issue [#18](https://github.com/animo/aries-cloudagent-python/issues/18) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+4. ❗️ Opened issue [#17](https://github.com/animo/aries-cloudagent-python/issues/17) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+5. ❗️ Opened issue [#16](https://github.com/animo/aries-cloudagent-python/issues/16) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
