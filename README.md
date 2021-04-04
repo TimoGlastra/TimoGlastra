@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/multiformats/py-multicodec/issues/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
-2. 🗣 Commented on [#222](https://github.com/hyperledger/aries-framework-javascript/issues/222) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#222](https://github.com/hyperledger/aries-framework-javascript/issues/222) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#196](https://github.com/hyperledger/aries-agent-test-harness/issues/196) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🗣 Commented on [#34](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/34) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 💪 Opened PR [#224](https://github.com/hyperledger/aries-framework-javascript/pull/224) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#14](https://github.com/multiformats/py-multicodec/issues/14) in [multiformats/py-multicodec](https://github.com/multiformats/py-multicodec)
+4. 🗣 Commented on [#222](https://github.com/hyperledger/aries-framework-javascript/issues/222) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#222](https://github.com/hyperledger/aries-framework-javascript/issues/222) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
