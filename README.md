@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/hyperledger/aries-framework-javascript/issues/228) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#228](https://github.com/hyperledger/aries-framework-javascript/issues/228) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#47](https://github.com/AbsaOSS/rn-indy-sdk/issues/47) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-4. 🗣 Commented on [#208](https://github.com/hyperledger/aries-agent-test-harness/issues/208) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#208](https://github.com/hyperledger/aries-agent-test-harness/issues/208) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🗣 Commented on [#1068](https://github.com/hyperledger/aries-cloudagent-python/issues/1068) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#209](https://github.com/hyperledger/aries-agent-test-harness/issues/209) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 💪 Opened PR [#209](https://github.com/hyperledger/aries-agent-test-harness/pull/209) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#228](https://github.com/hyperledger/aries-framework-javascript/issues/228) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#218](https://github.com/hyperledger/aries-framework-javascript/issues/218) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
