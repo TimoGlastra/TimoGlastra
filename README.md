@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1084](https://github.com/hyperledger/aries-cloudagent-python/issues/1084) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❗️ Opened issue [#1084](https://github.com/hyperledger/aries-cloudagent-python/issues/1084) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#628](https://github.com/hyperledger/aries-rfcs/issues/628) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#179](https://github.com/decentralized-identity/didcomm-messaging/issues/179) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-5. 💪 Opened PR [#236](https://github.com/hyperledger/aries-framework-javascript/pull/236) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Closed issue [#22](https://github.com/animo/aries-cloudagent-python/issues/22) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+2. ❗️ Closed issue [#16](https://github.com/animo/aries-cloudagent-python/issues/16) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+3. ❗️ Closed issue [#23](https://github.com/animo/aries-cloudagent-python/issues/23) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+4. 🗣 Commented on [#1084](https://github.com/hyperledger/aries-cloudagent-python/issues/1084) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. ❗️ Opened issue [#1084](https://github.com/hyperledger/aries-cloudagent-python/issues/1084) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
