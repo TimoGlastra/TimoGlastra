@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/hyperledger/aries-framework-javascript/issues/236) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#22](https://github.com/animo/aries-cloudagent-python/issues/22) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-3. ❗️ Closed issue [#16](https://github.com/animo/aries-cloudagent-python/issues/16) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-4. ❗️ Closed issue [#23](https://github.com/animo/aries-cloudagent-python/issues/23) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-5. 🗣 Commented on [#1084](https://github.com/hyperledger/aries-cloudagent-python/issues/1084) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#34](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/34) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#236](https://github.com/hyperledger/aries-framework-javascript/issues/236) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#236](https://github.com/hyperledger/aries-framework-javascript/issues/236) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
