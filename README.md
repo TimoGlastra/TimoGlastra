@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#244](https://github.com/hyperledger/aries-framework-javascript/pull/244) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#243](https://github.com/hyperledger/aries-framework-javascript/pull/243) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#242](https://github.com/hyperledger/aries-framework-javascript/pull/242) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#241](https://github.com/hyperledger/aries-framework-javascript/pull/241) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#240](https://github.com/hyperledger/aries-framework-javascript/issues/240) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Closed issue [#41](https://github.com/AbsaOSS/rn-indy-sdk/issues/41) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+2. 💪 Opened PR [#244](https://github.com/hyperledger/aries-framework-javascript/pull/244) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#243](https://github.com/hyperledger/aries-framework-javascript/pull/243) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#242](https://github.com/hyperledger/aries-framework-javascript/pull/242) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#241](https://github.com/hyperledger/aries-framework-javascript/pull/241) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
