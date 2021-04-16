@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#247](https://github.com/hyperledger/aries-framework-javascript/issues/247) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#246](https://github.com/hyperledger/aries-framework-javascript/pull/246) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#245](https://github.com/hyperledger/aries-framework-javascript/issues/245) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. ❗️ Closed issue [#41](https://github.com/AbsaOSS/rn-indy-sdk/issues/41) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. ❗️ Opened issue [#247](https://github.com/hyperledger/aries-framework-javascript/issues/247) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#246](https://github.com/hyperledger/aries-framework-javascript/pull/246) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#245](https://github.com/hyperledger/aries-framework-javascript/issues/245) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
