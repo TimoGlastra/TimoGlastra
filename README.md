@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#248](https://github.com/hyperledger/aries-framework-javascript/pull/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#248](https://github.com/hyperledger/aries-framework-javascript/issues/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. ❗️ Opened issue [#247](https://github.com/hyperledger/aries-framework-javascript/issues/247) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#246](https://github.com/hyperledger/aries-framework-javascript/pull/246) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#640](https://github.com/hyperledger/aries-rfcs/pull/640) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🎉 Merged PR [#248](https://github.com/hyperledger/aries-framework-javascript/pull/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#248](https://github.com/hyperledger/aries-framework-javascript/issues/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#39](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/39) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. ❗️ Opened issue [#247](https://github.com/hyperledger/aries-framework-javascript/issues/247) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
