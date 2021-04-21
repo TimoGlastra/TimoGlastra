@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/119) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
-2. 🗣 Commented on [#8](https://github.com/animo/awesome-self-sovereign-identity/issues/8) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-3. 💪 Opened PR [#640](https://github.com/hyperledger/aries-rfcs/pull/640) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🎉 Merged PR [#248](https://github.com/hyperledger/aries-framework-javascript/pull/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#248](https://github.com/hyperledger/aries-framework-javascript/issues/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. ❗️ Opened issue [#119](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/119) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
+3. 🗣 Commented on [#8](https://github.com/animo/awesome-self-sovereign-identity/issues/8) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+4. 💪 Opened PR [#640](https://github.com/hyperledger/aries-rfcs/pull/640) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🎉 Merged PR [#248](https://github.com/hyperledger/aries-framework-javascript/pull/248) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
