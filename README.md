@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. ❗️ Opened issue [#119](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/119) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
-5. 🗣 Commented on [#8](https://github.com/animo/awesome-self-sovereign-identity/issues/8) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#598](https://github.com/hyperledger/aries-rfcs/issues/598) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. ❗️ Opened issue [#119](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/119) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
 <!--END_SECTION:activity-->
 
 ---
