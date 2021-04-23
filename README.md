@@ -18,9 +18,9 @@ Github language stats
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 2. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#9](https://github.com/animo/awesome-self-sovereign-identity/pull/9) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-4. 🗣 Commented on [#10](https://github.com/w3c-ccg/ldp-bbs2020/issues/10) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
-5. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#9](https://github.com/animo/awesome-self-sovereign-identity/pull/9) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+5. 🗣 Commented on [#10](https://github.com/w3c-ccg/ldp-bbs2020/issues/10) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
 <!--END_SECTION:activity-->
 
 ---
