@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#726](https://github.com/w3c/vc-data-model/issues/726) in [w3c/vc-data-model](https://github.com/w3c/vc-data-model)
-2. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#22](https://github.com/json-ld/rdf-dataset-canonicalization/issues/22) in [json-ld/rdf-dataset-canonicalization](https://github.com/json-ld/rdf-dataset-canonicalization)
+2. 🗣 Commented on [#726](https://github.com/w3c/vc-data-model/issues/726) in [w3c/vc-data-model](https://github.com/w3c/vc-data-model)
 3. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#9](https://github.com/animo/awesome-self-sovereign-identity/pull/9) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+5. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
