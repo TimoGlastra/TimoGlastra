@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❗️ Closed issue [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. ❗️ Opened issue [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. ❗️ Closed issue [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. ❗️ Opened issue [#1123](https://github.com/hyperledger/aries-cloudagent-python/issues/1123) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 5. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
