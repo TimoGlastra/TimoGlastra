@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#45](https://github.com/w3c-ccg/ldp-bbs2020/issues/45) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
+1. 🎉 Merged PR [#11](https://github.com/animo/awesome-self-sovereign-identity/pull/11) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 3. 🗣 Commented on [#45](https://github.com/w3c-ccg/ldp-bbs2020/issues/45) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
-4. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 💪 Opened PR [#646](https://github.com/hyperledger/aries-rfcs/pull/646) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#45](https://github.com/w3c-ccg/ldp-bbs2020/issues/45) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
+5. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
