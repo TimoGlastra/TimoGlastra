@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❗️ Closed issue [#18](https://github.com/animo/aries-cloudagent-python/issues/18) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
-3. 💪 Opened PR [#120](https://github.com/mattrglobal/jsonld-signatures-bbs/pull/120) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
-4. 🎉 Merged PR [#252](https://github.com/hyperledger/aries-framework-javascript/pull/252) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#249](https://github.com/hyperledger/aries-framework-javascript/issues/249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1061](https://github.com/hyperledger/aries-cloudagent-python/issues/1061) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. ❗️ Closed issue [#18](https://github.com/animo/aries-cloudagent-python/issues/18) in [animo/aries-cloudagent-python](https://github.com/animo/aries-cloudagent-python)
+4. 💪 Opened PR [#120](https://github.com/mattrglobal/jsonld-signatures-bbs/pull/120) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
+5. 🎉 Merged PR [#252](https://github.com/hyperledger/aries-framework-javascript/pull/252) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
