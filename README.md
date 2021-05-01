@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#254](https://github.com/hyperledger/aries-framework-javascript/issues/254) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#254](https://github.com/hyperledger/aries-framework-javascript/pull/254) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#224](https://github.com/hyperledger/aries-agent-test-harness/issues/224) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 💪 Opened PR [#1129](https://github.com/hyperledger/aries-cloudagent-python/pull/1129) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#1128](https://github.com/hyperledger/aries-cloudagent-python/issues/1128) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#233](https://github.com/hyperledger/aries-framework-javascript/issues/233) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#254](https://github.com/hyperledger/aries-framework-javascript/issues/254) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#254](https://github.com/hyperledger/aries-framework-javascript/pull/254) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#224](https://github.com/hyperledger/aries-agent-test-harness/issues/224) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 💪 Opened PR [#1129](https://github.com/hyperledger/aries-cloudagent-python/pull/1129) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
