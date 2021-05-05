@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#257](https://github.com/hyperledger/aries-framework-javascript/issues/257) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1034](https://github.com/hyperledger/aries-cloudagent-python/issues/1034) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 💪 Opened PR [#1150](https://github.com/hyperledger/aries-cloudagent-python/pull/1150) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#1149](https://github.com/hyperledger/aries-cloudagent-python/issues/1149) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. ❗️ Opened issue [#1149](https://github.com/hyperledger/aries-cloudagent-python/issues/1149) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#1148](https://github.com/hyperledger/aries-cloudagent-python/issues/1148) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#1150](https://github.com/hyperledger/aries-cloudagent-python/issues/1150) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#257](https://github.com/hyperledger/aries-framework-javascript/issues/257) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1034](https://github.com/hyperledger/aries-cloudagent-python/issues/1034) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#1150](https://github.com/hyperledger/aries-cloudagent-python/pull/1150) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
