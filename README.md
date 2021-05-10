@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/41) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#41](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/41) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#1144](https://github.com/hyperledger/aries-cloudagent-python/issues/1144) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Closed issue [#1144](https://github.com/hyperledger/aries-cloudagent-python/issues/1144) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 3. 🗣 Commented on [#41](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/41) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 4. 🗣 Commented on [#41](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/41) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#234](https://github.com/hyperledger/aries-framework-javascript/issues/234) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#41](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/41) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
