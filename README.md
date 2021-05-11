@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/hyperledger/aries-framework-javascript/issues/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#262](https://github.com/hyperledger/aries-framework-javascript/pull/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#55](https://github.com/w3c-ccg/ldp-bbs2020/pull/55) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
-5. 💪 Opened PR [#261](https://github.com/hyperledger/aries-framework-javascript/pull/261) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#25](https://github.com/AbsaOSS/rn-indy-sdk/issues/25) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+2. 🗣 Commented on [#262](https://github.com/hyperledger/aries-framework-javascript/issues/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#262](https://github.com/hyperledger/aries-framework-javascript/pull/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#55](https://github.com/w3c-ccg/ldp-bbs2020/pull/55) in [w3c-ccg/ldp-bbs2020](https://github.com/w3c-ccg/ldp-bbs2020)
 <!--END_SECTION:activity-->
 
 ---
