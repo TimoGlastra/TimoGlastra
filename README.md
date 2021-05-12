@@ -18,9 +18,9 @@ Github language stats
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#652](https://github.com/hyperledger/aries-rfcs/issues/652) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 2. 🗣 Commented on [#652](https://github.com/hyperledger/aries-rfcs/issues/652) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#263](https://github.com/hyperledger/aries-framework-javascript/issues/263) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#262](https://github.com/hyperledger/aries-framework-javascript/issues/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1165](https://github.com/hyperledger/aries-cloudagent-python/issues/1165) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#652](https://github.com/hyperledger/aries-rfcs/issues/652) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#263](https://github.com/hyperledger/aries-framework-javascript/issues/263) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#262](https://github.com/hyperledger/aries-framework-javascript/issues/262) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
