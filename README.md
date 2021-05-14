@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#217](https://github.com/hyperledger/aries-framework-javascript/issues/217) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#267](https://github.com/hyperledger/aries-framework-javascript/pull/267) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#270](https://github.com/hyperledger/aries-framework-javascript/issues/270) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#268](https://github.com/hyperledger/aries-framework-javascript/issues/268) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#269](https://github.com/hyperledger/aries-framework-javascript/pull/269) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#271](https://github.com/hyperledger/aries-framework-javascript/issues/271) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#2346](https://github.com/hyperledger/indy-sdk/issues/2346) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+3. ❗️ Closed issue [#217](https://github.com/hyperledger/aries-framework-javascript/issues/217) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#267](https://github.com/hyperledger/aries-framework-javascript/pull/267) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#270](https://github.com/hyperledger/aries-framework-javascript/issues/270) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
