@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#284](https://github.com/hyperledger/aries-framework-javascript/pull/284) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#266](https://github.com/hyperledger/aries-framework-javascript/pull/266) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#233](https://github.com/hyperledger/aries-agent-test-harness/pull/233) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🎉 Merged PR [#285](https://github.com/hyperledger/aries-framework-javascript/pull/285) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#7](https://github.com/tradle/react-native-passport-reader/issues/7) in [tradle/react-native-passport-reader](https://github.com/tradle/react-native-passport-reader)
+2. 🎉 Merged PR [#284](https://github.com/hyperledger/aries-framework-javascript/pull/284) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#266](https://github.com/hyperledger/aries-framework-javascript/pull/266) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#233](https://github.com/hyperledger/aries-agent-test-harness/pull/233) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
