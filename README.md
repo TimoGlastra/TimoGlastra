@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#1217](https://github.com/hyperledger/aries-cloudagent-python/issues/1217) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🎉 Merged PR [#300](https://github.com/hyperledger/aries-framework-javascript/pull/300) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#263](https://github.com/hyperledger/aries-framework-javascript/pull/263) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#53551](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53551) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-cloudagent-python/issues/1125) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#1217](https://github.com/hyperledger/aries-cloudagent-python/issues/1217) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🎉 Merged PR [#300](https://github.com/hyperledger/aries-framework-javascript/pull/300) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#263](https://github.com/hyperledger/aries-framework-javascript/pull/263) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
