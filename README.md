@@ -18,9 +18,9 @@ Github language stats
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
 2. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
-3. 🗣 Commented on [#268](https://github.com/hyperledger/aries-framework-javascript/issues/268) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#306](https://github.com/hyperledger/aries-framework-javascript/issues/306) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#305](https://github.com/hyperledger/aries-framework-javascript/issues/305) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
+4. 🗣 Commented on [#268](https://github.com/hyperledger/aries-framework-javascript/issues/268) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#306](https://github.com/hyperledger/aries-framework-javascript/issues/306) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
