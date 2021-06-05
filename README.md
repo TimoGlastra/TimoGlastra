@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/hyperledger/aries-framework-javascript/issues/268) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
-3. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
-4. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
-5. 🗣 Commented on [#296](https://github.com/sovrin-foundation/sovrin/issues/296) in [sovrin-foundation/sovrin](https://github.com/sovrin-foundation/sovrin)
+1. 🗣 Commented on [#303](https://github.com/hyperledger/aries-framework-javascript/issues/303) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#308](https://github.com/hyperledger/aries-framework-javascript/issues/308) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#303](https://github.com/hyperledger/aries-framework-javascript/issues/303) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❌ Closed PR [#2](https://github.com/animo/aries-framework-javascript/pull/2) in [animo/aries-framework-javascript](https://github.com/animo/aries-framework-javascript)
+5. 🗣 Commented on [#268](https://github.com/hyperledger/aries-framework-javascript/issues/268) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
