@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#313](https://github.com/hyperledger/aries-framework-javascript/pull/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#312](https://github.com/hyperledger/aries-framework-javascript/pull/312) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#311](https://github.com/hyperledger/aries-framework-javascript/pull/311) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#210](https://github.com/hyperledger/aries-toolbox/issues/210) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-5. 🗣 Commented on [#207](https://github.com/hyperledger/aries-toolbox/issues/207) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+1. ❗️ Opened issue [#314](https://github.com/hyperledger/aries-framework-javascript/issues/314) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1](https://github.com/animo/indy-nodejs-docker/issues/1) in [animo/indy-nodejs-docker](https://github.com/animo/indy-nodejs-docker)
+3. 💪 Opened PR [#313](https://github.com/hyperledger/aries-framework-javascript/pull/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#312](https://github.com/hyperledger/aries-framework-javascript/pull/312) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#311](https://github.com/hyperledger/aries-framework-javascript/pull/311) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
