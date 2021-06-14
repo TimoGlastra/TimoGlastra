@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/hyperledger/aries-agent-test-harness/issues/256) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#1242](https://github.com/hyperledger/aries-cloudagent-python/issues/1242) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❗️ Opened issue [#1244](https://github.com/hyperledger/aries-cloudagent-python/issues/1244) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#256](https://github.com/hyperledger/aries-agent-test-harness/issues/256) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 3. 🗣 Commented on [#1242](https://github.com/hyperledger/aries-cloudagent-python/issues/1242) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#256](https://github.com/hyperledger/aries-agent-test-harness/issues/256) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. ❗️ Opened issue [#22](https://github.com/w3c-ccg/vaccination-vocab/issues/22) in [w3c-ccg/vaccination-vocab](https://github.com/w3c-ccg/vaccination-vocab)
+4. 🗣 Commented on [#1242](https://github.com/hyperledger/aries-cloudagent-python/issues/1242) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#256](https://github.com/hyperledger/aries-agent-test-harness/issues/256) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
