@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#328](https://github.com/hyperledger/aries-framework-javascript/pull/328) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#323](https://github.com/hyperledger/aries-framework-javascript/pull/323) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#281](https://github.com/microsoft/DefinitelyTyped-tools/pull/281) in [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools)
-4. 💪 Opened PR [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#326](https://github.com/hyperledger/aries-framework-javascript/issues/326) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#327](https://github.com/hyperledger/aries-framework-javascript/issues/327) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#327](https://github.com/hyperledger/aries-framework-javascript/issues/327) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#328](https://github.com/hyperledger/aries-framework-javascript/pull/328) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#323](https://github.com/hyperledger/aries-framework-javascript/pull/323) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
