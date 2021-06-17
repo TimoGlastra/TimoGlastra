@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#281](https://github.com/microsoft/DefinitelyTyped-tools/pull/281) in [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools)
-2. 💪 Opened PR [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🗣 Commented on [#326](https://github.com/hyperledger/aries-framework-javascript/issues/326) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#259](https://github.com/hyperledger/aries-agent-test-harness/issues/259) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 💪 Opened PR [#53862](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53862) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🎉 Merged PR [#323](https://github.com/hyperledger/aries-framework-javascript/pull/323) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#281](https://github.com/microsoft/DefinitelyTyped-tools/pull/281) in [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools)
+3. 💪 Opened PR [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🗣 Commented on [#326](https://github.com/hyperledger/aries-framework-javascript/issues/326) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#259](https://github.com/hyperledger/aries-agent-test-harness/issues/259) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
