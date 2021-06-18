@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1420](https://github.com/software-mansion/react-native-gesture-handler/issues/1420) in [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
-2. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🗣 Commented on [#327](https://github.com/hyperledger/aries-framework-javascript/issues/327) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#327](https://github.com/hyperledger/aries-framework-javascript/issues/327) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#328](https://github.com/hyperledger/aries-framework-javascript/pull/328) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#281](https://github.com/microsoft/DefinitelyTyped-tools/issues/281) in [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools)
+2. 🗣 Commented on [#53862](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53862) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 🗣 Commented on [#1420](https://github.com/software-mansion/react-native-gesture-handler/issues/1420) in [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler)
+4. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🗣 Commented on [#327](https://github.com/hyperledger/aries-framework-javascript/issues/327) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
