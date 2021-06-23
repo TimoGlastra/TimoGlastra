@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/decentralized-identity/waci-presentation-exchange/issues/54) in [decentralized-identity/waci-presentation-exchange](https://github.com/decentralized-identity/waci-presentation-exchange)
-2. 💪 Opened PR [#683](https://github.com/hyperledger/aries-rfcs/pull/683) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#313](https://github.com/hyperledger/aries-framework-javascript/issues/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#928](https://github.com/hyperledger/aries-cloudagent-python/issues/928) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#234](https://github.com/hyperledger/aries-framework-javascript/issues/234) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#4748](https://github.com/OpenAPITools/openapi-generator/issues/4748) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+2. 🗣 Commented on [#54](https://github.com/decentralized-identity/waci-presentation-exchange/issues/54) in [decentralized-identity/waci-presentation-exchange](https://github.com/decentralized-identity/waci-presentation-exchange)
+3. 💪 Opened PR [#683](https://github.com/hyperledger/aries-rfcs/pull/683) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#313](https://github.com/hyperledger/aries-framework-javascript/issues/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#928](https://github.com/hyperledger/aries-cloudagent-python/issues/928) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
