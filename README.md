@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1259](https://github.com/hyperledger/aries-cloudagent-python/pull/1259) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❗️ Closed issue [#258](https://github.com/hyperledger/aries-framework-javascript/issues/258) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#313](https://github.com/hyperledger/aries-framework-javascript/pull/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#290](https://github.com/hyperledger/aries-framework-javascript/issues/290) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#4748](https://github.com/OpenAPITools/openapi-generator/issues/4748) in [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator)
+1. 🗣 Commented on [#57](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/57) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 🗣 Commented on [#1261](https://github.com/hyperledger/aries-cloudagent-python/issues/1261) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 💪 Opened PR [#1259](https://github.com/hyperledger/aries-cloudagent-python/pull/1259) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. ❗️ Closed issue [#258](https://github.com/hyperledger/aries-framework-javascript/issues/258) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#313](https://github.com/hyperledger/aries-framework-javascript/pull/313) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
