@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#331](https://github.com/hyperledger/aries-framework-javascript/pull/331) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#16](https://github.com/animo/awesome-self-sovereign-identity/pull/16) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-3. 🎉 Merged PR [#17](https://github.com/animo/awesome-self-sovereign-identity/pull/17) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-4. 🗣 Commented on [#17](https://github.com/animo/awesome-self-sovereign-identity/issues/17) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-5. 🗣 Commented on [#57](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/57) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#686](https://github.com/hyperledger/aries-rfcs/issues/686) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 💪 Opened PR [#331](https://github.com/hyperledger/aries-framework-javascript/pull/331) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#16](https://github.com/animo/awesome-self-sovereign-identity/pull/16) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+4. 🎉 Merged PR [#17](https://github.com/animo/awesome-self-sovereign-identity/pull/17) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+5. 🗣 Commented on [#17](https://github.com/animo/awesome-self-sovereign-identity/issues/17) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
 <!--END_SECTION:activity-->
 
 ---
