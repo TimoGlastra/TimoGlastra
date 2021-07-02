@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/hyperledger/aries-framework-javascript/issues/336) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#683](https://github.com/hyperledger/aries-rfcs/issues/683) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. ❗️ Closed issue [#59](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/59) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. 🎉 Merged PR [#339](https://github.com/hyperledger/aries-framework-javascript/pull/339) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#341](https://github.com/hyperledger/aries-framework-javascript/issues/341) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#336](https://github.com/hyperledger/aries-framework-javascript/issues/336) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#683](https://github.com/hyperledger/aries-rfcs/issues/683) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
