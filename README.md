@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#271](https://github.com/hyperledger/aries-framework-javascript/issues/271) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#271](https://github.com/hyperledger/aries-framework-javascript/issues/271) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#141](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/141) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
-4. 🗣 Commented on [#342](https://github.com/hyperledger/aries-framework-javascript/issues/342) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#58](https://github.com/AbsaOSS/rn-indy-sdk/issues/58) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
+1. ❗️ Opened issue [#351](https://github.com/hyperledger/aries-framework-javascript/issues/351) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#350](https://github.com/hyperledger/aries-framework-javascript/issues/350) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#348](https://github.com/hyperledger/aries-framework-javascript/issues/348) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#347](https://github.com/hyperledger/aries-framework-javascript/issues/347) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
