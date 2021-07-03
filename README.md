@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/141) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
-2. 🗣 Commented on [#342](https://github.com/hyperledger/aries-framework-javascript/issues/342) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#58](https://github.com/AbsaOSS/rn-indy-sdk/issues/58) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
-4. 💪 Opened PR [#342](https://github.com/hyperledger/aries-framework-javascript/pull/342) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. ❗️ Closed issue [#271](https://github.com/hyperledger/aries-framework-javascript/issues/271) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#271](https://github.com/hyperledger/aries-framework-javascript/issues/271) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#141](https://github.com/mattrglobal/jsonld-signatures-bbs/issues/141) in [mattrglobal/jsonld-signatures-bbs](https://github.com/mattrglobal/jsonld-signatures-bbs)
+4. 🗣 Commented on [#342](https://github.com/hyperledger/aries-framework-javascript/issues/342) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#58](https://github.com/AbsaOSS/rn-indy-sdk/issues/58) in [AbsaOSS/rn-indy-sdk](https://github.com/AbsaOSS/rn-indy-sdk)
 <!--END_SECTION:activity-->
 
 ---
