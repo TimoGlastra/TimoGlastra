@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1294](https://github.com/hyperledger/aries-cloudagent-python/issues/1294) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#272](https://github.com/hyperledger/aries-agent-test-harness/issues/272) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#76](https://github.com/hyperledger/aries-acapy-plugin-toolbox/issues/76) in [hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)
-4. ❗️ Opened issue [#76](https://github.com/hyperledger/aries-acapy-plugin-toolbox/issues/76) in [hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)
-5. ❗️ Opened issue [#365](https://github.com/hyperledger/aries-framework-javascript/issues/365) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#331](https://github.com/hyperledger/aries-framework-javascript/pull/331) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#314](https://github.com/hyperledger/aries-framework-javascript/issues/314) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1294](https://github.com/hyperledger/aries-cloudagent-python/issues/1294) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#272](https://github.com/hyperledger/aries-agent-test-harness/issues/272) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🗣 Commented on [#76](https://github.com/hyperledger/aries-acapy-plugin-toolbox/issues/76) in [hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)
 <!--END_SECTION:activity-->
 
 ---
