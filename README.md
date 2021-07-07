@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#57](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/57) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 💪 Opened PR [#54348](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54348) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ❌ Closed PR [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#54347](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54347) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 💪 Opened PR [#61](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/61) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 💪 Opened PR [#368](https://github.com/hyperledger/aries-framework-javascript/pull/368) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❌ Closed PR [#57](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/57) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 💪 Opened PR [#54348](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54348) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. ❌ Closed PR [#53890](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/53890) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 💪 Opened PR [#54347](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54347) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
