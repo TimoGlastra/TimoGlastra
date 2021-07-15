@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#382](https://github.com/hyperledger/aries-framework-javascript/issues/382) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#380](https://github.com/hyperledger/aries-framework-javascript/issues/380) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#381](https://github.com/hyperledger/aries-framework-javascript/issues/381) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#1](https://github.com/blu3beri/aries-agent-test-harness/pull/1) in [blu3beri/aries-agent-test-harness](https://github.com/blu3beri/aries-agent-test-harness)
-5. 🗣 Commented on [#359](https://github.com/hyperledger/aries-framework-javascript/issues/359) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#3](https://github.com/hyperledger/indy-sdk-react-native/pull/3) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. ❗️ Opened issue [#382](https://github.com/hyperledger/aries-framework-javascript/issues/382) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#380](https://github.com/hyperledger/aries-framework-javascript/issues/380) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#381](https://github.com/hyperledger/aries-framework-javascript/issues/381) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#1](https://github.com/blu3beri/aries-agent-test-harness/pull/1) in [blu3beri/aries-agent-test-harness](https://github.com/blu3beri/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
