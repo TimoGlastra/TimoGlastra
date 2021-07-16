@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#386](https://github.com/hyperledger/aries-framework-javascript/pull/386) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❌ Closed PR [#54556](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54556) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🗣 Commented on [#54556](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/54556) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#54556](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54556) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. ❗️ Opened issue [#64](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/64) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. ❗️ Opened issue [#389](https://github.com/hyperledger/aries-framework-javascript/issues/389) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#60](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/60) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 🎉 Merged PR [#387](https://github.com/hyperledger/aries-framework-javascript/pull/387) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#388](https://github.com/hyperledger/aries-framework-javascript/pull/388) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#387](https://github.com/hyperledger/aries-framework-javascript/pull/387) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
