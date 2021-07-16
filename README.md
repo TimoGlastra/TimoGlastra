@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#202](https://github.com/hyperledger/aries-toolbox/issues/202) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-2. 🗣 Commented on [#382](https://github.com/hyperledger/aries-framework-javascript/issues/382) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#202](https://github.com/hyperledger/aries-toolbox/issues/202) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-4. ❗️ Closed issue [#73](https://github.com/hyperledger/aries-acapy-plugin-toolbox/issues/73) in [hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)
-5. 🗣 Commented on [#73](https://github.com/hyperledger/aries-acapy-plugin-toolbox/issues/73) in [hyperledger/aries-acapy-plugin-toolbox](https://github.com/hyperledger/aries-acapy-plugin-toolbox)
+1. 🗣 Commented on [#222](https://github.com/hyperledger/aries-toolbox/issues/222) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+2. ❗️ Closed issue [#222](https://github.com/hyperledger/aries-toolbox/issues/222) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+3. 🗣 Commented on [#222](https://github.com/hyperledger/aries-toolbox/issues/222) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+4. ❗️ Opened issue [#222](https://github.com/hyperledger/aries-toolbox/issues/222) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+5. 🗣 Commented on [#202](https://github.com/hyperledger/aries-toolbox/issues/202) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
 <!--END_SECTION:activity-->
 
 ---
