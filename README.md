@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/hyperledger/indy-sdk-react-native/issues/3) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. 🎉 Merged PR [#390](https://github.com/hyperledger/aries-framework-javascript/pull/390) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#388](https://github.com/hyperledger/aries-framework-javascript/issues/388) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#388](https://github.com/hyperledger/aries-framework-javascript/issues/388) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#397](https://github.com/hyperledger/aries-framework-javascript/pull/397) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#12](https://github.com/hyperledger/indy-sdk-react-native/issues/12) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🗣 Commented on [#359](https://github.com/hyperledger/aries-framework-javascript/issues/359) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#384](https://github.com/hyperledger/aries-framework-javascript/issues/384) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#384](https://github.com/hyperledger/aries-framework-javascript/issues/384) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#3](https://github.com/hyperledger/indy-sdk-react-native/issues/3) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
