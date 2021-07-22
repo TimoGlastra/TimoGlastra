@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#300](https://github.com/hyperledger/aries-agent-test-harness/issues/300) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🎉 Merged PR [#301](https://github.com/hyperledger/aries-agent-test-harness/pull/301) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🎉 Merged PR [#402](https://github.com/hyperledger/aries-framework-javascript/pull/402) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#259](https://github.com/hyperledger/aries-agent-test-harness/issues/259) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🎉 Merged PR [#300](https://github.com/hyperledger/aries-agent-test-harness/pull/300) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#300](https://github.com/hyperledger/aries-agent-test-harness/issues/300) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🎉 Merged PR [#301](https://github.com/hyperledger/aries-agent-test-harness/pull/301) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🎉 Merged PR [#402](https://github.com/hyperledger/aries-framework-javascript/pull/402) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#259](https://github.com/hyperledger/aries-agent-test-harness/issues/259) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
