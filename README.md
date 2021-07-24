@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-framework-javascript/pull/407) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#406](https://github.com/hyperledger/aries-framework-javascript/pull/406) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#405](https://github.com/hyperledger/aries-framework-javascript/pull/405) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#359](https://github.com/hyperledger/aries-framework-javascript/pull/359) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#377](https://github.com/hyperledger/aries-framework-javascript/issues/377) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#10](https://github.com/animo/aries-mobile-agent-react-native/pull/10) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+2. 💪 Opened PR [#10](https://github.com/animo/aries-mobile-agent-react-native/pull/10) in [animo/aries-mobile-agent-react-native](https://github.com/animo/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#641](https://github.com/hyperledger/aries-rfcs/issues/641) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-framework-javascript/pull/407) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#406](https://github.com/hyperledger/aries-framework-javascript/pull/406) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
