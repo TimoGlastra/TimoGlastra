@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#413](https://github.com/hyperledger/aries-framework-javascript/pull/413) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#181](https://github.com/hyperledger/aries-toolbox/issues/181) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-3. ❗️ Opened issue [#227](https://github.com/hyperledger/aries-toolbox/issues/227) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-4. 💪 Opened PR [#226](https://github.com/hyperledger/aries-toolbox/pull/226) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-5. 🗣 Commented on [#404](https://github.com/hyperledger/aries-framework-javascript/issues/404) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#212](https://github.com/decentralized-identity/presentation-exchange/issues/212) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+2. 🎉 Merged PR [#413](https://github.com/hyperledger/aries-framework-javascript/pull/413) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#181](https://github.com/hyperledger/aries-toolbox/issues/181) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+4. ❗️ Opened issue [#227](https://github.com/hyperledger/aries-toolbox/issues/227) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
+5. 💪 Opened PR [#226](https://github.com/hyperledger/aries-toolbox/pull/226) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
 <!--END_SECTION:activity-->
 
 ---
