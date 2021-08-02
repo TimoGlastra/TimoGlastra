@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#415](https://github.com/hyperledger/aries-framework-javascript/issues/415) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#414](https://github.com/hyperledger/aries-framework-javascript/issues/414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#2346](https://github.com/hyperledger/indy-sdk/issues/2346) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
-4. 🎉 Merged PR [#408](https://github.com/hyperledger/aries-framework-javascript/pull/408) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#212](https://github.com/decentralized-identity/presentation-exchange/issues/212) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+1. 🗣 Commented on [#310](https://github.com/hyperledger/aries-agent-test-harness/issues/310) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Opened issue [#415](https://github.com/hyperledger/aries-framework-javascript/issues/415) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#414](https://github.com/hyperledger/aries-framework-javascript/issues/414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#2346](https://github.com/hyperledger/indy-sdk/issues/2346) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+5. 🎉 Merged PR [#408](https://github.com/hyperledger/aries-framework-javascript/pull/408) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
