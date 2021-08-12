@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2382](https://github.com/hyperledger/indy-sdk/issues/2382) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
-2. 🎉 Merged PR [#414](https://github.com/hyperledger/aries-framework-javascript/pull/414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#396](https://github.com/hyperledger/aries-framework-javascript/pull/396) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#330](https://github.com/hyperledger/aries-framework-javascript/issues/330) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#53](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/53) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. ❗️ Opened issue [#423](https://github.com/hyperledger/aries-framework-javascript/issues/423) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#2382](https://github.com/hyperledger/indy-sdk/issues/2382) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+3. 🎉 Merged PR [#414](https://github.com/hyperledger/aries-framework-javascript/pull/414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#396](https://github.com/hyperledger/aries-framework-javascript/pull/396) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#330](https://github.com/hyperledger/aries-framework-javascript/issues/330) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
