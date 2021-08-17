@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
-2. 🎉 Merged PR [#1352](https://github.com/hyperledger/aries-cloudagent-python/pull/1352) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#17](https://github.com/hyperledger/indy-sdk-react-native/issues/17) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 🗣 Commented on [#17](https://github.com/hyperledger/indy-sdk-react-native/issues/17) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. 🎉 Merged PR [#16](https://github.com/hyperledger/indy-sdk-react-native/pull/16) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 💪 Opened PR [#74](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/74) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
+5. 🎉 Merged PR [#1352](https://github.com/hyperledger/aries-cloudagent-python/pull/1352) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
