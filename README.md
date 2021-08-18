@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#426](https://github.com/hyperledger/aries-framework-javascript/issues/426) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-3. 💪 Opened PR [#74](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/74) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
+1. 🗣 Commented on [#419](https://github.com/hyperledger/aries-framework-javascript/issues/419) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#426](https://github.com/hyperledger/aries-framework-javascript/issues/426) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. 💪 Opened PR [#74](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/74) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#70](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/70) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
