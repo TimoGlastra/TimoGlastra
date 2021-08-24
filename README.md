@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-cloudagent-python/issues/1372) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#426](https://github.com/hyperledger/aries-framework-javascript/issues/426) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
+1. 💪 Opened PR [#98](https://github.com/didx-xyz/aries-cloudapi-python/pull/98) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-cloudagent-python/issues/1372) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#426](https://github.com/hyperledger/aries-framework-javascript/issues/426) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
-5. 🎉 Merged PR [#1](https://github.com/didx-xyz/openapi-generator/pull/1) in [didx-xyz/openapi-generator](https://github.com/didx-xyz/openapi-generator)
+5. 🗣 Commented on [#110](https://github.com/prkumar/uplink/issues/110) in [prkumar/uplink](https://github.com/prkumar/uplink)
 <!--END_SECTION:activity-->
 
 ---
