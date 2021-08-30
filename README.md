@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#443](https://github.com/hyperledger/aries-framework-javascript/pull/443) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#3](https://github.com/hyperledger/aries-framework-javascript-ext/issues/3) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#3](https://github.com/hyperledger/aries-framework-javascript-ext/issues/3) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 💪 Opened PR [#445](https://github.com/hyperledger/aries-framework-javascript/pull/445) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#444](https://github.com/hyperledger/aries-framework-javascript/pull/444) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#443](https://github.com/hyperledger/aries-framework-javascript/pull/443) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#3](https://github.com/hyperledger/aries-framework-javascript-ext/issues/3) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#2](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/2) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
+5. 🗣 Commented on [#3](https://github.com/hyperledger/aries-framework-javascript-ext/issues/3) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
