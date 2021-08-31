@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#445](https://github.com/hyperledger/aries-framework-javascript/pull/445) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#443](https://github.com/hyperledger/aries-framework-javascript/pull/443) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#1031](https://github.com/googleapis/release-please/issues/1031) in [googleapis/release-please](https://github.com/googleapis/release-please)
-4. 🎉 Merged PR [#5](https://github.com/hyperledger/aries-framework-javascript-ext/pull/5) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 💪 Opened PR [#5](https://github.com/hyperledger/aries-framework-javascript-ext/pull/5) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 💪 Opened PR [#448](https://github.com/hyperledger/aries-framework-javascript/pull/448) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#447](https://github.com/hyperledger/aries-framework-javascript/pull/447) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#446](https://github.com/hyperledger/aries-framework-javascript/pull/446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#445](https://github.com/hyperledger/aries-framework-javascript/pull/445) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#443](https://github.com/hyperledger/aries-framework-javascript/pull/443) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
