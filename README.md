@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#451](https://github.com/hyperledger/aries-framework-javascript/issues/451) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
-3. 🗣 Commented on [#1031](https://github.com/googleapis/release-please/issues/1031) in [googleapis/release-please](https://github.com/googleapis/release-please)
-4. 💪 Opened PR [#1033](https://github.com/googleapis/release-please/pull/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
-5. 🎉 Merged PR [#450](https://github.com/hyperledger/aries-framework-javascript/pull/450) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#446](https://github.com/hyperledger/aries-framework-javascript/pull/446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#451](https://github.com/hyperledger/aries-framework-javascript/issues/451) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
+4. 🗣 Commented on [#1031](https://github.com/googleapis/release-please/issues/1031) in [googleapis/release-please](https://github.com/googleapis/release-please)
+5. 💪 Opened PR [#1033](https://github.com/googleapis/release-please/pull/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
 <!--END_SECTION:activity-->
 
 ---
