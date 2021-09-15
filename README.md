@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#456](https://github.com/hyperledger/aries-framework-javascript/pull/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#456](https://github.com/hyperledger/aries-framework-javascript/issues/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
+1. ❗️ Closed issue [#55](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/55) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+2. 🎉 Merged PR [#456](https://github.com/hyperledger/aries-framework-javascript/pull/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#456](https://github.com/hyperledger/aries-framework-javascript/issues/456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
-5. 🗣 Commented on [#1384](https://github.com/hyperledger/aries-cloudagent-python/issues/1384) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
 <!--END_SECTION:activity-->
 
 ---
