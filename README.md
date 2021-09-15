@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#62](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/62) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-2. ❗️ Closed issue [#60](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/60) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-3. ❗️ Closed issue [#61](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/61) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-4. ❗️ Closed issue [#59](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/59) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-5. 🗣 Commented on [#59](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/59) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+1. 🗣 Commented on [#453](https://github.com/hyperledger/aries-framework-javascript/issues/453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#452](https://github.com/hyperledger/aries-framework-javascript/issues/452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#18](https://github.com/hyperledger/aries-framework-javascript-ext/pull/18) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❗️ Closed issue [#62](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/62) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+5. ❗️ Closed issue [#60](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/60) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
 <!--END_SECTION:activity-->
 
 ---
