@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/5) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
-2. 🎉 Merged PR [#4](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/4) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
-3. 🗣 Commented on [#4](https://github.com/TimoGlastra/aries-framework-javascript-ext/issues/4) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
-4. 💪 Opened PR [#4](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/4) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#3](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/3) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#10](https://github.com/hyperledger/aries-framework-javascript-ext/pull/10) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#19](https://github.com/hyperledger/aries-framework-javascript-ext/pull/19) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 💪 Opened PR [#22](https://github.com/hyperledger/aries-framework-javascript-ext/pull/22) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❌ Closed PR [#6](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/6) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
+5. 💪 Opened PR [#6](https://github.com/TimoGlastra/aries-framework-javascript-ext/pull/6) in [TimoGlastra/aries-framework-javascript-ext](https://github.com/TimoGlastra/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
