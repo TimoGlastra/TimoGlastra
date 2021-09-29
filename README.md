@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/hyperledger/aries-framework-javascript-ext/pull/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. ❗️ Opened issue [#1075](https://github.com/googleapis/release-please/issues/1075) in [googleapis/release-please](https://github.com/googleapis/release-please)
-3. 🗣 Commented on [#35](https://github.com/hyperledger/aries-framework-javascript-ext/issues/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 💪 Opened PR [#35](https://github.com/hyperledger/aries-framework-javascript-ext/pull/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#33](https://github.com/hyperledger/aries-framework-javascript-ext/pull/33) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 💪 Opened PR [#36](https://github.com/hyperledger/aries-framework-javascript-ext/pull/36) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#35](https://github.com/hyperledger/aries-framework-javascript-ext/pull/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. ❗️ Opened issue [#1075](https://github.com/googleapis/release-please/issues/1075) in [googleapis/release-please](https://github.com/googleapis/release-please)
+4. 🗣 Commented on [#35](https://github.com/hyperledger/aries-framework-javascript-ext/issues/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 💪 Opened PR [#35](https://github.com/hyperledger/aries-framework-javascript-ext/pull/35) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
