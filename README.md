@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21](https://github.com/animo/aries-mobile-sdk/issues/21) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. ❗️ Opened issue [#20](https://github.com/animo/aries-mobile-sdk/issues/20) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-3. ❗️ Opened issue [#19](https://github.com/animo/aries-mobile-sdk/issues/19) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-4. ❗️ Opened issue [#18](https://github.com/animo/aries-mobile-sdk/issues/18) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-5. ❗️ Opened issue [#17](https://github.com/animo/aries-mobile-sdk/issues/17) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+1. ❗️ Opened issue [#25](https://github.com/animo/aries-mobile-sdk/issues/25) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+2. ❗️ Opened issue [#24](https://github.com/animo/aries-mobile-sdk/issues/24) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. ❗️ Opened issue [#23](https://github.com/animo/aries-mobile-sdk/issues/23) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. ❗️ Opened issue [#22](https://github.com/animo/aries-mobile-sdk/issues/22) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+5. ❗️ Opened issue [#21](https://github.com/animo/aries-mobile-sdk/issues/21) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
 <!--END_SECTION:activity-->
 
 ---
