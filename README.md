@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/animo/aries-mobile-sdk/issues/30) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. ❗️ Opened issue [#29](https://github.com/animo/aries-mobile-sdk/issues/29) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-3. ❗️ Opened issue [#28](https://github.com/animo/aries-mobile-sdk/issues/28) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-4. ❗️ Opened issue [#237](https://github.com/hyperledger/aries-toolbox/issues/237) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
-5. ❗️ Opened issue [#27](https://github.com/animo/aries-mobile-sdk/issues/27) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+1. 💪 Opened PR [#19](https://github.com/animo/awesome-self-sovereign-identity/pull/19) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. ❗️ Opened issue [#30](https://github.com/animo/aries-mobile-sdk/issues/30) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. ❗️ Opened issue [#29](https://github.com/animo/aries-mobile-sdk/issues/29) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. ❗️ Opened issue [#28](https://github.com/animo/aries-mobile-sdk/issues/28) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+5. ❗️ Opened issue [#237](https://github.com/hyperledger/aries-toolbox/issues/237) in [hyperledger/aries-toolbox](https://github.com/hyperledger/aries-toolbox)
 <!--END_SECTION:activity-->
 
 ---
