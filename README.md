@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#34](https://github.com/animo/aries-mobile-sdk/issues/34) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. 🎉 Merged PR [#479](https://github.com/hyperledger/aries-framework-javascript/pull/479) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#479](https://github.com/hyperledger/aries-framework-javascript/issues/479) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#33](https://github.com/animo/aries-mobile-sdk/issues/33) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-5. ❗️ Opened issue [#32](https://github.com/animo/aries-mobile-sdk/issues/32) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+1. 🗣 Commented on [#1033](https://github.com/googleapis/release-please/issues/1033) in [googleapis/release-please](https://github.com/googleapis/release-please)
+2. ❗️ Opened issue [#34](https://github.com/animo/aries-mobile-sdk/issues/34) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. 🎉 Merged PR [#479](https://github.com/hyperledger/aries-framework-javascript/pull/479) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#479](https://github.com/hyperledger/aries-framework-javascript/issues/479) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#33](https://github.com/animo/aries-mobile-sdk/issues/33) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
 <!--END_SECTION:activity-->
 
 ---
