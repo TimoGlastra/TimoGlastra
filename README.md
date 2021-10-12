@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript-ext/issues/38) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 💪 Opened PR [#484](https://github.com/hyperledger/aries-framework-javascript/pull/484) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#13](https://github.com/animo/aries-mobile-sdk/issues/13) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-4. 🗣 Commented on [#113](https://github.com/didx-xyz/aries-cloudapi-python/issues/113) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#20](https://github.com/animo/aries-mobile-sdk/issues/20) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+2. 💪 Opened PR [#1](https://github.com/Indicio-tech/aries-framework-javascript-ext/pull/1) in [Indicio-tech/aries-framework-javascript-ext](https://github.com/Indicio-tech/aries-framework-javascript-ext)
+3. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript-ext/issues/38) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 💪 Opened PR [#484](https://github.com/hyperledger/aries-framework-javascript/pull/484) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#13](https://github.com/animo/aries-mobile-sdk/issues/13) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
 <!--END_SECTION:activity-->
 
 ---
