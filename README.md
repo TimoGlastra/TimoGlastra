@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#485](https://github.com/hyperledger/aries-framework-javascript/issues/485) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript-ext/issues/38) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 💪 Opened PR [#1](https://github.com/Indicio-tech/aries-framework-javascript-ext/pull/1) in [Indicio-tech/aries-framework-javascript-ext](https://github.com/Indicio-tech/aries-framework-javascript-ext)
-4. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript-ext/issues/38) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 💪 Opened PR [#484](https://github.com/hyperledger/aries-framework-javascript/pull/484) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#486](https://github.com/hyperledger/aries-framework-javascript/issues/486) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#25](https://github.com/animo/aries-mobile-sdk/issues/25) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. 🗣 Commented on [#486](https://github.com/hyperledger/aries-framework-javascript/issues/486) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#485](https://github.com/hyperledger/aries-framework-javascript/issues/485) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#38](https://github.com/hyperledger/aries-framework-javascript-ext/issues/38) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
