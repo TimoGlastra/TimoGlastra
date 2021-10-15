@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-4. 🗣 Commented on [#356](https://github.com/hyperledger/aries-agent-test-harness/issues/356) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#113](https://github.com/didx-xyz/aries-cloudapi-python/issues/113) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+2. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+5. 🗣 Commented on [#356](https://github.com/hyperledger/aries-agent-test-harness/issues/356) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
