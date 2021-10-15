@@ -18,9 +18,9 @@ Github language stats
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
 2. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-3. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+3. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+4. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
