@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#883](https://github.com/nginx-proxy/acme-companion/issues/883) in [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion)
-2. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-3. 🗣 Commented on [#123](https://github.com/didx-xyz/aries-cloudapi-python/issues/123) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+2. ❗️ Opened issue [#883](https://github.com/nginx-proxy/acme-companion/issues/883) in [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion)
+3. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+4. 🗣 Commented on [#123](https://github.com/didx-xyz/aries-cloudapi-python/issues/123) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 5. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
