@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-2. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-3. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
-4. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#99](https://github.com/didx-xyz/aries-cloudapi-python/issues/99) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🗣 Commented on [#123](https://github.com/didx-xyz/aries-cloudapi-python/issues/123) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#43](https://github.com/animo/aries-mobile-sdk/issues/43) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+5. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
 <!--END_SECTION:activity-->
 
 ---
