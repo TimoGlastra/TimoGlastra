@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/animo/aries-mobile-sdk/issues/44) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. 🗣 Commented on [#125](https://github.com/didx-xyz/aries-cloudapi-python/issues/125) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 💪 Opened PR [#125](https://github.com/didx-xyz/aries-cloudapi-python/pull/125) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. ❗️ Opened issue [#124](https://github.com/didx-xyz/aries-cloudapi-python/issues/124) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#18](https://github.com/animo/simple-demo/issues/18) in [animo/simple-demo](https://github.com/animo/simple-demo)
+1. 🗣 Commented on [#124](https://github.com/didx-xyz/aries-cloudapi-python/issues/124) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. ❗️ Opened issue [#45](https://github.com/animo/aries-mobile-sdk/issues/45) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. ❗️ Opened issue [#44](https://github.com/animo/aries-mobile-sdk/issues/44) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. 🗣 Commented on [#125](https://github.com/didx-xyz/aries-cloudapi-python/issues/125) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 💪 Opened PR [#125](https://github.com/didx-xyz/aries-cloudapi-python/pull/125) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
