@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#128](https://github.com/didx-xyz/aries-cloudapi-python/issues/128) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. ❗️ Opened issue [#127](https://github.com/didx-xyz/aries-cloudapi-python/issues/127) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🗣 Commented on [#124](https://github.com/didx-xyz/aries-cloudapi-python/issues/124) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. ❗️ Opened issue [#45](https://github.com/animo/aries-mobile-sdk/issues/45) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-5. ❗️ Opened issue [#44](https://github.com/animo/aries-mobile-sdk/issues/44) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+1. 🗣 Commented on [#127](https://github.com/didx-xyz/aries-cloudapi-python/issues/127) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. ❗️ Opened issue [#128](https://github.com/didx-xyz/aries-cloudapi-python/issues/128) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. ❗️ Opened issue [#127](https://github.com/didx-xyz/aries-cloudapi-python/issues/127) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#124](https://github.com/didx-xyz/aries-cloudapi-python/issues/124) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Opened issue [#45](https://github.com/animo/aries-mobile-sdk/issues/45) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
 <!--END_SECTION:activity-->
 
 ---
