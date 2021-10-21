@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#175](https://github.com/hyperledger/aries-framework-javascript/issues/175) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#93](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/93) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. 🗣 Commented on [#78](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/78) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Opened issue [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. 🗣 Commented on [#175](https://github.com/hyperledger/aries-framework-javascript/issues/175) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#93](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/93) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
