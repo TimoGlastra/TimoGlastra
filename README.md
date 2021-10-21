@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#54](https://github.com/hyperledger/aries-framework-javascript-ext/issues/54) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. ❗️ Opened issue [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 💪 Opened PR [#55](https://github.com/hyperledger/aries-framework-javascript-ext/pull/55) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#91](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/91) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#54](https://github.com/hyperledger/aries-framework-javascript-ext/issues/54) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. ❗️ Opened issue [#1452](https://github.com/hyperledger/aries-cloudagent-python/issues/1452) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
