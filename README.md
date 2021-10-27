@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/animo/aries-mobile-sdk/issues/47) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. 🎉 Merged PR [#56](https://github.com/hyperledger/aries-framework-javascript-ext/pull/56) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. ❗️ Opened issue [#506](https://github.com/hyperledger/aries-framework-javascript/issues/506) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#504](https://github.com/hyperledger/aries-framework-javascript/pull/504) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#143](https://github.com/didx-xyz/aries-cloudapi-python/issues/143) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc-js/issues/109) in [digitalbazaar/vc-js](https://github.com/digitalbazaar/vc-js)
+2. ❗️ Opened issue [#47](https://github.com/animo/aries-mobile-sdk/issues/47) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. 🎉 Merged PR [#56](https://github.com/hyperledger/aries-framework-javascript-ext/pull/56) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❗️ Opened issue [#506](https://github.com/hyperledger/aries-framework-javascript/issues/506) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#504](https://github.com/hyperledger/aries-framework-javascript/pull/504) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
