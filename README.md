@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/hyperledger/aries-framework-javascript-ext/issues/59) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#57](https://github.com/hyperledger/aries-framework-javascript-ext/issues/57) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. ❗️ Opened issue [#57](https://github.com/hyperledger/aries-framework-javascript-ext/issues/57) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc-js/issues/109) in [digitalbazaar/vc-js](https://github.com/digitalbazaar/vc-js)
-5. ❗️ Opened issue [#47](https://github.com/animo/aries-mobile-sdk/issues/47) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+1. 🗣 Commented on [#506](https://github.com/hyperledger/aries-framework-javascript/issues/506) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#59](https://github.com/hyperledger/aries-framework-javascript-ext/issues/59) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#57](https://github.com/hyperledger/aries-framework-javascript-ext/issues/57) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❗️ Opened issue [#57](https://github.com/hyperledger/aries-framework-javascript-ext/issues/57) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc-js/issues/109) in [digitalbazaar/vc-js](https://github.com/digitalbazaar/vc-js)
 <!--END_SECTION:activity-->
 
 ---
