@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#509](https://github.com/hyperledger/aries-framework-javascript/pull/509) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#100](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/100) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-3. 🎉 Merged PR [#101](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/101) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 💪 Opened PR [#377](https://github.com/hyperledger/aries-agent-test-harness/pull/377) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#100](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/100) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#377](https://github.com/hyperledger/aries-agent-test-harness/pull/377) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#376](https://github.com/hyperledger/aries-agent-test-harness/issues/376) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. ❗️ Closed issue [#704](https://github.com/hyperledger/aries-rfcs/issues/704) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#704](https://github.com/hyperledger/aries-rfcs/issues/704) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 💪 Opened PR [#510](https://github.com/hyperledger/aries-framework-javascript/pull/510) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
