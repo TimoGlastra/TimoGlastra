@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/hyperledger/aries-framework-javascript/issues/527) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#527](https://github.com/hyperledger/aries-framework-javascript/pull/527) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#526](https://github.com/hyperledger/aries-framework-javascript/pull/526) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#525](https://github.com/hyperledger/aries-framework-javascript/pull/525) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#524](https://github.com/hyperledger/aries-framework-javascript/pull/524) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#514](https://github.com/hyperledger/aries-framework-javascript/issues/514) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#522](https://github.com/hyperledger/aries-framework-javascript/issues/522) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#528](https://github.com/hyperledger/aries-framework-javascript/pull/528) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#527](https://github.com/hyperledger/aries-framework-javascript/issues/527) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#527](https://github.com/hyperledger/aries-framework-javascript/pull/527) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
