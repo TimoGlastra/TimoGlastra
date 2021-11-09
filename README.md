@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#382](https://github.com/hyperledger/aries-agent-test-harness/pull/382) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#161](https://github.com/didx-xyz/aries-cloudapi-python/issues/161) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. ❗️ Reopened issue [#153](https://github.com/didx-xyz/aries-cloudapi-python/issues/153) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#103](https://github.com/didx-xyz/aries-cloudapi-python/issues/103) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Opened issue [#159](https://github.com/didx-xyz/aries-cloudapi-python/issues/159) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. ❗️ Closed issue [#148](https://github.com/didx-xyz/aries-cloudapi-python/issues/148) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🎉 Merged PR [#163](https://github.com/didx-xyz/aries-cloudapi-python/pull/163) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 💪 Opened PR [#382](https://github.com/hyperledger/aries-agent-test-harness/pull/382) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#161](https://github.com/didx-xyz/aries-cloudapi-python/issues/161) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Reopened issue [#153](https://github.com/didx-xyz/aries-cloudapi-python/issues/153) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
