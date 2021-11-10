@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/69) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-2. ❗️ Closed issue [#7](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/7) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-3. 🗣 Commented on [#7](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/7) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-4. ❗️ Closed issue [#40](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/40) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-5. 🗣 Commented on [#40](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/40) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+1. 💪 Opened PR [#169](https://github.com/didx-xyz/aries-cloudapi-python/pull/169) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🎉 Merged PR [#70](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/70) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+3. 🗣 Commented on [#166](https://github.com/didx-xyz/aries-cloudapi-python/issues/166) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#166](https://github.com/didx-xyz/aries-cloudapi-python/issues/166) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 💪 Opened PR [#70](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/70) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
 <!--END_SECTION:activity-->
 
 ---
