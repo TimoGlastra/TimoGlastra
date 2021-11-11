@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/127) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#103](https://github.com/didx-xyz/aries-cloudapi-python/issues/103) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🎉 Merged PR [#165](https://github.com/didx-xyz/aries-cloudapi-python/pull/165) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#169](https://github.com/didx-xyz/aries-cloudapi-python/pull/169) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Opened issue [#170](https://github.com/didx-xyz/aries-cloudapi-python/issues/170) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🎉 Merged PR [#533](https://github.com/hyperledger/aries-framework-javascript/pull/533) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#532](https://github.com/hyperledger/aries-framework-javascript/issues/532) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#533](https://github.com/hyperledger/aries-framework-javascript/pull/533) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#121](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/121) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#127](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/127) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
