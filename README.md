@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#136](https://github.com/didx-xyz/aries-cloudapi-python/issues/136) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🗣 Commented on [#132](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/132) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-3. 🎉 Merged PR [#74](https://github.com/hyperledger/aries-framework-javascript-ext/pull/74) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#132](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/132) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#171](https://github.com/didx-xyz/aries-cloudapi-python/pull/171) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🗣 Commented on [#1495](https://github.com/hyperledger/aries-cloudagent-python/issues/1495) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#309](https://github.com/hyperledger/aries-framework-javascript/issues/309) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Closed issue [#136](https://github.com/didx-xyz/aries-cloudapi-python/issues/136) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 5. 🗣 Commented on [#132](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/132) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
