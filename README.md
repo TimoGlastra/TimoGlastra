@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#309](https://github.com/hyperledger/aries-framework-javascript/issues/309) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#540](https://github.com/hyperledger/aries-framework-javascript/pull/540) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#137](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/137) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 💪 Opened PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Opened issue [#176](https://github.com/didx-xyz/aries-cloudapi-python/issues/176) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 💪 Opened PR [#20](https://github.com/animo/awesome-self-sovereign-identity/pull/20) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. ❗️ Closed issue [#309](https://github.com/hyperledger/aries-framework-javascript/issues/309) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#540](https://github.com/hyperledger/aries-framework-javascript/pull/540) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#137](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/137) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 💪 Opened PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
