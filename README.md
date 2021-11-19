@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/137) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 💪 Opened PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. ❗️ Opened issue [#176](https://github.com/didx-xyz/aries-cloudapi-python/issues/176) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#175](https://github.com/didx-xyz/aries-cloudapi-python/pull/175) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Closed issue [#166](https://github.com/didx-xyz/aries-cloudapi-python/issues/166) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. ❗️ Closed issue [#309](https://github.com/hyperledger/aries-framework-javascript/issues/309) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#540](https://github.com/hyperledger/aries-framework-javascript/pull/540) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#137](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/137) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. 💪 Opened PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Opened issue [#176](https://github.com/didx-xyz/aries-cloudapi-python/issues/176) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
