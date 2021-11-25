@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#48](https://github.com/dbluhm/pydid/issues/48) in [dbluhm/pydid](https://github.com/dbluhm/pydid)
-2. 🗣 Commented on [#544](https://github.com/hyperledger/aries-framework-javascript/issues/544) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#551](https://github.com/hyperledger/aries-framework-javascript/issues/551) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#344](https://github.com/hyperledger/aries-framework-javascript/issues/344) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#57376](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/57376) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. ❗️ Opened issue [#48](https://github.com/dbluhm/pydid/issues/48) in [dbluhm/pydid](https://github.com/dbluhm/pydid)
+3. 🗣 Commented on [#544](https://github.com/hyperledger/aries-framework-javascript/issues/544) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#551](https://github.com/hyperledger/aries-framework-javascript/issues/551) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 5. 🗣 Commented on [#344](https://github.com/hyperledger/aries-framework-javascript/issues/344) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
