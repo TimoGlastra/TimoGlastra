@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#393](https://github.com/hyperledger/aries-agent-test-harness/pull/393) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. ❗️ Opened issue [#549](https://github.com/hyperledger/aries-framework-javascript/issues/549) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#172](https://github.com/didx-xyz/aries-cloudapi-python/issues/172) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#547](https://github.com/hyperledger/aries-framework-javascript/pull/547) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#1515](https://github.com/hyperledger/aries-cloudagent-python/pull/1515) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❗️ Closed issue [#530](https://github.com/hyperledger/aries-framework-javascript/issues/530) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#530](https://github.com/hyperledger/aries-framework-javascript/issues/530) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#545](https://github.com/hyperledger/aries-framework-javascript/issues/545) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#544](https://github.com/hyperledger/aries-framework-javascript/issues/544) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#529](https://github.com/hyperledger/aries-framework-javascript/issues/529) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
