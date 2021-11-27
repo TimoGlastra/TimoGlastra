@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#545](https://github.com/hyperledger/aries-framework-javascript/issues/545) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#57376](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/57376) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ❗️ Opened issue [#48](https://github.com/dbluhm/pydid/issues/48) in [dbluhm/pydid](https://github.com/dbluhm/pydid)
-4. 🗣 Commented on [#544](https://github.com/hyperledger/aries-framework-javascript/issues/544) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#551](https://github.com/hyperledger/aries-framework-javascript/issues/551) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❌ Closed PR [#3](https://github.com/TimoGlastra/aries-framework-javascript/pull/3) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+2. ❌ Closed PR [#2](https://github.com/TimoGlastra/aries-framework-javascript/pull/2) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+3. 🗣 Commented on [#21](https://github.com/hyperledger/indy-sdk-react-native/issues/21) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. ❌ Closed PR [#1](https://github.com/TimoGlastra/aries-framework-javascript/pull/1) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+5. 🗣 Commented on [#545](https://github.com/hyperledger/aries-framework-javascript/issues/545) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
