@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/TimoGlastra/aries-framework-javascript/pull/8) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-2. 🎉 Merged PR [#7](https://github.com/TimoGlastra/aries-framework-javascript/pull/7) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-3. 🎉 Merged PR [#6](https://github.com/TimoGlastra/aries-framework-javascript/pull/6) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-4. ❌ Closed PR [#5](https://github.com/TimoGlastra/aries-framework-javascript/pull/5) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-5. 🗣 Commented on [#21](https://github.com/hyperledger/indy-sdk-react-native/issues/21) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. 💪 Opened PR [#552](https://github.com/hyperledger/aries-framework-javascript/pull/552) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#9](https://github.com/TimoGlastra/aries-framework-javascript/pull/9) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+3. 🎉 Merged PR [#8](https://github.com/TimoGlastra/aries-framework-javascript/pull/8) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+4. 🎉 Merged PR [#7](https://github.com/TimoGlastra/aries-framework-javascript/pull/7) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+5. 🎉 Merged PR [#6](https://github.com/TimoGlastra/aries-framework-javascript/pull/6) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
