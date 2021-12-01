@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#555](https://github.com/hyperledger/aries-framework-javascript/pull/555) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#26](https://github.com/docuowl/docuowl/issues/26) in [docuowl/docuowl](https://github.com/docuowl/docuowl)
-3. ❗️ Closed issue [#388](https://github.com/hyperledger/aries-agent-test-harness/issues/388) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 🗣 Commented on [#1523](https://github.com/hyperledger/aries-cloudagent-python/issues/1523) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🎉 Merged PR [#75](https://github.com/hyperledger/aries-framework-javascript-ext/pull/75) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#555](https://github.com/hyperledger/aries-framework-javascript/pull/555) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#26](https://github.com/docuowl/docuowl/issues/26) in [docuowl/docuowl](https://github.com/docuowl/docuowl)
+4. ❗️ Closed issue [#388](https://github.com/hyperledger/aries-agent-test-harness/issues/388) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 5. 🗣 Commented on [#1523](https://github.com/hyperledger/aries-cloudagent-python/issues/1523) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
