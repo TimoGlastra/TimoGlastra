@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#559](https://github.com/hyperledger/aries-framework-javascript/pull/559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#559](https://github.com/hyperledger/aries-framework-javascript/pull/559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#556](https://github.com/hyperledger/aries-framework-javascript/pull/556) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#77](https://github.com/hyperledger/aries-framework-javascript-ext/pull/77) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#156](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/156) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 💪 Opened PR [#561](https://github.com/hyperledger/aries-framework-javascript/pull/561) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#57376](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/57376) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 🎉 Merged PR [#559](https://github.com/hyperledger/aries-framework-javascript/pull/559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#559](https://github.com/hyperledger/aries-framework-javascript/pull/559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#556](https://github.com/hyperledger/aries-framework-javascript/pull/556) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
