@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#563](https://github.com/hyperledger/aries-framework-javascript/pull/563) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#561](https://github.com/hyperledger/aries-framework-javascript/pull/561) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#561](https://github.com/hyperledger/aries-framework-javascript/pull/561) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#57376](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/57376) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🎉 Merged PR [#559](https://github.com/hyperledger/aries-framework-javascript/pull/559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#78](https://github.com/hyperledger/aries-framework-javascript-ext/pull/78) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 💪 Opened PR [#563](https://github.com/hyperledger/aries-framework-javascript/pull/563) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#561](https://github.com/hyperledger/aries-framework-javascript/pull/561) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#561](https://github.com/hyperledger/aries-framework-javascript/pull/561) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#57376](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/57376) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
