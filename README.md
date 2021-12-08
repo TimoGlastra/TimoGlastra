@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/hyperledger/aries-framework-javascript-ext/pull/85) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🎉 Merged PR [#20](https://github.com/animo/awesome-self-sovereign-identity/pull/20) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-3. 🗣 Commented on [#1537](https://github.com/hyperledger/aries-cloudagent-python/issues/1537) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. ❗️ Opened issue [#570](https://github.com/hyperledger/aries-framework-javascript/issues/570) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#569](https://github.com/hyperledger/aries-framework-javascript/issues/569) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#537](https://github.com/hyperledger/aries-framework-javascript/issues/537) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#571](https://github.com/hyperledger/aries-framework-javascript/issues/571) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#85](https://github.com/hyperledger/aries-framework-javascript-ext/pull/85) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🎉 Merged PR [#20](https://github.com/animo/awesome-self-sovereign-identity/pull/20) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+5. 🗣 Commented on [#1537](https://github.com/hyperledger/aries-cloudagent-python/issues/1537) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
