@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1546](https://github.com/hyperledger/aries-cloudagent-python/issues/1546) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❗️ Opened issue [#572](https://github.com/hyperledger/aries-framework-javascript/issues/572) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#571](https://github.com/hyperledger/aries-framework-javascript/issues/571) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1542](https://github.com/hyperledger/aries-cloudagent-python/issues/1542) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#548](https://github.com/hyperledger/aries-framework-javascript/issues/548) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1546](https://github.com/hyperledger/aries-cloudagent-python/issues/1546) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. ❗️ Opened issue [#572](https://github.com/hyperledger/aries-framework-javascript/issues/572) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#571](https://github.com/hyperledger/aries-framework-javascript/issues/571) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#349](https://github.com/hyperledger/aries-framework-javascript/issues/349) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
