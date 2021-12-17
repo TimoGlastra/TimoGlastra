@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/hyperledger/indy-sdk-react-native/pull/24) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. 🎉 Merged PR [#578](https://github.com/hyperledger/aries-framework-javascript/pull/578) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Reopened issue [#192](https://github.com/didx-xyz/aries-cloudapi-python/issues/192) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#194](https://github.com/didx-xyz/aries-cloudapi-python/pull/194) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🎉 Merged PR [#577](https://github.com/hyperledger/aries-framework-javascript/pull/577) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#25](https://github.com/hyperledger/indy-sdk-react-native/issues/25) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🎉 Merged PR [#24](https://github.com/hyperledger/indy-sdk-react-native/pull/24) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. 🎉 Merged PR [#578](https://github.com/hyperledger/aries-framework-javascript/pull/578) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Reopened issue [#192](https://github.com/didx-xyz/aries-cloudapi-python/issues/192) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🎉 Merged PR [#194](https://github.com/didx-xyz/aries-cloudapi-python/pull/194) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
