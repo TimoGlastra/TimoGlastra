@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#26](https://github.com/hyperledger/indy-sdk-react-native/pull/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. 🗣 Commented on [#26](https://github.com/hyperledger/indy-sdk-react-native/issues/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 🗣 Commented on [#58026](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/58026) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🎉 Merged PR [#27](https://github.com/hyperledger/indy-sdk-react-native/pull/27) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. ❗️ Closed issue [#562](https://github.com/hyperledger/aries-framework-javascript/issues/562) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#593](https://github.com/hyperledger/aries-framework-javascript/pull/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#26](https://github.com/hyperledger/indy-sdk-react-native/pull/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+5. 🗣 Commented on [#26](https://github.com/hyperledger/indy-sdk-react-native/issues/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
