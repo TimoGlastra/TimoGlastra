@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 💪 Opened PR [#3](https://github.com/animo/aries-framework-javascript/pull/3) in [animo/aries-framework-javascript](https://github.com/animo/aries-framework-javascript)
-3. ❗️ Opened issue [#594](https://github.com/hyperledger/aries-framework-javascript/issues/594) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#23](https://github.com/animo/animo-demo/issues/23) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. ❗️ Opened issue [#22](https://github.com/animo/animo-demo/issues/22) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 🗣 Commented on [#1587](https://github.com/hyperledger/aries-cloudagent-python/issues/1587) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Closed issue [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 💪 Opened PR [#3](https://github.com/animo/aries-framework-javascript/pull/3) in [animo/aries-framework-javascript](https://github.com/animo/aries-framework-javascript)
+4. ❗️ Opened issue [#594](https://github.com/hyperledger/aries-framework-javascript/issues/594) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#23](https://github.com/animo/animo-demo/issues/23) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
