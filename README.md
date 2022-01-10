@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/animo/animo-demo/pull/16) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. ❗️ Opened issue [#15](https://github.com/animo/animo-demo/issues/15) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 🎉 Merged PR [#28](https://github.com/hyperledger/indy-sdk-react-native/pull/28) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 🗣 Commented on [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. ❗️ Opened issue [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. ❗️ Opened issue [#20](https://github.com/animo/animo-demo/issues/20) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 🎉 Merged PR [#19](https://github.com/animo/animo-demo/pull/19) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 💪 Opened PR [#19](https://github.com/animo/animo-demo/pull/19) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 🎉 Merged PR [#16](https://github.com/animo/animo-demo/pull/16) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. ❗️ Opened issue [#18](https://github.com/animo/animo-demo/issues/18) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
