@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. ❗️ Closed issue [#562](https://github.com/hyperledger/aries-framework-javascript/issues/562) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#593](https://github.com/hyperledger/aries-framework-javascript/pull/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#26](https://github.com/hyperledger/indy-sdk-react-native/pull/26) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. 🗣 Commented on [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. ❗️ Opened issue [#10](https://github.com/animo/animo-demo/issues/10) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. ❗️ Closed issue [#562](https://github.com/hyperledger/aries-framework-javascript/issues/562) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#593](https://github.com/hyperledger/aries-framework-javascript/pull/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
