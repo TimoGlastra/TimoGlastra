@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+1. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 2. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-3. 💪 Opened PR [#595](https://github.com/hyperledger/aries-framework-javascript/pull/595) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#1595](https://github.com/hyperledger/aries-cloudagent-python/issues/1595) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. ❗️ Opened issue [#1594](https://github.com/hyperledger/aries-cloudagent-python/issues/1594) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+4. 💪 Opened PR [#595](https://github.com/hyperledger/aries-framework-javascript/pull/595) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#1595](https://github.com/hyperledger/aries-cloudagent-python/issues/1595) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
