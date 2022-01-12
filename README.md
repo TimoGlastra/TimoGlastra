@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/animo/aries-mobile-sdk/issues/15) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. 🗣 Commented on [#201](https://github.com/hyperledger/aries-agent-test-harness/issues/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-5. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+1. 🗣 Commented on [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. ❗️ Closed issue [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. 🗣 Commented on [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. 🗣 Commented on [#170](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/170) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#855](https://github.com/hyperledger/aries-cloudagent-python/issues/855) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
