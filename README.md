@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/hyperledger/aries-agent-test-harness/issues/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
+1. 🗣 Commented on [#15](https://github.com/animo/aries-mobile-sdk/issues/15) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+2. 🗣 Commented on [#201](https://github.com/hyperledger/aries-agent-test-harness/issues/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 4. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
-5. 💪 Opened PR [#595](https://github.com/hyperledger/aries-framework-javascript/pull/595) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#8](https://github.com/blu3beri/react-native-turbomodule-tscodegen/issues/8) in [blu3beri/react-native-turbomodule-tscodegen](https://github.com/blu3beri/react-native-turbomodule-tscodegen)
 <!--END_SECTION:activity-->
 
 ---
