@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/hyperledger/indy-sdk-react-native/pull/31) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. ❗️ Opened issue [#596](https://github.com/hyperledger/aries-framework-javascript/issues/596) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#24](https://github.com/animo/animo-demo/issues/24) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. 🗣 Commented on [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. ❗️ Closed issue [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. ❗️ Opened issue [#25](https://github.com/animo/animo-demo/issues/25) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 🎉 Merged PR [#31](https://github.com/hyperledger/indy-sdk-react-native/pull/31) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. ❗️ Opened issue [#596](https://github.com/hyperledger/aries-framework-javascript/issues/596) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#24](https://github.com/animo/animo-demo/issues/24) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. 🗣 Commented on [#29](https://github.com/hyperledger/indy-sdk-react-native/issues/29) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
