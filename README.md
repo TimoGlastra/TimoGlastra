@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/hyperledger/aries-agent-test-harness/issues/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#170](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/170) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#593](https://github.com/hyperledger/aries-framework-javascript/pull/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#201](https://github.com/hyperledger/aries-agent-test-harness/issues/201) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 3. 🗣 Commented on [#170](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/170) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#593](https://github.com/hyperledger/aries-framework-javascript/issues/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#39](https://github.com/decentralized-identity/peer-did-method-spec/issues/39) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+4. 🗣 Commented on [#170](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/170) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#593](https://github.com/hyperledger/aries-framework-javascript/issues/593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
