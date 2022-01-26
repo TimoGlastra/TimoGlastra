@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/hyperledger/aries-agent-test-harness/issues/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 💪 Opened PR [#419](https://github.com/hyperledger/aries-agent-test-harness/pull/419) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 💪 Opened PR [#417](https://github.com/hyperledger/aries-agent-test-harness/pull/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 🗣 Commented on [#5](https://github.com/ula-aca/aries-cloudagent-webhook-relay/issues/5) in [ula-aca/aries-cloudagent-webhook-relay](https://github.com/ula-aca/aries-cloudagent-webhook-relay)
-5. ❗️ Opened issue [#26](https://github.com/animo/animo-demo/issues/26) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-agent-test-harness/pull/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#407](https://github.com/hyperledger/aries-agent-test-harness/issues/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#417](https://github.com/hyperledger/aries-agent-test-harness/issues/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 💪 Opened PR [#419](https://github.com/hyperledger/aries-agent-test-harness/pull/419) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 💪 Opened PR [#417](https://github.com/hyperledger/aries-agent-test-harness/pull/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
