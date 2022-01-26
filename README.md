@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-agent-test-harness/pull/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#407](https://github.com/hyperledger/aries-agent-test-harness/issues/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#417](https://github.com/hyperledger/aries-agent-test-harness/issues/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 💪 Opened PR [#419](https://github.com/hyperledger/aries-agent-test-harness/pull/419) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 💪 Opened PR [#417](https://github.com/hyperledger/aries-agent-test-harness/pull/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🗣 Commented on [#3](https://github.com/decentralized-identity/peer-did-method-spec/issues/3) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+2. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-agent-test-harness/pull/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#407](https://github.com/hyperledger/aries-agent-test-harness/issues/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#417](https://github.com/hyperledger/aries-agent-test-harness/issues/417) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 💪 Opened PR [#419](https://github.com/hyperledger/aries-agent-test-harness/pull/419) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
