@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#608](https://github.com/hyperledger/aries-framework-javascript/pull/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#608](https://github.com/hyperledger/aries-framework-javascript/issues/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#608](https://github.com/hyperledger/aries-framework-javascript/pull/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#3](https://github.com/decentralized-identity/peer-did-method-spec/issues/3) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
-5. 🎉 Merged PR [#407](https://github.com/hyperledger/aries-agent-test-harness/pull/407) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 💪 Opened PR [#609](https://github.com/hyperledger/aries-framework-javascript/pull/609) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#608](https://github.com/hyperledger/aries-framework-javascript/pull/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#608](https://github.com/hyperledger/aries-framework-javascript/issues/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#608](https://github.com/hyperledger/aries-framework-javascript/pull/608) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#3](https://github.com/decentralized-identity/peer-did-method-spec/issues/3) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
 <!--END_SECTION:activity-->
 
 ---
