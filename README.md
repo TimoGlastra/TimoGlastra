@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/decentralized-identity/peer-did-method-spec/issues/3) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
-2. ❗️ Closed issue [#39](https://github.com/decentralized-identity/peer-did-method-spec/issues/39) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
-3. 🗣 Commented on [#39](https://github.com/decentralized-identity/peer-did-method-spec/issues/39) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
-4. 🗣 Commented on [#604](https://github.com/hyperledger/aries-framework-javascript/issues/604) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#610](https://github.com/hyperledger/aries-framework-javascript/pull/610) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#3](https://github.com/decentralized-identity/peer-did-method-spec/issues/3) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+3. ❗️ Closed issue [#39](https://github.com/decentralized-identity/peer-did-method-spec/issues/39) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+4. 🗣 Commented on [#39](https://github.com/decentralized-identity/peer-did-method-spec/issues/39) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
 5. 🗣 Commented on [#604](https://github.com/hyperledger/aries-framework-javascript/issues/604) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
