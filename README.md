@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#617](https://github.com/hyperledger/aries-framework-javascript/pull/617) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#616](https://github.com/hyperledger/aries-framework-javascript/pull/616) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#616](https://github.com/hyperledger/aries-framework-javascript/pull/616) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#58505](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/58505) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. ❌ Closed PR [#604](https://github.com/hyperledger/aries-framework-javascript/pull/604) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#617](https://github.com/hyperledger/aries-framework-javascript/pull/617) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#616](https://github.com/hyperledger/aries-framework-javascript/pull/616) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#616](https://github.com/hyperledger/aries-framework-javascript/pull/616) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
