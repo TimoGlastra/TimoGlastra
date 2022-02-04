@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#427](https://github.com/hyperledger/aries-agent-test-harness/pull/427) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#92](https://github.com/hyperledger/aries-framework-javascript-ext/issues/92) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#75](https://github.com/hyperledger/indy-vdr/issues/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. ❌ Closed PR [#604](https://github.com/hyperledger/aries-framework-javascript/pull/604) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#617](https://github.com/hyperledger/aries-framework-javascript/pull/617) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Closed issue [#25](https://github.com/hyperledger/aries-framework-javascript-ext/issues/25) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#25](https://github.com/hyperledger/aries-framework-javascript-ext/issues/25) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 💪 Opened PR [#427](https://github.com/hyperledger/aries-agent-test-harness/pull/427) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#92](https://github.com/hyperledger/aries-framework-javascript-ext/issues/92) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#75](https://github.com/hyperledger/indy-vdr/issues/75) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
