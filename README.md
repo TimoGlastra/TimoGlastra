@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#429](https://github.com/hyperledger/aries-agent-test-harness/pull/429) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🎉 Merged PR [#426](https://github.com/hyperledger/aries-agent-test-harness/pull/426) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🎉 Merged PR [#620](https://github.com/hyperledger/aries-framework-javascript/pull/620) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#599](https://github.com/hyperledger/aries-framework-javascript/issues/599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#522](https://github.com/hyperledger/aries-framework-javascript/issues/522) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#94](https://github.com/hyperledger/aries-framework-javascript-ext/issues/94) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. ❌ Closed PR [#92](https://github.com/hyperledger/aries-framework-javascript-ext/pull/92) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🎉 Merged PR [#93](https://github.com/hyperledger/aries-framework-javascript-ext/pull/93) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❗️ Closed issue [#63](https://github.com/hyperledger/aries-framework-javascript-ext/issues/63) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 💪 Opened PR [#429](https://github.com/hyperledger/aries-agent-test-harness/pull/429) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
