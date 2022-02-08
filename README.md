@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1621](https://github.com/hyperledger/aries-cloudagent-python/issues/1621) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 2. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 3. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#58667](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/58667) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#632](https://github.com/hyperledger/aries-framework-javascript/issues/632) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#592](https://github.com/hyperledger/aries-framework-javascript/issues/592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#58667](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/58667) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
