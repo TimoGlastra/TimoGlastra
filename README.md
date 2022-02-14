@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#638](https://github.com/hyperledger/aries-framework-javascript/pull/638) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1628](https://github.com/hyperledger/aries-cloudagent-python/issues/1628) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#1620](https://github.com/hyperledger/aries-cloudagent-python/issues/1620) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. ❗️ Closed issue [#144](https://github.com/didx-xyz/aries-cloudapi-python/issues/144) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#144](https://github.com/didx-xyz/aries-cloudapi-python/issues/144) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🎉 Merged PR [#432](https://github.com/hyperledger/aries-agent-test-harness/pull/432) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 💪 Opened PR [#433](https://github.com/hyperledger/aries-agent-test-harness/pull/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🎉 Merged PR [#638](https://github.com/hyperledger/aries-framework-javascript/pull/638) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1628](https://github.com/hyperledger/aries-cloudagent-python/issues/1628) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#1620](https://github.com/hyperledger/aries-cloudagent-python/issues/1620) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
