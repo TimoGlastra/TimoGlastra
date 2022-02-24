@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#77](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/77) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-2. 🗣 Commented on [#96](https://github.com/hyperledger/aries-framework-javascript-ext/issues/96) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 💪 Opened PR [#96](https://github.com/hyperledger/aries-framework-javascript-ext/pull/96) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#78](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/78) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-5. 💪 Opened PR [#201](https://github.com/didx-xyz/aries-cloudapi-python/pull/201) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+2. ❗️ Closed issue [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+3. 🗣 Commented on [#78](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/78) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+4. 🎉 Merged PR [#77](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/77) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+5. 🗣 Commented on [#96](https://github.com/hyperledger/aries-framework-javascript-ext/issues/96) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
