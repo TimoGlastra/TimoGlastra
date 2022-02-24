@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1643](https://github.com/hyperledger/aries-cloudagent-python/pull/1643) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-3. ❗️ Closed issue [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-4. 🗣 Commented on [#78](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/78) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-5. 🎉 Merged PR [#77](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/77) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+1. 🗣 Commented on [#34](https://github.com/hyperledger/indy-sdk-react-native/issues/34) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 💪 Opened PR [#1643](https://github.com/hyperledger/aries-cloudagent-python/pull/1643) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+4. ❗️ Closed issue [#44](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/44) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+5. 🗣 Commented on [#78](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/78) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
 <!--END_SECTION:activity-->
 
 ---
