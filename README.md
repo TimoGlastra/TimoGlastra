@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/hyperledger/aries-framework-javascript-ext/pull/97) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#97](https://github.com/hyperledger/aries-framework-javascript-ext/issues/97) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🎉 Merged PR [#96](https://github.com/hyperledger/aries-framework-javascript-ext/pull/96) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#94](https://github.com/hyperledger/aries-framework-javascript-ext/issues/94) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#97](https://github.com/hyperledger/aries-framework-javascript-ext/issues/97) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#95](https://github.com/hyperledger/aries-framework-javascript-ext/pull/95) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#97](https://github.com/hyperledger/aries-framework-javascript-ext/pull/97) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#97](https://github.com/hyperledger/aries-framework-javascript-ext/issues/97) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🎉 Merged PR [#96](https://github.com/hyperledger/aries-framework-javascript-ext/pull/96) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#94](https://github.com/hyperledger/aries-framework-javascript-ext/issues/94) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
