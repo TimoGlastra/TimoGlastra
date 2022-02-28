@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#351](https://github.com/hyperledger/aries-framework-javascript/issues/351) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#98](https://github.com/hyperledger/aries-framework-javascript-ext/issues/98) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#203](https://github.com/didx-xyz/aries-cloudapi-python/issues/203) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#351](https://github.com/hyperledger/aries-framework-javascript/issues/351) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
