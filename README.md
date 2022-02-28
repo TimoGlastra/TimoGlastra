@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#351](https://github.com/hyperledger/aries-framework-javascript/issues/351) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#651](https://github.com/hyperledger/aries-framework-javascript/issues/651) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
