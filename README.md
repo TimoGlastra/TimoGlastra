@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#22](https://github.com/animo/awesome-self-sovereign-identity/issues/22) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-3. ❗️ Opened issue [#204](https://github.com/didx-xyz/aries-cloudapi-python/issues/204) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 💪 Opened PR [#652](https://github.com/hyperledger/aries-framework-javascript/pull/652) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#22](https://github.com/animo/awesome-self-sovereign-identity/issues/22) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+4. ❗️ Opened issue [#204](https://github.com/didx-xyz/aries-cloudapi-python/issues/204) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 5. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
