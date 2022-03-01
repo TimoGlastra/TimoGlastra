@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 💪 Opened PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. ❗️ Closed issue [#186](https://github.com/didx-xyz/aries-cloudapi-python/issues/186) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. ❗️ Closed issue [#157](https://github.com/didx-xyz/aries-cloudapi-python/issues/157) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Closed issue [#185](https://github.com/didx-xyz/aries-cloudapi-python/issues/185) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 💪 Opened PR [#206](https://github.com/didx-xyz/aries-cloudapi-python/pull/206) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🎉 Merged PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 💪 Opened PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. ❗️ Closed issue [#186](https://github.com/didx-xyz/aries-cloudapi-python/issues/186) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Closed issue [#157](https://github.com/didx-xyz/aries-cloudapi-python/issues/157) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
