@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#652](https://github.com/hyperledger/aries-framework-javascript/pull/652) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#22](https://github.com/animo/awesome-self-sovereign-identity/issues/22) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-4. ❗️ Opened issue [#204](https://github.com/didx-xyz/aries-cloudapi-python/issues/204) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#1632](https://github.com/hyperledger/aries-cloudagent-python/issues/1632) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❗️ Opened issue [#653](https://github.com/hyperledger/aries-framework-javascript/issues/653) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❌ Reopened PR [#51](https://github.com/animo/aries-mobile-sdk/pull/51) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. ❌ Closed PR [#51](https://github.com/animo/aries-mobile-sdk/pull/51) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. 💪 Opened PR [#51](https://github.com/animo/aries-mobile-sdk/pull/51) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+5. 💪 Opened PR [#652](https://github.com/hyperledger/aries-framework-javascript/pull/652) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
