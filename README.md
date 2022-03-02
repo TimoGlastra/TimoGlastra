@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#207](https://github.com/didx-xyz/aries-cloudapi-python/issues/207) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🗣 Commented on [#35](https://github.com/hyperledger/indy-sdk-react-native/issues/35) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. 💪 Opened PR [#206](https://github.com/didx-xyz/aries-cloudapi-python/pull/206) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 💪 Opened PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#1650](https://github.com/hyperledger/aries-cloudagent-python/issues/1650) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Opened issue [#1650](https://github.com/hyperledger/aries-cloudagent-python/issues/1650) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🎉 Merged PR [#650](https://github.com/hyperledger/aries-framework-javascript/pull/650) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#207](https://github.com/didx-xyz/aries-cloudapi-python/issues/207) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🗣 Commented on [#35](https://github.com/hyperledger/indy-sdk-react-native/issues/35) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
