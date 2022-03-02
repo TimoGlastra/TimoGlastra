@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#206](https://github.com/didx-xyz/aries-cloudapi-python/pull/206) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🎉 Merged PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 💪 Opened PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. ❗️ Closed issue [#186](https://github.com/didx-xyz/aries-cloudapi-python/issues/186) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Closed issue [#157](https://github.com/didx-xyz/aries-cloudapi-python/issues/157) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#35](https://github.com/hyperledger/indy-sdk-react-native/issues/35) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 💪 Opened PR [#206](https://github.com/didx-xyz/aries-cloudapi-python/pull/206) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 🎉 Merged PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 💪 Opened PR [#205](https://github.com/didx-xyz/aries-cloudapi-python/pull/205) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Closed issue [#186](https://github.com/didx-xyz/aries-cloudapi-python/issues/186) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
