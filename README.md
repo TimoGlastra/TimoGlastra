@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🎉 Merged PR [#640](https://github.com/hyperledger/aries-framework-javascript/pull/640) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#582](https://github.com/hyperledger/aries-framework-javascript/issues/582) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#203](https://github.com/didx-xyz/aries-cloudapi-python/issues/203) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#190](https://github.com/didx-xyz/aries-cloudapi-python/issues/190) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🎉 Merged PR [#3](https://github.com/TimoGlastra/ghdid/pull/3) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
+2. 🎉 Merged PR [#4](https://github.com/TimoGlastra/ghdid/pull/4) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
+3. 🎉 Merged PR [#2](https://github.com/TimoGlastra/ghdid/pull/2) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
+4. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🎉 Merged PR [#640](https://github.com/hyperledger/aries-framework-javascript/pull/640) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
