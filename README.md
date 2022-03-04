@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3173](https://github.com/hyperledger/aries-framework-go/issues/3173) in [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go)
-2. 🗣 Commented on [#3173](https://github.com/hyperledger/aries-framework-go/issues/3173) in [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go)
-3. 🎉 Merged PR [#657](https://github.com/hyperledger/aries-framework-javascript/pull/657) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#3](https://github.com/TimoGlastra/ghdid/pull/3) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
-5. 🎉 Merged PR [#4](https://github.com/TimoGlastra/ghdid/pull/4) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
+1. 🗣 Commented on [#433](https://github.com/hyperledger/aries-agent-test-harness/issues/433) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Closed issue [#3173](https://github.com/hyperledger/aries-framework-go/issues/3173) in [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go)
+3. 🗣 Commented on [#3173](https://github.com/hyperledger/aries-framework-go/issues/3173) in [hyperledger/aries-framework-go](https://github.com/hyperledger/aries-framework-go)
+4. 🎉 Merged PR [#657](https://github.com/hyperledger/aries-framework-javascript/pull/657) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#3](https://github.com/TimoGlastra/ghdid/pull/3) in [TimoGlastra/ghdid](https://github.com/TimoGlastra/ghdid)
 <!--END_SECTION:activity-->
 
 ---
