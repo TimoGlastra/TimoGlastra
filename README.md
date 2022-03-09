@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/animo/ffi-bbs-signatures/issues/3) in [animo/ffi-bbs-signatures](https://github.com/animo/ffi-bbs-signatures)
+1. ❌ Closed PR [#101](https://github.com/hyperledger/aries-framework-javascript-ext/pull/101) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 2. 🗣 Commented on [#3](https://github.com/animo/ffi-bbs-signatures/issues/3) in [animo/ffi-bbs-signatures](https://github.com/animo/ffi-bbs-signatures)
-3. 🗣 Commented on [#103](https://github.com/hyperledger/aries-framework-javascript-ext/issues/103) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🎉 Merged PR [#102](https://github.com/hyperledger/aries-framework-javascript-ext/pull/102) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 💪 Opened PR [#102](https://github.com/hyperledger/aries-framework-javascript-ext/pull/102) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#3](https://github.com/animo/ffi-bbs-signatures/issues/3) in [animo/ffi-bbs-signatures](https://github.com/animo/ffi-bbs-signatures)
+4. 🗣 Commented on [#103](https://github.com/hyperledger/aries-framework-javascript-ext/issues/103) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#102](https://github.com/hyperledger/aries-framework-javascript-ext/pull/102) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
