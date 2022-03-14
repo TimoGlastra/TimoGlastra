@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59255](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59255) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#1665](https://github.com/hyperledger/aries-cloudagent-python/pull/1665) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#1636](https://github.com/hyperledger/aries-cloudagent-python/issues/1636) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#210](https://github.com/didx-xyz/aries-cloudapi-python/issues/210) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 💪 Opened PR [#670](https://github.com/hyperledger/aries-framework-javascript/pull/670) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#670](https://github.com/hyperledger/aries-framework-javascript/pull/670) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#59255](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/59255) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#1665](https://github.com/hyperledger/aries-cloudagent-python/pull/1665) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#1636](https://github.com/hyperledger/aries-cloudagent-python/issues/1636) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#210](https://github.com/didx-xyz/aries-cloudapi-python/issues/210) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
