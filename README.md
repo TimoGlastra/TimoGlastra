@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1541](https://github.com/hyperledger/aries-cloudagent-python/issues/1541) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#579](https://github.com/hyperledger/aries-framework-javascript/issues/579) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#675](https://github.com/hyperledger/aries-framework-javascript/issues/675) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#661](https://github.com/hyperledger/aries-framework-javascript/issues/661) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#661](https://github.com/hyperledger/aries-framework-javascript/pull/661) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#675](https://github.com/hyperledger/aries-framework-javascript/pull/675) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1541](https://github.com/hyperledger/aries-cloudagent-python/issues/1541) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#579](https://github.com/hyperledger/aries-framework-javascript/issues/579) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#675](https://github.com/hyperledger/aries-framework-javascript/issues/675) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#661](https://github.com/hyperledger/aries-framework-javascript/issues/661) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
