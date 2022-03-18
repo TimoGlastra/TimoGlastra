@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59256](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59256) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🗣 Commented on [#672](https://github.com/hyperledger/aries-framework-javascript/issues/672) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 2. 🗣 Commented on [#59256](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59256) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#36](https://github.com/hyperledger/indy-sdk-react-native/pull/36) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 🗣 Commented on [#59255](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59255) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#725](https://github.com/hyperledger/aries-rfcs/issues/725) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🗣 Commented on [#59256](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59256) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 💪 Opened PR [#36](https://github.com/hyperledger/indy-sdk-react-native/pull/36) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+5. 🗣 Commented on [#59255](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59255) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
