@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#451](https://github.com/hyperledger/aries-agent-test-harness/pull/451) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 🗣 Commented on [#672](https://github.com/hyperledger/aries-framework-javascript/issues/672) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#675](https://github.com/hyperledger/aries-framework-javascript/pull/675) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1541](https://github.com/hyperledger/aries-cloudagent-python/issues/1541) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#579](https://github.com/hyperledger/aries-framework-javascript/issues/579) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#59316](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/59316) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🎉 Merged PR [#451](https://github.com/hyperledger/aries-agent-test-harness/pull/451) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#672](https://github.com/hyperledger/aries-framework-javascript/issues/672) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#675](https://github.com/hyperledger/aries-framework-javascript/pull/675) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1541](https://github.com/hyperledger/aries-cloudagent-python/issues/1541) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
