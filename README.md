@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/decentralized-identity/didcomm-messaging/issues/351) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-2. 🗣 Commented on [#599](https://github.com/hyperledger/aries-framework-javascript/issues/599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#351](https://github.com/decentralized-identity/didcomm-messaging/issues/351) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-4. 🗣 Commented on [#599](https://github.com/hyperledger/aries-framework-javascript/issues/599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#36](https://github.com/hyperledger/indy-sdk-react-native/pull/36) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. 🗣 Commented on [#681](https://github.com/hyperledger/aries-framework-javascript/issues/681) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#455](https://github.com/hyperledger/aries-agent-test-harness/issues/455) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#455](https://github.com/hyperledger/aries-agent-test-harness/issues/455) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🗣 Commented on [#682](https://github.com/hyperledger/aries-framework-javascript/issues/682) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1689](https://github.com/hyperledger/aries-cloudagent-python/issues/1689) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
