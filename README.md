@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🗣 Commented on [#214](https://github.com/didx-xyz/aries-cloudapi-python/issues/214) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 🗣 Commented on [#688](https://github.com/hyperledger/aries-framework-javascript/issues/688) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❌ Closed PR [#177](https://github.com/didx-xyz/aries-cloudapi-python/pull/177) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 3. 🗣 Commented on [#214](https://github.com/didx-xyz/aries-cloudapi-python/issues/214) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 💪 Opened PR [#214](https://github.com/didx-xyz/aries-cloudapi-python/pull/214) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Opened issue [#119](https://github.com/animo/aries-cli/issues/119) in [animo/aries-cli](https://github.com/animo/aries-cli)
+4. 🗣 Commented on [#214](https://github.com/didx-xyz/aries-cloudapi-python/issues/214) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 💪 Opened PR [#214](https://github.com/didx-xyz/aries-cloudapi-python/pull/214) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
