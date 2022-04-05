@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/animo/aries-mobile-sdk/issues/38) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-2. ❗️ Closed issue [#46](https://github.com/animo/aries-mobile-sdk/issues/46) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-3. ❗️ Closed issue [#19](https://github.com/animo/aries-mobile-sdk/issues/19) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-4. ❗️ Closed issue [#17](https://github.com/animo/aries-mobile-sdk/issues/17) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
-5. 🎉 Merged PR [#141](https://github.com/animo/aries-cli/pull/141) in [animo/aries-cli](https://github.com/animo/aries-cli)
+1. 💪 Opened PR [#1710](https://github.com/hyperledger/aries-cloudagent-python/pull/1710) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Closed issue [#38](https://github.com/animo/aries-mobile-sdk/issues/38) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+3. ❗️ Closed issue [#46](https://github.com/animo/aries-mobile-sdk/issues/46) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. ❗️ Closed issue [#19](https://github.com/animo/aries-mobile-sdk/issues/19) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+5. ❗️ Closed issue [#17](https://github.com/animo/aries-mobile-sdk/issues/17) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
 <!--END_SECTION:activity-->
 
 ---
