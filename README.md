@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#697](https://github.com/hyperledger/aries-framework-javascript/issues/697) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#649](https://github.com/hyperledger/aries-framework-javascript/issues/649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#694](https://github.com/hyperledger/aries-framework-javascript/issues/694) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#697](https://github.com/hyperledger/aries-framework-javascript/issues/697) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 3. 🗣 Commented on [#649](https://github.com/hyperledger/aries-framework-javascript/issues/649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#1710](https://github.com/hyperledger/aries-cloudagent-python/pull/1710) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. ❗️ Closed issue [#38](https://github.com/animo/aries-mobile-sdk/issues/38) in [animo/aries-mobile-sdk](https://github.com/animo/aries-mobile-sdk)
+4. 🗣 Commented on [#649](https://github.com/hyperledger/aries-framework-javascript/issues/649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#1710](https://github.com/hyperledger/aries-cloudagent-python/pull/1710) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
