@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#468](https://github.com/hyperledger/aries-agent-test-harness/pull/468) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. 💪 Opened PR [#467](https://github.com/hyperledger/aries-agent-test-harness/pull/467) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. ❗️ Opened issue [#1713](https://github.com/hyperledger/aries-cloudagent-python/issues/1713) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. ❗️ Opened issue [#1712](https://github.com/hyperledger/aries-cloudagent-python/issues/1712) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#1708](https://github.com/hyperledger/aries-cloudagent-python/issues/1708) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#257](https://github.com/hyperledger/aries-agent-test-harness/issues/257) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. ❗️ Reopened issue [#257](https://github.com/hyperledger/aries-agent-test-harness/issues/257) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 💪 Opened PR [#468](https://github.com/hyperledger/aries-agent-test-harness/pull/468) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 💪 Opened PR [#467](https://github.com/hyperledger/aries-agent-test-harness/pull/467) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. ❗️ Opened issue [#1713](https://github.com/hyperledger/aries-cloudagent-python/issues/1713) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
