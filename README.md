@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#689](https://github.com/hyperledger/aries-framework-javascript/issues/689) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#220](https://github.com/didx-xyz/aries-cloudapi-python/issues/220) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🗣 Commented on [#702](https://github.com/hyperledger/aries-framework-javascript/issues/702) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#26](https://github.com/animo/awesome-self-sovereign-identity/pull/26) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-5. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#666](https://github.com/hyperledger/aries-framework-javascript/issues/666) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#689](https://github.com/hyperledger/aries-framework-javascript/issues/689) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#220](https://github.com/didx-xyz/aries-cloudapi-python/issues/220) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#702](https://github.com/hyperledger/aries-framework-javascript/issues/702) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#26](https://github.com/animo/awesome-self-sovereign-identity/pull/26) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
 <!--END_SECTION:activity-->
 
 ---
