@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#1725](https://github.com/hyperledger/aries-cloudagent-python/issues/1725) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#702](https://github.com/hyperledger/aries-framework-javascript/issues/702) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#26](https://github.com/animo/awesome-self-sovereign-identity/pull/26) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+3. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
