@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🗣 Commented on [#1725](https://github.com/hyperledger/aries-cloudagent-python/issues/1725) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#471](https://github.com/hyperledger/aries-agent-test-harness/issues/471) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#142](https://github.com/hyperledger/aries-agent-test-harness/issues/142) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#108](https://github.com/hyperledger/aries-framework-javascript-ext/issues/108) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🗣 Commented on [#1725](https://github.com/hyperledger/aries-cloudagent-python/issues/1725) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
