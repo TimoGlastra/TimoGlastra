@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. ❗️ Closed issue [#471](https://github.com/hyperledger/aries-rfcs/issues/471) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#471](https://github.com/hyperledger/aries-rfcs/issues/471) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#470](https://github.com/hyperledger/aries-rfcs/issues/470) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. ❗️ Closed issue [#470](https://github.com/hyperledger/aries-rfcs/issues/470) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🎉 Merged PR [#705](https://github.com/hyperledger/aries-framework-javascript/pull/705) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#217](https://github.com/didx-xyz/aries-cloudapi-python/issues/217) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. ❗️ Closed issue [#471](https://github.com/hyperledger/aries-rfcs/issues/471) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#471](https://github.com/hyperledger/aries-rfcs/issues/471) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#470](https://github.com/hyperledger/aries-rfcs/issues/470) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
