@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#497](https://github.com/hyperledger/aries-rfcs/issues/497) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#497](https://github.com/hyperledger/aries-rfcs/issues/497) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. ❗️ Closed issue [#563](https://github.com/hyperledger/aries-rfcs/issues/563) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#563](https://github.com/hyperledger/aries-rfcs/issues/563) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. ❗️ Closed issue [#670](https://github.com/hyperledger/aries-rfcs/issues/670) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🗣 Commented on [#478](https://github.com/hyperledger/aries-rfcs/issues/478) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. ❗️ Reopened issue [#317](https://github.com/hyperledger/aries-rfcs/issues/317) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. ❗️ Closed issue [#317](https://github.com/hyperledger/aries-rfcs/issues/317) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#317](https://github.com/hyperledger/aries-rfcs/issues/317) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. ❗️ Closed issue [#457](https://github.com/hyperledger/aries-rfcs/issues/457) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
