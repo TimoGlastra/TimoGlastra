@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#689](https://github.com/hyperledger/aries-framework-javascript/pull/689) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#708](https://github.com/hyperledger/aries-framework-javascript/issues/708) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#703](https://github.com/hyperledger/aries-framework-javascript/pull/703) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-cloudagent-python/issues/1372) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. ❗️ Opened issue [#709](https://github.com/hyperledger/aries-framework-javascript/issues/709) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#649](https://github.com/hyperledger/aries-framework-javascript/issues/649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#689](https://github.com/hyperledger/aries-framework-javascript/pull/689) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#708](https://github.com/hyperledger/aries-framework-javascript/issues/708) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#703](https://github.com/hyperledger/aries-framework-javascript/pull/703) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-cloudagent-python/issues/1372) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
