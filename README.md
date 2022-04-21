@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#715](https://github.com/hyperledger/aries-framework-javascript/pull/715) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#219](https://github.com/didx-xyz/aries-cloudapi-python/issues/219) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#1733](https://github.com/hyperledger/aries-cloudagent-python/issues/1733) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#713](https://github.com/hyperledger/aries-framework-javascript/issues/713) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#715](https://github.com/hyperledger/aries-framework-javascript/pull/715) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#219](https://github.com/didx-xyz/aries-cloudapi-python/issues/219) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🗣 Commented on [#1733](https://github.com/hyperledger/aries-cloudagent-python/issues/1733) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
