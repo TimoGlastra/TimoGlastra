@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#725](https://github.com/hyperledger/aries-framework-javascript/issues/725) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#723](https://github.com/hyperledger/aries-framework-javascript/issues/723) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#716](https://github.com/hyperledger/aries-framework-javascript/issues/716) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#110](https://github.com/hyperledger/aries-framework-javascript-ext/issues/110) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#109](https://github.com/hyperledger/aries-framework-javascript-ext/pull/109) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#224](https://github.com/didx-xyz/aries-cloudapi-python/pull/224) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. ❗️ Closed issue [#215](https://github.com/didx-xyz/aries-cloudapi-python/issues/215) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. ❗️ Opened issue [#725](https://github.com/hyperledger/aries-framework-javascript/issues/725) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#723](https://github.com/hyperledger/aries-framework-javascript/issues/723) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#716](https://github.com/hyperledger/aries-framework-javascript/issues/716) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
