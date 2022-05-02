@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#38](https://github.com/hyperledger/indy-sdk-react-native/issues/38) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. 🎉 Merged PR [#40](https://github.com/hyperledger/indy-sdk-react-native/pull/40) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. 🎉 Merged PR [#39](https://github.com/hyperledger/indy-sdk-react-native/pull/39) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. ❗️ Opened issue [#1755](https://github.com/hyperledger/aries-cloudagent-python/issues/1755) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🎉 Merged PR [#711](https://github.com/hyperledger/aries-framework-javascript/pull/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#42](https://github.com/hyperledger/indy-sdk-react-native/issues/42) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🗣 Commented on [#41](https://github.com/hyperledger/indy-sdk-react-native/issues/41) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. ❗️ Closed issue [#38](https://github.com/hyperledger/indy-sdk-react-native/issues/38) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. 🎉 Merged PR [#40](https://github.com/hyperledger/indy-sdk-react-native/pull/40) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+5. 🎉 Merged PR [#39](https://github.com/hyperledger/indy-sdk-react-native/pull/39) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
