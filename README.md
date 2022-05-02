@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#437](https://github.com/hyperledger/aries-framework-javascript/issues/437) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❌ Closed PR [#437](https://github.com/hyperledger/aries-framework-javascript/pull/437) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#714](https://github.com/hyperledger/aries-framework-javascript/issues/714) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#712](https://github.com/hyperledger/aries-framework-javascript/pull/712) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#225](https://github.com/didx-xyz/aries-cloudapi-python/issues/225) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🗣 Commented on [#437](https://github.com/hyperledger/aries-framework-javascript/issues/437) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❌ Closed PR [#437](https://github.com/hyperledger/aries-framework-javascript/pull/437) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#714](https://github.com/hyperledger/aries-framework-javascript/issues/714) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
