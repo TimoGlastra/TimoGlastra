@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#711](https://github.com/hyperledger/aries-framework-javascript/pull/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#732](https://github.com/hyperledger/aries-framework-javascript/pull/732) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#229](https://github.com/didx-xyz/aries-cloudapi-python/issues/229) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🎉 Merged PR [#735](https://github.com/hyperledger/aries-framework-javascript/pull/735) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#1755](https://github.com/hyperledger/aries-cloudagent-python/issues/1755) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🎉 Merged PR [#711](https://github.com/hyperledger/aries-framework-javascript/pull/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#711](https://github.com/hyperledger/aries-framework-javascript/issues/711) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#732](https://github.com/hyperledger/aries-framework-javascript/pull/732) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#229](https://github.com/didx-xyz/aries-cloudapi-python/issues/229) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
