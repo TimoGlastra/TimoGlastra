@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#685](https://github.com/hyperledger/aries-framework-javascript/issues/685) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#497](https://github.com/hyperledger/aries-agent-test-harness/issues/497) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🗣 Commented on [#1710](https://github.com/hyperledger/aries-cloudagent-python/issues/1710) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#1764](https://github.com/hyperledger/aries-cloudagent-python/issues/1764) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#93](https://github.com/Sphereon-Opensource/pex/issues/93) in [Sphereon-Opensource/pex](https://github.com/Sphereon-Opensource/pex)
+1. 🎉 Merged PR [#775](https://github.com/hyperledger/aries-framework-javascript/pull/775) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#699](https://github.com/hyperledger/aries-rfcs/issues/699) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. ❗️ Closed issue [#685](https://github.com/hyperledger/aries-framework-javascript/issues/685) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#497](https://github.com/hyperledger/aries-agent-test-harness/issues/497) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🗣 Commented on [#1710](https://github.com/hyperledger/aries-cloudagent-python/issues/1710) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
