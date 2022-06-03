@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#833](https://github.com/hyperledger/aries-framework-javascript/pull/833) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#832](https://github.com/hyperledger/aries-framework-javascript/issues/832) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#833](https://github.com/hyperledger/aries-framework-javascript/issues/833) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#234](https://github.com/didx-xyz/aries-cloudapi-python/pull/234) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🎉 Merged PR [#833](https://github.com/hyperledger/aries-framework-javascript/pull/833) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#832](https://github.com/hyperledger/aries-framework-javascript/issues/832) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#833](https://github.com/hyperledger/aries-framework-javascript/issues/833) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#831](https://github.com/hyperledger/aries-framework-javascript/issues/831) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#833](https://github.com/hyperledger/aries-framework-javascript/issues/833) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
