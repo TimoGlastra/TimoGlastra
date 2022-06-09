@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#841](https://github.com/hyperledger/aries-framework-javascript/pull/841) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#510](https://github.com/hyperledger/aries-agent-test-harness/issues/510) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🎉 Merged PR [#839](https://github.com/hyperledger/aries-framework-javascript/pull/839) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#836](https://github.com/hyperledger/aries-framework-javascript/issues/836) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#835](https://github.com/hyperledger/aries-framework-javascript/pull/835) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#803](https://github.com/hyperledger/aries-framework-javascript/issues/803) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#244](https://github.com/didx-xyz/aries-cloudapi-python/issues/244) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 🗣 Commented on [#841](https://github.com/hyperledger/aries-framework-javascript/issues/841) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#841](https://github.com/hyperledger/aries-framework-javascript/issues/841) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#841](https://github.com/hyperledger/aries-framework-javascript/pull/841) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
