@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#847](https://github.com/hyperledger/aries-framework-javascript/pull/847) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#846](https://github.com/hyperledger/aries-framework-javascript/pull/846) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#846](https://github.com/hyperledger/aries-framework-javascript/pull/846) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#245](https://github.com/didx-xyz/aries-cloudapi-python/issues/245) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❗️ Opened issue [#3](https://github.com/animo/aries-mobile-components/issues/3) in [animo/aries-mobile-components](https://github.com/animo/aries-mobile-components)
+1. 🗣 Commented on [#474](https://github.com/hyperledger/aries-agent-test-harness/issues/474) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🗣 Commented on [#1803](https://github.com/hyperledger/aries-cloudagent-python/issues/1803) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 💪 Opened PR [#847](https://github.com/hyperledger/aries-framework-javascript/pull/847) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#846](https://github.com/hyperledger/aries-framework-javascript/pull/846) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#846](https://github.com/hyperledger/aries-framework-javascript/pull/846) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
