@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#853](https://github.com/hyperledger/aries-framework-javascript/issues/853) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#851](https://github.com/hyperledger/aries-framework-javascript/issues/851) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#803](https://github.com/hyperledger/aries-framework-javascript/pull/803) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#474](https://github.com/hyperledger/aries-agent-test-harness/issues/474) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-5. 🗣 Commented on [#1803](https://github.com/hyperledger/aries-cloudagent-python/issues/1803) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#837](https://github.com/hyperledger/aries-framework-javascript/issues/837) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#841](https://github.com/hyperledger/aries-framework-javascript/issues/841) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#849](https://github.com/hyperledger/aries-framework-javascript/issues/849) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#853](https://github.com/hyperledger/aries-framework-javascript/issues/853) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#851](https://github.com/hyperledger/aries-framework-javascript/issues/851) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
