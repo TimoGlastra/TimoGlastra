@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/hyperledger/indy-vdr/issues/93) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 💪 Opened PR [#512](https://github.com/hyperledger/aries-agent-test-harness/pull/512) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-3. 🎉 Merged PR [#861](https://github.com/hyperledger/aries-framework-javascript/pull/861) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#862](https://github.com/hyperledger/aries-framework-javascript/pull/862) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#856](https://github.com/hyperledger/aries-framework-javascript/pull/856) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#862](https://github.com/hyperledger/aries-framework-javascript/pull/862) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#93](https://github.com/hyperledger/indy-vdr/issues/93) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 💪 Opened PR [#512](https://github.com/hyperledger/aries-agent-test-harness/pull/512) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. 🎉 Merged PR [#861](https://github.com/hyperledger/aries-framework-javascript/pull/861) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#862](https://github.com/hyperledger/aries-framework-javascript/pull/862) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
