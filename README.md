@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/TimoGlastra/aries-framework-javascript/pull/11) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-2. ❌ Closed PR [#10](https://github.com/TimoGlastra/aries-framework-javascript/pull/10) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-3. 💪 Opened PR [#10](https://github.com/TimoGlastra/aries-framework-javascript/pull/10) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
-4. ❌ Closed PR [#865](https://github.com/hyperledger/aries-framework-javascript/pull/865) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#865](https://github.com/hyperledger/aries-framework-javascript/issues/865) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#867](https://github.com/hyperledger/aries-framework-javascript/issues/867) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1478](https://github.com/googleapis/release-please/issues/1478) in [googleapis/release-please](https://github.com/googleapis/release-please)
+3. 💪 Opened PR [#15](https://github.com/TimoGlastra/aries-framework-javascript/pull/15) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+4. ❌ Closed PR [#14](https://github.com/TimoGlastra/aries-framework-javascript/pull/14) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+5. 💪 Opened PR [#14](https://github.com/TimoGlastra/aries-framework-javascript/pull/14) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
