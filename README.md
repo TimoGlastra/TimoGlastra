@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1266](https://github.com/lukeautry/tsoa/issues/1266) in [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
-2. 🗣 Commented on [#581](https://github.com/lukeautry/tsoa/issues/581) in [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
-3. 🎉 Merged PR [#864](https://github.com/hyperledger/aries-framework-javascript/pull/864) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#863](https://github.com/hyperledger/aries-framework-javascript/issues/863) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#868](https://github.com/hyperledger/aries-framework-javascript/issues/868) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#871](https://github.com/hyperledger/aries-framework-javascript/pull/871) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1266](https://github.com/lukeautry/tsoa/issues/1266) in [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+3. 🗣 Commented on [#581](https://github.com/lukeautry/tsoa/issues/581) in [lukeautry/tsoa](https://github.com/lukeautry/tsoa)
+4. 🎉 Merged PR [#864](https://github.com/hyperledger/aries-framework-javascript/pull/864) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#863](https://github.com/hyperledger/aries-framework-javascript/issues/863) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
