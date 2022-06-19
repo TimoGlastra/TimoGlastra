@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#885](https://github.com/hyperledger/aries-framework-javascript/issues/885) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#734](https://github.com/hyperledger/aries-framework-javascript/issues/734) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#884](https://github.com/hyperledger/aries-framework-javascript/issues/884) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#883](https://github.com/hyperledger/aries-framework-javascript/issues/883) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#632](https://github.com/hyperledger/aries-framework-javascript/issues/632) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#26](https://github.com/animo/aries-javascript-docs/pull/26) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+2. ❗️ Opened issue [#885](https://github.com/hyperledger/aries-framework-javascript/issues/885) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#734](https://github.com/hyperledger/aries-framework-javascript/issues/734) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#884](https://github.com/hyperledger/aries-framework-javascript/issues/884) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#883](https://github.com/hyperledger/aries-framework-javascript/issues/883) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
