@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/animo/aries-javascript-docs/pull/30) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
-2. ❗️ Closed issue [#31](https://github.com/animo/aries-javascript-docs/issues/31) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
-3. 🎉 Merged PR [#33](https://github.com/animo/aries-javascript-docs/pull/33) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
-4. ❗️ Closed issue [#25](https://github.com/animo/aries-javascript-docs/issues/25) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
-5. 🎉 Merged PR [#35](https://github.com/animo/aries-javascript-docs/pull/35) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+1. ❗️ Opened issue [#36](https://github.com/animo/aries-javascript-docs/issues/36) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+2. 🎉 Merged PR [#30](https://github.com/animo/aries-javascript-docs/pull/30) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+3. ❗️ Closed issue [#31](https://github.com/animo/aries-javascript-docs/issues/31) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+4. 🎉 Merged PR [#33](https://github.com/animo/aries-javascript-docs/pull/33) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+5. ❗️ Closed issue [#25](https://github.com/animo/aries-javascript-docs/issues/25) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
