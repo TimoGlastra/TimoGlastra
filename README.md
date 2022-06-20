@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#880](https://github.com/hyperledger/aries-framework-javascript/pull/880) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#119](https://github.com/hyperledger/aries-framework-javascript-ext/issues/119) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🗣 Commented on [#114](https://github.com/hyperledger/aries-framework-javascript-ext/issues/114) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🗣 Commented on [#883](https://github.com/hyperledger/aries-framework-javascript/issues/883) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#888](https://github.com/hyperledger/aries-framework-javascript/issues/888) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#882](https://github.com/hyperledger/aries-framework-javascript/pull/882) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#889](https://github.com/hyperledger/aries-framework-javascript/pull/889) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#880](https://github.com/hyperledger/aries-framework-javascript/pull/880) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#119](https://github.com/hyperledger/aries-framework-javascript-ext/issues/119) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🗣 Commented on [#114](https://github.com/hyperledger/aries-framework-javascript-ext/issues/114) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
