@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#890](https://github.com/hyperledger/aries-framework-javascript/pull/890) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#31](https://github.com/animo/aries-javascript-docs/issues/31) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
-3. 🎉 Merged PR [#889](https://github.com/hyperledger/aries-framework-javascript/pull/889) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#875](https://github.com/hyperledger/aries-framework-javascript/issues/875) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#30](https://github.com/animo/aries-javascript-docs/pull/30) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+1. ❗️ Opened issue [#34](https://github.com/animo/aries-javascript-docs/issues/34) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+2. 💪 Opened PR [#33](https://github.com/animo/aries-javascript-docs/pull/33) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+3. 💪 Opened PR [#32](https://github.com/animo/aries-javascript-docs/pull/32) in [animo/aries-javascript-docs](https://github.com/animo/aries-javascript-docs)
+4. 🗣 Commented on [#891](https://github.com/hyperledger/aries-framework-javascript/issues/891) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#892](https://github.com/hyperledger/aries-framework-javascript/pull/892) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
