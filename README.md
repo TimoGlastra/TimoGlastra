@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/hyperledger/aries-javascript-docs/issues/28) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. ❗️ Closed issue [#28](https://github.com/hyperledger/aries-javascript-docs/issues/28) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-3. 🎉 Merged PR [#44](https://github.com/hyperledger/aries-javascript-docs/pull/44) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 💪 Opened PR [#130](https://github.com/hyperledger/aries-framework-javascript-ext/pull/130) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 💪 Opened PR [#44](https://github.com/hyperledger/aries-javascript-docs/pull/44) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. ❌ Closed PR [#129](https://github.com/hyperledger/aries-framework-javascript-ext/pull/129) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. ❌ Closed PR [#119](https://github.com/hyperledger/aries-framework-javascript-ext/pull/119) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. ❌ Closed PR [#128](https://github.com/hyperledger/aries-framework-javascript-ext/pull/128) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❌ Closed PR [#114](https://github.com/hyperledger/aries-framework-javascript-ext/pull/114) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. ❌ Closed PR [#76](https://github.com/hyperledger/aries-framework-javascript-ext/pull/76) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
