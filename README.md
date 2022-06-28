@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#909](https://github.com/hyperledger/aries-framework-javascript/pull/909) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#906](https://github.com/hyperledger/aries-framework-javascript/pull/906) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#907](https://github.com/hyperledger/aries-framework-javascript/issues/907) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#911](https://github.com/hyperledger/aries-framework-javascript/pull/911) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#911](https://github.com/hyperledger/aries-framework-javascript/pull/911) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#859](https://github.com/hyperledger/aries-framework-javascript/issues/859) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#909](https://github.com/hyperledger/aries-framework-javascript/pull/909) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#906](https://github.com/hyperledger/aries-framework-javascript/pull/906) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#907](https://github.com/hyperledger/aries-framework-javascript/issues/907) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#911](https://github.com/hyperledger/aries-framework-javascript/pull/911) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
