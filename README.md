@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61069](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61069) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🗣 Commented on [#1851](https://github.com/hyperledger/aries-cloudagent-python/issues/1851) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🗣 Commented on [#599](https://github.com/hyperledger/aries-framework-javascript/issues/599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#48](https://github.com/hyperledger/aries-javascript-docs/pull/48) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. ❗️ Closed issue [#916](https://github.com/hyperledger/aries-framework-javascript/issues/916) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#50](https://github.com/hyperledger/indy-sdk-react-native/pull/50) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 💪 Opened PR [#61069](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61069) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 🗣 Commented on [#1851](https://github.com/hyperledger/aries-cloudagent-python/issues/1851) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🗣 Commented on [#599](https://github.com/hyperledger/aries-framework-javascript/issues/599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#48](https://github.com/hyperledger/aries-javascript-docs/pull/48) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
