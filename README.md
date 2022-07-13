@@ -16,9 +16,9 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#946](https://github.com/hyperledger/aries-framework-javascript/pull/946) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#900](https://github.com/hyperledger/aries-framework-javascript/issues/900) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#207](https://github.com/animo/agent-cli/issues/207) in [animo/agent-cli](https://github.com/animo/agent-cli)
+1. 🎉 Merged PR [#942](https://github.com/hyperledger/aries-framework-javascript/pull/942) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#946](https://github.com/hyperledger/aries-framework-javascript/pull/946) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#900](https://github.com/hyperledger/aries-framework-javascript/issues/900) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 4. 🗣 Commented on [#207](https://github.com/animo/agent-cli/issues/207) in [animo/agent-cli](https://github.com/animo/agent-cli)
 5. 🗣 Commented on [#207](https://github.com/animo/agent-cli/issues/207) in [animo/agent-cli](https://github.com/animo/agent-cli)
 <!--END_SECTION:activity-->
