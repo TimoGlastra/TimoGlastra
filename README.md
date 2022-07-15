@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1859](https://github.com/hyperledger/aries-cloudagent-python/issues/1859) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🎉 Merged PR [#951](https://github.com/hyperledger/aries-framework-javascript/pull/951) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#950](https://github.com/hyperledger/aries-framework-javascript/pull/950) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#138](https://github.com/hyperledger/aries-framework-javascript-ext/pull/138) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🎉 Merged PR [#132](https://github.com/hyperledger/aries-framework-javascript-ext/pull/132) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 💪 Opened PR [#61285](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61285) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#1859](https://github.com/hyperledger/aries-cloudagent-python/issues/1859) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🎉 Merged PR [#951](https://github.com/hyperledger/aries-framework-javascript/pull/951) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#950](https://github.com/hyperledger/aries-framework-javascript/pull/950) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#138](https://github.com/hyperledger/aries-framework-javascript-ext/pull/138) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
