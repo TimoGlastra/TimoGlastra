@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#405](https://github.com/decentralized-identity/didcomm-messaging/pull/405) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-2. 🗣 Commented on [#51](https://github.com/decentralized-identity/didcomm.org/issues/51) in [decentralized-identity/didcomm.org](https://github.com/decentralized-identity/didcomm.org)
-3. 🗣 Commented on [#1313](https://github.com/hyperledger/aries-cloudagent-python/issues/1313) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#61285](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61285) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 🗣 Commented on [#1859](https://github.com/hyperledger/aries-cloudagent-python/issues/1859) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#61285](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/61285) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 💪 Opened PR [#405](https://github.com/decentralized-identity/didcomm-messaging/pull/405) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
+3. 🗣 Commented on [#51](https://github.com/decentralized-identity/didcomm.org/issues/51) in [decentralized-identity/didcomm.org](https://github.com/decentralized-identity/didcomm.org)
+4. 🗣 Commented on [#1313](https://github.com/hyperledger/aries-cloudagent-python/issues/1313) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#61285](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/61285) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 ---
