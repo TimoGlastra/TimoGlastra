@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#963](https://github.com/hyperledger/aries-framework-javascript/pull/963) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#962](https://github.com/hyperledger/aries-framework-javascript/pull/962) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#959](https://github.com/hyperledger/aries-framework-javascript/pull/959) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#961](https://github.com/hyperledger/aries-framework-javascript/pull/961) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#962](https://github.com/hyperledger/aries-framework-javascript/pull/962) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#964](https://github.com/hyperledger/aries-framework-javascript/pull/964) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#963](https://github.com/hyperledger/aries-framework-javascript/pull/963) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#962](https://github.com/hyperledger/aries-framework-javascript/pull/962) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#959](https://github.com/hyperledger/aries-framework-javascript/pull/959) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#961](https://github.com/hyperledger/aries-framework-javascript/pull/961) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
