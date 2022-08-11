@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#979](https://github.com/hyperledger/aries-framework-javascript/issues/979) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#913](https://github.com/hyperledger/aries-framework-javascript/pull/913) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#913](https://github.com/hyperledger/aries-framework-javascript/issues/913) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#975](https://github.com/hyperledger/aries-framework-javascript/issues/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#972](https://github.com/hyperledger/aries-framework-javascript/issues/972) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#975](https://github.com/hyperledger/aries-framework-javascript/issues/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#975](https://github.com/hyperledger/aries-framework-javascript/pull/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#14](https://github.com/hyperledger/indy-shared-rs/issues/14) in [hyperledger/indy-shared-rs](https://github.com/hyperledger/indy-shared-rs)
+4. ❌ Closed PR [#945](https://github.com/hyperledger/aries-framework-javascript/pull/945) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#975](https://github.com/hyperledger/aries-framework-javascript/issues/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
