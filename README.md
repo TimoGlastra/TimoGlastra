@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/hyperledger/governance/issues/15) in [hyperledger/governance](https://github.com/hyperledger/governance)
-2. 🗣 Commented on [#746](https://github.com/hyperledger/aries-rfcs/issues/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#975](https://github.com/hyperledger/aries-framework-javascript/issues/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#975](https://github.com/hyperledger/aries-framework-javascript/pull/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#14](https://github.com/hyperledger/indy-shared-rs/issues/14) in [hyperledger/indy-shared-rs](https://github.com/hyperledger/indy-shared-rs)
+1. 🗣 Commented on [#955](https://github.com/hyperledger/aries-framework-javascript/issues/955) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#15](https://github.com/hyperledger/governance/issues/15) in [hyperledger/governance](https://github.com/hyperledger/governance)
+3. 🗣 Commented on [#746](https://github.com/hyperledger/aries-rfcs/issues/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#975](https://github.com/hyperledger/aries-framework-javascript/issues/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#975](https://github.com/hyperledger/aries-framework-javascript/pull/975) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
