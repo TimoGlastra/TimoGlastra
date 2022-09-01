@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1002](https://github.com/hyperledger/aries-framework-javascript/issues/1002) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#974](https://github.com/hyperledger/aries-framework-javascript/issues/974) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#211](https://github.com/animo/agent-cli/issues/211) in [animo/agent-cli](https://github.com/animo/agent-cli)
-4. ❗️ Opened issue [#87](https://github.com/animo/animo-demo/issues/87) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🎉 Merged PR [#150](https://github.com/hyperledger/aries-framework-javascript-ext/pull/150) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#974](https://github.com/hyperledger/aries-framework-javascript/pull/974) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1002](https://github.com/hyperledger/aries-framework-javascript/issues/1002) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#974](https://github.com/hyperledger/aries-framework-javascript/issues/974) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#211](https://github.com/animo/agent-cli/issues/211) in [animo/agent-cli](https://github.com/animo/agent-cli)
+5. ❗️ Opened issue [#87](https://github.com/animo/animo-demo/issues/87) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
