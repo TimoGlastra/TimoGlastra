@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/2) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-2. 💪 Opened PR [#2](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/2) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-3. 🗣 Commented on [#92](https://github.com/animo/animo-demo/issues/92) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. ❗️ Closed issue [#17](https://github.com/hyperledger/aries-framework-javascript-ext/issues/17) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. ❗️ Closed issue [#123](https://github.com/hyperledger/aries-framework-javascript-ext/issues/123) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. ❗️ Opened issue [#1009](https://github.com/hyperledger/aries-framework-javascript/issues/1009) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#92](https://github.com/animo/animo-demo/issues/92) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 🎉 Merged PR [#2](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/2) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+4. 💪 Opened PR [#2](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/2) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+5. 🗣 Commented on [#92](https://github.com/animo/animo-demo/issues/92) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
