@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1002](https://github.com/hyperledger/aries-framework-javascript/issues/1002) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#755](https://github.com/hyperledger/aries-framework-javascript/issues/755) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#494](https://github.com/hyperledger/aries-framework-javascript/issues/494) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#155](https://github.com/hyperledger/aries-framework-javascript-ext/issues/155) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. ❗️ Opened issue [#154](https://github.com/hyperledger/aries-framework-javascript-ext/issues/154) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#89](https://github.com/animo/animo-demo/issues/89) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 🗣 Commented on [#89](https://github.com/animo/animo-demo/issues/89) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. ❗️ Opened issue [#89](https://github.com/animo/animo-demo/issues/89) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 🗣 Commented on [#1002](https://github.com/hyperledger/aries-framework-javascript/issues/1002) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#755](https://github.com/hyperledger/aries-framework-javascript/issues/755) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
