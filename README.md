@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#746](https://github.com/hyperledger/aries-rfcs/pull/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#746](https://github.com/hyperledger/aries-rfcs/issues/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 💪 Opened PR [#57](https://github.com/decentralized-identity/didcomm.org/pull/57) in [decentralized-identity/didcomm.org](https://github.com/decentralized-identity/didcomm.org)
-4. ❗️ Opened issue [#1009](https://github.com/hyperledger/aries-framework-javascript/issues/1009) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#92](https://github.com/animo/animo-demo/issues/92) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. ❗️ Opened issue [#95](https://github.com/animo/animo-demo/issues/95) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. ❗️ Opened issue [#212](https://github.com/animo/agent-cli/issues/212) in [animo/agent-cli](https://github.com/animo/agent-cli)
+3. 🗣 Commented on [#80](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/80) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+4. ❌ Closed PR [#746](https://github.com/hyperledger/aries-rfcs/pull/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#746](https://github.com/hyperledger/aries-rfcs/issues/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
