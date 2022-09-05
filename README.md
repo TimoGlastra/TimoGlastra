@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#95](https://github.com/animo/animo-demo/issues/95) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. ❗️ Opened issue [#212](https://github.com/animo/agent-cli/issues/212) in [animo/agent-cli](https://github.com/animo/agent-cli)
-3. 🗣 Commented on [#80](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/80) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
-4. ❌ Closed PR [#746](https://github.com/hyperledger/aries-rfcs/pull/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. 🗣 Commented on [#746](https://github.com/hyperledger/aries-rfcs/issues/746) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🎉 Merged PR [#159](https://github.com/hyperledger/aries-framework-javascript-ext/pull/159) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#18](https://github.com/cheqd/identity-docs/issues/18) in [cheqd/identity-docs](https://github.com/cheqd/identity-docs)
+3. ❗️ Opened issue [#95](https://github.com/animo/animo-demo/issues/95) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. ❗️ Opened issue [#212](https://github.com/animo/agent-cli/issues/212) in [animo/agent-cli](https://github.com/animo/agent-cli)
+5. 🗣 Commented on [#80](https://github.com/didx-xyz/aries-cloudcontroller-python/issues/80) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
 <!--END_SECTION:activity-->
 
 ---
