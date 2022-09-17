@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1031](https://github.com/hyperledger/aries-framework-javascript/issues/1031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#157](https://github.com/hyperledger/aries-framework-javascript-ext/issues/157) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. ❗️ Closed issue [#156](https://github.com/hyperledger/aries-framework-javascript-ext/issues/156) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🎉 Merged PR [#169](https://github.com/hyperledger/aries-framework-javascript-ext/pull/169) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#156](https://github.com/hyperledger/aries-framework-javascript-ext/issues/156) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#2](https://github.com/animo/indy-sdk-expo-plugin/pull/2) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+2. ❗️ Opened issue [#1031](https://github.com/hyperledger/aries-framework-javascript/issues/1031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#157](https://github.com/hyperledger/aries-framework-javascript-ext/issues/157) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. ❗️ Closed issue [#156](https://github.com/hyperledger/aries-framework-javascript-ext/issues/156) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#169](https://github.com/hyperledger/aries-framework-javascript-ext/pull/169) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
