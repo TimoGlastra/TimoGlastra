@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1027](https://github.com/hyperledger/aries-framework-javascript/issues/1027) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#2](https://github.com/animo/indy-sdk-expo-plugin/pull/2) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
-3. ❗️ Opened issue [#1031](https://github.com/hyperledger/aries-framework-javascript/issues/1031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#157](https://github.com/hyperledger/aries-framework-javascript-ext/issues/157) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. ❗️ Closed issue [#156](https://github.com/hyperledger/aries-framework-javascript-ext/issues/156) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. ❗️ Opened issue [#73](https://github.com/AnonCreds-WG/anoncreds-spec/issues/73) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+2. 🗣 Commented on [#1027](https://github.com/hyperledger/aries-framework-javascript/issues/1027) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#2](https://github.com/animo/indy-sdk-expo-plugin/pull/2) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+4. ❗️ Opened issue [#1031](https://github.com/hyperledger/aries-framework-javascript/issues/1031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#157](https://github.com/hyperledger/aries-framework-javascript-ext/issues/157) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
