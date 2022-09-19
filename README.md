@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#74](https://github.com/AnonCreds-WG/anoncreds-spec/issues/74) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-2. ❗️ Opened issue [#73](https://github.com/AnonCreds-WG/anoncreds-spec/issues/73) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-3. 🗣 Commented on [#1027](https://github.com/hyperledger/aries-framework-javascript/issues/1027) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#2](https://github.com/animo/indy-sdk-expo-plugin/pull/2) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
-5. ❗️ Opened issue [#1031](https://github.com/hyperledger/aries-framework-javascript/issues/1031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#32](https://github.com/animo/awesome-self-sovereign-identity/pull/32) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. ❗️ Opened issue [#74](https://github.com/AnonCreds-WG/anoncreds-spec/issues/74) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+3. ❗️ Opened issue [#73](https://github.com/AnonCreds-WG/anoncreds-spec/issues/73) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+4. 🗣 Commented on [#1027](https://github.com/hyperledger/aries-framework-javascript/issues/1027) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#2](https://github.com/animo/indy-sdk-expo-plugin/pull/2) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
 <!--END_SECTION:activity-->
 
 ---
