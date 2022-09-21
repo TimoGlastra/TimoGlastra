@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1029](https://github.com/hyperledger/aries-framework-javascript/issues/1029) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#4](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/4) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-3. 🎉 Merged PR [#3](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/3) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-4. 🎉 Merged PR [#32](https://github.com/animo/awesome-self-sovereign-identity/pull/32) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
-5. ❗️ Opened issue [#74](https://github.com/AnonCreds-WG/anoncreds-spec/issues/74) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+1. 🗣 Commented on [#56](https://github.com/hyperledger/indy-sdk-react-native/issues/56) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. ❗️ Opened issue [#1032](https://github.com/hyperledger/aries-framework-javascript/issues/1032) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1029](https://github.com/hyperledger/aries-framework-javascript/issues/1029) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#4](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/4) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+5. 🎉 Merged PR [#3](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/3) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
 <!--END_SECTION:activity-->
 
 ---
