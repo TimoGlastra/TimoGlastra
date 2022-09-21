@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/4) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-2. 🗣 Commented on [#56](https://github.com/hyperledger/indy-sdk-react-native/issues/56) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. ❗️ Opened issue [#1032](https://github.com/hyperledger/aries-framework-javascript/issues/1032) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1029](https://github.com/hyperledger/aries-framework-javascript/issues/1029) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#4](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/4) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+1. 🎉 Merged PR [#170](https://github.com/hyperledger/aries-framework-javascript-ext/pull/170) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#6](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/6) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+3. 💪 Opened PR [#6](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/6) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+4. 🎉 Merged PR [#5](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/5) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+5. 💪 Opened PR [#5](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/5) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
 <!--END_SECTION:activity-->
 
 ---
