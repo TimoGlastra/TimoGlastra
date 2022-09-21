@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#170](https://github.com/hyperledger/aries-framework-javascript-ext/pull/170) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🎉 Merged PR [#6](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/6) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-3. 💪 Opened PR [#6](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/6) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-4. 🎉 Merged PR [#5](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/5) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-5. 💪 Opened PR [#5](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/5) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
+1. 🎉 Merged PR [#167](https://github.com/hyperledger/aries-framework-javascript-ext/pull/167) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#1951](https://github.com/hyperledger/aries-cloudagent-python/issues/1951) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🎉 Merged PR [#80](https://github.com/didx-xyz/aries-cloudcontroller-python/pull/80) in [didx-xyz/aries-cloudcontroller-python](https://github.com/didx-xyz/aries-cloudcontroller-python)
+4. 🎉 Merged PR [#170](https://github.com/hyperledger/aries-framework-javascript-ext/pull/170) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#6](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/6) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
 <!--END_SECTION:activity-->
 
 ---
