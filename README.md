@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1033](https://github.com/hyperledger/aries-framework-javascript/issues/1033) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1020](https://github.com/hyperledger/aries-framework-javascript/issues/1020) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1034](https://github.com/hyperledger/aries-framework-javascript/issues/1034) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1028](https://github.com/hyperledger/aries-framework-javascript/pull/1028) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1931](https://github.com/hyperledger/aries-cloudagent-python/issues/1931) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. ❗️ Closed issue [#997](https://github.com/hyperledger/aries-framework-javascript/issues/997) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#1034](https://github.com/hyperledger/aries-framework-javascript/pull/1034) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1033](https://github.com/hyperledger/aries-framework-javascript/issues/1033) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1020](https://github.com/hyperledger/aries-framework-javascript/issues/1020) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1034](https://github.com/hyperledger/aries-framework-javascript/issues/1034) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
