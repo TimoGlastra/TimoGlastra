@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1038](https://github.com/hyperledger/aries-framework-javascript/issues/1038) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#76](https://github.com/AnonCreds-WG/anoncreds-spec/issues/76) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-3. 💪 Opened PR [#80](https://github.com/AnonCreds-WG/anoncreds-spec/pull/80) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-4. 🗣 Commented on [#77](https://github.com/AnonCreds-WG/anoncreds-spec/issues/77) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-5. 🎉 Merged PR [#149](https://github.com/WebOfTrustInfo/rwot11-the-hague/pull/149) in [WebOfTrustInfo/rwot11-the-hague](https://github.com/WebOfTrustInfo/rwot11-the-hague)
+1. 🗣 Commented on [#57](https://github.com/hyperledger/indy-sdk-react-native/issues/57) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🗣 Commented on [#1038](https://github.com/hyperledger/aries-framework-javascript/issues/1038) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#76](https://github.com/AnonCreds-WG/anoncreds-spec/issues/76) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+4. 💪 Opened PR [#80](https://github.com/AnonCreds-WG/anoncreds-spec/pull/80) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+5. 🗣 Commented on [#77](https://github.com/AnonCreds-WG/anoncreds-spec/issues/77) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
