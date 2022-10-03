@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#253](https://github.com/didx-xyz/aries-cloudapi-python/issues/253) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. 🗣 Commented on [#111](https://github.com/animo/animo-demo/issues/111) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 💪 Opened PR [#174](https://github.com/hyperledger/aries-framework-javascript-ext/pull/174) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 💪 Opened PR [#254](https://github.com/didx-xyz/aries-cloudapi-python/pull/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#57](https://github.com/hyperledger/indy-sdk-react-native/issues/57) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. 🗣 Commented on [#82](https://github.com/AnonCreds-WG/anoncreds-spec/issues/82) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+2. 🗣 Commented on [#253](https://github.com/didx-xyz/aries-cloudapi-python/issues/253) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. 🗣 Commented on [#111](https://github.com/animo/animo-demo/issues/111) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 💪 Opened PR [#174](https://github.com/hyperledger/aries-framework-javascript-ext/pull/174) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 💪 Opened PR [#254](https://github.com/didx-xyz/aries-cloudapi-python/pull/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
