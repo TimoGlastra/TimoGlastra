@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1035](https://github.com/hyperledger/aries-framework-javascript/issues/1035) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#1046](https://github.com/hyperledger/aries-framework-javascript/issues/1046) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#965](https://github.com/hyperledger/aries-framework-javascript/issues/965) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1043](https://github.com/hyperledger/aries-framework-javascript/issues/1043) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#87](https://github.com/animo/animo-demo/issues/87) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 🗣 Commented on [#1040](https://github.com/hyperledger/aries-framework-javascript/issues/1040) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#965](https://github.com/hyperledger/aries-framework-javascript/issues/965) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#1045](https://github.com/hyperledger/aries-framework-javascript/pull/1045) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1035](https://github.com/hyperledger/aries-framework-javascript/issues/1035) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#1046](https://github.com/hyperledger/aries-framework-javascript/issues/1046) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
