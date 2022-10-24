@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1057](https://github.com/hyperledger/aries-framework-javascript/pull/1057) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1057](https://github.com/hyperledger/aries-framework-javascript/issues/1057) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#1054](https://github.com/hyperledger/aries-framework-javascript/issues/1054) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#1058](https://github.com/hyperledger/aries-framework-javascript/issues/1058) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1056](https://github.com/hyperledger/aries-framework-javascript/issues/1056) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#1068](https://github.com/hyperledger/aries-framework-javascript/issues/1068) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1067](https://github.com/hyperledger/aries-framework-javascript/issues/1067) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#1066](https://github.com/hyperledger/aries-framework-javascript/issues/1066) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#1065](https://github.com/hyperledger/aries-framework-javascript/issues/1065) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#609](https://github.com/hyperledger/aries-vcx/issues/609) in [hyperledger/aries-vcx](https://github.com/hyperledger/aries-vcx)
 <!--END_SECTION:activity-->
 
 ---
