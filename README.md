@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#760](https://github.com/hyperledger/aries-framework-javascript/pull/760) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#80](https://github.com/AnonCreds-WG/anoncreds-spec/issues/80) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
-3. ❗️ Opened issue [#1068](https://github.com/hyperledger/aries-framework-javascript/issues/1068) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#1067](https://github.com/hyperledger/aries-framework-javascript/issues/1067) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1066](https://github.com/hyperledger/aries-framework-javascript/issues/1066) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Closed issue [#1056](https://github.com/hyperledger/aries-framework-javascript/issues/1056) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#1062](https://github.com/hyperledger/aries-framework-javascript/pull/1062) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❌ Closed PR [#760](https://github.com/hyperledger/aries-framework-javascript/pull/760) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#80](https://github.com/AnonCreds-WG/anoncreds-spec/issues/80) in [AnonCreds-WG/anoncreds-spec](https://github.com/AnonCreds-WG/anoncreds-spec)
+5. ❗️ Opened issue [#1068](https://github.com/hyperledger/aries-framework-javascript/issues/1068) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
