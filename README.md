@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/hyperledger/anoncreds-rs/issues/2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#1084](https://github.com/hyperledger/aries-framework-javascript/issues/1084) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#261](https://github.com/didx-xyz/aries-cloudapi-python/issues/261) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#254](https://github.com/didx-xyz/aries-cloudapi-python/issues/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. ❌ Reopened PR [#254](https://github.com/didx-xyz/aries-cloudapi-python/pull/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+1. 💪 Opened PR [#3](https://github.com/hyperledger/anoncreds-rs/pull/3) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗️ Opened issue [#2](https://github.com/hyperledger/anoncreds-rs/issues/2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#1084](https://github.com/hyperledger/aries-framework-javascript/issues/1084) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#261](https://github.com/didx-xyz/aries-cloudapi-python/issues/261) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🗣 Commented on [#254](https://github.com/didx-xyz/aries-cloudapi-python/issues/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
