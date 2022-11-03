@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/hyperledger/anoncreds-rs/issues/5) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#4](https://github.com/hyperledger/anoncreds-rs/issues/4) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. ❗️ Opened issue [#4](https://github.com/hyperledger/anoncreds-rs/issues/4) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#1998](https://github.com/hyperledger/aries-cloudagent-python/issues/1998) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 💪 Opened PR [#3](https://github.com/hyperledger/anoncreds-rs/pull/3) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗️ Opened issue [#12](https://github.com/hyperledger/anoncreds-rs/issues/12) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗️ Opened issue [#11](https://github.com/hyperledger/anoncreds-rs/issues/11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. ❗️ Opened issue [#10](https://github.com/hyperledger/anoncreds-rs/issues/10) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. ❗️ Opened issue [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. ❗️ Opened issue [#8](https://github.com/hyperledger/anoncreds-rs/issues/8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
