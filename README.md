@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/hyperledger/anoncreds-rs/issues/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#4](https://github.com/hyperledger/anoncreds-rs/issues/4) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 2. 🗣 Commented on [#14](https://github.com/hyperledger/anoncreds-rs/issues/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#1086](https://github.com/hyperledger/aries-framework-javascript/issues/1086) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1085](https://github.com/hyperledger/aries-framework-javascript/pull/1085) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#14](https://github.com/hyperledger/anoncreds-rs/issues/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#14](https://github.com/hyperledger/anoncreds-rs/issues/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#1086](https://github.com/hyperledger/aries-framework-javascript/issues/1086) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1085](https://github.com/hyperledger/aries-framework-javascript/pull/1085) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
