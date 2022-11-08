@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/hyperledger/anoncreds-rs/issues/8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#16](https://github.com/hyperledger/anoncreds-rs/pull/16) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. ❗️ Closed issue [#2](https://github.com/hyperledger/anoncreds-rs/issues/2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🎉 Merged PR [#14](https://github.com/hyperledger/anoncreds-rs/pull/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#14](https://github.com/hyperledger/anoncreds-rs/issues/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗️ Opened issue [#1088](https://github.com/hyperledger/aries-framework-javascript/issues/1088) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#8](https://github.com/hyperledger/anoncreds-rs/issues/8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#16](https://github.com/hyperledger/anoncreds-rs/pull/16) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. ❗️ Closed issue [#2](https://github.com/hyperledger/anoncreds-rs/issues/2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🎉 Merged PR [#14](https://github.com/hyperledger/anoncreds-rs/pull/14) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
