@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1092](https://github.com/hyperledger/aries-framework-javascript/issues/1092) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1096](https://github.com/hyperledger/aries-framework-javascript/issues/1096) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#104](https://github.com/hyperledger/anoncreds-spec/issues/104) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. 🎉 Merged PR [#7](https://github.com/didx-xyz/acapy-wallet-groups-plugin/pull/7) in [didx-xyz/acapy-wallet-groups-plugin](https://github.com/didx-xyz/acapy-wallet-groups-plugin)
-5. 🗣 Commented on [#1095](https://github.com/hyperledger/aries-framework-javascript/issues/1095) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#74](https://github.com/hyperledger/aries-javascript-docs/pull/74) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🗣 Commented on [#74](https://github.com/hyperledger/aries-javascript-docs/issues/74) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. 🗣 Commented on [#1092](https://github.com/hyperledger/aries-framework-javascript/issues/1092) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1092](https://github.com/hyperledger/aries-framework-javascript/issues/1092) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1096](https://github.com/hyperledger/aries-framework-javascript/issues/1096) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
