@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#267](https://github.com/didx-xyz/aries-cloudapi-python/issues/267) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-2. ❗️ Closed issue [#265](https://github.com/didx-xyz/aries-cloudapi-python/issues/265) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🎉 Merged PR [#266](https://github.com/didx-xyz/aries-cloudapi-python/pull/266) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🎉 Merged PR [#74](https://github.com/hyperledger/aries-javascript-docs/pull/74) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 🗣 Commented on [#74](https://github.com/hyperledger/aries-javascript-docs/issues/74) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. ❗️ Opened issue [#269](https://github.com/didx-xyz/aries-cloudapi-python/issues/269) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+2. 🗣 Commented on [#268](https://github.com/didx-xyz/aries-cloudapi-python/issues/268) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+3. ❗️ Opened issue [#268](https://github.com/didx-xyz/aries-cloudapi-python/issues/268) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. ❗️ Opened issue [#267](https://github.com/didx-xyz/aries-cloudapi-python/issues/267) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. ❗️ Closed issue [#265](https://github.com/didx-xyz/aries-cloudapi-python/issues/265) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
