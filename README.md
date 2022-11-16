@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#262](https://github.com/didx-xyz/aries-cloudapi-python/issues/262) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-3. 🎉 Merged PR [#254](https://github.com/didx-xyz/aries-cloudapi-python/pull/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-4. 🗣 Commented on [#254](https://github.com/didx-xyz/aries-cloudapi-python/issues/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
-5. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#114](https://github.com/hyperledger/indy-vdr/issues/114) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 💪 Opened PR [#114](https://github.com/hyperledger/indy-vdr/pull/114) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#262](https://github.com/didx-xyz/aries-cloudapi-python/issues/262) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+5. 🎉 Merged PR [#254](https://github.com/didx-xyz/aries-cloudapi-python/pull/254) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
 <!--END_SECTION:activity-->
 
 ---
