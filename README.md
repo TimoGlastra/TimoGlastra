@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1081](https://github.com/hyperledger/aries-framework-javascript/issues/1081) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1112](https://github.com/hyperledger/aries-framework-javascript/pull/1112) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#105](https://github.com/hyperledger/anoncreds-spec/issues/105) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#1081](https://github.com/hyperledger/aries-framework-javascript/issues/1081) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1112](https://github.com/hyperledger/aries-framework-javascript/pull/1112) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
