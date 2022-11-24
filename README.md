@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#15](https://github.com/animo/animo-demo/issues/15) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Closed issue [#1081](https://github.com/hyperledger/aries-framework-javascript/issues/1081) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#28](https://github.com/animo/react-native-bbs-signatures/issues/28) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
+2. 🗣 Commented on [#1116](https://github.com/hyperledger/aries-framework-javascript/issues/1116) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Closed issue [#15](https://github.com/animo/animo-demo/issues/15) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#1081](https://github.com/hyperledger/aries-framework-javascript/issues/1081) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
