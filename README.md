@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1117](https://github.com/hyperledger/aries-framework-javascript/issues/1117) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1118](https://github.com/hyperledger/aries-framework-javascript/issues/1118) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#80](https://github.com/hyperledger/anoncreds-spec/issues/80) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. 🗣 Commented on [#21](https://github.com/hyperledger/anoncreds-rs/issues/21) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 3. 🗣 Commented on [#1117](https://github.com/hyperledger/aries-framework-javascript/issues/1117) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#138](https://github.com/animo/animo-demo/pull/138) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🗣 Commented on [#279](https://github.com/didx-xyz/aries-cloudapi-python/issues/279) in [didx-xyz/aries-cloudapi-python](https://github.com/didx-xyz/aries-cloudapi-python)
+4. 🗣 Commented on [#1118](https://github.com/hyperledger/aries-framework-javascript/issues/1118) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1117](https://github.com/hyperledger/aries-framework-javascript/issues/1117) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
