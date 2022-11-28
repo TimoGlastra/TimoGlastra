@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#108](https://github.com/hyperledger/anoncreds-spec/issues/108) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. ❗️ Opened issue [#108](https://github.com/hyperledger/anoncreds-spec/issues/108) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. ❗️ Opened issue [#115](https://github.com/hyperledger/indy-vdr/issues/115) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. ❗️ Opened issue [#23](https://github.com/hyperledger/anoncreds-rs/issues/23) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗️ Opened issue [#22](https://github.com/hyperledger/anoncreds-rs/issues/22) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#21](https://github.com/hyperledger/anoncreds-rs/issues/21) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
