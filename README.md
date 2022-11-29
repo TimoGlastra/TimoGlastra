@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-framework-javascript/issues/1125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#23](https://github.com/hyperledger/anoncreds-rs/issues/23) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗️ Opened issue [#22](https://github.com/hyperledger/anoncreds-rs/issues/22) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#21](https://github.com/hyperledger/anoncreds-rs/issues/21) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#1123](https://github.com/hyperledger/aries-framework-javascript/issues/1123) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1124](https://github.com/hyperledger/aries-framework-javascript/issues/1124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1125](https://github.com/hyperledger/aries-framework-javascript/issues/1125) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#23](https://github.com/hyperledger/anoncreds-rs/issues/23) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
