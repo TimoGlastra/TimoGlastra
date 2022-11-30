@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#13](https://github.com/animo/react-native-ble-didcomm/issues/13) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-3. ❗️ Opened issue [#1130](https://github.com/hyperledger/aries-framework-javascript/issues/1130) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1124](https://github.com/hyperledger/aries-framework-javascript/issues/1124) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1128](https://github.com/hyperledger/aries-framework-javascript/issues/1128) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1129](https://github.com/hyperledger/aries-framework-javascript/issues/1129) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1132](https://github.com/hyperledger/aries-framework-javascript/issues/1132) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#1132](https://github.com/hyperledger/aries-framework-javascript/issues/1132) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1108](https://github.com/hyperledger/aries-framework-javascript/issues/1108) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#13](https://github.com/animo/react-native-ble-didcomm/issues/13) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 <!--END_SECTION:activity-->
 
 ---
