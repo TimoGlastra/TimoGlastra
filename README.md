@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/hyperledger/aries-javascript-docs/pull/78) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. ❗️ Opened issue [#1136](https://github.com/hyperledger/aries-framework-javascript/issues/1136) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#1135](https://github.com/hyperledger/aries-framework-javascript/issues/1135) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#1134](https://github.com/hyperledger/aries-framework-javascript/pull/1134) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#3320](https://github.com/trpc/trpc/issues/3320) in [trpc/trpc](https://github.com/trpc/trpc)
+1. 🗣 Commented on [#114](https://github.com/hyperledger/indy-vdr/issues/114) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#2035](https://github.com/hyperledger/aries-cloudagent-python/issues/2035) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🎉 Merged PR [#78](https://github.com/hyperledger/aries-javascript-docs/pull/78) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+4. ❗️ Opened issue [#1136](https://github.com/hyperledger/aries-framework-javascript/issues/1136) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#1135](https://github.com/hyperledger/aries-framework-javascript/issues/1135) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
