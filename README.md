@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/hyperledger/anoncreds-rs/issues/25) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#180](https://github.com/hyperledger/aries-framework-javascript-ext/issues/180) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🎉 Merged PR [#1146](https://github.com/hyperledger/aries-framework-javascript/pull/1146) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1119](https://github.com/hyperledger/aries-framework-javascript/issues/1119) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1096](https://github.com/hyperledger/aries-framework-javascript/issues/1096) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1145](https://github.com/hyperledger/aries-framework-javascript/issues/1145) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1139](https://github.com/hyperledger/aries-framework-javascript/issues/1139) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#25](https://github.com/hyperledger/anoncreds-rs/issues/25) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#180](https://github.com/hyperledger/aries-framework-javascript-ext/issues/180) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#1146](https://github.com/hyperledger/aries-framework-javascript/pull/1146) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
