@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#1153](https://github.com/hyperledger/aries-framework-javascript/pull/1153) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#121](https://github.com/hyperledger/indy-vdr/pull/121) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#11](https://github.com/hyperledger/anoncreds-rs/issues/11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#1119](https://github.com/hyperledger/aries-framework-javascript/pull/1119) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#1155](https://github.com/hyperledger/aries-framework-javascript/issues/1155) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Closed issue [#1114](https://github.com/hyperledger/aries-framework-javascript/issues/1114) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#1153](https://github.com/hyperledger/aries-framework-javascript/pull/1153) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#121](https://github.com/hyperledger/indy-vdr/pull/121) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#11](https://github.com/hyperledger/anoncreds-rs/issues/11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
