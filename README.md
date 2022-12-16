@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1171](https://github.com/hyperledger/aries-framework-javascript/issues/1171) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#1170](https://github.com/hyperledger/aries-framework-javascript/issues/1170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#761](https://github.com/hyperledger/aries-rfcs/issues/761) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. ❗️ Opened issue [#1169](https://github.com/hyperledger/aries-framework-javascript/issues/1169) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1168](https://github.com/hyperledger/aries-framework-javascript/issues/1168) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#122](https://github.com/hyperledger/indy-vdr/issues/122) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗️ Opened issue [#1172](https://github.com/hyperledger/aries-framework-javascript/issues/1172) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1102](https://github.com/hyperledger/aries-framework-javascript/issues/1102) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#1171](https://github.com/hyperledger/aries-framework-javascript/issues/1171) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#1170](https://github.com/hyperledger/aries-framework-javascript/issues/1170) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
