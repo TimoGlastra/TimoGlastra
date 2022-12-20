@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1179](https://github.com/hyperledger/aries-framework-javascript/issues/1179) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#1178](https://github.com/hyperledger/aries-framework-javascript/pull/1178) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#240](https://github.com/animo/siera/issues/240) in [animo/siera](https://github.com/animo/siera)
-4. 💪 Opened PR [#1](https://github.com/petridishdev/aries-framework-javascript-test-data-generator/pull/1) in [petridishdev/aries-framework-javascript-test-data-generator](https://github.com/petridishdev/aries-framework-javascript-test-data-generator)
-5. 🎉 Merged PR [#1173](https://github.com/hyperledger/aries-framework-javascript/pull/1173) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1178](https://github.com/hyperledger/aries-framework-javascript/issues/1178) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#1179](https://github.com/hyperledger/aries-framework-javascript/issues/1179) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#1178](https://github.com/hyperledger/aries-framework-javascript/pull/1178) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#240](https://github.com/animo/siera/issues/240) in [animo/siera](https://github.com/animo/siera)
+5. 💪 Opened PR [#1](https://github.com/petridishdev/aries-framework-javascript-test-data-generator/pull/1) in [petridishdev/aries-framework-javascript-test-data-generator](https://github.com/petridishdev/aries-framework-javascript-test-data-generator)
 <!--END_SECTION:activity-->
 
 ---
