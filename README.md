@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/petridishdev/aries-framework-javascript-test-data-generator/pull/1) in [petridishdev/aries-framework-javascript-test-data-generator](https://github.com/petridishdev/aries-framework-javascript-test-data-generator)
-2. 🎉 Merged PR [#1173](https://github.com/hyperledger/aries-framework-javascript/pull/1173) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#1175](https://github.com/hyperledger/aries-framework-javascript/pull/1175) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1158](https://github.com/hyperledger/aries-framework-javascript/pull/1158) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#70](https://github.com/hyperledger/aries-askar/issues/70) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#240](https://github.com/animo/siera/issues/240) in [animo/siera](https://github.com/animo/siera)
+2. 💪 Opened PR [#1](https://github.com/petridishdev/aries-framework-javascript-test-data-generator/pull/1) in [petridishdev/aries-framework-javascript-test-data-generator](https://github.com/petridishdev/aries-framework-javascript-test-data-generator)
+3. 🎉 Merged PR [#1173](https://github.com/hyperledger/aries-framework-javascript/pull/1173) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#1175](https://github.com/hyperledger/aries-framework-javascript/pull/1175) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1158](https://github.com/hyperledger/aries-framework-javascript/pull/1158) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
