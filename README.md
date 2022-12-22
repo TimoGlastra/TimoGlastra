@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/animo/animo-demo/pull/152) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 💪 Opened PR [#151](https://github.com/animo/animo-demo/pull/151) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 🎉 Merged PR [#150](https://github.com/animo/animo-demo/pull/150) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. 💪 Opened PR [#150](https://github.com/animo/animo-demo/pull/150) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🗣 Commented on [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#1064](https://github.com/hyperledger/aries-framework-javascript/pull/1064) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#152](https://github.com/animo/animo-demo/pull/152) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. 💪 Opened PR [#151](https://github.com/animo/animo-demo/pull/151) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 🎉 Merged PR [#150](https://github.com/animo/animo-demo/pull/150) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. 💪 Opened PR [#150](https://github.com/animo/animo-demo/pull/150) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
