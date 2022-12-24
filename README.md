@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#116](https://github.com/hyperledger/anoncreds-spec/issues/116) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. ❗️ Opened issue [#1183](https://github.com/hyperledger/aries-framework-javascript/issues/1183) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 2. 🗣 Commented on [#116](https://github.com/hyperledger/anoncreds-spec/issues/116) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-3. 🗣 Commented on [#1128](https://github.com/hyperledger/aries-framework-javascript/issues/1128) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#116](https://github.com/hyperledger/anoncreds-spec/issues/116) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 4. 🗣 Commented on [#1128](https://github.com/hyperledger/aries-framework-javascript/issues/1128) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#628](https://github.com/hyperledger/aries-agent-test-harness/issues/628) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+5. 🗣 Commented on [#1128](https://github.com/hyperledger/aries-framework-javascript/issues/1128) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
