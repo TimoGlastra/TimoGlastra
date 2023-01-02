@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1186](https://github.com/hyperledger/aries-framework-javascript/pull/1186) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#1184](https://github.com/hyperledger/aries-framework-javascript/pull/1184) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#83](https://github.com/hyperledger/aries-javascript-docs/pull/83) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 🗣 Commented on [#1184](https://github.com/hyperledger/aries-framework-javascript/issues/1184) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1183](https://github.com/hyperledger/aries-framework-javascript/issues/1183) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#3](https://github.com/animo/indy-sdk-expo-plugin/issues/3) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+2. 🗣 Commented on [#4](https://github.com/animo/indy-sdk-expo-plugin/issues/4) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+3. 🗣 Commented on [#4](https://github.com/animo/indy-sdk-expo-plugin/issues/4) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+4. 🎉 Merged PR [#1186](https://github.com/hyperledger/aries-framework-javascript/pull/1186) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1184](https://github.com/hyperledger/aries-framework-javascript/pull/1184) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
