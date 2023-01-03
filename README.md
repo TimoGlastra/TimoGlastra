@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1189](https://github.com/hyperledger/aries-framework-javascript/issues/1189) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#5](https://github.com/animo/indy-sdk-expo-plugin/pull/5) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
-3. 💪 Opened PR [#5](https://github.com/animo/indy-sdk-expo-plugin/pull/5) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
-4. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. ❗️ Opened issue [#39](https://github.com/hyperledger/anoncreds-rs/issues/39) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🎉 Merged PR [#84](https://github.com/hyperledger/aries-javascript-docs/pull/84) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🗣 Commented on [#65](https://github.com/kevlened/isomorphic-webcrypto/issues/65) in [kevlened/isomorphic-webcrypto](https://github.com/kevlened/isomorphic-webcrypto)
+3. 💪 Opened PR [#84](https://github.com/hyperledger/aries-javascript-docs/pull/84) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+4. 🗣 Commented on [#65](https://github.com/kevlened/isomorphic-webcrypto/issues/65) in [kevlened/isomorphic-webcrypto](https://github.com/kevlened/isomorphic-webcrypto)
+5. 🗣 Commented on [#1189](https://github.com/hyperledger/aries-framework-javascript/issues/1189) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
