@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#125](https://github.com/hyperledger/anoncreds-spec/pull/125) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. 💪 Opened PR [#124](https://github.com/hyperledger/anoncreds-spec/pull/124) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-3. ❗️ Opened issue [#123](https://github.com/hyperledger/anoncreds-spec/issues/123) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. ❗️ Opened issue [#38](https://github.com/hyperledger/anoncreds-rs/issues/38) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#35](https://github.com/hyperledger/anoncreds-rs/pull/35) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#126](https://github.com/hyperledger/anoncreds-spec/pull/126) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. 💪 Opened PR [#125](https://github.com/hyperledger/anoncreds-spec/pull/125) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. 💪 Opened PR [#124](https://github.com/hyperledger/anoncreds-spec/pull/124) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+4. ❗️ Opened issue [#123](https://github.com/hyperledger/anoncreds-spec/issues/123) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+5. ❗️ Opened issue [#38](https://github.com/hyperledger/anoncreds-rs/issues/38) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
