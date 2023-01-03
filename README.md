@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. ❗️ Opened issue [#39](https://github.com/hyperledger/anoncreds-rs/issues/39) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#31](https://github.com/hyperledger/anoncreds-rs/issues/31) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗️ Opened issue [#127](https://github.com/hyperledger/anoncreds-spec/issues/127) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. 💪 Opened PR [#126](https://github.com/hyperledger/anoncreds-spec/pull/126) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. 💪 Opened PR [#5](https://github.com/animo/indy-sdk-expo-plugin/pull/5) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+2. 🗣 Commented on [#9](https://github.com/hyperledger/anoncreds-rs/issues/9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. ❗️ Opened issue [#39](https://github.com/hyperledger/anoncreds-rs/issues/39) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#31](https://github.com/hyperledger/anoncreds-rs/issues/31) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. ❗️ Opened issue [#127](https://github.com/hyperledger/anoncreds-spec/issues/127) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
