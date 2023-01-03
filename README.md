@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#1188](https://github.com/hyperledger/aries-framework-javascript/pull/1188) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#63](https://github.com/hyperledger/indy-sdk-react-native/pull/63) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. 🗣 Commented on [#3](https://github.com/animo/indy-sdk-expo-plugin/issues/3) in [animo/indy-sdk-expo-plugin](https://github.com/animo/indy-sdk-expo-plugin)
+1. 💪 Opened PR [#121](https://github.com/hyperledger/anoncreds-spec/pull/121) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. 🗣 Commented on [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#1188](https://github.com/hyperledger/aries-framework-javascript/pull/1188) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#63](https://github.com/hyperledger/indy-sdk-react-native/pull/63) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
