@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/hyperledger/aries-javascript-docs/pull/84) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. 🗣 Commented on [#65](https://github.com/kevlened/isomorphic-webcrypto/issues/65) in [kevlened/isomorphic-webcrypto](https://github.com/kevlened/isomorphic-webcrypto)
-3. 💪 Opened PR [#84](https://github.com/hyperledger/aries-javascript-docs/pull/84) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 🗣 Commented on [#65](https://github.com/kevlened/isomorphic-webcrypto/issues/65) in [kevlened/isomorphic-webcrypto](https://github.com/kevlened/isomorphic-webcrypto)
-5. 🗣 Commented on [#1189](https://github.com/hyperledger/aries-framework-javascript/issues/1189) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#85](https://github.com/hyperledger/aries-javascript-docs/pull/85) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🎉 Merged PR [#63](https://github.com/hyperledger/indy-sdk-react-native/pull/63) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. 🗣 Commented on [#63](https://github.com/hyperledger/indy-sdk-react-native/issues/63) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. 💪 Opened PR [#85](https://github.com/hyperledger/aries-javascript-docs/pull/85) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+5. 🎉 Merged PR [#84](https://github.com/hyperledger/aries-javascript-docs/pull/84) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
