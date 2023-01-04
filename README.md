@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2044](https://github.com/hyperledger/aries-cloudagent-python/issues/2044) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🗣 Commented on [#123](https://github.com/hyperledger/indy-vdr/issues/123) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#123](https://github.com/hyperledger/anoncreds-spec/issues/123) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. 🗣 Commented on [#121](https://github.com/hyperledger/anoncreds-spec/issues/121) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. 🎉 Merged PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. 🗣 Commented on [#42](https://github.com/hyperledger/anoncreds-rs/issues/42) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#2044](https://github.com/hyperledger/aries-cloudagent-python/issues/2044) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#123](https://github.com/hyperledger/indy-vdr/issues/123) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#123](https://github.com/hyperledger/anoncreds-spec/issues/123) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+5. 🗣 Commented on [#121](https://github.com/hyperledger/anoncreds-spec/issues/121) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
