@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. ❗️ Closed issue [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 💪 Opened PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 3. 🗣 Commented on [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🎉 Merged PR [#85](https://github.com/hyperledger/aries-javascript-docs/pull/85) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 🎉 Merged PR [#63](https://github.com/hyperledger/indy-sdk-react-native/pull/63) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. ❗️ Closed issue [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. 🗣 Commented on [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
