@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/hyperledger/anoncreds-spec/issues/121) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. 🎉 Merged PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-3. 💪 Opened PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 🗣 Commented on [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. ❗️ Closed issue [#577](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/577) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#123](https://github.com/hyperledger/indy-vdr/issues/123) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#123](https://github.com/hyperledger/anoncreds-spec/issues/123) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. 🗣 Commented on [#121](https://github.com/hyperledger/anoncreds-spec/issues/121) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+4. 🎉 Merged PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+5. 💪 Opened PR [#86](https://github.com/hyperledger/aries-javascript-docs/pull/86) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
