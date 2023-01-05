@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/animo/react-native-bbs-signatures/issues/30) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
-2. 🗣 Commented on [#29](https://github.com/animo/react-native-bbs-signatures/issues/29) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
-3. 🗣 Commented on [#30](https://github.com/animo/react-native-bbs-signatures/issues/30) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
-4. 🗣 Commented on [#3320](https://github.com/trpc/trpc/issues/3320) in [trpc/trpc](https://github.com/trpc/trpc)
-5. 🗣 Commented on [#173](https://github.com/hyperledger/aries-framework-javascript-ext/issues/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#1191](https://github.com/hyperledger/aries-framework-javascript/issues/1191) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#30](https://github.com/animo/react-native-bbs-signatures/issues/30) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
+3. 🗣 Commented on [#29](https://github.com/animo/react-native-bbs-signatures/issues/29) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
+4. 🗣 Commented on [#30](https://github.com/animo/react-native-bbs-signatures/issues/30) in [animo/react-native-bbs-signatures](https://github.com/animo/react-native-bbs-signatures)
+5. 🗣 Commented on [#3320](https://github.com/trpc/trpc/issues/3320) in [trpc/trpc](https://github.com/trpc/trpc)
 <!--END_SECTION:activity-->
 
 ---
