@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1190](https://github.com/hyperledger/aries-framework-javascript/pull/1190) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#1188](https://github.com/hyperledger/aries-framework-javascript/pull/1188) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#42](https://github.com/hyperledger/anoncreds-rs/issues/42) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#2044](https://github.com/hyperledger/aries-cloudagent-python/issues/2044) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#173](https://github.com/hyperledger/aries-framework-javascript-ext/issues/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🗣 Commented on [#175](https://github.com/hyperledger/aries-framework-javascript-ext/issues/175) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. 🎉 Merged PR [#1190](https://github.com/hyperledger/aries-framework-javascript/pull/1190) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Closed issue [#1187](https://github.com/hyperledger/aries-framework-javascript/issues/1187) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1188](https://github.com/hyperledger/aries-framework-javascript/pull/1188) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
