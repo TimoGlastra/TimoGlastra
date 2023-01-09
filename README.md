@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#635](https://github.com/hyperledger/aries-agent-test-harness/issues/635) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-2. ❗️ Opened issue [#1194](https://github.com/hyperledger/aries-framework-javascript/issues/1194) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#634](https://github.com/hyperledger/aries-agent-test-harness/issues/634) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. ❗️ Opened issue [#581](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/581) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. ❗️ Opened issue [#1193](https://github.com/hyperledger/aries-framework-javascript/issues/1193) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#87](https://github.com/hyperledger/aries-javascript-docs/issues/87) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🗣 Commented on [#88](https://github.com/hyperledger/aries-javascript-docs/issues/88) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. ❗️ Opened issue [#635](https://github.com/hyperledger/aries-agent-test-harness/issues/635) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+4. ❗️ Opened issue [#1194](https://github.com/hyperledger/aries-framework-javascript/issues/1194) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#634](https://github.com/hyperledger/aries-agent-test-harness/issues/634) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
