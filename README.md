@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#762](https://github.com/hyperledger/aries-rfcs/issues/762) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. ❗️ Opened issue [#763](https://github.com/hyperledger/aries-rfcs/issues/763) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. ❗️ Opened issue [#762](https://github.com/hyperledger/aries-rfcs/issues/762) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#26](https://github.com/animo/react-native-ble-didcomm/issues/26) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-5. 🎉 Merged PR [#1217](https://github.com/hyperledger/aries-framework-javascript/pull/1217) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Closed issue [#185](https://github.com/hyperledger/aries-framework-javascript-ext/issues/185) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#184](https://github.com/hyperledger/aries-framework-javascript-ext/pull/184) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. ❗️ Opened issue [#764](https://github.com/hyperledger/aries-rfcs/issues/764) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. ❗️ Opened issue [#2082](https://github.com/hyperledger/aries-cloudagent-python/issues/2082) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#762](https://github.com/hyperledger/aries-rfcs/issues/762) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
