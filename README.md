@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1217](https://github.com/hyperledger/aries-framework-javascript/pull/1217) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#1221](https://github.com/hyperledger/aries-framework-javascript/issues/1221) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#73](https://github.com/hyperledger/aries-askar/pull/73) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. ❗️ Closed issue [#1097](https://github.com/hyperledger/aries-framework-javascript/issues/1097) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#73](https://github.com/hyperledger/aries-askar/issues/73) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. ❗️ Opened issue [#763](https://github.com/hyperledger/aries-rfcs/issues/763) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. ❗️ Opened issue [#762](https://github.com/hyperledger/aries-rfcs/issues/762) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🗣 Commented on [#26](https://github.com/animo/react-native-ble-didcomm/issues/26) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+4. 🎉 Merged PR [#1217](https://github.com/hyperledger/aries-framework-javascript/pull/1217) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Opened issue [#1221](https://github.com/hyperledger/aries-framework-javascript/issues/1221) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
