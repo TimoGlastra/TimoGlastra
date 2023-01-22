@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1167](https://github.com/hyperledger/aries-framework-javascript/issues/1167) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#80](https://github.com/hyperledger/aries-askar/pull/80) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 💪 Opened PR [#136](https://github.com/hyperledger/indy-vdr/pull/136) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#135](https://github.com/hyperledger/indy-vdr/issues/135) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 💪 Opened PR [#135](https://github.com/hyperledger/indy-vdr/pull/135) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. ❗️ Opened issue [#1230](https://github.com/hyperledger/aries-framework-javascript/issues/1230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1167](https://github.com/hyperledger/aries-framework-javascript/issues/1167) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#80](https://github.com/hyperledger/aries-askar/pull/80) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 💪 Opened PR [#136](https://github.com/hyperledger/indy-vdr/pull/136) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#135](https://github.com/hyperledger/indy-vdr/issues/135) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
