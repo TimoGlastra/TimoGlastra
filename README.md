@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/hyperledger/aries-askar/pull/88) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#188](https://github.com/hyperledger/aries-framework-javascript-ext/pull/188) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 🎉 Merged PR [#173](https://github.com/hyperledger/aries-framework-javascript-ext/pull/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. ❗️ Closed issue [#77](https://github.com/hyperledger/anoncreds-rs/issues/77) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#86](https://github.com/hyperledger/anoncreds-rs/pull/86) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#88](https://github.com/hyperledger/aries-askar/pull/88) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🎉 Merged PR [#188](https://github.com/hyperledger/aries-framework-javascript-ext/pull/188) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🎉 Merged PR [#173](https://github.com/hyperledger/aries-framework-javascript-ext/pull/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. ❗️ Closed issue [#77](https://github.com/hyperledger/anoncreds-rs/issues/77) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
