@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#88](https://github.com/hyperledger/aries-askar/pull/88) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🎉 Merged PR [#188](https://github.com/hyperledger/aries-framework-javascript-ext/pull/188) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. 🎉 Merged PR [#173](https://github.com/hyperledger/aries-framework-javascript-ext/pull/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. ❗️ Closed issue [#77](https://github.com/hyperledger/anoncreds-rs/issues/77) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#27](https://github.com/animo/react-native-ble-didcomm/issues/27) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+2. 💪 Opened PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🎉 Merged PR [#88](https://github.com/hyperledger/aries-askar/pull/88) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#188](https://github.com/hyperledger/aries-framework-javascript-ext/pull/188) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#173](https://github.com/hyperledger/aries-framework-javascript-ext/pull/173) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
