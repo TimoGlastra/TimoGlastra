@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#87](https://github.com/hyperledger/anoncreds-rs/pull/87) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#27](https://github.com/animo/react-native-ble-didcomm/issues/27) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-4. 💪 Opened PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🎉 Merged PR [#88](https://github.com/hyperledger/aries-askar/pull/88) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. ❗️ Closed issue [#1130](https://github.com/hyperledger/aries-framework-javascript/issues/1130) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#1220](https://github.com/hyperledger/aries-framework-javascript/pull/1220) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#147](https://github.com/hyperledger/indy-vdr/pull/147) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🎉 Merged PR [#87](https://github.com/hyperledger/anoncreds-rs/pull/87) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#27](https://github.com/animo/react-native-ble-didcomm/issues/27) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 <!--END_SECTION:activity-->
 
 ---
