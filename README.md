@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64104](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/64104) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. ❗️ Opened issue [#1249](https://github.com/hyperledger/aries-framework-javascript/issues/1249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#64104](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/64104) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🗣 Commented on [#32](https://github.com/tdiesler/nessus-didcomm/issues/32) in [tdiesler/nessus-didcomm](https://github.com/tdiesler/nessus-didcomm)
-5. 🗣 Commented on [#1247](https://github.com/hyperledger/aries-framework-javascript/issues/1247) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1232](https://github.com/hyperledger/aries-framework-javascript/issues/1232) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#64104](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/64104) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. ❗️ Opened issue [#1249](https://github.com/hyperledger/aries-framework-javascript/issues/1249) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#64104](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/64104) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🗣 Commented on [#32](https://github.com/tdiesler/nessus-didcomm/issues/32) in [tdiesler/nessus-didcomm](https://github.com/tdiesler/nessus-didcomm)
 <!--END_SECTION:activity-->
 
 ---
