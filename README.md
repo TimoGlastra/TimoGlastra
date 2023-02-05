@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1258](https://github.com/hyperledger/aries-framework-javascript/issues/1258) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1207](https://github.com/hyperledger/aries-framework-javascript/issues/1207) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1232](https://github.com/hyperledger/aries-framework-javascript/issues/1232) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1263](https://github.com/hyperledger/aries-framework-javascript/issues/1263) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1265](https://github.com/hyperledger/aries-framework-javascript/issues/1265) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#93](https://github.com/hyperledger/aries-javascript-docs/issues/93) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🎉 Merged PR [#94](https://github.com/hyperledger/aries-javascript-docs/pull/94) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. 🗣 Commented on [#1185](https://github.com/hyperledger/aries-framework-javascript/issues/1185) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1258](https://github.com/hyperledger/aries-framework-javascript/issues/1258) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1207](https://github.com/hyperledger/aries-framework-javascript/issues/1207) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
