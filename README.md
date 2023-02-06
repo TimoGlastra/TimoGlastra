@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#108](https://github.com/Sphereon-Opensource/PEX/issues/108) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. ❗️ Closed issue [#24](https://github.com/hyperledger/anoncreds-rs/issues/24) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. ❗️ Closed issue [#1171](https://github.com/hyperledger/aries-framework-javascript/issues/1171) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1130](https://github.com/hyperledger/aries-framework-javascript/issues/1130) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Reopened issue [#1130](https://github.com/hyperledger/aries-framework-javascript/issues/1130) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#151](https://github.com/hyperledger/indy-vdr/issues/151) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗️ Opened issue [#151](https://github.com/hyperledger/indy-vdr/issues/151) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#108](https://github.com/Sphereon-Opensource/PEX/issues/108) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. ❗️ Closed issue [#24](https://github.com/hyperledger/anoncreds-rs/issues/24) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. ❗️ Closed issue [#1171](https://github.com/hyperledger/aries-framework-javascript/issues/1171) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
