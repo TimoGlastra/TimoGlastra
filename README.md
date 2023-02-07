@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1273](https://github.com/hyperledger/aries-framework-javascript/issues/1273) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#1152](https://github.com/hyperledger/aries-framework-javascript/issues/1152) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#76](https://github.com/hyperledger/aries-askar/issues/76) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. ❗️ Closed issue [#1166](https://github.com/hyperledger/aries-framework-javascript/issues/1166) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#1165](https://github.com/hyperledger/aries-framework-javascript/issues/1165) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗️ Opened issue [#1274](https://github.com/hyperledger/aries-framework-javascript/issues/1274) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. ❗️ Opened issue [#617](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/617) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. ❗️ Opened issue [#616](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/616) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. ❗️ Opened issue [#615](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/615) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. ❗️ Opened issue [#614](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/614) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
