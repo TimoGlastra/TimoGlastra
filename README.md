@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1259](https://github.com/hyperledger/aries-framework-javascript/issues/1259) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#1274](https://github.com/hyperledger/aries-framework-javascript/issues/1274) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#617](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/617) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. ❗️ Opened issue [#616](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/616) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-5. ❗️ Opened issue [#615](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/615) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🎉 Merged PR [#101](https://github.com/hyperledger/anoncreds-rs/pull/101) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#1259](https://github.com/hyperledger/aries-framework-javascript/issues/1259) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#1274](https://github.com/hyperledger/aries-framework-javascript/issues/1274) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#617](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/617) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+5. ❗️ Opened issue [#616](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/616) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
