@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com/animo/animo-demo/pull/161) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. 🎉 Merged PR [#101](https://github.com/hyperledger/anoncreds-rs/pull/101) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#1259](https://github.com/hyperledger/aries-framework-javascript/issues/1259) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Opened issue [#1274](https://github.com/hyperledger/aries-framework-javascript/issues/1274) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#617](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/617) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+1. 🗣 Commented on [#1272](https://github.com/hyperledger/aries-framework-javascript/issues/1272) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1276](https://github.com/hyperledger/aries-framework-javascript/issues/1276) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1276](https://github.com/hyperledger/aries-framework-javascript/issues/1276) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#161](https://github.com/animo/animo-demo/pull/161) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. 🎉 Merged PR [#101](https://github.com/hyperledger/anoncreds-rs/pull/101) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
