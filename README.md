@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/hyperledger/indy-sdk-react-native/pull/65) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-2. 🎉 Merged PR [#67](https://github.com/hyperledger/indy-sdk-react-native/pull/67) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-3. 🎉 Merged PR [#68](https://github.com/hyperledger/indy-sdk-react-native/pull/68) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-4. 🎉 Merged PR [#61](https://github.com/hyperledger/indy-sdk-react-native/pull/61) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
-5. 🎉 Merged PR [#62](https://github.com/hyperledger/indy-sdk-react-native/pull/62) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+1. ❗️ Closed issue [#77](https://github.com/hyperledger/indy-vdr/issues/77) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗️ Closed issue [#76](https://github.com/hyperledger/indy-vdr/issues/76) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#76](https://github.com/hyperledger/indy-vdr/issues/76) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. ❗️ Closed issue [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#59](https://github.com/hyperledger/indy-vdr/issues/59) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
