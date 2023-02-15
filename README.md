@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64380](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/64380) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🎉 Merged PR [#157](https://github.com/hyperledger/indy-vdr/pull/157) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🎉 Merged PR [#111](https://github.com/hyperledger/anoncreds-rs/pull/111) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗️ Opened issue [#1302](https://github.com/hyperledger/aries-framework-javascript/issues/1302) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1297](https://github.com/hyperledger/aries-framework-javascript/issues/1297) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#65](https://github.com/hyperledger/indy-sdk-react-native/pull/65) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 🎉 Merged PR [#67](https://github.com/hyperledger/indy-sdk-react-native/pull/67) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+3. 🎉 Merged PR [#68](https://github.com/hyperledger/indy-sdk-react-native/pull/68) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+4. 🎉 Merged PR [#61](https://github.com/hyperledger/indy-sdk-react-native/pull/61) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+5. 🎉 Merged PR [#62](https://github.com/hyperledger/indy-sdk-react-native/pull/62) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
 <!--END_SECTION:activity-->
 
 ---
