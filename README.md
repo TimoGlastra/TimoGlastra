@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/DutchBlockchainCoalition/DDIP/issues/1) in [DutchBlockchainCoalition/DDIP](https://github.com/DutchBlockchainCoalition/DDIP)
-2. 🎉 Merged PR [#1303](https://github.com/hyperledger/aries-framework-javascript/pull/1303) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1282](https://github.com/hyperledger/aries-framework-javascript/issues/1282) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#1281](https://github.com/hyperledger/aries-framework-javascript/issues/1281) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#1282](https://github.com/hyperledger/aries-framework-javascript/pull/1282) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1306](https://github.com/hyperledger/aries-framework-javascript/issues/1306) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1306](https://github.com/hyperledger/aries-framework-javascript/issues/1306) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#1](https://github.com/DutchBlockchainCoalition/DDIP/issues/1) in [DutchBlockchainCoalition/DDIP](https://github.com/DutchBlockchainCoalition/DDIP)
+4. 🎉 Merged PR [#1303](https://github.com/hyperledger/aries-framework-javascript/pull/1303) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1282](https://github.com/hyperledger/aries-framework-javascript/issues/1282) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
