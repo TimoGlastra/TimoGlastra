@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1333](https://github.com/hyperledger/aries-framework-javascript/pull/1333) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Closed issue [#1273](https://github.com/hyperledger/aries-framework-javascript/issues/1273) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#100](https://github.com/hyperledger/aries-askar/issues/100) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🎉 Merged PR [#1328](https://github.com/hyperledger/aries-framework-javascript/pull/1328) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Opened issue [#1331](https://github.com/hyperledger/aries-framework-javascript/issues/1331) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#647](https://github.com/hyperledger/aries-agent-test-harness/issues/647) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+2. 🎉 Merged PR [#650](https://github.com/hyperledger/aries-agent-test-harness/pull/650) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+3. 🗣 Commented on [#1325](https://github.com/hyperledger/aries-framework-javascript/issues/1325) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#1333](https://github.com/hyperledger/aries-framework-javascript/pull/1333) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗️ Closed issue [#1273](https://github.com/hyperledger/aries-framework-javascript/issues/1273) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
