@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗️ Opened issue [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. ❗️ Opened issue [#1352](https://github.com/hyperledger/aries-framework-javascript/issues/1352) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1](https://github.com/TimoGlastra/shared-components-react-native-example/pull/1) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
-5. 💪 Opened PR [#98](https://github.com/hyperledger/aries-javascript-docs/pull/98) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. 🗣 Commented on [#1347](https://github.com/hyperledger/aries-framework-javascript/issues/1347) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗️ Opened issue [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. ❗️ Opened issue [#1352](https://github.com/hyperledger/aries-framework-javascript/issues/1352) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1](https://github.com/TimoGlastra/shared-components-react-native-example/pull/1) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
 <!--END_SECTION:activity-->
 
 ---
