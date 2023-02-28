@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/hyperledger/aries-javascript-docs/pull/98) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. ❗️ Opened issue [#773](https://github.com/hyperledger/aries-rfcs/issues/773) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🎉 Merged PR [#653](https://github.com/hyperledger/aries-agent-test-harness/pull/653) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
-4. 🗣 Commented on [#1348](https://github.com/hyperledger/aries-framework-javascript/issues/1348) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#1](https://github.com/TimoGlastra/shared-components-react-native-example/pull/1) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
+2. 💪 Opened PR [#98](https://github.com/hyperledger/aries-javascript-docs/pull/98) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. ❗️ Opened issue [#773](https://github.com/hyperledger/aries-rfcs/issues/773) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🎉 Merged PR [#653](https://github.com/hyperledger/aries-agent-test-harness/pull/653) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 5. 🗣 Commented on [#1348](https://github.com/hyperledger/aries-framework-javascript/issues/1348) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
