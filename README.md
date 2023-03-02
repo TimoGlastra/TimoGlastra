@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1358](https://github.com/hyperledger/aries-framework-javascript/issues/1358) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1357](https://github.com/hyperledger/aries-framework-javascript/issues/1357) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1347](https://github.com/hyperledger/aries-framework-javascript/issues/1347) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#774](https://github.com/hyperledger/aries-rfcs/issues/774) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🗣 Commented on [#166](https://github.com/hyperledger/indy-vdr/issues/166) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#1353](https://github.com/hyperledger/aries-framework-javascript/issues/1353) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1358](https://github.com/hyperledger/aries-framework-javascript/issues/1358) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1357](https://github.com/hyperledger/aries-framework-javascript/issues/1357) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
