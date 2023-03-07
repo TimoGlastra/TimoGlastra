@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#108](https://github.com/hyperledger/aries-askar/pull/108) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#2](https://github.com/TimoGlastra/shared-components-react-native-example/pull/2) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
-3. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-framework-javascript/issues/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-framework-javascript/issues/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#1372](https://github.com/hyperledger/aries-framework-javascript/pull/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#172](https://github.com/hyperledger/indy-vdr/pull/172) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗️ Closed issue [#112](https://github.com/hyperledger/aries-askar/issues/112) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. ❗️ Closed issue [#77](https://github.com/hyperledger/aries-askar/issues/77) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#111](https://github.com/hyperledger/aries-askar/pull/111) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#108](https://github.com/hyperledger/aries-askar/pull/108) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
