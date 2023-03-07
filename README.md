@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TimoGlastra/shared-components-react-native-example/pull/2) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
-2. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-framework-javascript/issues/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#108](https://github.com/hyperledger/aries-askar/pull/108) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🎉 Merged PR [#2](https://github.com/TimoGlastra/shared-components-react-native-example/pull/2) in [TimoGlastra/shared-components-react-native-example](https://github.com/TimoGlastra/shared-components-react-native-example)
 3. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-framework-javascript/issues/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#1372](https://github.com/hyperledger/aries-framework-javascript/pull/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#113](https://github.com/hyperledger/aries-askar/pull/113) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#1372](https://github.com/hyperledger/aries-framework-javascript/issues/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#1372](https://github.com/hyperledger/aries-framework-javascript/pull/1372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
