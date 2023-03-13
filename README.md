@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#141](https://github.com/hyperledger/anoncreds-rs/issues/141) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. ❗️ Closed issue [#132](https://github.com/hyperledger/anoncreds-rs/issues/132) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#131](https://github.com/hyperledger/anoncreds-rs/pull/131) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#142](https://github.com/hyperledger/anoncreds-rs/issues/142) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. ❗️ Opened issue [#141](https://github.com/hyperledger/anoncreds-rs/issues/141) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#98](https://github.com/animo/siera-desktop/pull/98) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+2. 🎉 Merged PR [#97](https://github.com/animo/siera-desktop/pull/97) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+3. 💪 Opened PR [#97](https://github.com/animo/siera-desktop/pull/97) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+4. ❗️ Opened issue [#96](https://github.com/animo/siera-desktop/issues/96) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+5. ❗️ Opened issue [#95](https://github.com/animo/siera-desktop/issues/95) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
