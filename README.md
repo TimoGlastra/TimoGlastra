@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#174](https://github.com/hyperledger/indy-vdr/pull/174) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#136](https://github.com/hyperledger/anoncreds-rs/issues/136) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 💪 Opened PR [#174](https://github.com/hyperledger/indy-vdr/pull/174) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🎉 Merged PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-5. 🗣 Commented on [#104](https://github.com/animo/siera-desktop/issues/104) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+1. 🗣 Commented on [#1318](https://github.com/hyperledger/aries-framework-javascript/issues/1318) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#174](https://github.com/hyperledger/indy-vdr/pull/174) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#136](https://github.com/hyperledger/anoncreds-rs/issues/136) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 💪 Opened PR [#174](https://github.com/hyperledger/indy-vdr/pull/174) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🎉 Merged PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
