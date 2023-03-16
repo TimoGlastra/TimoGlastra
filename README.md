@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-2. 🗣 Commented on [#104](https://github.com/animo/siera-desktop/issues/104) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-3. 🗣 Commented on [#102](https://github.com/animo/siera-desktop/issues/102) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-4. 💪 Opened PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-5. ❗️ Opened issue [#105](https://github.com/animo/siera-desktop/issues/105) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+1. 💪 Opened PR [#174](https://github.com/hyperledger/indy-vdr/pull/174) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+3. 🗣 Commented on [#104](https://github.com/animo/siera-desktop/issues/104) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+4. 🗣 Commented on [#102](https://github.com/animo/siera-desktop/issues/102) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+5. 💪 Opened PR [#106](https://github.com/animo/siera-desktop/pull/106) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
