@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/hyperledger/aries-askar/issues/124) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 💪 Opened PR [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-3. 🎉 Merged PR [#1374](https://github.com/hyperledger/aries-framework-javascript/pull/1374) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#177](https://github.com/hyperledger/indy-vdr/pull/177) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#176](https://github.com/hyperledger/indy-vdr/issues/176) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 💪 Opened PR [#176](https://github.com/hyperledger/indy-vdr/pull/176) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 4. 🗣 Commented on [#124](https://github.com/hyperledger/aries-askar/issues/124) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#148](https://github.com/hyperledger/anoncreds-rs/issues/148) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 💪 Opened PR [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
