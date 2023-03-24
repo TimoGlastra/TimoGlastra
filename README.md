@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/hyperledger/aries-framework-javascript-ext/issues/191) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#160](https://github.com/hyperledger/anoncreds-rs/issues/160) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. ❗️ Closed issue [#634](https://github.com/hyperledger/aries-agent-test-harness/issues/634) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
+1. 🎉 Merged PR [#198](https://github.com/hyperledger/aries-framework-javascript-ext/pull/198) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 🎉 Merged PR [#159](https://github.com/hyperledger/anoncreds-rs/pull/159) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#191](https://github.com/hyperledger/aries-framework-javascript-ext/issues/191) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 4. 🗣 Commented on [#160](https://github.com/hyperledger/anoncreds-rs/issues/160) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#155](https://github.com/hyperledger/anoncreds-rs/issues/155) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. ❗️ Closed issue [#634](https://github.com/hyperledger/aries-agent-test-harness/issues/634) in [hyperledger/aries-agent-test-harness](https://github.com/hyperledger/aries-agent-test-harness)
 <!--END_SECTION:activity-->
 
 ---
