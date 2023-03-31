@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#110](https://github.com/hyperledger/aries-javascript-docs/pull/110) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. 💪 Opened PR [#1414](https://github.com/hyperledger/aries-framework-javascript/pull/1414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1398](https://github.com/hyperledger/aries-framework-javascript/issues/1398) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❗️ Closed issue [#1267](https://github.com/hyperledger/aries-framework-javascript/issues/1267) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#1213](https://github.com/hyperledger/aries-framework-javascript/issues/1213) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#1393](https://github.com/hyperledger/aries-framework-javascript/pull/1393) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#1](https://github.com/blu3beri/aries-javascript-docs/pull/1) in [blu3beri/aries-javascript-docs](https://github.com/blu3beri/aries-javascript-docs)
+3. 💪 Opened PR [#110](https://github.com/hyperledger/aries-javascript-docs/pull/110) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+4. 💪 Opened PR [#1414](https://github.com/hyperledger/aries-framework-javascript/pull/1414) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1398](https://github.com/hyperledger/aries-framework-javascript/issues/1398) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
