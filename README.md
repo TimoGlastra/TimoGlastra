@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#205](https://github.com/hyperledger/aries-framework-javascript-ext/issues/205) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🗣 Commented on [#179](https://github.com/hyperledger/anoncreds-rs/issues/179) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#1412](https://github.com/hyperledger/aries-framework-javascript/pull/1412) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#178](https://github.com/hyperledger/anoncreds-rs/pull/178) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#177](https://github.com/hyperledger/anoncreds-rs/pull/177) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🎉 Merged PR [#128](https://github.com/hyperledger/aries-askar/pull/128) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#114](https://github.com/animo/siera-desktop/issues/114) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+3. 🗣 Commented on [#205](https://github.com/hyperledger/aries-framework-javascript-ext/issues/205) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🗣 Commented on [#179](https://github.com/hyperledger/anoncreds-rs/issues/179) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🎉 Merged PR [#1412](https://github.com/hyperledger/aries-framework-javascript/pull/1412) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
