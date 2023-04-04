@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#180](https://github.com/hyperledger/anoncreds-rs/pull/180) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 💪 Opened PR [#180](https://github.com/hyperledger/anoncreds-rs/pull/180) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#128](https://github.com/hyperledger/aries-askar/pull/128) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#114](https://github.com/animo/siera-desktop/issues/114) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-5. 🗣 Commented on [#205](https://github.com/hyperledger/aries-framework-javascript-ext/issues/205) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 💪 Opened PR [#1419](https://github.com/hyperledger/aries-framework-javascript/pull/1419) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#180](https://github.com/hyperledger/anoncreds-rs/pull/180) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 💪 Opened PR [#180](https://github.com/hyperledger/anoncreds-rs/pull/180) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🎉 Merged PR [#128](https://github.com/hyperledger/aries-askar/pull/128) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#114](https://github.com/animo/siera-desktop/issues/114) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
