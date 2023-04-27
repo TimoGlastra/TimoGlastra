@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1440](https://github.com/hyperledger/aries-framework-javascript/issues/1440) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#1](https://github.com/morrieinmaas/aries-framework-javascript-ext/pull/1) in [morrieinmaas/aries-framework-javascript-ext](https://github.com/morrieinmaas/aries-framework-javascript-ext)
-3. 🗣 Commented on [#1439](https://github.com/hyperledger/aries-framework-javascript/issues/1439) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#1439](https://github.com/hyperledger/aries-framework-javascript/pull/1439) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❗️ Closed issue [#112](https://github.com/hyperledger/aries-javascript-docs/issues/112) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. ❗️ Opened issue [#265](https://github.com/animo/siera-cli/issues/265) in [animo/siera-cli](https://github.com/animo/siera-cli)
+2. 🗣 Commented on [#245](https://github.com/animo/siera-cli/issues/245) in [animo/siera-cli](https://github.com/animo/siera-cli)
+3. 🗣 Commented on [#1440](https://github.com/hyperledger/aries-framework-javascript/issues/1440) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#1](https://github.com/morrieinmaas/aries-framework-javascript-ext/pull/1) in [morrieinmaas/aries-framework-javascript-ext](https://github.com/morrieinmaas/aries-framework-javascript-ext)
+5. 🗣 Commented on [#1439](https://github.com/hyperledger/aries-framework-javascript/issues/1439) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
