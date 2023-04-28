@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#131](https://github.com/hyperledger/aries-askar/issues/131) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. ❗️ Opened issue [#265](https://github.com/animo/siera-cli/issues/265) in [animo/siera-cli](https://github.com/animo/siera-cli)
-3. 🗣 Commented on [#245](https://github.com/animo/siera-cli/issues/245) in [animo/siera-cli](https://github.com/animo/siera-cli)
-4. 🗣 Commented on [#1440](https://github.com/hyperledger/aries-framework-javascript/issues/1440) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#1](https://github.com/morrieinmaas/aries-framework-javascript-ext/pull/1) in [morrieinmaas/aries-framework-javascript-ext](https://github.com/morrieinmaas/aries-framework-javascript-ext)
+1. 🎉 Merged PR [#198](https://github.com/hyperledger/anoncreds-rs/pull/198) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗️ Closed issue [#131](https://github.com/hyperledger/aries-askar/issues/131) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🎉 Merged PR [#132](https://github.com/hyperledger/aries-askar/pull/132) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#132](https://github.com/hyperledger/aries-askar/issues/132) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#183](https://github.com/hyperledger/indy-vdr/pull/183) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
