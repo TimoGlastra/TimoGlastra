@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/sicpa-dlab/openid4vc-rs/pull/32) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-2. 💪 Opened PR [#32](https://github.com/sicpa-dlab/openid4vc-rs/pull/32) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-3. 🎉 Merged PR [#31](https://github.com/sicpa-dlab/openid4vc-rs/pull/31) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-4. 💪 Opened PR [#31](https://github.com/sicpa-dlab/openid4vc-rs/pull/31) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-5. 🎉 Merged PR [#30](https://github.com/sicpa-dlab/openid4vc-rs/pull/30) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+1. 🎉 Merged PR [#269](https://github.com/animo/siera-cli/pull/269) in [animo/siera-cli](https://github.com/animo/siera-cli)
+2. 🎉 Merged PR [#32](https://github.com/sicpa-dlab/openid4vc-rs/pull/32) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+3. 💪 Opened PR [#32](https://github.com/sicpa-dlab/openid4vc-rs/pull/32) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+4. 🎉 Merged PR [#31](https://github.com/sicpa-dlab/openid4vc-rs/pull/31) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+5. 💪 Opened PR [#31](https://github.com/sicpa-dlab/openid4vc-rs/pull/31) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
 <!--END_SECTION:activity-->
 
 ---
