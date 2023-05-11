@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1446](https://github.com/hyperledger/aries-framework-javascript/pull/1446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#119](https://github.com/hyperledger/aries-javascript-docs/pull/119) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-3. 💪 Opened PR [#1453](https://github.com/hyperledger/aries-framework-javascript/pull/1453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1448](https://github.com/hyperledger/aries-framework-javascript/issues/1448) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#203](https://github.com/hyperledger/anoncreds-rs/issues/203) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#2](https://github.com/digitalcredentials/jsonld.js/pull/2) in [digitalcredentials/jsonld.js](https://github.com/digitalcredentials/jsonld.js)
+2. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc/issues/109) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+3. 🎉 Merged PR [#1446](https://github.com/hyperledger/aries-framework-javascript/pull/1446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#119](https://github.com/hyperledger/aries-javascript-docs/pull/119) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+5. 💪 Opened PR [#1453](https://github.com/hyperledger/aries-framework-javascript/pull/1453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
