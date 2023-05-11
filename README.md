@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/digitalcredentials/jsonld.js/pull/2) in [digitalcredentials/jsonld.js](https://github.com/digitalcredentials/jsonld.js)
-2. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc/issues/109) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
-3. 🎉 Merged PR [#1446](https://github.com/hyperledger/aries-framework-javascript/pull/1446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#119](https://github.com/hyperledger/aries-javascript-docs/pull/119) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 💪 Opened PR [#1453](https://github.com/hyperledger/aries-framework-javascript/pull/1453) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#1454](https://github.com/hyperledger/aries-framework-javascript/pull/1454) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#2](https://github.com/digitalcredentials/jsonld.js/pull/2) in [digitalcredentials/jsonld.js](https://github.com/digitalcredentials/jsonld.js)
+4. 🗣 Commented on [#109](https://github.com/digitalbazaar/vc/issues/109) in [digitalbazaar/vc](https://github.com/digitalbazaar/vc)
+5. 🎉 Merged PR [#1446](https://github.com/hyperledger/aries-framework-javascript/pull/1446) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
