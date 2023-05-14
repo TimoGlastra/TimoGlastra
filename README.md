@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+1. ❗️ Opened issue [#43](https://github.com/sicpa-dlab/openid4vc-rs/issues/43) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
 2. 🗣 Commented on [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-3. ❗️ Opened issue [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-4. ❗️ Opened issue [#41](https://github.com/sicpa-dlab/openid4vc-rs/issues/41) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-5. 💪 Opened PR [#40](https://github.com/sicpa-dlab/openid4vc-rs/pull/40) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+3. 🗣 Commented on [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+4. ❗️ Opened issue [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+5. ❗️ Opened issue [#41](https://github.com/sicpa-dlab/openid4vc-rs/issues/41) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
 <!--END_SECTION:activity-->
 
 ---
