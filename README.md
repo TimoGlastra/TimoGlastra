@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-2. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-3. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-4. ❗️ Closed issue [#120](https://github.com/hyperledger/aries-javascript-docs/issues/120) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 🎉 Merged PR [#121](https://github.com/hyperledger/aries-javascript-docs/pull/121) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. ❗️ Closed issue [#42](https://github.com/sicpa-dlab/openid4vc-rs/issues/42) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+2. 🎉 Merged PR [#45](https://github.com/sicpa-dlab/openid4vc-rs/pull/45) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+3. 🗣 Commented on [#46](https://github.com/sicpa-dlab/openid4vc-rs/issues/46) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+4. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+5. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
 <!--END_SECTION:activity-->
 
 ---
