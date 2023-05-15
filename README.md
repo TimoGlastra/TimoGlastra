@@ -18,9 +18,9 @@ Github language stats
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
 2. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-3. ❗️ Closed issue [#120](https://github.com/hyperledger/aries-javascript-docs/issues/120) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 🎉 Merged PR [#121](https://github.com/hyperledger/aries-javascript-docs/pull/121) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 🗣 Commented on [#121](https://github.com/hyperledger/aries-javascript-docs/issues/121) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. 🗣 Commented on [#37](https://github.com/sicpa-dlab/openid4vc-rs/issues/37) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+4. ❗️ Closed issue [#120](https://github.com/hyperledger/aries-javascript-docs/issues/120) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+5. 🎉 Merged PR [#121](https://github.com/hyperledger/aries-javascript-docs/pull/121) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
