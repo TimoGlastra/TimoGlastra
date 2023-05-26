@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/hyperledger/aries-askar/pull/145) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#144](https://github.com/hyperledger/aries-askar/pull/144) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🎉 Merged PR [#146](https://github.com/hyperledger/anoncreds-spec/pull/146) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. 🎉 Merged PR [#186](https://github.com/hyperledger/indy-vdr/pull/186) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🎉 Merged PR [#122](https://github.com/hyperledger/aries-javascript-docs/pull/122) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+1. 🎉 Merged PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 💪 Opened PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🎉 Merged PR [#145](https://github.com/hyperledger/aries-askar/pull/145) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#144](https://github.com/hyperledger/aries-askar/pull/144) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#146](https://github.com/hyperledger/anoncreds-spec/pull/146) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
