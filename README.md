@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-2. 💪 Opened PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-3. 🎉 Merged PR [#145](https://github.com/hyperledger/aries-askar/pull/145) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🎉 Merged PR [#144](https://github.com/hyperledger/aries-askar/pull/144) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🎉 Merged PR [#146](https://github.com/hyperledger/anoncreds-spec/pull/146) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. 🎉 Merged PR [#9](https://github.com/animo/animo-mediator/pull/9) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 💪 Opened PR [#9](https://github.com/animo/animo-mediator/pull/9) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 💪 Opened PR [#2243](https://github.com/hyperledger/aries-cloudagent-python/pull/2243) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+4. 🎉 Merged PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+5. 💪 Opened PR [#8](https://github.com/animo/animo-mediator/pull/8) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
 <!--END_SECTION:activity-->
 
 ---
