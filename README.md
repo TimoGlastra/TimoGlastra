@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/hyperledger/indy-vdr/issues/191) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#191](https://github.com/hyperledger/indy-vdr/issues/191) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 💪 Opened PR [#1471](https://github.com/hyperledger/aries-framework-javascript/pull/1471) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#9](https://github.com/animo/animo-mediator/pull/9) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-5. 💪 Opened PR [#9](https://github.com/animo/animo-mediator/pull/9) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+1. 🗣 Commented on [#2243](https://github.com/hyperledger/aries-cloudagent-python/issues/2243) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❗️ Closed issue [#191](https://github.com/hyperledger/indy-vdr/issues/191) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🎉 Merged PR [#192](https://github.com/hyperledger/indy-vdr/pull/192) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#191](https://github.com/hyperledger/indy-vdr/issues/191) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#191](https://github.com/hyperledger/indy-vdr/issues/191) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
