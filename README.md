@@ -17,10 +17,10 @@ Github language stats
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#146](https://github.com/hyperledger/aries-askar/issues/146) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. ❗️ Opened issue [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🗣 Commented on [#193](https://github.com/hyperledger/indy-vdr/issues/193) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🎉 Merged PR [#1468](https://github.com/hyperledger/aries-framework-javascript/pull/1468) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#790](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/790) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#146](https://github.com/hyperledger/aries-askar/issues/146) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. ❗️ Opened issue [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
