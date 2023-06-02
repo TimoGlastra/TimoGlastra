@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#196](https://github.com/hyperledger/indy-vdr/issues/196) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 2. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🗣 Commented on [#1452](https://github.com/hyperledger/aries-framework-javascript/issues/1452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 5. 🗣 Commented on [#1452](https://github.com/hyperledger/aries-framework-javascript/issues/1452) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
