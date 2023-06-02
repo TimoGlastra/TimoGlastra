@@ -16,10 +16,10 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#217](https://github.com/hyperledger/anoncreds-rs/pull/217) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#196](https://github.com/hyperledger/indy-vdr/issues/196) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#196](https://github.com/hyperledger/indy-vdr/pull/196) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🚀 Published release [v0.1.0](https://github.com/v0.1.0) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#217](https://github.com/hyperledger/anoncreds-rs/pull/217) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#196](https://github.com/hyperledger/indy-vdr/issues/196) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 5. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
