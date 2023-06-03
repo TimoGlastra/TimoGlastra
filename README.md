@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/55) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🎉 Merged PR [#1475](https://github.com/hyperledger/aries-framework-javascript/pull/1475) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#126](https://github.com/hyperledger/aries-javascript-docs/pull/126) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-4. 🗣 Commented on [#55](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/55) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🎉 Merged PR [#1469](https://github.com/hyperledger/aries-framework-javascript/pull/1469) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#125](https://github.com/hyperledger/aries-javascript-docs/pull/125) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+2. 🗣 Commented on [#55](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/55) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🎉 Merged PR [#1475](https://github.com/hyperledger/aries-framework-javascript/pull/1475) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#126](https://github.com/hyperledger/aries-javascript-docs/pull/126) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+5. 🗣 Commented on [#55](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/55) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
 <!--END_SECTION:activity-->
 
 ---
