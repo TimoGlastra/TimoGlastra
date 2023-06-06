@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#115](https://github.com/Sphereon-Opensource/PEX/issues/115) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#1478](https://github.com/hyperledger/aries-framework-javascript/issues/1478) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#54](https://github.com/Sphereon-Opensource/OID4VCI/pull/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 🗣 Commented on [#786](https://github.com/hyperledger/aries-rfcs/issues/786) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. 🗣 Commented on [#239](https://github.com/hyperledger-labs/hyperledger-labs.github.io/issues/239) in [hyperledger-labs/hyperledger-labs.github.io](https://github.com/hyperledger-labs/hyperledger-labs.github.io)
+4. ❗ Opened issue [#115](https://github.com/Sphereon-Opensource/PEX/issues/115) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#114](https://github.com/Sphereon-Opensource/PEX/issues/114) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
