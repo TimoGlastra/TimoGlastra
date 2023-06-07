@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#117](https://github.com/Sphereon-Opensource/PEX/issues/117) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. ❗ Opened issue [#116](https://github.com/Sphereon-Opensource/PEX/issues/116) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#110](https://github.com/Sphereon-Opensource/PEX/issues/110) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#786](https://github.com/hyperledger/aries-rfcs/issues/786) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🗣 Commented on [#230](https://github.com/hyperledger/aries-framework-javascript/issues/230) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#1481](https://github.com/hyperledger/aries-framework-javascript/pull/1481) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗ Opened issue [#117](https://github.com/Sphereon-Opensource/PEX/issues/117) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. ❗ Opened issue [#116](https://github.com/Sphereon-Opensource/PEX/issues/116) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
 <!--END_SECTION:activity-->
 
 ---
