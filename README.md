@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#56](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/56) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🗣 Commented on [#1483](https://github.com/hyperledger/aries-framework-javascript/issues/1483) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#1477](https://github.com/hyperledger/aries-framework-javascript/pull/1477) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. ❌ Closed PR [#1141](https://github.com/hyperledger/aries-framework-javascript/pull/1141) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. ❌ Closed PR [#1096](https://github.com/hyperledger/aries-framework-javascript/pull/1096) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+2. 🎉 Merged PR [#813](https://github.com/hyperledger/aries-mobile-agent-react-native/pull/813) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+3. ❗ Opened issue [#56](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/56) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🗣 Commented on [#1483](https://github.com/hyperledger/aries-framework-javascript/issues/1483) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1477](https://github.com/hyperledger/aries-framework-javascript/pull/1477) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
