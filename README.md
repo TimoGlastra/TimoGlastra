@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/57) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🔒 Closed issue [#1484](https://github.com/hyperledger/aries-framework-javascript/issues/1484) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#1485](https://github.com/hyperledger/aries-framework-javascript/pull/1485) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#56](https://github.com/Sphereon-Opensource/OID4VCI/pull/56) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-5. 🗣 Commented on [#54](https://github.com/Sphereon-Opensource/OID4VCI/issues/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. ❗ Opened issue [#118](https://github.com/Sphereon-Opensource/PEX/issues/118) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 💪 Opened PR [#57](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/57) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🔒 Closed issue [#1484](https://github.com/hyperledger/aries-framework-javascript/issues/1484) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#1485](https://github.com/hyperledger/aries-framework-javascript/pull/1485) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#56](https://github.com/Sphereon-Opensource/OID4VCI/pull/56) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
