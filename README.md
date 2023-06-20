@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/Sphereon-Opensource/OID4VCI/issues/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. ❌ Closed PR [#40](https://github.com/sicpa-dlab/openid4vc-rs/pull/40) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-3. 🎉 Merged PR [#48](https://github.com/sicpa-dlab/openid4vc-rs/pull/48) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
-4. ❗ Opened issue [#118](https://github.com/Sphereon-Opensource/PEX/issues/118) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 💪 Opened PR [#57](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/57) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. 🗣 Commented on [#1487](https://github.com/hyperledger/aries-framework-javascript/issues/1487) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#54](https://github.com/Sphereon-Opensource/OID4VCI/issues/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. ❌ Closed PR [#40](https://github.com/sicpa-dlab/openid4vc-rs/pull/40) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+4. 🎉 Merged PR [#48](https://github.com/sicpa-dlab/openid4vc-rs/pull/48) in [sicpa-dlab/openid4vc-rs](https://github.com/sicpa-dlab/openid4vc-rs)
+5. ❗ Opened issue [#118](https://github.com/Sphereon-Opensource/PEX/issues/118) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
