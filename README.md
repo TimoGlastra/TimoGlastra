@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#43](https://github.com/animo/react-native-ble-didcomm/pull/43) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-2. 🗣 Commented on [#789](https://github.com/hyperledger/aries-rfcs/issues/789) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🎉 Merged PR [#42](https://github.com/animo/react-native-ble-didcomm/pull/42) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+2. 🎉 Merged PR [#43](https://github.com/animo/react-native-ble-didcomm/pull/43) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 3. 🗣 Commented on [#789](https://github.com/hyperledger/aries-rfcs/issues/789) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🗣 Commented on [#1487](https://github.com/hyperledger/aries-framework-javascript/issues/1487) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#54](https://github.com/Sphereon-Opensource/OID4VCI/issues/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 🗣 Commented on [#789](https://github.com/hyperledger/aries-rfcs/issues/789) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#1487](https://github.com/hyperledger/aries-framework-javascript/issues/1487) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
