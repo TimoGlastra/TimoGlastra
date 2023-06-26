@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-2. 🗣 Commented on [#1](https://github.com/TimoGlastra/legacy-did-transformation/issues/1) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
-3. 🗣 Commented on [#2](https://github.com/TimoGlastra/legacy-did-transformation/issues/2) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
-4. 🗣 Commented on [#3](https://github.com/TimoGlastra/legacy-did-transformation/issues/3) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
-5. 🗣 Commented on [#1489](https://github.com/hyperledger/aries-framework-javascript/issues/1489) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#4](https://github.com/tno-ssi-lab/wallet-overview/issues/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
+2. 💪 Opened PR [#4](https://github.com/tno-ssi-lab/wallet-overview/pull/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
+3. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
+4. 🗣 Commented on [#1](https://github.com/TimoGlastra/legacy-did-transformation/issues/1) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
+5. 🗣 Commented on [#2](https://github.com/TimoGlastra/legacy-did-transformation/issues/2) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
 <!--END_SECTION:activity-->
 
 ---
