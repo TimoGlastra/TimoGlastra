@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/tno-ssi-lab/wallet-overview/issues/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
-2. 💪 Opened PR [#4](https://github.com/tno-ssi-lab/wallet-overview/pull/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
-3. 🗣 Commented on [#666](https://github.com/hyperledger/aries-mobile-agent-react-native/issues/666) in [hyperledger/aries-mobile-agent-react-native](https://github.com/hyperledger/aries-mobile-agent-react-native)
-4. 🗣 Commented on [#1](https://github.com/TimoGlastra/legacy-did-transformation/issues/1) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
-5. 🗣 Commented on [#2](https://github.com/TimoGlastra/legacy-did-transformation/issues/2) in [TimoGlastra/legacy-did-transformation](https://github.com/TimoGlastra/legacy-did-transformation)
+1. ❗ Opened issue [#50](https://github.com/animo/paradym-wallet/issues/50) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#49](https://github.com/animo/paradym-wallet/issues/49) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#125](https://github.com/animo/siera-desktop/issues/125) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+4. 🗣 Commented on [#4](https://github.com/tno-ssi-lab/wallet-overview/issues/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
+5. 💪 Opened PR [#4](https://github.com/tno-ssi-lab/wallet-overview/pull/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
 <!--END_SECTION:activity-->
 
 ---
