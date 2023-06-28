@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#212](https://github.com/hyperledger/aries-framework-javascript-ext/pull/212) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. ❗ Opened issue [#50](https://github.com/animo/paradym-wallet/issues/50) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#49](https://github.com/animo/paradym-wallet/issues/49) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#125](https://github.com/animo/siera-desktop/issues/125) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-5. 🗣 Commented on [#4](https://github.com/tno-ssi-lab/wallet-overview/issues/4) in [tno-ssi-lab/wallet-overview](https://github.com/tno-ssi-lab/wallet-overview)
+1. 🎉 Merged PR [#212](https://github.com/hyperledger/aries-framework-javascript-ext/pull/212) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+2. 💪 Opened PR [#212](https://github.com/hyperledger/aries-framework-javascript-ext/pull/212) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+3. ❗ Opened issue [#50](https://github.com/animo/paradym-wallet/issues/50) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#49](https://github.com/animo/paradym-wallet/issues/49) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#125](https://github.com/animo/siera-desktop/issues/125) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
