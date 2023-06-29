@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#216](https://github.com/hyperledger/aries-framework-javascript-ext/pull/216) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-2. 🎉 Merged PR [#209](https://github.com/hyperledger/aries-framework-javascript-ext/pull/209) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-3. 💪 Opened PR [#217](https://github.com/hyperledger/aries-framework-javascript-ext/pull/217) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-4. ❗ Opened issue [#1492](https://github.com/hyperledger/aries-framework-javascript/issues/1492) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#215](https://github.com/hyperledger/aries-framework-javascript-ext/issues/215) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#10](https://github.com/animo/animo-mediator/issues/10) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 💪 Opened PR [#11](https://github.com/animo/animo-mediator/pull/11) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🎉 Merged PR [#219](https://github.com/hyperledger/aries-framework-javascript-ext/pull/219) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+4. 🎉 Merged PR [#218](https://github.com/hyperledger/aries-framework-javascript-ext/pull/218) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+5. 🎉 Merged PR [#214](https://github.com/hyperledger/aries-framework-javascript-ext/pull/214) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
 <!--END_SECTION:activity-->
 
 ---
