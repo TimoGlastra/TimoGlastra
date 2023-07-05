@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/animo/animo-mediator/issues/10) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-2. 🗣 Commented on [#50](https://github.com/animo/react-native-ble-didcomm/issues/50) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-3. 🗣 Commented on [#50](https://github.com/animo/react-native-ble-didcomm/issues/50) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-4. 🎉 Merged PR [#49](https://github.com/animo/react-native-ble-didcomm/pull/49) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-5. 🗣 Commented on [#1493](https://github.com/hyperledger/aries-framework-javascript/issues/1493) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🔒 Closed issue [#968](https://github.com/hyperledger/aries-framework-javascript/issues/968) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#1495](https://github.com/hyperledger/aries-framework-javascript/pull/1495) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1491](https://github.com/hyperledger/aries-framework-javascript/issues/1491) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1488](https://github.com/hyperledger/aries-framework-javascript/issues/1488) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1470](https://github.com/hyperledger/aries-framework-javascript/issues/1470) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
