@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1100](https://github.com/hyperledger/aries-framework-javascript/issues/1100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🔒 Closed issue [#1101](https://github.com/hyperledger/aries-framework-javascript/issues/1101) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#1517](https://github.com/hyperledger/aries-framework-javascript/pull/1517) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🔒 Closed issue [#1250](https://github.com/hyperledger/aries-framework-javascript/issues/1250) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🔒 Closed issue [#1376](https://github.com/hyperledger/aries-framework-javascript/issues/1376) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗ Opened issue [#160](https://github.com/hyperledger/aries-askar/issues/160) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🔒 Closed issue [#1100](https://github.com/hyperledger/aries-framework-javascript/issues/1100) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🔒 Closed issue [#1101](https://github.com/hyperledger/aries-framework-javascript/issues/1101) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#1517](https://github.com/hyperledger/aries-framework-javascript/pull/1517) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🔒 Closed issue [#1250](https://github.com/hyperledger/aries-framework-javascript/issues/1250) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
