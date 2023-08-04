@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/hyperledger/aries-askar/pull/161#issuecomment-1665625366) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 💪 Opened PR [#165](https://github.com/hyperledger/aries-askar/pull/165) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. ❗ Opened issue [#164](https://github.com/hyperledger/aries-askar/issues/164) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#161](https://github.com/hyperledger/aries-askar/pull/161#issuecomment-1665616456) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#230](https://github.com/hyperledger/anoncreds-rs/issues/230#issuecomment-1665615213) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗ Opened issue [#166](https://github.com/hyperledger/aries-askar/issues/166) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#161](https://github.com/hyperledger/aries-askar/pull/161#issuecomment-1665625366) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 💪 Opened PR [#165](https://github.com/hyperledger/aries-askar/pull/165) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. ❗ Opened issue [#164](https://github.com/hyperledger/aries-askar/issues/164) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#161](https://github.com/hyperledger/aries-askar/pull/161#issuecomment-1665616456) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
