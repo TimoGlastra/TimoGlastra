@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1542](https://github.com/hyperledger/aries-framework-javascript/pull/1542#issuecomment-1682372372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1542](https://github.com/hyperledger/aries-framework-javascript/pull/1542#issuecomment-1682351593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#13](https://github.com/animo/animo-mediator/issues/13#issuecomment-1682349808) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-4. 🗣 Commented on [#225](https://github.com/hyperledger/aries-framework-javascript-ext/pull/225#issuecomment-1682314984) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
-5. 🗣 Commented on [#222](https://github.com/hyperledger/aries-framework-javascript-ext/pull/222#issuecomment-1682287501) in [hyperledger/aries-framework-javascript-ext](https://github.com/hyperledger/aries-framework-javascript-ext)
+1. 🗣 Commented on [#212](https://github.com/hyperledger/indy-vdr/pull/212#issuecomment-1683647906) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#171](https://github.com/hyperledger/aries-askar/pull/171) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🗣 Commented on [#1542](https://github.com/hyperledger/aries-framework-javascript/pull/1542#issuecomment-1682372372) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1542](https://github.com/hyperledger/aries-framework-javascript/pull/1542#issuecomment-1682351593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#13](https://github.com/animo/animo-mediator/issues/13#issuecomment-1682349808) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
 <!--END_SECTION:activity-->
 
 ---
