@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/hyperledger/aries-javascript-docs/pull/133) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-2. 🗣 Commented on [#1547](https://github.com/hyperledger/aries-framework-javascript/pull/1547#issuecomment-1683734031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#1547](https://github.com/hyperledger/aries-framework-javascript/pull/1547) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#133](https://github.com/hyperledger/aries-javascript-docs/pull/133) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
-5. 🗣 Commented on [#54](https://github.com/Sphereon-Opensource/OID4VCI/pull/54#issuecomment-1683685125) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 🎉 Merged PR [#1547](https://github.com/hyperledger/aries-framework-javascript/pull/1547) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#133](https://github.com/hyperledger/aries-javascript-docs/pull/133) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
+3. 🗣 Commented on [#1547](https://github.com/hyperledger/aries-framework-javascript/pull/1547#issuecomment-1683734031) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#1547](https://github.com/hyperledger/aries-framework-javascript/pull/1547) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#133](https://github.com/hyperledger/aries-javascript-docs/pull/133) in [hyperledger/aries-javascript-docs](https://github.com/hyperledger/aries-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
