@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-2. 🎉 Merged PR [#135](https://github.com/animo/siera-desktop/pull/135) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-3. ❗ Opened issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-4. 🗣 Commented on [#1550](https://github.com/hyperledger/aries-framework-javascript/pull/1550#issuecomment-1684298067) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#717](https://github.com/hyperledger/aries-rfcs/issues/717#issuecomment-1684297399) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🗣 Commented on [#213](https://github.com/hyperledger/indy-vdr/pull/213#issuecomment-1687707344) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#213](https://github.com/hyperledger/indy-vdr/pull/213) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🔒 Closed issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+4. 🎉 Merged PR [#135](https://github.com/animo/siera-desktop/pull/135) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+5. ❗ Opened issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
