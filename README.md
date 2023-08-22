@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/hyperledger/indy-vdr/pull/213#issuecomment-1687707344) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#213](https://github.com/hyperledger/indy-vdr/pull/213) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🔒 Closed issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-4. 🎉 Merged PR [#135](https://github.com/animo/siera-desktop/pull/135) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
-5. ❗ Opened issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
+1. 🗣 Commented on [#54](https://github.com/animo/paradym-wallet/pull/54#issuecomment-1687850815) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#54](https://github.com/animo/paradym-wallet/pull/54) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#213](https://github.com/hyperledger/indy-vdr/pull/213#issuecomment-1687707344) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🎉 Merged PR [#213](https://github.com/hyperledger/indy-vdr/pull/213) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🔒 Closed issue [#134](https://github.com/animo/siera-desktop/issues/134) in [animo/siera-desktop](https://github.com/animo/siera-desktop)
 <!--END_SECTION:activity-->
 
 ---
