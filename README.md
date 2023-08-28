@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/animo/paradym-wallet/pull/57) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#1553](https://github.com/hyperledger/aries-framework-javascript/issues/1553#issuecomment-1695326102) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1553](https://github.com/hyperledger/aries-framework-javascript/issues/1553#issuecomment-1695322845) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#56](https://github.com/animo/paradym-wallet/pull/56) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#56](https://github.com/animo/paradym-wallet/pull/56#issuecomment-1695243158) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#1555](https://github.com/hyperledger/aries-framework-javascript/pull/1555#issuecomment-1695636456) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1546](https://github.com/hyperledger/aries-framework-javascript/pull/1546#issuecomment-1695632228) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#1555](https://github.com/hyperledger/aries-framework-javascript/pull/1555) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1553](https://github.com/hyperledger/aries-framework-javascript/issues/1553#issuecomment-1695626431) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#57](https://github.com/animo/paradym-wallet/pull/57) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
