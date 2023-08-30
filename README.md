@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1560](https://github.com/hyperledger/aries-framework-javascript/pull/1560#issuecomment-1698026534) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1129](https://github.com/hyperledger/aries-framework-javascript/issues/1129#issuecomment-1697508712) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#1558](https://github.com/hyperledger/aries-framework-javascript/pull/1558) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#59](https://github.com/animo/paradym-wallet/pull/59) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#59](https://github.com/animo/paradym-wallet/pull/59) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#15](https://github.com/animo/animo-mediator/pull/15) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 🎉 Merged PR [#14](https://github.com/animo/animo-mediator/pull/14) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🎉 Merged PR [#1559](https://github.com/hyperledger/aries-framework-javascript/pull/1559) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#58](https://github.com/decentralized-identity/peer-did-method-spec/issues/58#issuecomment-1698667326) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+5. 🗣 Commented on [#58](https://github.com/decentralized-identity/peer-did-method-spec/issues/58#issuecomment-1698663548) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
 <!--END_SECTION:activity-->
 
 ---
