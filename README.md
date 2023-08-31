@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/animo/paradym-wallet/pull/61) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#61](https://github.com/animo/paradym-wallet/pull/61) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#60](https://github.com/animo/paradym-wallet/pull/60) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#60](https://github.com/animo/paradym-wallet/pull/60) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#15](https://github.com/animo/animo-mediator/pull/15) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+1. 🗣 Commented on [#174](https://github.com/hyperledger/aries-askar/issues/174#issuecomment-1700778242) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🎉 Merged PR [#61](https://github.com/animo/paradym-wallet/pull/61) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#61](https://github.com/animo/paradym-wallet/pull/61) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#60](https://github.com/animo/paradym-wallet/pull/60) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#60](https://github.com/animo/paradym-wallet/pull/60) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
