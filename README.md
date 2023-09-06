@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#717](https://github.com/hyperledger/aries-rfcs/issues/717#issuecomment-1707885612) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#1569](https://github.com/hyperledger/aries-framework-javascript/issues/1569#issuecomment-1706810397) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#19](https://github.com/animo/animo-mediator/issues/19#issuecomment-1701242473) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-4. 🗣 Commented on [#174](https://github.com/hyperledger/aries-askar/issues/174#issuecomment-1700778242) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🎉 Merged PR [#61](https://github.com/animo/paradym-wallet/pull/61) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#1570](https://github.com/hyperledger/aries-framework-javascript/issues/1570#issuecomment-1708229290) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#717](https://github.com/hyperledger/aries-rfcs/issues/717#issuecomment-1707885612) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🗣 Commented on [#1569](https://github.com/hyperledger/aries-framework-javascript/issues/1569#issuecomment-1706810397) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#19](https://github.com/animo/animo-mediator/issues/19#issuecomment-1701242473) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+5. 🗣 Commented on [#174](https://github.com/hyperledger/aries-askar/issues/174#issuecomment-1700778242) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
