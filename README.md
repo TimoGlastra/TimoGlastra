@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/hyperledger/anoncreds-rs/pull/243) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#214](https://github.com/hyperledger/indy-vdr/pull/214) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#1570](https://github.com/hyperledger/aries-framework-javascript/issues/1570#issuecomment-1708229290) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#717](https://github.com/hyperledger/aries-rfcs/issues/717#issuecomment-1707885612) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. 🗣 Commented on [#1569](https://github.com/hyperledger/aries-framework-javascript/issues/1569#issuecomment-1706810397) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 💪 Opened PR [#59](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/59) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. 🎉 Merged PR [#243](https://github.com/hyperledger/anoncreds-rs/pull/243) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#214](https://github.com/hyperledger/indy-vdr/pull/214) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#1570](https://github.com/hyperledger/aries-framework-javascript/issues/1570#issuecomment-1708229290) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#717](https://github.com/hyperledger/aries-rfcs/issues/717#issuecomment-1707885612) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
