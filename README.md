@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/hyperledger/aries-askar/pull/179) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🔒 Closed issue [#163](https://github.com/hyperledger/aries-askar/issues/163) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🎉 Merged PR [#178](https://github.com/hyperledger/aries-askar/pull/178) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 💪 Opened PR [#59](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/59) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🎉 Merged PR [#243](https://github.com/hyperledger/anoncreds-rs/pull/243) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#216](https://github.com/hyperledger/indy-vdr/issues/216#issuecomment-1719437086) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗ Opened issue [#216](https://github.com/hyperledger/indy-vdr/issues/216) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 💪 Opened PR [#179](https://github.com/hyperledger/aries-askar/pull/179) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🔒 Closed issue [#163](https://github.com/hyperledger/aries-askar/issues/163) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#178](https://github.com/hyperledger/aries-askar/pull/178) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
