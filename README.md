@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#217](https://github.com/hyperledger/indy-vdr/issues/217) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#183](https://github.com/hyperledger/aries-askar/pull/183) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🗣 Commented on [#179](https://github.com/hyperledger/aries-askar/pull/179#issuecomment-1731056413) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#179](https://github.com/hyperledger/aries-askar/pull/179#issuecomment-1731055148) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#248](https://github.com/hyperledger/anoncreds-rs/issues/248#issuecomment-1731048231) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#2505](https://github.com/hyperledger/aries-cloudagent-python/issues/2505#issuecomment-1731112119) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🎉 Merged PR [#179](https://github.com/hyperledger/aries-askar/pull/179) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🔒 Closed issue [#217](https://github.com/hyperledger/indy-vdr/issues/217) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🎉 Merged PR [#183](https://github.com/hyperledger/aries-askar/pull/183) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#179](https://github.com/hyperledger/aries-askar/pull/179#issuecomment-1731056413) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
