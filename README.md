@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1581](https://github.com/hyperledger/aries-framework-javascript/issues/1581#issuecomment-1731470493) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#2505](https://github.com/hyperledger/aries-cloudagent-python/issues/2505#issuecomment-1731112119) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-3. 🎉 Merged PR [#179](https://github.com/hyperledger/aries-askar/pull/179) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🔒 Closed issue [#217](https://github.com/hyperledger/indy-vdr/issues/217) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🎉 Merged PR [#183](https://github.com/hyperledger/aries-askar/pull/183) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 💪 Opened PR [#65](https://github.com/animo/paradym-wallet/pull/65) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#64](https://github.com/animo/paradym-wallet/pull/64) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#1581](https://github.com/hyperledger/aries-framework-javascript/issues/1581#issuecomment-1731470493) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#2505](https://github.com/hyperledger/aries-cloudagent-python/issues/2505#issuecomment-1731112119) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🎉 Merged PR [#179](https://github.com/hyperledger/aries-askar/pull/179) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
