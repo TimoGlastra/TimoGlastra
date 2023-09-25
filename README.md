@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/animo/paradym-wallet/pull/67) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. ❗ Opened issue [#77](https://github.com/openid/OpenID4VCI/issues/77) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 🎉 Merged PR [#66](https://github.com/animo/paradym-wallet/pull/66) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#66](https://github.com/animo/paradym-wallet/pull/66) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#250](https://github.com/hyperledger/anoncreds-rs/issues/250#issuecomment-1733255969) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734442821) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734440783) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 💪 Opened PR [#67](https://github.com/animo/paradym-wallet/pull/67) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❗ Opened issue [#77](https://github.com/openid/OpenID4VCI/issues/77) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. 🎉 Merged PR [#66](https://github.com/animo/paradym-wallet/pull/66) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
