@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/hyperledger/aries-askar/pull/186) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#221](https://github.com/hyperledger/indy-vdr/pull/221) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#220](https://github.com/hyperledger/indy-vdr/issues/220#issuecomment-1734874857) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#2516](https://github.com/hyperledger/aries-cloudagent-python/pull/2516#issuecomment-1734874208) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734442821) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🗣 Commented on [#1587](https://github.com/hyperledger/aries-framework-javascript/issues/1587#issuecomment-1735063425) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🎉 Merged PR [#186](https://github.com/hyperledger/aries-askar/pull/186) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🎉 Merged PR [#221](https://github.com/hyperledger/indy-vdr/pull/221) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#220](https://github.com/hyperledger/indy-vdr/issues/220#issuecomment-1734874857) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#2516](https://github.com/hyperledger/aries-cloudagent-python/pull/2516#issuecomment-1734874208) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
