@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734442821) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734440783) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 💪 Opened PR [#67](https://github.com/animo/paradym-wallet/pull/67) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#77](https://github.com/openid/OpenID4VCI/issues/77) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🎉 Merged PR [#66](https://github.com/animo/paradym-wallet/pull/66) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#220](https://github.com/hyperledger/indy-vdr/issues/220#issuecomment-1734874857) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#2516](https://github.com/hyperledger/aries-cloudagent-python/pull/2516#issuecomment-1734874208) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734442821) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+4. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1734440783) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. 💪 Opened PR [#67](https://github.com/animo/paradym-wallet/pull/67) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
