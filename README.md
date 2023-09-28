@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1589](https://github.com/hyperledger/aries-framework-javascript/pull/1589) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1735882615) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 💪 Opened PR [#1588](https://github.com/hyperledger/aries-framework-javascript/pull/1588) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#68](https://github.com/animo/paradym-wallet/pull/68) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#67](https://github.com/animo/paradym-wallet/pull/67) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#69](https://github.com/animo/paradym-wallet/pull/69) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#68](https://github.com/animo/paradym-wallet/pull/68) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#69](https://github.com/animo/paradym-wallet/pull/69) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#1589](https://github.com/hyperledger/aries-framework-javascript/pull/1589) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1735882615) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
