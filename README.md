@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 💪 Opened PR [#60](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/60) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. 🎉 Merged PR [#69](https://github.com/animo/paradym-wallet/pull/69) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#68](https://github.com/animo/paradym-wallet/pull/68) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#69](https://github.com/animo/paradym-wallet/pull/69) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#1592](https://github.com/hyperledger/aries-framework-javascript/pull/1592) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 💪 Opened PR [#60](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/60) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🎉 Merged PR [#69](https://github.com/animo/paradym-wallet/pull/69) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#68](https://github.com/animo/paradym-wallet/pull/68) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
