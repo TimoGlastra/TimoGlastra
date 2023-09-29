@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1740805645) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 💪 Opened PR [#128](https://github.com/Sphereon-Opensource/PEX/pull/128) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29#issuecomment-1740775636) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-4. 💪 Opened PR [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-5. 🎉 Merged PR [#70](https://github.com/animo/paradym-wallet/pull/70) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#223](https://github.com/hyperledger/indy-vdr/pull/223) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1740805645) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 💪 Opened PR [#128](https://github.com/Sphereon-Opensource/PEX/pull/128) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29#issuecomment-1740775636) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+5. 💪 Opened PR [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
 <!--END_SECTION:activity-->
 
 ---
