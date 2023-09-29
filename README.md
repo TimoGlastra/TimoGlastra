@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1575](https://github.com/hyperledger/aries-framework-javascript/pull/1575#issuecomment-1740593332) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#1575](https://github.com/hyperledger/aries-framework-javascript/pull/1575) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🔒 Closed issue [#1587](https://github.com/hyperledger/aries-framework-javascript/issues/1587) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1593](https://github.com/hyperledger/aries-framework-javascript/pull/1593) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1740585117) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 💪 Opened PR [#70](https://github.com/animo/paradym-wallet/pull/70) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#1594](https://github.com/hyperledger/aries-framework-javascript/issues/1594#issuecomment-1740629545) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🎉 Merged PR [#1588](https://github.com/hyperledger/aries-framework-javascript/pull/1588) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1576](https://github.com/hyperledger/aries-framework-javascript/pull/1576#issuecomment-1740625734) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1575](https://github.com/hyperledger/aries-framework-javascript/pull/1575#issuecomment-1740593332) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
