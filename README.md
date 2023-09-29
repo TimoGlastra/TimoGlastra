@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1741394293) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🎉 Merged PR [#223](https://github.com/hyperledger/indy-vdr/pull/223) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1740805645) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 💪 Opened PR [#128](https://github.com/Sphereon-Opensource/PEX/pull/128) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29#issuecomment-1740775636) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+1. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1741491262) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1741463676) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1741394293) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🎉 Merged PR [#223](https://github.com/hyperledger/indy-vdr/pull/223) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1740805645) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
