@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/animo/paradym-wallet/pull/70) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#70](https://github.com/animo/paradym-wallet/pull/70) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#1594](https://github.com/hyperledger/aries-framework-javascript/issues/1594#issuecomment-1740629545) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1588](https://github.com/hyperledger/aries-framework-javascript/pull/1588) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#1576](https://github.com/hyperledger/aries-framework-javascript/pull/1576#issuecomment-1740625734) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1740805645) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 💪 Opened PR [#128](https://github.com/Sphereon-Opensource/PEX/pull/128) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29#issuecomment-1740775636) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+4. 💪 Opened PR [#29](https://github.com/Sphereon-Opensource/pex-openapi/pull/29) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+5. 🎉 Merged PR [#70](https://github.com/animo/paradym-wallet/pull/70) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
