@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1591](https://github.com/hyperledger/aries-framework-javascript/pull/1591#issuecomment-1743618682) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#71](https://github.com/animo/paradym-wallet/pull/71) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61#issuecomment-1742926497) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-4. ❗ Opened issue [#129](https://github.com/Sphereon-Opensource/PEX/issues/129) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#62](https://github.com/decentralized-identity/peer-did-method-spec/pull/62#issuecomment-1741571130) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+1. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1743838965) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#1591](https://github.com/hyperledger/aries-framework-javascript/pull/1591#issuecomment-1743618682) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#71](https://github.com/animo/paradym-wallet/pull/71) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61#issuecomment-1742926497) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+5. ❗ Opened issue [#129](https://github.com/Sphereon-Opensource/PEX/issues/129) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
