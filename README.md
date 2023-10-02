@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#129](https://github.com/Sphereon-Opensource/PEX/issues/129) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#62](https://github.com/decentralized-identity/peer-did-method-spec/pull/62#issuecomment-1741571130) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
-3. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1741522613) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-4. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1741491262) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1741463676) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🗣 Commented on [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61#issuecomment-1742926497) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. ❗ Opened issue [#129](https://github.com/Sphereon-Opensource/PEX/issues/129) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#62](https://github.com/decentralized-identity/peer-did-method-spec/pull/62#issuecomment-1741571130) in [decentralized-identity/peer-did-method-spec](https://github.com/decentralized-identity/peer-did-method-spec)
+4. 🗣 Commented on [#77](https://github.com/openid/OpenID4VCI/issues/77#issuecomment-1741522613) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1741491262) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
