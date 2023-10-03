@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#54](https://github.com/openid/OpenID4VP/issues/54) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-2. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1743838965) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#1591](https://github.com/hyperledger/aries-framework-javascript/pull/1591#issuecomment-1743618682) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 💪 Opened PR [#71](https://github.com/animo/paradym-wallet/pull/71) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61#issuecomment-1742926497) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. 🎉 Merged PR [#72](https://github.com/animo/paradym-wallet/pull/72) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#54](https://github.com/openid/OpenID4VP/issues/54) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+3. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1743838965) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#1591](https://github.com/hyperledger/aries-framework-javascript/pull/1591#issuecomment-1743618682) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 💪 Opened PR [#71](https://github.com/animo/paradym-wallet/pull/71) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
