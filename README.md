@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🗣 Commented on [#54](https://github.com/openid/OpenID4VP/issues/54#issuecomment-1746349014) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-3. 🎉 Merged PR [#72](https://github.com/animo/paradym-wallet/pull/72) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#54](https://github.com/openid/OpenID4VP/issues/54) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-5. 🗣 Commented on [#128](https://github.com/Sphereon-Opensource/PEX/pull/128#issuecomment-1743838965) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1746667364) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1746665798) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. ❗ Opened issue [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🗣 Commented on [#54](https://github.com/openid/OpenID4VP/issues/54#issuecomment-1746349014) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+5. 🎉 Merged PR [#72](https://github.com/animo/paradym-wallet/pull/72) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
