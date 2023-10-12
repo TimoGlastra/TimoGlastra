@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#227](https://github.com/hyperledger/indy-vdr/pull/227) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#1598](https://github.com/hyperledger/aries-framework-javascript/pull/1598) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🎉 Merged PR [#1599](https://github.com/hyperledger/aries-framework-javascript/pull/1599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1596](https://github.com/hyperledger/aries-framework-javascript/pull/1596) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🎉 Merged PR [#1605](https://github.com/hyperledger/aries-framework-javascript/pull/1605) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. ❗ Opened issue [#863](https://github.com/arktypeio/arktype/issues/863) in [arktypeio/arktype](https://github.com/arktypeio/arktype)
+2. 🎉 Merged PR [#227](https://github.com/hyperledger/indy-vdr/pull/227) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🎉 Merged PR [#1598](https://github.com/hyperledger/aries-framework-javascript/pull/1598) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#1599](https://github.com/hyperledger/aries-framework-javascript/pull/1599) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🎉 Merged PR [#1596](https://github.com/hyperledger/aries-framework-javascript/pull/1596) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
