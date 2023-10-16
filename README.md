@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/unjs/unstorage/issues/152#issuecomment-1761390745) in [unjs/unstorage](https://github.com/unjs/unstorage)
-2. ❗ Opened issue [#67](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list/issues/67) in [vcstuff/draft-looker-oauth-jwt-cwt-status-list](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list)
-3. ❗ Opened issue [#863](https://github.com/arktypeio/arktype/issues/863) in [arktypeio/arktype](https://github.com/arktypeio/arktype)
-4. 🎉 Merged PR [#227](https://github.com/hyperledger/indy-vdr/pull/227) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🎉 Merged PR [#1598](https://github.com/hyperledger/aries-framework-javascript/pull/1598) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#74](https://github.com/animo/paradym-wallet/pull/74) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#152](https://github.com/unjs/unstorage/issues/152#issuecomment-1761390745) in [unjs/unstorage](https://github.com/unjs/unstorage)
+3. ❗ Opened issue [#67](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list/issues/67) in [vcstuff/draft-looker-oauth-jwt-cwt-status-list](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list)
+4. ❗ Opened issue [#863](https://github.com/arktypeio/arktype/issues/863) in [arktypeio/arktype](https://github.com/arktypeio/arktype)
+5. 🎉 Merged PR [#227](https://github.com/hyperledger/indy-vdr/pull/227) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
