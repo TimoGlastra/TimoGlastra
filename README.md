@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#190](https://github.com/hyperledger/aries-askar/issues/190#issuecomment-1766156275) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1765863408) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1765860112) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#74](https://github.com/animo/paradym-wallet/pull/74) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#152](https://github.com/unjs/unstorage/issues/152#issuecomment-1761390745) in [unjs/unstorage](https://github.com/unjs/unstorage)
+1. 🗣 Commented on [#1554](https://github.com/hyperledger/aries-framework-javascript/issues/1554#issuecomment-1767930033) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#67](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list/issues/67#issuecomment-1767914948) in [vcstuff/draft-looker-oauth-jwt-cwt-status-list](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list)
+3. 🗣 Commented on [#182](https://github.com/hyperledger/aries-askar/issues/182#issuecomment-1767911812) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#190](https://github.com/hyperledger/aries-askar/issues/190#issuecomment-1766156275) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1765863408) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
