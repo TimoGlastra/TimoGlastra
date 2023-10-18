@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1768172973) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1768170759) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1554](https://github.com/hyperledger/aries-framework-javascript/issues/1554#issuecomment-1767930033) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#67](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list/issues/67#issuecomment-1767914948) in [vcstuff/draft-looker-oauth-jwt-cwt-status-list](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list)
-5. 🗣 Commented on [#182](https://github.com/hyperledger/aries-askar/issues/182#issuecomment-1767911812) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. ❗ Opened issue [#252](https://github.com/hyperledger/anoncreds-rs/issues/252) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1768172973) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1768170759) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1554](https://github.com/hyperledger/aries-framework-javascript/issues/1554#issuecomment-1767930033) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#67](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list/issues/67#issuecomment-1767914948) in [vcstuff/draft-looker-oauth-jwt-cwt-status-list](https://github.com/vcstuff/draft-looker-oauth-jwt-cwt-status-list)
 <!--END_SECTION:activity-->
 
 ---
