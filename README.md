@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2605](https://github.com/hyperledger/indy-sdk/pull/2605#issuecomment-1777168783) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
-2. 🗣 Commented on [#1554](https://github.com/hyperledger/aries-framework-javascript/issues/1554#issuecomment-1772555301) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🚀 Published release [v0.2.0-dev2](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🎉 Merged PR [#254](https://github.com/hyperledger/anoncreds-rs/pull/254) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#1609](https://github.com/hyperledger/aries-framework-javascript/issues/1609#issuecomment-1770943757) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#75](https://github.com/animo/paradym-wallet/issues/75#issuecomment-1780403884) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#2605](https://github.com/hyperledger/indy-sdk/pull/2605#issuecomment-1777168783) in [hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)
+3. 🗣 Commented on [#1554](https://github.com/hyperledger/aries-framework-javascript/issues/1554#issuecomment-1772555301) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🚀 Published release [v0.2.0-dev2](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev2) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🎉 Merged PR [#254](https://github.com/hyperledger/anoncreds-rs/pull/254) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
