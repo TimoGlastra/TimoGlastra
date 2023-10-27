@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782684646) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782682822) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1782458705) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#187](https://github.com/hyperledger/aries-askar/issues/187#issuecomment-1780962440) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#1615](https://github.com/hyperledger/aries-framework-javascript/issues/1615#issuecomment-1780961238) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1783446007) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782684646) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782682822) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1782458705) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#187](https://github.com/hyperledger/aries-askar/issues/187#issuecomment-1780962440) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
