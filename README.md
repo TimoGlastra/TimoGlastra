@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1607](https://github.com/hyperledger/aries-framework-javascript/pull/1607#issuecomment-1784932156) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1783446007) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782684646) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782682822) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1782458705) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🎉 Merged PR [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#1606](https://github.com/hyperledger/aries-framework-javascript/pull/1606#issuecomment-1786037932) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1607](https://github.com/hyperledger/aries-framework-javascript/pull/1607#issuecomment-1784932156) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1613](https://github.com/hyperledger/aries-framework-javascript/issues/1613#issuecomment-1783446007) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#230](https://github.com/hyperledger/indy-vdr/pull/230#issuecomment-1782684646) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
