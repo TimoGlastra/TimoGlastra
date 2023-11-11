@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1636](https://github.com/hyperledger/aries-framework-javascript/pull/1636) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1625](https://github.com/hyperledger/aries-framework-javascript/issues/1625#issuecomment-1805175181) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#1636](https://github.com/hyperledger/aries-framework-javascript/pull/1636) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1633](https://github.com/hyperledger/aries-framework-javascript/issues/1633#issuecomment-1803138018) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🔒 Closed issue [#1633](https://github.com/hyperledger/aries-framework-javascript/issues/1633) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#263](https://github.com/hyperledger/anoncreds-rs/issues/263#issuecomment-1806728680) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🎉 Merged PR [#1636](https://github.com/hyperledger/aries-framework-javascript/pull/1636) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1625](https://github.com/hyperledger/aries-framework-javascript/issues/1625#issuecomment-1805175181) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#1636](https://github.com/hyperledger/aries-framework-javascript/pull/1636) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1633](https://github.com/hyperledger/aries-framework-javascript/issues/1633#issuecomment-1803138018) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
