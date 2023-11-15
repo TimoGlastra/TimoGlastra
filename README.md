@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#271](https://github.com/hyperledger/anoncreds-rs/pull/271#issuecomment-1810334254) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#263](https://github.com/hyperledger/anoncreds-rs/issues/263#issuecomment-1807603326) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 💪 Opened PR [#202](https://github.com/hyperledger/aries-askar/pull/202) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🎉 Merged PR [#800](https://github.com/hyperledger/aries-rfcs/pull/800) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. 🗣 Commented on [#263](https://github.com/hyperledger/anoncreds-rs/issues/263#issuecomment-1806728680) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#80](https://github.com/animo/paradym-wallet/pull/80) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#271](https://github.com/hyperledger/anoncreds-rs/pull/271#issuecomment-1810334254) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#263](https://github.com/hyperledger/anoncreds-rs/issues/263#issuecomment-1807603326) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 💪 Opened PR [#202](https://github.com/hyperledger/aries-askar/pull/202) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#800](https://github.com/hyperledger/aries-rfcs/pull/800) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
