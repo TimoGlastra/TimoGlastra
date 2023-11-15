@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/63#issuecomment-1812311508) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🎉 Merged PR [#202](https://github.com/hyperledger/aries-askar/pull/202) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🎉 Merged PR [#80](https://github.com/animo/paradym-wallet/pull/80) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#80](https://github.com/animo/paradym-wallet/pull/80) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#271](https://github.com/hyperledger/anoncreds-rs/pull/271#issuecomment-1810334254) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🎉 Merged PR [#81](https://github.com/animo/paradym-wallet/pull/81) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#81](https://github.com/animo/paradym-wallet/pull/81) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#63](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/63#issuecomment-1812311508) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🎉 Merged PR [#202](https://github.com/hyperledger/aries-askar/pull/202) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#80](https://github.com/animo/paradym-wallet/pull/80) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
