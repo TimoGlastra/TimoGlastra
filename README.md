@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#76](https://github.com/Sphereon-Opensource/OID4VCI/issues/76) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. ❗ Opened issue [#75](https://github.com/Sphereon-Opensource/OID4VCI/issues/75) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 🎉 Merged PR [#81](https://github.com/animo/paradym-wallet/pull/81) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#81](https://github.com/animo/paradym-wallet/pull/81) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#63](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/63#issuecomment-1812311508) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. 🗣 Commented on [#75](https://github.com/Sphereon-Opensource/OID4VCI/issues/75#issuecomment-1813685298) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+2. 🗣 Commented on [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640#issuecomment-1813675587) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🔒 Closed issue [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640#issuecomment-1813674266) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. ❗ Opened issue [#76](https://github.com/Sphereon-Opensource/OID4VCI/issues/76) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
