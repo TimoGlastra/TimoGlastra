@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#77](https://github.com/Sphereon-Opensource/OID4VCI/issues/77) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. 🗣 Commented on [#203](https://github.com/hyperledger/aries-askar/issues/203#issuecomment-1813832164) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. ❗ Opened issue [#203](https://github.com/hyperledger/aries-askar/issues/203) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#76](https://github.com/hyperledger/aries-askar/issues/76#issuecomment-1813829739) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#75](https://github.com/Sphereon-Opensource/OID4VCI/issues/75#issuecomment-1813685298) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 🗣 Commented on [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640#issuecomment-1814100836) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#74](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/pull/74) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
+3. ❗ Opened issue [#77](https://github.com/Sphereon-Opensource/OID4VCI/issues/77) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 🗣 Commented on [#203](https://github.com/hyperledger/aries-askar/issues/203#issuecomment-1813832164) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. ❗ Opened issue [#203](https://github.com/hyperledger/aries-askar/issues/203) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
