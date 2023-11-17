@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#78](https://github.com/Sphereon-Opensource/OID4VCI/pull/78) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. 🗣 Commented on [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640#issuecomment-1814100836) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 💪 Opened PR [#74](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/pull/74) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
-4. ❗ Opened issue [#77](https://github.com/Sphereon-Opensource/OID4VCI/issues/77) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-5. 🗣 Commented on [#203](https://github.com/hyperledger/aries-askar/issues/203#issuecomment-1813832164) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#1427](https://github.com/hyperledger/aries-framework-javascript/pull/1427#issuecomment-1815713501) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#78](https://github.com/Sphereon-Opensource/OID4VCI/pull/78) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. 🗣 Commented on [#1640](https://github.com/hyperledger/aries-framework-javascript/issues/1640#issuecomment-1814100836) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 💪 Opened PR [#74](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/pull/74) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
+5. ❗ Opened issue [#77](https://github.com/Sphereon-Opensource/OID4VCI/issues/77) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
