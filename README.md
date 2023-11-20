@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381#issuecomment-1818446323) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
-2. 🔒 Closed issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
-3. ❗ Opened issue [#1](https://github.com/berendsliedrecht/sd-jwt-ts/issues/1) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. ❗ Opened issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
-5. ❗ Opened issue [#76](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/issues/76) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
+1. 🗣 Commented on [#1641](https://github.com/hyperledger/aries-framework-javascript/issues/1641#issuecomment-1819130796) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 🗣 Commented on [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381#issuecomment-1818446323) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
+3. 🔒 Closed issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
+4. ❗ Opened issue [#1](https://github.com/berendsliedrecht/sd-jwt-ts/issues/1) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. ❗ Opened issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
 <!--END_SECTION:activity-->
 
 ---
