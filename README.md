@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1642](https://github.com/hyperledger/aries-framework-javascript/issues/1642#issuecomment-1820286938) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🗣 Commented on [#1641](https://github.com/hyperledger/aries-framework-javascript/issues/1641#issuecomment-1819130796) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381#issuecomment-1818446323) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
-4. 🔒 Closed issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
-5. ❗ Opened issue [#1](https://github.com/berendsliedrecht/sd-jwt-ts/issues/1) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. ❗ Opened issue [#2](https://github.com/berendsliedrecht/sd-jwt-ts/issues/2) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#1642](https://github.com/hyperledger/aries-framework-javascript/issues/1642#issuecomment-1820286938) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 🗣 Commented on [#1641](https://github.com/hyperledger/aries-framework-javascript/issues/1641#issuecomment-1819130796) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381#issuecomment-1818446323) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
+5. 🔒 Closed issue [#381](https://github.com/oauth-wg/oauth-selective-disclosure-jwt/issues/381) in [oauth-wg/oauth-selective-disclosure-jwt](https://github.com/oauth-wg/oauth-selective-disclosure-jwt)
 <!--END_SECTION:activity-->
 
 ---
