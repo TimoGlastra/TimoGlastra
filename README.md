@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1646](https://github.com/hyperledger/aries-framework-javascript/issues/1646#issuecomment-1824227052) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 💪 Opened PR [#1647](https://github.com/hyperledger/aries-framework-javascript/pull/1647) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1646](https://github.com/hyperledger/aries-framework-javascript/issues/1646#issuecomment-1823777460) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#77](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/pull/77#issuecomment-1822674412) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
-5. 🗣 Commented on [#2361](https://github.com/hyperledger/aries-cloudagent-python/issues/2361#issuecomment-1822201054) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#75](https://github.com/Sphereon-Opensource/OID4VCI/issues/75#issuecomment-1827049263) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+2. 🗣 Commented on [#1646](https://github.com/hyperledger/aries-framework-javascript/issues/1646#issuecomment-1824227052) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. 💪 Opened PR [#1647](https://github.com/hyperledger/aries-framework-javascript/pull/1647) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1646](https://github.com/hyperledger/aries-framework-javascript/issues/1646#issuecomment-1823777460) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#77](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc/pull/77#issuecomment-1822674412) in [vcstuff/oid4vc-haip-sd-jwt-vc](https://github.com/vcstuff/oid4vc-haip-sd-jwt-vc)
 <!--END_SECTION:activity-->
 
 ---
