@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1649](https://github.com/hyperledger/aries-framework-javascript/issues/1649#issuecomment-1827117851) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. ❗ Opened issue [#1649](https://github.com/hyperledger/aries-framework-javascript/issues/1649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648#issuecomment-1827098195) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🗣 Commented on [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648#issuecomment-1827089917) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 💪 Opened PR [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827188891) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+2. 🗣 Commented on [#1649](https://github.com/hyperledger/aries-framework-javascript/issues/1649#issuecomment-1827117851) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+3. ❗ Opened issue [#1649](https://github.com/hyperledger/aries-framework-javascript/issues/1649) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🗣 Commented on [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648#issuecomment-1827098195) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648#issuecomment-1827089917) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
