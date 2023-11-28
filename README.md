@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1650](https://github.com/hyperledger/aries-framework-javascript/pull/1650) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-2. 🎉 Merged PR [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-3. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827351972) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-4. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827348351) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-5. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827347080) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+1. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/PEX/issues/131#issuecomment-1829144928) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#26](https://github.com/openwallet-foundation/project-proposals/pull/26#issuecomment-1829138183) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🎉 Merged PR [#1650](https://github.com/hyperledger/aries-framework-javascript/pull/1650) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+4. 🎉 Merged PR [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+5. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827351972) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
 <!--END_SECTION:activity-->
 
 ---
