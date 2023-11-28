@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/PEX/issues/131#issuecomment-1829144928) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#26](https://github.com/openwallet-foundation/project-proposals/pull/26#issuecomment-1829138183) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. 🎉 Merged PR [#1650](https://github.com/hyperledger/aries-framework-javascript/pull/1650) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-4. 🎉 Merged PR [#1648](https://github.com/hyperledger/aries-framework-javascript/pull/1648) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
-5. 🗣 Commented on [#30](https://github.com/Sphereon-Opensource/pex-openapi/pull/30#issuecomment-1827351972) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+1. ❗ Opened issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. ❗ Opened issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+3. 🗣 Commented on [#454](https://github.com/decentralized-identity/presentation-exchange/issues/454#issuecomment-1829615453) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+4. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/PEX/issues/131#issuecomment-1829144928) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#26](https://github.com/openwallet-foundation/project-proposals/pull/26#issuecomment-1829138183) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
