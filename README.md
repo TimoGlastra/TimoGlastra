@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/berendsliedrecht/sd-jwt-ts/issues/8) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. ❗ Opened issue [#7](https://github.com/berendsliedrecht/sd-jwt-ts/issues/7) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 💪 Opened PR [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-4. ❗ Opened issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-5. ❗ Opened issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+1. 🗣 Commented on [#1654](https://github.com/hyperledger/aries-framework-javascript/issues/1654#issuecomment-1831235947) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+2. 💪 Opened PR [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. ❗ Opened issue [#8](https://github.com/berendsliedrecht/sd-jwt-ts/issues/8) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. ❗ Opened issue [#7](https://github.com/berendsliedrecht/sd-jwt-ts/issues/7) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 💪 Opened PR [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
 <!--END_SECTION:activity-->
 
 ---
