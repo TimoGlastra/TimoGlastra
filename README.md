@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/animo/animo-mediator/issues/20#issuecomment-1833162150) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-2. 🗣 Commented on [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10#issuecomment-1831286785) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. ❗ Opened issue [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/PEX/issues/131#issuecomment-1831279635) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#1654](https://github.com/hyperledger/aries-framework-javascript/issues/1654#issuecomment-1831235947) in [hyperledger/aries-framework-javascript](https://github.com/hyperledger/aries-framework-javascript)
+1. 🗣 Commented on [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9#issuecomment-1833256004) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#20](https://github.com/animo/animo-mediator/issues/20#issuecomment-1833162150) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🗣 Commented on [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10#issuecomment-1831286785) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. ❗ Opened issue [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/PEX/issues/131#issuecomment-1831279635) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
