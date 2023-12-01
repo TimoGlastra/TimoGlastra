@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9#issuecomment-1833368813) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9#issuecomment-1833256004) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 🗣 Commented on [#20](https://github.com/animo/animo-mediator/issues/20#issuecomment-1833162150) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-4. 🗣 Commented on [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10#issuecomment-1831286785) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. ❗ Opened issue [#10](https://github.com/berendsliedrecht/sd-jwt-ts/issues/10) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1835777979) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. 🔒 Closed issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+3. 🗣 Commented on [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462#issuecomment-1835774011) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+4. 🗣 Commented on [#1665](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1665#issuecomment-1835773219) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#1665](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1665#issuecomment-1835772050) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
