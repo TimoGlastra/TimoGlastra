@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1837873023) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-2. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1835777979) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. 🔒 Closed issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
-4. 🗣 Commented on [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462#issuecomment-1835774011) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
-5. 🗣 Commented on [#1665](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1665#issuecomment-1835773219) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1838237485) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1837873023) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1835777979) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🔒 Closed issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+5. 🗣 Commented on [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462#issuecomment-1835774011) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
 <!--END_SECTION:activity-->
 
 ---
