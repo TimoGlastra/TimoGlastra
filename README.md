@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9#issuecomment-1838415966) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1838237485) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-3. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1837873023) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-4. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1835777979) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🔒 Closed issue [#462](https://github.com/decentralized-identity/presentation-exchange/issues/462) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+1. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1840222309) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+2. 🗣 Commented on [#9](https://github.com/berendsliedrecht/sd-jwt-ts/pull/9#issuecomment-1838415966) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1838237485) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+4. 🗣 Commented on [#22](https://github.com/animo/animo-mediator/issues/22#issuecomment-1837873023) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+5. 🗣 Commented on [#62](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/62#issuecomment-1835777979) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
 <!--END_SECTION:activity-->
 
 ---
