@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1845036068) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-2. 💪 Opened PR [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 🎉 Merged PR [#805](https://github.com/hyperledger/aries-rfcs/pull/805) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 💪 Opened PR [#132](https://github.com/Sphereon-Opensource/PEX/pull/132) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1840222309) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+1. ❗ Opened issue [#88](https://github.com/openwallet-foundation/tac/issues/88) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+2. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1845036068) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+3. 💪 Opened PR [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 🎉 Merged PR [#805](https://github.com/hyperledger/aries-rfcs/pull/805) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 💪 Opened PR [#132](https://github.com/Sphereon-Opensource/PEX/pull/132) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
