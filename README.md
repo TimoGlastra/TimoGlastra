@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1669](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1669) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🎉 Merged PR [#231](https://github.com/openwallet-foundation/agent-framework-javascript-ext/pull/231) in [openwallet-foundation/agent-framework-javascript-ext](https://github.com/openwallet-foundation/agent-framework-javascript-ext)
-3. ❌ Closed PR [#146](https://github.com/openwallet-foundation/agent-framework-javascript-ext/pull/146) in [openwallet-foundation/agent-framework-javascript-ext](https://github.com/openwallet-foundation/agent-framework-javascript-ext)
-4. ❗ Opened issue [#88](https://github.com/openwallet-foundation/tac/issues/88) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-5. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1845036068) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+1. 💪 Opened PR [#190](https://github.com/hyperledger/anoncreds-spec/pull/190) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. 💪 Opened PR [#1669](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1669) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🎉 Merged PR [#231](https://github.com/openwallet-foundation/agent-framework-javascript-ext/pull/231) in [openwallet-foundation/agent-framework-javascript-ext](https://github.com/openwallet-foundation/agent-framework-javascript-ext)
+4. ❌ Closed PR [#146](https://github.com/openwallet-foundation/agent-framework-javascript-ext/pull/146) in [openwallet-foundation/agent-framework-javascript-ext](https://github.com/openwallet-foundation/agent-framework-javascript-ext)
+5. ❗ Opened issue [#88](https://github.com/openwallet-foundation/tac/issues/88) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
 <!--END_SECTION:activity-->
 
 ---
