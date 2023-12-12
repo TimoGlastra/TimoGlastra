@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/hyperledger/anoncreds-spec/issues/191#issuecomment-1849935511) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. ❗ Opened issue [#191](https://github.com/hyperledger/anoncreds-spec/issues/191) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-3. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1849896736) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-4. 💪 Opened PR [#190](https://github.com/hyperledger/anoncreds-spec/pull/190) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. 💪 Opened PR [#1669](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1669) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#286](https://github.com/hyperledger/anoncreds-rs/issues/286#issuecomment-1851154885) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#191](https://github.com/hyperledger/anoncreds-spec/issues/191#issuecomment-1849935511) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. ❗ Opened issue [#191](https://github.com/hyperledger/anoncreds-spec/issues/191) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+4. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1849896736) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. 💪 Opened PR [#190](https://github.com/hyperledger/anoncreds-spec/pull/190) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
