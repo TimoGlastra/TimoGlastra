@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1550](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1550) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1550](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1550#issuecomment-1855399151) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#208](https://github.com/hyperledger/aries-askar/issues/208#issuecomment-1855156634) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1852272452) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#2665](https://github.com/hyperledger/aries-cloudagent-python/pull/2665#issuecomment-1851939344) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/SSI-SDK/pull/145#issuecomment-1860027596) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+2. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1860020433) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. 🎉 Merged PR [#1550](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1550) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1550](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1550#issuecomment-1855399151) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#208](https://github.com/hyperledger/aries-askar/issues/208#issuecomment-1855156634) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
