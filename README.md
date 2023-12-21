@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1678](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1678) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1865845061) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#192](https://github.com/hyperledger/anoncreds-spec/issues/192#issuecomment-1865842875) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-4. 🔒 Closed issue [#1352](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1352) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#1352](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1352#issuecomment-1865835313) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🎉 Merged PR [#1678](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1678) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🎉 Merged PR [#211](https://github.com/hyperledger/aries-askar/pull/211) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 💪 Opened PR [#1678](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1678) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1865845061) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#192](https://github.com/hyperledger/anoncreds-spec/issues/192#issuecomment-1865842875) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
