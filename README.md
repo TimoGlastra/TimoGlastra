@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#194](https://github.com/hyperledger/anoncreds-spec/issues/194) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. ❗ Opened issue [#8](https://github.com/decentralized-identity/claim-format-registry/issues/8) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
-3. ❗ Opened issue [#7](https://github.com/decentralized-identity/claim-format-registry/issues/7) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
-4. ❗ Opened issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#1680](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1680) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1867828208) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. ❗ Opened issue [#194](https://github.com/hyperledger/anoncreds-spec/issues/194) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. ❗ Opened issue [#8](https://github.com/decentralized-identity/claim-format-registry/issues/8) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
+4. ❗ Opened issue [#7](https://github.com/decentralized-identity/claim-format-registry/issues/7) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
+5. ❗ Opened issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
