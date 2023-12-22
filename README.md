@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1680](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1680) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1867296251) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1867284082) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1867284053) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. ❗ Opened issue [#292](https://github.com/hyperledger/anoncreds-rs/issues/292) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗ Opened issue [#8](https://github.com/decentralized-identity/claim-format-registry/issues/8) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
+2. ❗ Opened issue [#7](https://github.com/decentralized-identity/claim-format-registry/issues/7) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
+3. ❗ Opened issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 💪 Opened PR [#1680](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1680) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1867296251) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
