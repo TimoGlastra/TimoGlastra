@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1868222571) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1868221615) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1867828208) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. ❗ Opened issue [#194](https://github.com/hyperledger/anoncreds-spec/issues/194) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. ❗ Opened issue [#8](https://github.com/decentralized-identity/claim-format-registry/issues/8) in [decentralized-identity/claim-format-registry](https://github.com/decentralized-identity/claim-format-registry)
+1. 💪 Opened PR [#64](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/64) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1868222571) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1868221615) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1867828208) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. ❗ Opened issue [#194](https://github.com/hyperledger/anoncreds-spec/issues/194) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
