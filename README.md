@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 💪 Opened PR [#1683](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1683) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 💪 Opened PR [#64](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/64) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-4. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1868222571) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1868221615) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1871007529) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🎉 Merged PR [#1683](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1683) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 💪 Opened PR [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 💪 Opened PR [#1683](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1683) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 💪 Opened PR [#64](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/64) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
 <!--END_SECTION:activity-->
 
 ---
