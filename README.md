@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1685](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1685) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873138864) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1871007529) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 🎉 Merged PR [#1683](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1683) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 💪 Opened PR [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1873719215) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. ❗ Opened issue [#1685](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1685) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873138864) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1871007529) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🎉 Merged PR [#1683](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1683) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
