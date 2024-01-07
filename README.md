@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1873934179) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873931953) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1873719215) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. ❗ Opened issue [#1685](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1685) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873138864) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. ❗ Opened issue [#1690](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1690) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🗣 Commented on [#1536](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1536#issuecomment-1879921079) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1873934179) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873931953) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1873719215) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
