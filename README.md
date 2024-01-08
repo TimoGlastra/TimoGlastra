@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1880400201) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#1676](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1676#issuecomment-1880378864) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#1676](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1676#issuecomment-1880372526) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. ❗ Opened issue [#808](https://github.com/hyperledger/aries-rfcs/issues/808) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-5. ❗ Opened issue [#807](https://github.com/hyperledger/aries-rfcs/issues/807) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🎉 Merged PR [#2](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/pull/2) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+2. 🗣 Commented on [#1](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/1#issuecomment-1881187593) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+3. 🗣 Commented on [#3](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/3#issuecomment-1881186909) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+4. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1880400201) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🗣 Commented on [#1676](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1676#issuecomment-1880378864) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
