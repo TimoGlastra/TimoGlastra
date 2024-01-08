@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#12](https://github.com/berendsliedrecht/sd-jwt-ts/issues/12) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. ❗ Opened issue [#1690](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1690) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#1536](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1536#issuecomment-1879921079) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1873934179) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#1638](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1638#issuecomment-1873931953) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1880298440) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 💪 Opened PR [#1691](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1691) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1880297367) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#295](https://github.com/hyperledger/anoncreds-rs/pull/295#issuecomment-1880293906) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 💪 Opened PR [#248](https://github.com/hyperledger/indy-vdr/pull/248) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
