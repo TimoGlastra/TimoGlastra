@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1880306981) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1880306736) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 🗣 Commented on [#216](https://github.com/hyperledger/indy-vdr/issues/216#issuecomment-1880302518) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. ❗ Opened issue [#13](https://github.com/berendsliedrecht/sd-jwt-ts/issues/13) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 🗣 Commented on [#1629](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1629#issuecomment-1880298440) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. ❗ Opened issue [#808](https://github.com/hyperledger/aries-rfcs/issues/808) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. ❗ Opened issue [#807](https://github.com/hyperledger/aries-rfcs/issues/807) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+3. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1880306981) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#80](https://github.com/Sphereon-Opensource/OID4VCI/pull/80#issuecomment-1880306736) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+5. 🗣 Commented on [#216](https://github.com/hyperledger/indy-vdr/issues/216#issuecomment-1880302518) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
