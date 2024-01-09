@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1882203537) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 🗣 Commented on [#1692](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1692#issuecomment-1882146469) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1882138266) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 💪 Opened PR [#17](https://github.com/berendsliedrecht/sd-jwt-ts/pull/17) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 💪 Opened PR [#16](https://github.com/berendsliedrecht/sd-jwt-ts/pull/16) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. ❗ Opened issue [#15](https://github.com/berendsliedrecht/sd-jwt-ts/issues/15) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. ❗ Opened issue [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1882203537) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
