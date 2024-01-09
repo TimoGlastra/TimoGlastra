@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/berendsliedrecht/sd-jwt-ts/pull/19) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1882468125) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 💪 Opened PR [#18](https://github.com/berendsliedrecht/sd-jwt-ts/pull/18) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 💪 Opened PR [#17](https://github.com/berendsliedrecht/sd-jwt-ts/pull/17) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 💪 Opened PR [#16](https://github.com/berendsliedrecht/sd-jwt-ts/pull/16) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. ❗ Opened issue [#134](https://github.com/Sphereon-Opensource/PEX/issues/134) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 💪 Opened PR [#19](https://github.com/berendsliedrecht/sd-jwt-ts/pull/19) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1882468125) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 💪 Opened PR [#18](https://github.com/berendsliedrecht/sd-jwt-ts/pull/18) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 💪 Opened PR [#17](https://github.com/berendsliedrecht/sd-jwt-ts/pull/17) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
 <!--END_SECTION:activity-->
 
 ---
