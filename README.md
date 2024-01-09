@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1692](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1692#issuecomment-1882146469) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1882138266) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🎉 Merged PR [#1691](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1691) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. ❗ Opened issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-5. 🎉 Merged PR [#2](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/pull/2) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+1. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1882203537) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🎉 Merged PR [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🗣 Commented on [#1692](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1692#issuecomment-1882146469) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1882138266) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🎉 Merged PR [#1691](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1691) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
