@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-2. 🎉 Merged PR [#2](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/pull/2) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-3. 🗣 Commented on [#1](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/1#issuecomment-1881187593) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-4. 🗣 Commented on [#3](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/3#issuecomment-1881186909) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-5. 🗣 Commented on [#806](https://github.com/hyperledger/aries-rfcs/issues/806#issuecomment-1880400201) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+1. 🗣 Commented on [#1692](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1692#issuecomment-1882146469) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🗣 Commented on [#1684](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1684#issuecomment-1882138266) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🎉 Merged PR [#1691](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1691) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. ❗ Opened issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+5. 🎉 Merged PR [#2](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/pull/2) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
 <!--END_SECTION:activity-->
 
 ---
