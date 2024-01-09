@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#134](https://github.com/Sphereon-Opensource/PEX/issues/134) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 💪 Opened PR [#19](https://github.com/berendsliedrecht/sd-jwt-ts/pull/19) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1882468125) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 💪 Opened PR [#18](https://github.com/berendsliedrecht/sd-jwt-ts/pull/18) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 💪 Opened PR [#17](https://github.com/berendsliedrecht/sd-jwt-ts/pull/17) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#194](https://github.com/hyperledger/anoncreds-spec/issues/194#issuecomment-1883217580) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. ❗ Opened issue [#297](https://github.com/hyperledger/anoncreds-rs/issues/297) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. ❗ Opened issue [#134](https://github.com/Sphereon-Opensource/PEX/issues/134) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 💪 Opened PR [#19](https://github.com/berendsliedrecht/sd-jwt-ts/pull/19) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🗣 Commented on [#1688](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1688#issuecomment-1882468125) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
