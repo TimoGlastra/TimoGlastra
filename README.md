@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1884265355) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. 🗣 Commented on [#293](https://github.com/hyperledger/anoncreds-rs/issues/293#issuecomment-1884192993) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🔒 Closed issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗ Opened issue [#135](https://github.com/Sphereon-Opensource/PEX/issues/135) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884133067) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. 🗣 Commented on [#1695](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1695#issuecomment-1884379927) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🗣 Commented on [#458](https://github.com/decentralized-identity/presentation-exchange/issues/458#issuecomment-1884378658) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
+3. 🗣 Commented on [#1695](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1695#issuecomment-1884373439) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#2674](https://github.com/hyperledger/aries-cloudagent-python/pull/2674#issuecomment-1884370106) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#809](https://github.com/hyperledger/aries-rfcs/pull/809) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
