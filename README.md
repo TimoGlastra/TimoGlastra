@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#195](https://github.com/hyperledger/anoncreds-spec/issues/195) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. 🗣 Commented on [#291](https://github.com/hyperledger/anoncreds-rs/pull/291#issuecomment-1884111802) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#276](https://github.com/hyperledger/anoncreds-rs/pull/276#issuecomment-1884106054) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1884068462) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1884067421) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884133067) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+2. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884130787) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. ❗ Opened issue [#195](https://github.com/hyperledger/anoncreds-spec/issues/195) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+4. 🗣 Commented on [#291](https://github.com/hyperledger/anoncreds-rs/pull/291#issuecomment-1884111802) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#276](https://github.com/hyperledger/anoncreds-rs/pull/276#issuecomment-1884106054) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
