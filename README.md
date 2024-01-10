@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/hyperledger/anoncreds-rs/issues/293#issuecomment-1884192993) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🔒 Closed issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. ❗ Opened issue [#135](https://github.com/Sphereon-Opensource/PEX/issues/135) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884133067) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-5. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884130787) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+1. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1884265355) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. 🗣 Commented on [#293](https://github.com/hyperledger/anoncreds-rs/issues/293#issuecomment-1884192993) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🔒 Closed issue [#293](https://github.com/hyperledger/anoncreds-rs/issues/293) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. ❗ Opened issue [#135](https://github.com/Sphereon-Opensource/PEX/issues/135) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#195](https://github.com/hyperledger/anoncreds-spec/issues/195#issuecomment-1884133067) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
 <!--END_SECTION:activity-->
 
 ---
