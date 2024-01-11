@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/1) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-2. 🔒 Closed issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
-3. 💪 Opened PR [#83](https://github.com/Sphereon-Opensource/OID4VCI/pull/83) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-4. 💪 Opened PR [#150](https://github.com/Sphereon-Opensource/SSI-SDK/pull/150) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-5. 🎉 Merged PR [#1696](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1696) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#291](https://github.com/hyperledger/anoncreds-rs/pull/291#issuecomment-1886389649) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#194](https://github.com/hyperledger/anoncreds-spec/issues/194#issuecomment-1886388768) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. 🔒 Closed issue [#1](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/1) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+4. 🔒 Closed issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+5. 💪 Opened PR [#83](https://github.com/Sphereon-Opensource/OID4VCI/pull/83) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
