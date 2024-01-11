@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1696](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1696) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1695](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1695#issuecomment-1884379927) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#458](https://github.com/decentralized-identity/presentation-exchange/issues/458#issuecomment-1884378658) in [decentralized-identity/presentation-exchange](https://github.com/decentralized-identity/presentation-exchange)
-4. 🗣 Commented on [#1695](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1695#issuecomment-1884373439) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#2674](https://github.com/hyperledger/aries-cloudagent-python/pull/2674#issuecomment-1884370106) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🔒 Closed issue [#1](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/1) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+2. 🔒 Closed issue [#4](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors/issues/4) in [TimoGlastra/anoncreds-w3c-test-vectors](https://github.com/TimoGlastra/anoncreds-w3c-test-vectors)
+3. 💪 Opened PR [#83](https://github.com/Sphereon-Opensource/OID4VCI/pull/83) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 💪 Opened PR [#150](https://github.com/Sphereon-Opensource/SSI-SDK/pull/150) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+5. 🎉 Merged PR [#1696](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1696) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
