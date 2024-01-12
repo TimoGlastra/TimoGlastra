@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1689](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1689#issuecomment-1888498362) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1689](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1689#issuecomment-1888498051) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#1692](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1692#issuecomment-1888497311) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 🎉 Merged PR [#248](https://github.com/hyperledger/indy-vdr/pull/248) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 💪 Opened PR [#251](https://github.com/hyperledger/indy-vdr/pull/251) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. ❗ Opened issue [#9](https://github.com/animo/openid4vc-playground/issues/9) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. ❗ Opened issue [#8](https://github.com/animo/openid4vc-playground/issues/8) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. ❗ Opened issue [#7](https://github.com/animo/openid4vc-playground/issues/7) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. ❗ Opened issue [#6](https://github.com/animo/openid4vc-playground/issues/6) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. ❗ Opened issue [#5](https://github.com/animo/openid4vc-playground/issues/5) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
