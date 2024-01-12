@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/berendsliedrecht/sd-jwt-ts/pull/18#issuecomment-1888725755) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. ❗ Opened issue [#9](https://github.com/animo/openid4vc-playground/issues/9) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-3. ❗ Opened issue [#8](https://github.com/animo/openid4vc-playground/issues/8) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. ❗ Opened issue [#7](https://github.com/animo/openid4vc-playground/issues/7) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. ❗ Opened issue [#6](https://github.com/animo/openid4vc-playground/issues/6) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 🗣 Commented on [#4](https://github.com/animo/openid4vc-playground/issues/4#issuecomment-1889739491) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. 🔒 Closed issue [#5](https://github.com/animo/openid4vc-playground/issues/5) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 🔒 Closed issue [#3](https://github.com/animo/openid4vc-playground/issues/3) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. 🔒 Closed issue [#2](https://github.com/animo/openid4vc-playground/issues/2) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. 🔒 Closed issue [#1](https://github.com/animo/openid4vc-playground/issues/1) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
