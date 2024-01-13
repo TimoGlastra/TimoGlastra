@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/animo/openid4vc-playground/issues/4#issuecomment-1889739491) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🔒 Closed issue [#5](https://github.com/animo/openid4vc-playground/issues/5) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-3. 🔒 Closed issue [#3](https://github.com/animo/openid4vc-playground/issues/3) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🔒 Closed issue [#2](https://github.com/animo/openid4vc-playground/issues/2) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. 🔒 Closed issue [#1](https://github.com/animo/openid4vc-playground/issues/1) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 🎉 Merged PR [#251](https://github.com/hyperledger/indy-vdr/pull/251) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#273](https://github.com/hyperledger/anoncreds-rs/pull/273#issuecomment-1890291096) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#4](https://github.com/animo/openid4vc-playground/issues/4#issuecomment-1889739491) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. 🔒 Closed issue [#5](https://github.com/animo/openid4vc-playground/issues/5) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. 🔒 Closed issue [#3](https://github.com/animo/openid4vc-playground/issues/3) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
