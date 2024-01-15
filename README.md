@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/berendsliedrecht/sd-jwt-ts/pull/25) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 💪 Opened PR [#24](https://github.com/berendsliedrecht/sd-jwt-ts/pull/24) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 💪 Opened PR [#23](https://github.com/berendsliedrecht/sd-jwt-ts/pull/23) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 💪 Opened PR [#22](https://github.com/berendsliedrecht/sd-jwt-ts/pull/22) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 💪 Opened PR [#21](https://github.com/berendsliedrecht/sd-jwt-ts/pull/21) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#273](https://github.com/hyperledger/anoncreds-rs/pull/273#issuecomment-1892190302) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗ Opened issue [#84](https://github.com/Sphereon-Opensource/OID4VCI/issues/84) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. 💪 Opened PR [#25](https://github.com/berendsliedrecht/sd-jwt-ts/pull/25) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. 💪 Opened PR [#24](https://github.com/berendsliedrecht/sd-jwt-ts/pull/24) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 💪 Opened PR [#23](https://github.com/berendsliedrecht/sd-jwt-ts/pull/23) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
 <!--END_SECTION:activity-->
 
 ---
