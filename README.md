@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/berendsliedrecht/sd-jwt-ts/pull/22) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 💪 Opened PR [#21](https://github.com/berendsliedrecht/sd-jwt-ts/pull/21) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 🗣 Commented on [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14#issuecomment-1891735199) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 🗣 Commented on [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20#issuecomment-1891731876) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 🗣 Commented on [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20#issuecomment-1891656483) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 💪 Opened PR [#25](https://github.com/berendsliedrecht/sd-jwt-ts/pull/25) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 💪 Opened PR [#24](https://github.com/berendsliedrecht/sd-jwt-ts/pull/24) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 💪 Opened PR [#23](https://github.com/berendsliedrecht/sd-jwt-ts/pull/23) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. 💪 Opened PR [#22](https://github.com/berendsliedrecht/sd-jwt-ts/pull/22) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 💪 Opened PR [#21](https://github.com/berendsliedrecht/sd-jwt-ts/pull/21) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
 <!--END_SECTION:activity-->
 
 ---
