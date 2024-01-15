@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20#issuecomment-1891656483) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🎉 Merged PR [#212](https://github.com/hyperledger/aries-askar/pull/212) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1891646491) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 💪 Opened PR [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 🗣 Commented on [#12](https://github.com/berendsliedrecht/sd-jwt-ts/issues/12#issuecomment-1891311258) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14#issuecomment-1891735199) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20#issuecomment-1891731876) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 🗣 Commented on [#20](https://github.com/berendsliedrecht/sd-jwt-ts/pull/20#issuecomment-1891656483) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. 🎉 Merged PR [#212](https://github.com/hyperledger/aries-askar/pull/212) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#292](https://github.com/hyperledger/anoncreds-rs/issues/292#issuecomment-1891646491) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
