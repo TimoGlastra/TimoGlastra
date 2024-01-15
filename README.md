@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/berendsliedrecht/sd-jwt-ts/issues/13#issuecomment-1890828057) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14#issuecomment-1890827936) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1890817151) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1890816995) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🎉 Merged PR [#251](https://github.com/hyperledger/indy-vdr/pull/251) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🗣 Commented on [#12](https://github.com/berendsliedrecht/sd-jwt-ts/issues/12#issuecomment-1891276285) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#13](https://github.com/berendsliedrecht/sd-jwt-ts/issues/13#issuecomment-1890828057) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 🗣 Commented on [#14](https://github.com/berendsliedrecht/sd-jwt-ts/issues/14#issuecomment-1890827936) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1890817151) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#132](https://github.com/Sphereon-Opensource/PEX/pull/132#issuecomment-1890816995) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
