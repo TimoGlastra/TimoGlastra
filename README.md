@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#26](https://github.com/berendsliedrecht/sd-jwt-ts/issues/26) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 🗣 Commented on [#84](https://github.com/Sphereon-Opensource/OID4VCI/issues/84#issuecomment-1892979954) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 🗣 Commented on [#1693](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1693#issuecomment-1892491687) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 💪 Opened PR [#39](https://github.com/hyperledger/anoncreds-clsignatures-rs/pull/39) in [hyperledger/anoncreds-clsignatures-rs](https://github.com/hyperledger/anoncreds-clsignatures-rs)
-5. 🗣 Commented on [#273](https://github.com/hyperledger/anoncreds-rs/pull/273#issuecomment-1892190302) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 💪 Opened PR [#27](https://github.com/berendsliedrecht/sd-jwt-ts/pull/27) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 💪 Opened PR [#85](https://github.com/Sphereon-Opensource/OID4VCI/pull/85) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. 🗣 Commented on [#83](https://github.com/Sphereon-Opensource/OID4VCI/pull/83#issuecomment-1893394611) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. ❗ Opened issue [#26](https://github.com/berendsliedrecht/sd-jwt-ts/issues/26) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🗣 Commented on [#84](https://github.com/Sphereon-Opensource/OID4VCI/issues/84#issuecomment-1892979954) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
