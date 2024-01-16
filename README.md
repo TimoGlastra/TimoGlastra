@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#304](https://github.com/hyperledger/anoncreds-rs/pull/304) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#303](https://github.com/hyperledger/anoncreds-rs/pull/303) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#303](https://github.com/hyperledger/anoncreds-rs/pull/303#issuecomment-1893616079) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#297](https://github.com/hyperledger/anoncreds-rs/issues/297#issuecomment-1893600956) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#27](https://github.com/berendsliedrecht/sd-jwt-ts/pull/27) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 💪 Opened PR [#28](https://github.com/berendsliedrecht/sd-jwt-ts/pull/28) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 💪 Opened PR [#304](https://github.com/hyperledger/anoncreds-rs/pull/304) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#303](https://github.com/hyperledger/anoncreds-rs/pull/303) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#303](https://github.com/hyperledger/anoncreds-rs/pull/303#issuecomment-1893616079) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#297](https://github.com/hyperledger/anoncreds-rs/issues/297#issuecomment-1893600956) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
