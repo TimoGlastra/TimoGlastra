@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2674](https://github.com/hyperledger/aries-cloudagent-python/pull/2674#issuecomment-1894950225) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. 🚀 Published release [v0.2.0-dev.7](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.7) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#306](https://github.com/hyperledger/anoncreds-rs/pull/306) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 💪 Opened PR [#306](https://github.com/hyperledger/anoncreds-rs/pull/306) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#28](https://github.com/berendsliedrecht/sd-jwt-ts/pull/28) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 💪 Opened PR [#29](https://github.com/berendsliedrecht/sd-jwt-ts/pull/29) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#2674](https://github.com/hyperledger/aries-cloudagent-python/pull/2674#issuecomment-1894950225) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 🚀 Published release [v0.2.0-dev.7](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.7) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🎉 Merged PR [#306](https://github.com/hyperledger/anoncreds-rs/pull/306) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 💪 Opened PR [#306](https://github.com/hyperledger/anoncreds-rs/pull/306) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
