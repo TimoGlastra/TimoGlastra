@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. ❗ Opened issue [#30](https://github.com/berendsliedrecht/sd-jwt-ts/issues/30) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 💪 Opened PR [#152](https://github.com/Sphereon-Opensource/SSI-SDK/pull/152) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-4. 💪 Opened PR [#29](https://github.com/berendsliedrecht/sd-jwt-ts/pull/29) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 🗣 Commented on [#2674](https://github.com/hyperledger/aries-cloudagent-python/pull/2674#issuecomment-1894950225) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+1. 🗣 Commented on [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31#issuecomment-1895620930) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 💪 Opened PR [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. ❗ Opened issue [#30](https://github.com/berendsliedrecht/sd-jwt-ts/issues/30) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. 💪 Opened PR [#152](https://github.com/Sphereon-Opensource/SSI-SDK/pull/152) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+5. 💪 Opened PR [#29](https://github.com/berendsliedrecht/sd-jwt-ts/pull/29) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
 <!--END_SECTION:activity-->
 
 ---
