@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31#issuecomment-1895620930) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 💪 Opened PR [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. ❗ Opened issue [#30](https://github.com/berendsliedrecht/sd-jwt-ts/issues/30) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 💪 Opened PR [#152](https://github.com/Sphereon-Opensource/SSI-SDK/pull/152) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-5. 💪 Opened PR [#29](https://github.com/berendsliedrecht/sd-jwt-ts/pull/29) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 💪 Opened PR [#138](https://github.com/Sphereon-Opensource/PEX/pull/138) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31#issuecomment-1895620930) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 💪 Opened PR [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+4. ❗ Opened issue [#30](https://github.com/berendsliedrecht/sd-jwt-ts/issues/30) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 💪 Opened PR [#152](https://github.com/Sphereon-Opensource/SSI-SDK/pull/152) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
 <!--END_SECTION:activity-->
 
 ---
