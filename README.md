@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54](https://github.com/Sphereon-Opensource/OID4VCI/pull/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. 🗣 Commented on [#1700](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1700#issuecomment-1900040544) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 💪 Opened PR [#32](https://github.com/berendsliedrecht/sd-jwt-ts/pull/32) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 🗣 Commented on [#129](https://github.com/openid/OpenID4VCI/issues/129#issuecomment-1899755225) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. ❌ Closed PR [#1246](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1246) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/SSI-SDK/pull/152#issuecomment-1900155785) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+2. ❌ Closed PR [#54](https://github.com/Sphereon-Opensource/OID4VCI/pull/54) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+3. 🗣 Commented on [#1700](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1700#issuecomment-1900040544) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 💪 Opened PR [#32](https://github.com/berendsliedrecht/sd-jwt-ts/pull/32) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🗣 Commented on [#129](https://github.com/openid/OpenID4VCI/issues/129#issuecomment-1899755225) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
