@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#129](https://github.com/openid/OpenID4VCI/issues/129#issuecomment-1899755225) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. ❌ Closed PR [#1246](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1246) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. ❗ Opened issue [#222](https://github.com/openid/OpenID4VCI/issues/222) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-4. 🗣 Commented on [#214](https://github.com/openid/OpenID4VCI/issues/214#issuecomment-1899614926) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561949) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. 💪 Opened PR [#32](https://github.com/berendsliedrecht/sd-jwt-ts/pull/32) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+2. 🗣 Commented on [#129](https://github.com/openid/OpenID4VCI/issues/129#issuecomment-1899755225) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. ❌ Closed PR [#1246](https://github.com/openwallet-foundation/agent-framework-javascript/pull/1246) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. ❗ Opened issue [#222](https://github.com/openid/OpenID4VCI/issues/222) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. 🗣 Commented on [#214](https://github.com/openid/OpenID4VCI/issues/214#issuecomment-1899614926) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
