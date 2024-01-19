@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561949) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561802) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899560433) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-4. 🗣 Commented on [#1700](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1700#issuecomment-1899556508) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-5. 🗣 Commented on [#1698](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1698#issuecomment-1899554558) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+1. ❗ Opened issue [#222](https://github.com/openid/OpenID4VCI/issues/222) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. 🗣 Commented on [#214](https://github.com/openid/OpenID4VCI/issues/214#issuecomment-1899614926) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561949) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561802) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899560433) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
