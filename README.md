@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/animo/paradym-wallet/pull/84#issuecomment-1898179215) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#138](https://github.com/Sphereon-Opensource/PEX/pull/138) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31#issuecomment-1895620930) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 💪 Opened PR [#31](https://github.com/berendsliedrecht/sd-jwt-ts/pull/31) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. ❗ Opened issue [#30](https://github.com/berendsliedrecht/sd-jwt-ts/issues/30) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561949) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+2. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899561802) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1899560433) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+4. 🗣 Commented on [#1700](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1700#issuecomment-1899556508) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+5. 🗣 Commented on [#1698](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1698#issuecomment-1899554558) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
 <!--END_SECTION:activity-->
 
 ---
