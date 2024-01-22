@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1900459504) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-2. ❗ Opened issue [#215](https://github.com/hyperledger/aries-askar/issues/215) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. ❗ Opened issue [#66](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/66) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-4. 🗣 Commented on [#138](https://github.com/Sphereon-Opensource/PEX/pull/138#issuecomment-1900241790) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#138](https://github.com/Sphereon-Opensource/PEX/pull/138#issuecomment-1900163099) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 💪 Opened PR [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+2. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1900459504) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
+3. ❗ Opened issue [#215](https://github.com/hyperledger/aries-askar/issues/215) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. ❗ Opened issue [#66](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/66) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+5. 🗣 Commented on [#138](https://github.com/Sphereon-Opensource/PEX/pull/138#issuecomment-1900241790) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
