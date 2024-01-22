@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
-2. 🗣 Commented on [#1701](https://github.com/openwallet-foundation/agent-framework-javascript/issues/1701#issuecomment-1900459504) in [openwallet-foundation/agent-framework-javascript](https://github.com/openwallet-foundation/agent-framework-javascript)
-3. ❗ Opened issue [#215](https://github.com/hyperledger/aries-askar/issues/215) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. ❗ Opened issue [#66](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/66) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🗣 Commented on [#138](https://github.com/Sphereon-Opensource/PEX/pull/138#issuecomment-1900241790) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+2. 💪 Opened PR [#8782](https://github.com/js-org/js.org/pull/8782) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903296797) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+4. ❗ Opened issue [#98](https://github.com/openwallet-foundation/tac/issues/98) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+5. 💪 Opened PR [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
 <!--END_SECTION:activity-->
 
 ---
