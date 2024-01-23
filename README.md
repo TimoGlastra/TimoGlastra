@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#141](https://github.com/openwallet-foundation/credo-ts-docs/pull/141) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-2. 🗣 Commented on [#98](https://github.com/openwallet-foundation/tac/issues/98#issuecomment-1905174758) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-3. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
-4. 💪 Opened PR [#8782](https://github.com/js-org/js.org/pull/8782) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903296797) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+1. 🗣 Commented on [#8782](https://github.com/js-org/js.org/pull/8782#issuecomment-1905296311) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🎉 Merged PR [#141](https://github.com/openwallet-foundation/credo-ts-docs/pull/141) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+3. 🗣 Commented on [#98](https://github.com/openwallet-foundation/tac/issues/98#issuecomment-1905174758) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+4. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+5. 💪 Opened PR [#8782](https://github.com/js-org/js.org/pull/8782) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 ---
