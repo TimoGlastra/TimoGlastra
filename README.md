@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
-2. 💪 Opened PR [#8782](https://github.com/js-org/js.org/pull/8782) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903296797) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
-4. ❗ Opened issue [#98](https://github.com/openwallet-foundation/tac/issues/98) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-5. 💪 Opened PR [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+1. 🗣 Commented on [#98](https://github.com/openwallet-foundation/tac/issues/98#issuecomment-1905174758) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+2. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+3. 💪 Opened PR [#8782](https://github.com/js-org/js.org/pull/8782) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903296797) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+5. ❗ Opened issue [#98](https://github.com/openwallet-foundation/tac/issues/98) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
 <!--END_SECTION:activity-->
 
 ---
