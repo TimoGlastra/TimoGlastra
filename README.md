@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1705](https://github.com/openwallet-foundation/credo-ts/pull/1705) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#307](https://github.com/hyperledger/anoncreds-rs/issues/307#issuecomment-1907203691) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#2714](https://github.com/hyperledger/aries-cloudagent-python/issues/2714#issuecomment-1907200425) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 💪 Opened PR [#86](https://github.com/Sphereon-Opensource/OID4VCI/pull/86) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-5. 🗣 Commented on [#8782](https://github.com/js-org/js.org/pull/8782#issuecomment-1905296311) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🗣 Commented on [#308](https://github.com/hyperledger/anoncreds-rs/issues/308#issuecomment-1907718670) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 💪 Opened PR [#1705](https://github.com/openwallet-foundation/credo-ts/pull/1705) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#307](https://github.com/hyperledger/anoncreds-rs/issues/307#issuecomment-1907203691) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#2714](https://github.com/hyperledger/aries-cloudagent-python/issues/2714#issuecomment-1907200425) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 💪 Opened PR [#86](https://github.com/Sphereon-Opensource/OID4VCI/pull/86) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
