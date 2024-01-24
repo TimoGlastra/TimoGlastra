@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/Sphereon-Opensource/OID4VCI/pull/86) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-2. 🗣 Commented on [#8782](https://github.com/js-org/js.org/pull/8782#issuecomment-1905296311) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🎉 Merged PR [#141](https://github.com/openwallet-foundation/credo-ts-docs/pull/141) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 🗣 Commented on [#98](https://github.com/openwallet-foundation/tac/issues/98#issuecomment-1905174758) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-5. 🗣 Commented on [#141](https://github.com/openwallet-foundation/agent-javascript-docs/pull/141#issuecomment-1903297154) in [openwallet-foundation/agent-javascript-docs](https://github.com/openwallet-foundation/agent-javascript-docs)
+1. 🗣 Commented on [#307](https://github.com/hyperledger/anoncreds-rs/issues/307#issuecomment-1907203691) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#2714](https://github.com/hyperledger/aries-cloudagent-python/issues/2714#issuecomment-1907200425) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. 💪 Opened PR [#86](https://github.com/Sphereon-Opensource/OID4VCI/pull/86) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 🗣 Commented on [#8782](https://github.com/js-org/js.org/pull/8782#issuecomment-1905296311) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 🎉 Merged PR [#141](https://github.com/openwallet-foundation/credo-ts-docs/pull/141) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
 <!--END_SECTION:activity-->
 
 ---
