@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1706](https://github.com/openwallet-foundation/credo-ts/pull/1706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1909229132) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 💪 Opened PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🔒 Closed issue [#308](https://github.com/hyperledger/anoncreds-rs/issues/308) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🔒 Closed issue [#307](https://github.com/hyperledger/anoncreds-rs/issues/307) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🚀 Published release [v0.2.0-dev.8](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🎉 Merged PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. ❗ Opened issue [#19](https://github.com/openid/SIOPv2/issues/19) in [openid/SIOPv2](https://github.com/openid/SIOPv2)
+4. 💪 Opened PR [#1706](https://github.com/openwallet-foundation/credo-ts/pull/1706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1909229132) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
