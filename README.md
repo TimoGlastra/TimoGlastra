@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#67](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/67) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🚀 Published release [v0.2.0-dev.8](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗ Opened issue [#19](https://github.com/openid/SIOPv2/issues/19) in [openid/SIOPv2](https://github.com/openid/SIOPv2)
-5. 💪 Opened PR [#1706](https://github.com/openwallet-foundation/credo-ts/pull/1706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#68](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/68) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. ❗ Opened issue [#67](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/67) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🚀 Published release [v0.2.0-dev.8](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🎉 Merged PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. ❗ Opened issue [#19](https://github.com/openid/SIOPv2/issues/19) in [openid/SIOPv2](https://github.com/openid/SIOPv2)
 <!--END_SECTION:activity-->
 
 ---
