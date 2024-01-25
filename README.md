@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/hyperledger/anoncreds-rs/issues/308#issuecomment-1907718670) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 💪 Opened PR [#1705](https://github.com/openwallet-foundation/credo-ts/pull/1705) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#307](https://github.com/hyperledger/anoncreds-rs/issues/307#issuecomment-1907203691) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#2714](https://github.com/hyperledger/aries-cloudagent-python/issues/2714#issuecomment-1907200425) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 💪 Opened PR [#86](https://github.com/Sphereon-Opensource/OID4VCI/pull/86) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 💪 Opened PR [#1706](https://github.com/openwallet-foundation/credo-ts/pull/1706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#37](https://github.com/openid/OpenID4VCI/issues/37#issuecomment-1909229132) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 💪 Opened PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🔒 Closed issue [#308](https://github.com/hyperledger/anoncreds-rs/issues/308) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🔒 Closed issue [#307](https://github.com/hyperledger/anoncreds-rs/issues/307) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
