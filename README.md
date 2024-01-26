@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/Sphereon-Opensource/pex-openapi/issues/32) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-2. 🗣 Commented on [#1707](https://github.com/openwallet-foundation/credo-ts/issues/1707#issuecomment-1911270499) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#33](https://github.com/berendsliedrecht/sd-jwt-ts/pull/33) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-4. 💪 Opened PR [#68](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/68) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. ❗ Opened issue [#67](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/67) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. 🗣 Commented on [#1707](https://github.com/openwallet-foundation/credo-ts/issues/1707#issuecomment-1911902436) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#32](https://github.com/Sphereon-Opensource/pex-openapi/issues/32#issuecomment-1911894008) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+3. 💪 Opened PR [#70](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/70) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. ❗ Opened issue [#32](https://github.com/Sphereon-Opensource/pex-openapi/issues/32) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+5. 🗣 Commented on [#1707](https://github.com/openwallet-foundation/credo-ts/issues/1707#issuecomment-1911270499) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
