@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/berendsliedrecht/sd-jwt-ts/pull/33) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-2. 💪 Opened PR [#68](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/68) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. ❗ Opened issue [#67](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/67) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-4. 🚀 Published release [v0.2.0-dev.8](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#311](https://github.com/hyperledger/anoncreds-rs/pull/311) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#1707](https://github.com/openwallet-foundation/credo-ts/issues/1707#issuecomment-1911270499) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#33](https://github.com/berendsliedrecht/sd-jwt-ts/pull/33) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+3. 💪 Opened PR [#68](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/68) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. ❗ Opened issue [#67](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/67) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+5. 🚀 Published release [v0.2.0-dev.8](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.8) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
