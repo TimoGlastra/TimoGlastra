@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71#issuecomment-1913552869) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 💪 Opened PR [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. 💪 Opened PR [#140](https://github.com/Sphereon-Opensource/PEX/pull/140) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 💪 Opened PR [#35](https://github.com/berendsliedrecht/sd-jwt-ts/pull/35) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-5. 🔒 Closed issue [#312](https://github.com/hyperledger/anoncreds-rs/issues/312) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#1667](https://github.com/openwallet-foundation/credo-ts/pull/1667#issuecomment-1913558377) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Closed PR [#1667](https://github.com/openwallet-foundation/credo-ts/pull/1667) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#1708](https://github.com/openwallet-foundation/credo-ts/pull/1708) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71#issuecomment-1913552869) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+5. 💪 Opened PR [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
 <!--END_SECTION:activity-->
 
 ---
