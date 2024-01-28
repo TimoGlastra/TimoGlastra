@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#140](https://github.com/Sphereon-Opensource/PEX/pull/140) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 💪 Opened PR [#35](https://github.com/berendsliedrecht/sd-jwt-ts/pull/35) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
-3. 🔒 Closed issue [#312](https://github.com/hyperledger/anoncreds-rs/issues/312) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🎉 Merged PR [#313](https://github.com/hyperledger/anoncreds-rs/pull/313) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#34](https://github.com/berendsliedrecht/sd-jwt-ts/pull/34) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+1. 🗣 Commented on [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71#issuecomment-1913552869) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+2. 💪 Opened PR [#71](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/71) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 💪 Opened PR [#140](https://github.com/Sphereon-Opensource/PEX/pull/140) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 💪 Opened PR [#35](https://github.com/berendsliedrecht/sd-jwt-ts/pull/35) in [berendsliedrecht/sd-jwt-ts](https://github.com/berendsliedrecht/sd-jwt-ts)
+5. 🔒 Closed issue [#312](https://github.com/hyperledger/anoncreds-rs/issues/312) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
