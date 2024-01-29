@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#218](https://github.com/hyperledger/aries-askar/pull/218) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#1709](https://github.com/openwallet-foundation/credo-ts/pull/1709) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1667](https://github.com/openwallet-foundation/credo-ts/pull/1667#issuecomment-1913558377) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Closed PR [#1667](https://github.com/openwallet-foundation/credo-ts/pull/1667) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#1708](https://github.com/openwallet-foundation/credo-ts/pull/1708) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#1](https://github.com/sairanjit/credo-ts-examples/pull/1#issuecomment-1914055729) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+2. 💪 Opened PR [#1](https://github.com/sairanjit/credo-ts-examples/pull/1) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+3. 💪 Opened PR [#218](https://github.com/hyperledger/aries-askar/pull/218) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#1709](https://github.com/openwallet-foundation/credo-ts/pull/1709) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1667](https://github.com/openwallet-foundation/credo-ts/pull/1667#issuecomment-1913558377) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
