@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/hyperledger/anoncreds-rs/issues/312#issuecomment-1915204023) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#1658](https://github.com/openwallet-foundation/credo-ts/pull/1658#issuecomment-1915098459) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❌ Closed PR [#1658](https://github.com/openwallet-foundation/credo-ts/pull/1658) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Closed PR [#1659](https://github.com/openwallet-foundation/credo-ts/pull/1659) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1659](https://github.com/openwallet-foundation/credo-ts/pull/1659#issuecomment-1915098098) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#143](https://github.com/openwallet-foundation/credo-ts-docs/pull/143) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+2. 🗣 Commented on [#312](https://github.com/hyperledger/anoncreds-rs/issues/312#issuecomment-1915242572) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🚀 Published release [v0.2.0-dev.9](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.9) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🎉 Merged PR [#314](https://github.com/hyperledger/anoncreds-rs/pull/314) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#312](https://github.com/hyperledger/anoncreds-rs/issues/312#issuecomment-1915204023) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
