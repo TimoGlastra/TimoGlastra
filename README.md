@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1724](https://github.com/openwallet-foundation/credo-ts/pull/1724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#1723](https://github.com/openwallet-foundation/credo-ts/pull/1723) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#139](https://github.com/openwallet-foundation/credo-ts-docs/pull/139) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 🗣 Commented on [#1682](https://github.com/openwallet-foundation/credo-ts/issues/1682#issuecomment-1920451456) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1722](https://github.com/openwallet-foundation/credo-ts/pull/1722) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#70](https://github.com/hyperledger/indy-sdk-react-native/pull/70) in [hyperledger/indy-sdk-react-native](https://github.com/hyperledger/indy-sdk-react-native)
+2. 💪 Opened PR [#1724](https://github.com/openwallet-foundation/credo-ts/pull/1724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#1723](https://github.com/openwallet-foundation/credo-ts/pull/1723) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#139](https://github.com/openwallet-foundation/credo-ts-docs/pull/139) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+5. 🗣 Commented on [#1682](https://github.com/openwallet-foundation/credo-ts/issues/1682#issuecomment-1920451456) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
