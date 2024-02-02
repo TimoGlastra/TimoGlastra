@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/sairanjit/credo-ts-examples/pull/4) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-2. 🎉 Merged PR [#1708](https://github.com/openwallet-foundation/credo-ts/pull/1708) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#149](https://github.com/openwallet-foundation/credo-ts-docs/pull/149) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 🎉 Merged PR [#3](https://github.com/sairanjit/credo-ts-examples/pull/3) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-5. 🎉 Merged PR [#1733](https://github.com/openwallet-foundation/credo-ts/pull/1733) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🔒 Closed issue [#315](https://github.com/hyperledger/anoncreds-rs/issues/315) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🎉 Merged PR [#317](https://github.com/hyperledger/anoncreds-rs/pull/317) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#4](https://github.com/sairanjit/credo-ts-examples/pull/4) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+4. 🎉 Merged PR [#1708](https://github.com/openwallet-foundation/credo-ts/pull/1708) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#149](https://github.com/openwallet-foundation/credo-ts-docs/pull/149) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
 <!--END_SECTION:activity-->
 
 ---
