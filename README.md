@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#315](https://github.com/hyperledger/anoncreds-rs/issues/315) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#317](https://github.com/hyperledger/anoncreds-rs/pull/317) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#4](https://github.com/sairanjit/credo-ts-examples/pull/4) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-4. 🎉 Merged PR [#1708](https://github.com/openwallet-foundation/credo-ts/pull/1708) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#149](https://github.com/openwallet-foundation/credo-ts-docs/pull/149) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+1. 🗣 Commented on [#245](https://github.com/openid/OpenID4VCI/pull/245#issuecomment-1922754437) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. 🗣 Commented on [#278](https://github.com/animo/siera-cli/pull/278#issuecomment-1922752985) in [animo/siera-cli](https://github.com/animo/siera-cli)
+3. 🗣 Commented on [#208](https://github.com/hyperledger/aries-askar/issues/208#issuecomment-1922752659) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#33](https://github.com/Sphereon-Opensource/pex-openapi/pull/33#issuecomment-1922749783) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+5. 🔒 Closed issue [#315](https://github.com/hyperledger/anoncreds-rs/issues/315) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
