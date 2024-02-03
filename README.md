@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0-dev.10](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.10) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#318](https://github.com/hyperledger/anoncreds-rs/pull/318) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 💪 Opened PR [#318](https://github.com/hyperledger/anoncreds-rs/pull/318) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#245](https://github.com/openid/OpenID4VCI/pull/245#issuecomment-1922754437) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🗣 Commented on [#278](https://github.com/animo/siera-cli/pull/278#issuecomment-1922752985) in [animo/siera-cli](https://github.com/animo/siera-cli)
+1. 🗣 Commented on [#1738](https://github.com/openwallet-foundation/credo-ts/pull/1738#issuecomment-1925280437) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#1738](https://github.com/openwallet-foundation/credo-ts/pull/1738) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#208](https://github.com/hyperledger/aries-askar/issues/208#issuecomment-1925278527) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#208](https://github.com/hyperledger/aries-askar/issues/208#issuecomment-1925277890) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#1318](https://github.com/openwallet-foundation/credo-ts/issues/1318#issuecomment-1925275014) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
