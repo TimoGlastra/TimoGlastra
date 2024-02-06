@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#221](https://github.com/hyperledger/aries-askar/issues/221#issuecomment-1928928249) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. ❗ Opened issue [#221](https://github.com/hyperledger/aries-askar/issues/221) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🚀 Published release [v0.2.0-dev.11](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🎉 Merged PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. ❗ Opened issue [#220](https://github.com/hyperledger/aries-askar/issues/220) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 💪 Opened PR [#1743](https://github.com/openwallet-foundation/credo-ts/pull/1743) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#221](https://github.com/hyperledger/aries-askar/issues/221#issuecomment-1928928249) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. ❗ Opened issue [#221](https://github.com/hyperledger/aries-askar/issues/221) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🚀 Published release [v0.2.0-dev.11](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🎉 Merged PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
