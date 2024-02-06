@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#173](https://github.com/Sphereon-Opensource/mobile-wallet/issues/173#issuecomment-1927020366) in [Sphereon-Opensource/mobile-wallet](https://github.com/Sphereon-Opensource/mobile-wallet)
-3. 🎉 Merged PR [#1741](https://github.com/openwallet-foundation/credo-ts/pull/1741) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#1736](https://github.com/openwallet-foundation/credo-ts/pull/1736) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1647](https://github.com/openwallet-foundation/credo-ts/pull/1647#issuecomment-1926850863) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#10](https://github.com/animo/openid4vc-playground/pull/10) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. 🗣 Commented on [#10](https://github.com/animo/openid4vc-playground/pull/10#issuecomment-1928678220) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 💪 Opened PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#173](https://github.com/Sphereon-Opensource/mobile-wallet/issues/173#issuecomment-1927020366) in [Sphereon-Opensource/mobile-wallet](https://github.com/Sphereon-Opensource/mobile-wallet)
+5. 🎉 Merged PR [#1741](https://github.com/openwallet-foundation/credo-ts/pull/1741) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
