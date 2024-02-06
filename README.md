@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#220](https://github.com/hyperledger/aries-askar/issues/220) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#1742](https://github.com/openwallet-foundation/credo-ts/pull/1742) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#10](https://github.com/animo/openid4vc-playground/pull/10) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🗣 Commented on [#10](https://github.com/animo/openid4vc-playground/pull/10#issuecomment-1928678220) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. 💪 Opened PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🚀 Published release [v0.2.0-dev.11](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🎉 Merged PR [#320](https://github.com/hyperledger/anoncreds-rs/pull/320) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. ❗ Opened issue [#220](https://github.com/hyperledger/aries-askar/issues/220) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#1742](https://github.com/openwallet-foundation/credo-ts/pull/1742) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#10](https://github.com/animo/openid4vc-playground/pull/10) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
