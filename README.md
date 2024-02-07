@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#322](https://github.com/hyperledger/anoncreds-rs/issues/322#issuecomment-1931419644) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 💪 Opened PR [#142](https://github.com/Sphereon-Opensource/PEX/pull/142) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#321](https://github.com/hyperledger/anoncreds-rs/issues/321#issuecomment-1931395862) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. ❗ Opened issue [#322](https://github.com/hyperledger/anoncreds-rs/issues/322) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#321](https://github.com/hyperledger/anoncreds-rs/issues/321#issuecomment-1931361833) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🔒 Closed issue [#321](https://github.com/hyperledger/anoncreds-rs/issues/321) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#323](https://github.com/hyperledger/anoncreds-rs/pull/323#issuecomment-1931539426) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#323](https://github.com/hyperledger/anoncreds-rs/pull/323) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 💪 Opened PR [#143](https://github.com/Sphereon-Opensource/PEX/pull/143) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#322](https://github.com/hyperledger/anoncreds-rs/issues/322#issuecomment-1931419644) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
