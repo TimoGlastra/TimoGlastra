@@ -16,7 +16,7 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TimoGlastra/aries-rfcs/pull/1) in [TimoGlastra/aries-rfcs](https://github.com/TimoGlastra/aries-rfcs)
+1. 🗣 Commented on [#1746](https://github.com/openwallet-foundation/credo-ts/pull/1746#issuecomment-1931313764) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 2. 💪 Opened PR [#1743](https://github.com/openwallet-foundation/credo-ts/pull/1743) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 3. 🗣 Commented on [#221](https://github.com/hyperledger/aries-askar/issues/221#issuecomment-1928928249) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 4. ❗ Opened issue [#221](https://github.com/hyperledger/aries-askar/issues/221) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
