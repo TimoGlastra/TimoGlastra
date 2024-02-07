@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/openwallet-foundation/credo-ts/pull/1746#issuecomment-1931313764) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#1743](https://github.com/openwallet-foundation/credo-ts/pull/1743) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#221](https://github.com/hyperledger/aries-askar/issues/221#issuecomment-1928928249) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. ❗ Opened issue [#221](https://github.com/hyperledger/aries-askar/issues/221) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🚀 Published release [v0.2.0-dev.11](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.0-dev.11) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🗣 Commented on [#321](https://github.com/hyperledger/anoncreds-rs/issues/321#issuecomment-1931361833) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗ Opened issue [#321](https://github.com/hyperledger/anoncreds-rs/issues/321) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#198](https://github.com/hyperledger/anoncreds-spec/issues/198#issuecomment-1931331614) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+4. ❗ Opened issue [#198](https://github.com/hyperledger/anoncreds-spec/issues/198) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+5. 🗣 Commented on [#1746](https://github.com/openwallet-foundation/credo-ts/pull/1746#issuecomment-1931313764) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
