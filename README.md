@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#812](https://github.com/hyperledger/aries-rfcs/pull/812#issuecomment-1933319264) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-2. 🗣 Commented on [#1682](https://github.com/openwallet-foundation/credo-ts/issues/1682#issuecomment-1933226142) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#1747](https://github.com/openwallet-foundation/credo-ts/pull/1747) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#1743](https://github.com/openwallet-foundation/credo-ts/pull/1743) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🔒 Closed issue [#321](https://github.com/hyperledger/anoncreds-rs/issues/321) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗ Opened issue [#1750](https://github.com/openwallet-foundation/credo-ts/issues/1750) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#1748](https://github.com/openwallet-foundation/credo-ts/pull/1748#issuecomment-1933426094) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#5](https://github.com/digitalcredentials/jsonld-signatures/issues/5#issuecomment-1933421574) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
+4. 💪 Opened PR [#1749](https://github.com/openwallet-foundation/credo-ts/pull/1749) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#5](https://github.com/digitalcredentials/jsonld-signatures/issues/5#issuecomment-1933398046) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
 <!--END_SECTION:activity-->
 
 ---
