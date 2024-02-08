@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1750](https://github.com/openwallet-foundation/credo-ts/issues/1750) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1748](https://github.com/openwallet-foundation/credo-ts/pull/1748#issuecomment-1933426094) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#5](https://github.com/digitalcredentials/jsonld-signatures/issues/5#issuecomment-1933421574) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
-4. 💪 Opened PR [#1749](https://github.com/openwallet-foundation/credo-ts/pull/1749) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#5](https://github.com/digitalcredentials/jsonld-signatures/issues/5#issuecomment-1933398046) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
+1. 💪 Opened PR [#87](https://github.com/Sphereon-Opensource/OID4VCI/pull/87) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+2. 💪 Opened PR [#222](https://github.com/hyperledger/aries-askar/pull/222) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 💪 Opened PR [#324](https://github.com/hyperledger/anoncreds-rs/pull/324) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 💪 Opened PR [#253](https://github.com/hyperledger/indy-vdr/pull/253) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. ❗ Opened issue [#1750](https://github.com/openwallet-foundation/credo-ts/issues/1750) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
