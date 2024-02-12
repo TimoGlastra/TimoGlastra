@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#198](https://github.com/hyperledger/anoncreds-spec/issues/198#issuecomment-1938084418) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
-2. 🎉 Merged PR [#325](https://github.com/hyperledger/anoncreds-rs/pull/325) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#325](https://github.com/hyperledger/anoncreds-rs/pull/325#issuecomment-1937997432) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 💪 Opened PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#87](https://github.com/Sphereon-Opensource/OID4VCI/pull/87) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 💪 Opened PR [#1754](https://github.com/openwallet-foundation/credo-ts/pull/1754) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#198](https://github.com/hyperledger/anoncreds-spec/issues/198#issuecomment-1938084418) in [hyperledger/anoncreds-spec](https://github.com/hyperledger/anoncreds-spec)
+3. 🎉 Merged PR [#325](https://github.com/hyperledger/anoncreds-rs/pull/325) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#325](https://github.com/hyperledger/anoncreds-rs/pull/325#issuecomment-1937997432) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 💪 Opened PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
