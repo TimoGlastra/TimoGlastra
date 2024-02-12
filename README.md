@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#87](https://github.com/Sphereon-Opensource/OID4VCI/pull/87) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-3. 💪 Opened PR [#222](https://github.com/hyperledger/aries-askar/pull/222) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 💪 Opened PR [#324](https://github.com/hyperledger/anoncreds-rs/pull/324) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#253](https://github.com/hyperledger/indy-vdr/pull/253) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🗣 Commented on [#325](https://github.com/hyperledger/anoncreds-rs/pull/325#issuecomment-1937997432) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 💪 Opened PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#87](https://github.com/Sphereon-Opensource/OID4VCI/pull/87) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+4. 💪 Opened PR [#222](https://github.com/hyperledger/aries-askar/pull/222) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 💪 Opened PR [#324](https://github.com/hyperledger/anoncreds-rs/pull/324) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
