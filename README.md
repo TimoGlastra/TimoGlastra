@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985528812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985527238) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1788](https://github.com/openwallet-foundation/credo-ts/pull/1788) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1982799558) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1789](https://github.com/openwallet-foundation/credo-ts/issues/1789#issuecomment-1982789680) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1985584103) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985528812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985527238) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#1788](https://github.com/openwallet-foundation/credo-ts/pull/1788) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1982799558) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
