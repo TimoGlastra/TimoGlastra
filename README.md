@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1985780467) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1985584103) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985528812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985527238) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1788](https://github.com/openwallet-foundation/credo-ts/pull/1788) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#95](https://github.com/Sphereon-Opensource/OID4VCI/issues/95) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+2. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1985780467) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-1985584103) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985528812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1985527238) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
