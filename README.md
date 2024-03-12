@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/animo/openid4vc-playground/issues/14#issuecomment-1991469538) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1991461084) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🔓 Reopened issue [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#97](https://github.com/Sphereon-Opensource/OID4VCI/pull/97) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
-5. 💪 Opened PR [#96](https://github.com/Sphereon-Opensource/OID4VCI/pull/96) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+1. 🎉 Merged PR [#1791](https://github.com/openwallet-foundation/credo-ts/pull/1791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#14](https://github.com/animo/openid4vc-playground/issues/14#issuecomment-1991469538) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 🗣 Commented on [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790#issuecomment-1991461084) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🔓 Reopened issue [#1790](https://github.com/openwallet-foundation/credo-ts/issues/1790) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#97](https://github.com/Sphereon-Opensource/OID4VCI/pull/97) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
 <!--END_SECTION:activity-->
 
 ---
