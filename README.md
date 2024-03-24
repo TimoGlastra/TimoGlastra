@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/hyperledger/indy-vdr/issues/260#issuecomment-2016528396) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🎉 Merged PR [#91](https://github.com/animo/paradym-wallet/pull/91) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#91](https://github.com/animo/paradym-wallet/pull/91) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#1115](https://github.com/openwallet-foundation/bifold-wallet/pull/1115#issuecomment-2006982365) in [openwallet-foundation/bifold-wallet](https://github.com/openwallet-foundation/bifold-wallet)
+1. ❗ Opened issue [#822](https://github.com/hyperledger/aries-rfcs/issues/822) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+2. 🗣 Commented on [#260](https://github.com/hyperledger/indy-vdr/issues/260#issuecomment-2016528396) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🎉 Merged PR [#91](https://github.com/animo/paradym-wallet/pull/91) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#91](https://github.com/animo/paradym-wallet/pull/91) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#87](https://github.com/animo/paradym-wallet/pull/87) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
