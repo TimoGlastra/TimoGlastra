@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#262](https://github.com/hyperledger/indy-vdr/pull/262) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 💪 Opened PR [#265](https://github.com/openwallet-foundation/credo-ts-ext/pull/265) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-3. 🎉 Merged PR [#240](https://github.com/openwallet-foundation/credo-ts-ext/pull/240) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-4. 🎉 Merged PR [#264](https://github.com/openwallet-foundation/credo-ts-ext/pull/264) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-5. 💪 Opened PR [#264](https://github.com/openwallet-foundation/credo-ts-ext/pull/264) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+1. 🗣 Commented on [#1812](https://github.com/openwallet-foundation/credo-ts/issues/1812#issuecomment-2029431609) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#262](https://github.com/hyperledger/indy-vdr/pull/262) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 💪 Opened PR [#265](https://github.com/openwallet-foundation/credo-ts-ext/pull/265) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+4. 🎉 Merged PR [#240](https://github.com/openwallet-foundation/credo-ts-ext/pull/240) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+5. 🎉 Merged PR [#264](https://github.com/openwallet-foundation/credo-ts-ext/pull/264) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
 <!--END_SECTION:activity-->
 
 ---
