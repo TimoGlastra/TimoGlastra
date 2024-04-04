@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#95](https://github.com/animo/paradym-wallet/pull/95) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#95](https://github.com/animo/paradym-wallet/pull/95) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/PEX/issues/145#issuecomment-2036453947) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. 🎉 Merged PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#95](https://github.com/animo/paradym-wallet/pull/95) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#95](https://github.com/animo/paradym-wallet/pull/95) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
