@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1812](https://github.com/openwallet-foundation/credo-ts/issues/1812#issuecomment-2031354924) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1812](https://github.com/openwallet-foundation/credo-ts/issues/1812#issuecomment-2029431609) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#262](https://github.com/hyperledger/indy-vdr/pull/262) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 💪 Opened PR [#265](https://github.com/openwallet-foundation/credo-ts-ext/pull/265) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+1. 🗣 Commented on [#71](https://github.com/animo/paradym-wallet/pull/71#issuecomment-2036340137) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❌ Closed PR [#61](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/61) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🗣 Commented on [#69](https://github.com/openid/OpenID4VP/issues/69#issuecomment-2036313579) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+4. 💪 Opened PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1812](https://github.com/openwallet-foundation/credo-ts/issues/1812#issuecomment-2031354924) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
