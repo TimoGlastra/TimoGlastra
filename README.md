@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-3. 🎉 Merged PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#95](https://github.com/animo/paradym-wallet/pull/95) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+2. 💪 Opened PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+5. 🎉 Merged PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
