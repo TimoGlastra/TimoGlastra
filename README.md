@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-2. 💪 Opened PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-3. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-5. 🎉 Merged PR [#96](https://github.com/animo/paradym-wallet/pull/96) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#267](https://github.com/openwallet-foundation/credo-ts-ext/issues/267#issuecomment-2039223655) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+2. 🎉 Merged PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. 💪 Opened PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+4. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
 <!--END_SECTION:activity-->
 
 ---
