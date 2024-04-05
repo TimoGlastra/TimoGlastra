@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/openwallet-foundation/credo-ts-ext/issues/267#issuecomment-2039223655) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-2. 🎉 Merged PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-3. 💪 Opened PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🔒 Closed issue [#69](https://github.com/openid/OpenID4VP/issues/69) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+1. 🗣 Commented on [#1820](https://github.com/openwallet-foundation/credo-ts/issues/1820#issuecomment-2039623228) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#267](https://github.com/openwallet-foundation/credo-ts-ext/issues/267#issuecomment-2039223655) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+3. 🎉 Merged PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+4. 💪 Opened PR [#3](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/3) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+5. 🎉 Merged PR [#1817](https://github.com/openwallet-foundation/credo-ts/pull/1817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
