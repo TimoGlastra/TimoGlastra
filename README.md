@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1406](https://github.com/scalar/scalar/issues/1406) in [scalar/scalar](https://github.com/scalar/scalar)
-2. ❗ Opened issue [#1405](https://github.com/scalar/scalar/issues/1405) in [scalar/scalar](https://github.com/scalar/scalar)
-3. 🎉 Merged PR [#97](https://github.com/animo/paradym-wallet/pull/97) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#236](https://github.com/hyperledger/aries-askar/pull/236) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🔒 Closed issue [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#314](https://github.com/hey-api/openapi-ts/issues/314) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+2. ❗ Opened issue [#1406](https://github.com/scalar/scalar/issues/1406) in [scalar/scalar](https://github.com/scalar/scalar)
+3. ❗ Opened issue [#1405](https://github.com/scalar/scalar/issues/1405) in [scalar/scalar](https://github.com/scalar/scalar)
+4. 🎉 Merged PR [#97](https://github.com/animo/paradym-wallet/pull/97) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#236](https://github.com/hyperledger/aries-askar/pull/236) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
