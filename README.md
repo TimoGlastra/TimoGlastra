@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/hyperledger/aries-askar/pull/236) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🔒 Closed issue [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822#issuecomment-2042456376) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822#issuecomment-2042131929) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#97](https://github.com/animo/paradym-wallet/pull/97) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#97](https://github.com/animo/paradym-wallet/pull/97) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#236](https://github.com/hyperledger/aries-askar/pull/236) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🔒 Closed issue [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822#issuecomment-2042456376) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1822](https://github.com/openwallet-foundation/credo-ts/issues/1822#issuecomment-2042131929) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
