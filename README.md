@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/hey-api/openapi-ts/issues/314#issuecomment-2045862491) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
-2. ❗ Opened issue [#322](https://github.com/hey-api/openapi-ts/issues/322) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
-3. 🗣 Commented on [#1405](https://github.com/scalar/scalar/issues/1405#issuecomment-2045841208) in [scalar/scalar](https://github.com/scalar/scalar)
-4. ❗ Opened issue [#314](https://github.com/hey-api/openapi-ts/issues/314) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
-5. ❗ Opened issue [#1406](https://github.com/scalar/scalar/issues/1406) in [scalar/scalar](https://github.com/scalar/scalar)
+1. 🗣 Commented on [#1406](https://github.com/scalar/scalar/issues/1406#issuecomment-2046039345) in [scalar/scalar](https://github.com/scalar/scalar)
+2. 🗣 Commented on [#1410](https://github.com/scalar/scalar/pull/1410#issuecomment-2046038688) in [scalar/scalar](https://github.com/scalar/scalar)
+3. 🗣 Commented on [#314](https://github.com/hey-api/openapi-ts/issues/314#issuecomment-2045862491) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+4. ❗ Opened issue [#322](https://github.com/hey-api/openapi-ts/issues/322) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+5. 🗣 Commented on [#1405](https://github.com/scalar/scalar/issues/1405#issuecomment-2045841208) in [scalar/scalar](https://github.com/scalar/scalar)
 <!--END_SECTION:activity-->
 
 ---
