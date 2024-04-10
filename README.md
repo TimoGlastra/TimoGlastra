@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#183](https://github.com/Sphereon-Opensource/SSI-SDK/pull/183) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-2. ❗ Opened issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-3. 🗣 Commented on [#1406](https://github.com/scalar/scalar/issues/1406#issuecomment-2046039345) in [scalar/scalar](https://github.com/scalar/scalar)
-4. 🗣 Commented on [#1410](https://github.com/scalar/scalar/pull/1410#issuecomment-2046038688) in [scalar/scalar](https://github.com/scalar/scalar)
-5. 🗣 Commented on [#314](https://github.com/hey-api/openapi-ts/issues/314#issuecomment-2045862491) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+1. 🗣 Commented on [#104](https://github.com/Sphereon-Opensource/OID4VCI/pull/104#issuecomment-2047638706) in [Sphereon-Opensource/OID4VCI](https://github.com/Sphereon-Opensource/OID4VCI)
+2. 💪 Opened PR [#151](https://github.com/Sphereon-Opensource/PEX/pull/151) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 💪 Opened PR [#1827](https://github.com/openwallet-foundation/credo-ts/pull/1827) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#183](https://github.com/Sphereon-Opensource/SSI-SDK/pull/183) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+5. ❗ Opened issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
 <!--END_SECTION:activity-->
 
 ---
