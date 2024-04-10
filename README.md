@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-2. 🗣 Commented on [#1406](https://github.com/scalar/scalar/issues/1406#issuecomment-2046039345) in [scalar/scalar](https://github.com/scalar/scalar)
-3. 🗣 Commented on [#1410](https://github.com/scalar/scalar/pull/1410#issuecomment-2046038688) in [scalar/scalar](https://github.com/scalar/scalar)
-4. 🗣 Commented on [#314](https://github.com/hey-api/openapi-ts/issues/314#issuecomment-2045862491) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
-5. ❗ Opened issue [#322](https://github.com/hey-api/openapi-ts/issues/322) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+1. 💪 Opened PR [#183](https://github.com/Sphereon-Opensource/SSI-SDK/pull/183) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+2. ❗ Opened issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+3. 🗣 Commented on [#1406](https://github.com/scalar/scalar/issues/1406#issuecomment-2046039345) in [scalar/scalar](https://github.com/scalar/scalar)
+4. 🗣 Commented on [#1410](https://github.com/scalar/scalar/pull/1410#issuecomment-2046038688) in [scalar/scalar](https://github.com/scalar/scalar)
+5. 🗣 Commented on [#314](https://github.com/hey-api/openapi-ts/issues/314#issuecomment-2045862491) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
 <!--END_SECTION:activity-->
 
 ---
