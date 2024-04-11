@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1829](https://github.com/openwallet-foundation/credo-ts/pull/1829) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#76](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/76) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. 🗣 Commented on [#1420](https://github.com/scalar/scalar/issues/1420#issuecomment-2049551662) in [scalar/scalar](https://github.com/scalar/scalar)
-4. ❗ Opened issue [#1420](https://github.com/scalar/scalar/issues/1420) in [scalar/scalar](https://github.com/scalar/scalar)
-5. 🎉 Merged PR [#266](https://github.com/hyperledger/indy-vdr/pull/266) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 💪 Opened PR [#238](https://github.com/hyperledger/aries-askar/pull/238) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#237](https://github.com/hyperledger/aries-askar/issues/237#issuecomment-2050581353) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🗣 Commented on [#237](https://github.com/hyperledger/aries-askar/issues/237#issuecomment-2050574983) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#237](https://github.com/hyperledger/aries-askar/issues/237#issuecomment-2050574005) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#237](https://github.com/hyperledger/aries-askar/issues/237#issuecomment-2050569450) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
