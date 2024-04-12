@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051178106) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051174183) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051168397) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#238](https://github.com/hyperledger/aries-askar/pull/238) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#237](https://github.com/hyperledger/aries-askar/issues/237#issuecomment-2050581353) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 💪 Opened PR [#1830](https://github.com/openwallet-foundation/credo-ts/pull/1830) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#370](https://github.com/hey-api/openapi-ts/issues/370) in [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts)
+3. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051178106) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051174183) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2051168397) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
