@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1834](https://github.com/openwallet-foundation/credo-ts/pull/1834) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#822](https://github.com/hyperledger/aries-rfcs/issues/822#issuecomment-2054101684) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-3. 🗣 Commented on [#822](https://github.com/hyperledger/aries-rfcs/issues/822#issuecomment-2054101119) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
-4. 🎉 Merged PR [#101](https://github.com/animo/paradym-wallet/pull/101) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#101](https://github.com/animo/paradym-wallet/pull/101) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#1834](https://github.com/openwallet-foundation/credo-ts/pull/1834) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#1834](https://github.com/openwallet-foundation/credo-ts/pull/1834) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#822](https://github.com/hyperledger/aries-rfcs/issues/822#issuecomment-2054101684) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+4. 🗣 Commented on [#822](https://github.com/hyperledger/aries-rfcs/issues/822#issuecomment-2054101119) in [hyperledger/aries-rfcs](https://github.com/hyperledger/aries-rfcs)
+5. 🎉 Merged PR [#101](https://github.com/animo/paradym-wallet/pull/101) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
