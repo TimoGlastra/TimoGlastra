@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1811](https://github.com/openwallet-foundation/credo-ts/pull/1811#issuecomment-2063360990) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1811](https://github.com/openwallet-foundation/credo-ts/pull/1811#issuecomment-2063359920) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1833](https://github.com/openwallet-foundation/credo-ts/pull/1833) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1833](https://github.com/openwallet-foundation/credo-ts/pull/1833#issuecomment-2063220070) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#103](https://github.com/animo/paradym-wallet/pull/103) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#1115](https://github.com/openwallet-foundation/bifold-wallet/pull/1115#issuecomment-2063712010) in [openwallet-foundation/bifold-wallet](https://github.com/openwallet-foundation/bifold-wallet)
+2. 🗣 Commented on [#1811](https://github.com/openwallet-foundation/credo-ts/pull/1811#issuecomment-2063360990) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#1811](https://github.com/openwallet-foundation/credo-ts/pull/1811#issuecomment-2063359920) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#1833](https://github.com/openwallet-foundation/credo-ts/pull/1833) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1833](https://github.com/openwallet-foundation/credo-ts/pull/1833#issuecomment-2063220070) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
