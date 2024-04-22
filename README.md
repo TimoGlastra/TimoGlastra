@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TimoGlastra/CompanyPassport/pull/1) in [TimoGlastra/CompanyPassport](https://github.com/TimoGlastra/CompanyPassport)
-2. 💪 Opened PR [#4](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/4) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-3. 🗣 Commented on [#17](https://github.com/animo/openid4vc-playground/issues/17#issuecomment-2067111349) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🗣 Commented on [#18](https://github.com/animo/openid4vc-playground/issues/18#issuecomment-2067108892) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. 🗣 Commented on [#149](https://github.com/Sphereon-Opensource/PEX/issues/149#issuecomment-2064584474) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🎉 Merged PR [#4](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/4) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+2. 🎉 Merged PR [#1](https://github.com/TimoGlastra/CompanyPassport/pull/1) in [TimoGlastra/CompanyPassport](https://github.com/TimoGlastra/CompanyPassport)
+3. 💪 Opened PR [#4](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/4) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+4. 🗣 Commented on [#17](https://github.com/animo/openid4vc-playground/issues/17#issuecomment-2067111349) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. 🗣 Commented on [#18](https://github.com/animo/openid4vc-playground/issues/18#issuecomment-2067108892) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
