@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2070930287) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 💪 Opened PR [#153](https://github.com/Sphereon-Opensource/PEX/pull/153) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🎉 Merged PR [#19](https://github.com/animo/openid4vc-playground/pull/19) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🎉 Merged PR [#5](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/5) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-5. 🎉 Merged PR [#4](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/4) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+1. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615796) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615048) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2070930287) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 💪 Opened PR [#153](https://github.com/Sphereon-Opensource/PEX/pull/153) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🎉 Merged PR [#19](https://github.com/animo/openid4vc-playground/pull/19) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
