@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1511](https://github.com/scalar/scalar/issues/1511) in [scalar/scalar](https://github.com/scalar/scalar)
-2. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2071921945) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615796) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615048) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2070930287) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#6](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/6#issuecomment-2074690585) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+2. ❗ Opened issue [#1511](https://github.com/scalar/scalar/issues/1511) in [scalar/scalar](https://github.com/scalar/scalar)
+3. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2071921945) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615796) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#152](https://github.com/Sphereon-Opensource/PEX/issues/152#issuecomment-2071615048) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
