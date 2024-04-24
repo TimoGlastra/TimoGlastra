@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#6](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/6#issuecomment-2074690585) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. ❗ Opened issue [#1511](https://github.com/scalar/scalar/issues/1511) in [scalar/scalar](https://github.com/scalar/scalar)
-5. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2071921945) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#268](https://github.com/hyperledger/indy-vdr/issues/268#issuecomment-2075643725) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#6](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/6#issuecomment-2074690585) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+5. ❗ Opened issue [#1511](https://github.com/scalar/scalar/issues/1511) in [scalar/scalar](https://github.com/scalar/scalar)
 <!--END_SECTION:activity-->
 
 ---
