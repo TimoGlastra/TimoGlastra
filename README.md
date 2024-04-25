@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#154](https://github.com/Sphereon-Opensource/PEX/issues/154#issuecomment-2076717801) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🎉 Merged PR [#1827](https://github.com/openwallet-foundation/credo-ts/pull/1827) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#156](https://github.com/Sphereon-Opensource/PEX/pull/156) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 💪 Opened PR [#155](https://github.com/Sphereon-Opensource/PEX/pull/155) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. ❗ Opened issue [#154](https://github.com/Sphereon-Opensource/PEX/issues/154) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🔒 Closed issue [#154](https://github.com/Sphereon-Opensource/PEX/issues/154) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#154](https://github.com/Sphereon-Opensource/PEX/issues/154#issuecomment-2076717801) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🎉 Merged PR [#1827](https://github.com/openwallet-foundation/credo-ts/pull/1827) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#156](https://github.com/Sphereon-Opensource/PEX/pull/156) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 💪 Opened PR [#155](https://github.com/Sphereon-Opensource/PEX/pull/155) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
