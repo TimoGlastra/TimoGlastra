@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2075997614) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#268](https://github.com/hyperledger/indy-vdr/issues/268#issuecomment-2075643725) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🎉 Merged PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#6](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/6#issuecomment-2074690585) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+1. 💪 Opened PR [#155](https://github.com/Sphereon-Opensource/PEX/pull/155) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. ❗ Opened issue [#154](https://github.com/Sphereon-Opensource/PEX/issues/154) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#1787](https://github.com/openwallet-foundation/credo-ts/pull/1787#issuecomment-2075997614) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#268](https://github.com/hyperledger/indy-vdr/issues/268#issuecomment-2075643725) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🎉 Merged PR [#1837](https://github.com/openwallet-foundation/credo-ts/pull/1837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
