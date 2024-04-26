@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1843](https://github.com/openwallet-foundation/credo-ts/pull/1843) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#1840](https://github.com/openwallet-foundation/credo-ts/pull/1840) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#1842](https://github.com/openwallet-foundation/credo-ts/pull/1842) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#73](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/73) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
-5. 💪 Opened PR [#112](https://github.com/openwallet-foundation/credential-format-comparison-sig/pull/112) in [openwallet-foundation/credential-format-comparison-sig](https://github.com/openwallet-foundation/credential-format-comparison-sig)
+1. ❌ Closed PR [#7](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/7) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+2. 🎉 Merged PR [#1843](https://github.com/openwallet-foundation/credo-ts/pull/1843) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#1840](https://github.com/openwallet-foundation/credo-ts/pull/1840) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#1842](https://github.com/openwallet-foundation/credo-ts/pull/1842) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#73](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/73) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
 <!--END_SECTION:activity-->
 
 ---
