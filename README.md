@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/2060-io/did-web-anoncreds-method/issues/5) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
-2. ❗ Opened issue [#3](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/3) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-3. ❗ Opened issue [#4](https://github.com/2060-io/did-web-anoncreds-method/issues/4) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
-4. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/PEX/issues/157#issuecomment-2086918424) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/PEX/issues/157#issuecomment-2086906346) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4#issuecomment-2087078069) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+2. 💪 Opened PR [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. ❗ Opened issue [#5](https://github.com/2060-io/did-web-anoncreds-method/issues/5) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+4. ❗ Opened issue [#3](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/3) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+5. ❗ Opened issue [#4](https://github.com/2060-io/did-web-anoncreds-method/issues/4) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
 <!--END_SECTION:activity-->
 
 ---
