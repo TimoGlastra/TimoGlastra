@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1851](https://github.com/openwallet-foundation/credo-ts/issues/1851) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#1850](https://github.com/openwallet-foundation/credo-ts/pull/1850) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1847](https://github.com/openwallet-foundation/credo-ts/pull/1847) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#1848](https://github.com/openwallet-foundation/credo-ts/pull/1848) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#1848](https://github.com/openwallet-foundation/credo-ts/pull/1848) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#5](https://github.com/2060-io/did-web-anoncreds-method/issues/5) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+2. ❗ Opened issue [#3](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/3) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. ❗ Opened issue [#4](https://github.com/2060-io/did-web-anoncreds-method/issues/4) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+4. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/PEX/issues/157#issuecomment-2086918424) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/PEX/issues/157#issuecomment-2086906346) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
