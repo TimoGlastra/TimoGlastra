@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1850](https://github.com/openwallet-foundation/credo-ts/pull/1850) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1850](https://github.com/openwallet-foundation/credo-ts/pull/1850#issuecomment-2088446640) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#107](https://github.com/animo/paradym-wallet/pull/107) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4#issuecomment-2087078069) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. 💪 Opened PR [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+1. 🎉 Merged PR [#107](https://github.com/animo/paradym-wallet/pull/107) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2088458710) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#158](https://github.com/Sphereon-Opensource/PEX/pull/158#issuecomment-2088456861) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 💪 Opened PR [#158](https://github.com/Sphereon-Opensource/PEX/pull/158) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#1854](https://github.com/openwallet-foundation/credo-ts/pull/1854#issuecomment-2088450271) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
