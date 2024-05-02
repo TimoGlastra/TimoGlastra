@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#5](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/5) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-3. 💪 Opened PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4#issuecomment-2088543856) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. 🎉 Merged PR [#1854](https://github.com/openwallet-foundation/credo-ts/pull/1854) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#243](https://github.com/hyperledger/aries-askar/pull/243#issuecomment-2090471036) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🎉 Merged PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#5](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/5) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+5. 💪 Opened PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
