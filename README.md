@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#243](https://github.com/hyperledger/aries-askar/pull/243#issuecomment-2090471036) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#5](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/5) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. 💪 Opened PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091196484) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+2. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091195143) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+3. 🗣 Commented on [#243](https://github.com/hyperledger/aries-askar/pull/243#issuecomment-2090471036) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🎉 Merged PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
