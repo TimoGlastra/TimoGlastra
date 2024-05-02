@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🗣 Commented on [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4#issuecomment-2088543856) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-3. 🎉 Merged PR [#1854](https://github.com/openwallet-foundation/credo-ts/pull/1854) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#107](https://github.com/animo/paradym-wallet/pull/107) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2088458710) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 💪 Opened PR [#108](https://github.com/animo/paradym-wallet/pull/108) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#5](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/5) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. 💪 Opened PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#4](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/4#issuecomment-2088543856) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+5. 🎉 Merged PR [#1854](https://github.com/openwallet-foundation/credo-ts/pull/1854) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
