@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1856](https://github.com/openwallet-foundation/credo-ts/pull/1856) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#3](https://github.com/2060-io/did-web-anoncreds-method/issues/3#issuecomment-2092389010) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
-3. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091196484) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
-4. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091195143) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
-5. 🗣 Commented on [#243](https://github.com/hyperledger/aries-askar/pull/243#issuecomment-2090471036) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095731970) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 💪 Opened PR [#1856](https://github.com/openwallet-foundation/credo-ts/pull/1856) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#3](https://github.com/2060-io/did-web-anoncreds-method/issues/3#issuecomment-2092389010) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+4. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091196484) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
+5. 🗣 Commented on [#2](https://github.com/2060-io/did-web-anoncreds-method/issues/2#issuecomment-2091195143) in [2060-io/did-web-anoncreds-method](https://github.com/2060-io/did-web-anoncreds-method)
 <!--END_SECTION:activity-->
 
 ---
