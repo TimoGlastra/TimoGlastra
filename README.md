@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5.0](https://github.com/animo/paradym-wallet/releases/tag/v1.5.0) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095918937) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. ❗ Opened issue [#6](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/6) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-4. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095868845) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🎉 Merged PR [#1856](https://github.com/openwallet-foundation/credo-ts/pull/1856) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#225](https://github.com/openwallet-foundation-labs/sd-jwt-js/pull/225#issuecomment-2097751828) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+2. 🚀 Published release [v1.5.0](https://github.com/animo/paradym-wallet/releases/tag/v1.5.0) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095918937) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. ❗ Opened issue [#6](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/6) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+5. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095868845) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
