@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1857](https://github.com/openwallet-foundation/credo-ts/pull/1857) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1448](https://github.com/openwallet-foundation/credo-ts/issues/1448#issuecomment-2099850795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099613205) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-4. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099609430) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#225](https://github.com/openwallet-foundation-labs/sd-jwt-js/pull/225#issuecomment-2097751828) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+1. 🎉 Merged PR [#1857](https://github.com/openwallet-foundation/credo-ts/pull/1857) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#1857](https://github.com/openwallet-foundation/credo-ts/pull/1857) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#1448](https://github.com/openwallet-foundation/credo-ts/issues/1448#issuecomment-2099850795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099613205) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099609430) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
