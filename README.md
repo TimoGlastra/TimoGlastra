@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099609430) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#225](https://github.com/openwallet-foundation-labs/sd-jwt-js/pull/225#issuecomment-2097751828) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-3. 🚀 Published release [v1.5.0](https://github.com/animo/paradym-wallet/releases/tag/v1.5.0) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095918937) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. ❗ Opened issue [#6](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/6) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+1. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099613205) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099609430) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#225](https://github.com/openwallet-foundation-labs/sd-jwt-js/pull/225#issuecomment-2097751828) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+4. 🚀 Published release [v1.5.0](https://github.com/animo/paradym-wallet/releases/tag/v1.5.0) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#245](https://github.com/hyperledger/aries-askar/pull/245#issuecomment-2095918937) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
