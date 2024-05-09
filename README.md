@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1859](https://github.com/openwallet-foundation/credo-ts/pull/1859#issuecomment-2101061137) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#1857](https://github.com/openwallet-foundation/credo-ts/pull/1857) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#1857](https://github.com/openwallet-foundation/credo-ts/pull/1857) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1448](https://github.com/openwallet-foundation/credo-ts/issues/1448#issuecomment-2099850795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#335](https://github.com/hyperledger/anoncreds-rs/pull/335#issuecomment-2099613205) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. 🎉 Merged PR [#45](https://github.com/animo/awesome-self-sovereign-identity/pull/45) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+2. 🎉 Merged PR [#46](https://github.com/animo/awesome-self-sovereign-identity/pull/46) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+3. 🎉 Merged PR [#47](https://github.com/animo/awesome-self-sovereign-identity/pull/47) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+4. 🗣 Commented on [#47](https://github.com/animo/awesome-self-sovereign-identity/pull/47#issuecomment-2101932220) in [animo/awesome-self-sovereign-identity](https://github.com/animo/awesome-self-sovereign-identity)
+5. 🗣 Commented on [#1859](https://github.com/openwallet-foundation/credo-ts/pull/1859#issuecomment-2101061137) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
