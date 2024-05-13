@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2106637107) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#247](https://github.com/hyperledger/aries-askar/pull/247#issuecomment-2106622913) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. ❗ Opened issue [#259](https://github.com/hyperledger/governance/issues/259) in [hyperledger/governance](https://github.com/hyperledger/governance)
-4. 🔒 Closed issue [#337](https://github.com/hyperledger/anoncreds-rs/issues/337) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 💪 Opened PR [#1862](https://github.com/openwallet-foundation/credo-ts/pull/1862) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#272](https://github.com/hyperledger/indy-vdr/pull/272) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🎉 Merged PR [#338](https://github.com/hyperledger/anoncreds-rs/pull/338) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2106637107) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#247](https://github.com/hyperledger/aries-askar/pull/247#issuecomment-2106622913) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. ❗ Opened issue [#259](https://github.com/hyperledger/governance/issues/259) in [hyperledger/governance](https://github.com/hyperledger/governance)
 <!--END_SECTION:activity-->
 
 ---
