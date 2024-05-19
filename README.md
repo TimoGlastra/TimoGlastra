@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2119184287) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-2. ❗ Opened issue [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-3. ❗ Opened issue [#235](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/235) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-4. ❗ Opened issue [#234](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/234) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-5. 🎉 Merged PR [#1871](https://github.com/openwallet-foundation/credo-ts/pull/1871) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#1872](https://github.com/openwallet-foundation/credo-ts/pull/1872) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2119184287) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+3. ❗ Opened issue [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+4. ❗ Opened issue [#235](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/235) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+5. ❗ Opened issue [#234](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/234) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
 <!--END_SECTION:activity-->
 
 ---
