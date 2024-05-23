@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1874](https://github.com/openwallet-foundation/credo-ts/issues/1874#issuecomment-2120609481) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#1873](https://github.com/openwallet-foundation/credo-ts/pull/1873) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#1873](https://github.com/openwallet-foundation/credo-ts/pull/1873) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#1872](https://github.com/openwallet-foundation/credo-ts/pull/1872) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2119184287) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+1. 🗣 Commented on [#205](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/205#issuecomment-2126609785) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
+2. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2126601677) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+3. 🗣 Commented on [#235](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/235#issuecomment-2126583598) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+4. 🗣 Commented on [#1874](https://github.com/openwallet-foundation/credo-ts/issues/1874#issuecomment-2120609481) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#1873](https://github.com/openwallet-foundation/credo-ts/pull/1873) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
