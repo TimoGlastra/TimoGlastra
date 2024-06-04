@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🗣 Commented on [#235](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/235#issuecomment-2146895306) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-3. 🎉 Merged PR [#1853](https://github.com/openwallet-foundation/credo-ts/pull/1853) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141807635) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141789118) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+1. 🗣 Commented on [#109](https://github.com/animo/paradym-wallet/issues/109#issuecomment-2146963857) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🔒 Closed issue [#1874](https://github.com/openwallet-foundation/credo-ts/issues/1874) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❌ Closed PR [#1855](https://github.com/openwallet-foundation/credo-ts/pull/1855) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❌ Closed PR [#1852](https://github.com/openwallet-foundation/credo-ts/pull/1852) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❌ Closed PR [#1815](https://github.com/openwallet-foundation/credo-ts/pull/1815) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
