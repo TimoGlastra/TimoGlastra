@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141807635) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-2. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141789118) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-3. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2137554671) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-4. 🗣 Commented on [#205](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/205#issuecomment-2126609785) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
-5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2126601677) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+1. 🎉 Merged PR [#243](https://github.com/hyperledger/aries-askar/pull/243) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#235](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/235#issuecomment-2146895306) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+3. 🎉 Merged PR [#1853](https://github.com/openwallet-foundation/credo-ts/pull/1853) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141807635) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2141789118) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
 <!--END_SECTION:activity-->
 
 ---
