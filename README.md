@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/hyperledger/indy-vdr/pull/270#issuecomment-2155894157) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 💪 Opened PR [#296](https://github.com/hyperledger/indy-vdr/pull/296) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🎉 Merged PR [#110](https://github.com/animo/paradym-wallet/pull/110) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#110](https://github.com/animo/paradym-wallet/pull/110) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#1893](https://github.com/openwallet-foundation/credo-ts/pull/1893) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#247](https://github.com/hyperledger/aries-askar/pull/247) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#247](https://github.com/hyperledger/aries-askar/pull/247#issuecomment-2156033988) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. ❌ Closed PR [#259](https://github.com/hyperledger/aries-askar/pull/259) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. ❌ Closed PR [#258](https://github.com/hyperledger/aries-askar/pull/258) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. ❌ Closed PR [#257](https://github.com/hyperledger/aries-askar/pull/257) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
