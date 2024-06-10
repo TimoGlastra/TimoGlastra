@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2156737653) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-2. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2156736011) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
-3. 🗣 Commented on [#1863](https://github.com/openwallet-foundation/credo-ts/issues/1863#issuecomment-2156693370) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#97](https://github.com/openwallet-foundation/credo-ts/issues/97) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1894](https://github.com/openwallet-foundation/credo-ts/pull/1894) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2157458879) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. 🗣 Commented on [#1895](https://github.com/openwallet-foundation/credo-ts/issues/1895#issuecomment-2157456171) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2156737653) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+4. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2156736011) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+5. 🗣 Commented on [#1863](https://github.com/openwallet-foundation/credo-ts/issues/1863#issuecomment-2156693370) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
