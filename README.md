@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1883](https://github.com/openwallet-foundation/credo-ts/pull/1883#issuecomment-2159161963) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2158365966) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-3. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2157458879) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#1895](https://github.com/openwallet-foundation/credo-ts/issues/1895#issuecomment-2157456171) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/sd-jwt-js/issues/236#issuecomment-2156737653) in [openwallet-foundation-labs/sd-jwt-js](https://github.com/openwallet-foundation-labs/sd-jwt-js)
+1. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2159294567) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#264](https://github.com/hyperledger/aries-askar/pull/264#issuecomment-2159292448) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🗣 Commented on [#1883](https://github.com/openwallet-foundation/credo-ts/pull/1883#issuecomment-2159161963) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#153](https://github.com/Sphereon-Opensource/PEX/pull/153#issuecomment-2158365966) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2157458879) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
