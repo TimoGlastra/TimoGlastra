@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#12](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/12) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-2. 🗣 Commented on [#267](https://github.com/hyperledger/aries-askar/issues/267#issuecomment-2160045794) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2159887038) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-4. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2159294567) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🗣 Commented on [#264](https://github.com/hyperledger/aries-askar/pull/264#issuecomment-2159292448) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2160835382) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+2. ❌ Closed PR [#12](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/12) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. 🗣 Commented on [#267](https://github.com/hyperledger/aries-askar/issues/267#issuecomment-2160045794) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+4. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2159887038) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+5. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2159294567) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
