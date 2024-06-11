@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2160835382) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-2. ❌ Closed PR [#12](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/12) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-3. 🗣 Commented on [#267](https://github.com/hyperledger/aries-askar/issues/267#issuecomment-2160045794) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2159887038) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
-5. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2159294567) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🎉 Merged PR [#1896](https://github.com/openwallet-foundation/credo-ts/pull/1896) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2160835382) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
+3. ❌ Closed PR [#12](https://github.com/DutchBlockchainCoalition/CompanyPassport/pull/12) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+4. 🗣 Commented on [#267](https://github.com/hyperledger/aries-askar/issues/267#issuecomment-2160045794) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🗣 Commented on [#3020](https://github.com/hyperledger/aries-cloudagent-python/issues/3020#issuecomment-2159887038) in [hyperledger/aries-cloudagent-python](https://github.com/hyperledger/aries-cloudagent-python)
 <!--END_SECTION:activity-->
 
 ---
