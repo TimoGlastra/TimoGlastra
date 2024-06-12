@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/animo/paradym-sdk-ts/pull/16#issuecomment-2162598858) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-2. ❌ Closed PR [#16](https://github.com/animo/paradym-sdk-ts/pull/16) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-3. 🎉 Merged PR [#17](https://github.com/animo/paradym-sdk-ts/pull/17) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-4. 🗣 Commented on [#16](https://github.com/animo/paradym-sdk-ts/pull/16#issuecomment-2162570621) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-5. 🎉 Merged PR [#1883](https://github.com/openwallet-foundation/credo-ts/pull/1883) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2163053124) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❌ Closed PR [#270](https://github.com/hyperledger/indy-vdr/pull/270) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. ❌ Closed PR [#300](https://github.com/hyperledger/indy-vdr/pull/300) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. ❌ Closed PR [#299](https://github.com/hyperledger/indy-vdr/pull/299) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. ❌ Closed PR [#298](https://github.com/hyperledger/indy-vdr/pull/298) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
