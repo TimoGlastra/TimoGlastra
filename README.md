@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/animo/askar-webcrypto/pull/2) in [animo/askar-webcrypto](https://github.com/animo/askar-webcrypto)
-2. 🗣 Commented on [#1899](https://github.com/openwallet-foundation/credo-ts/issues/1899#issuecomment-2167340281) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1897](https://github.com/openwallet-foundation/credo-ts/issues/1897#issuecomment-2165944650) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2](https://github.com/animo/askar-webcrypto/pull/2#issuecomment-2165860062) in [animo/askar-webcrypto](https://github.com/animo/askar-webcrypto)
-5. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2163053124) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🗣 Commented on [#1901](https://github.com/openwallet-foundation/credo-ts/pull/1901#issuecomment-2171651765) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#1901](https://github.com/openwallet-foundation/credo-ts/pull/1901) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2](https://github.com/animo/askar-webcrypto/pull/2) in [animo/askar-webcrypto](https://github.com/animo/askar-webcrypto)
+4. 🗣 Commented on [#1899](https://github.com/openwallet-foundation/credo-ts/issues/1899#issuecomment-2167340281) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1897](https://github.com/openwallet-foundation/credo-ts/issues/1897#issuecomment-2165944650) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
