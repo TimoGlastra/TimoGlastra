@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1922](https://github.com/openwallet-foundation/credo-ts/pull/1922) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1920](https://github.com/openwallet-foundation/credo-ts/pull/1920#issuecomment-2188429891) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1921](https://github.com/openwallet-foundation/credo-ts/pull/1921) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#1920](https://github.com/openwallet-foundation/credo-ts/pull/1920) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1920](https://github.com/openwallet-foundation/credo-ts/pull/1920#issuecomment-2188414742) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#1915](https://github.com/openwallet-foundation/credo-ts/pull/1915) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#1922](https://github.com/openwallet-foundation/credo-ts/pull/1922) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❌ Closed PR [#16](https://github.com/TimoGlastra/aries-framework-javascript/pull/16) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+4. ❌ Closed PR [#15](https://github.com/TimoGlastra/aries-framework-javascript/pull/15) in [TimoGlastra/aries-framework-javascript](https://github.com/TimoGlastra/aries-framework-javascript)
+5. 💪 Opened PR [#1922](https://github.com/openwallet-foundation/credo-ts/pull/1922) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
