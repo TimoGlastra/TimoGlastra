@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2192040059) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 💪 Opened PR [#342](https://github.com/hyperledger/anoncreds-rs/pull/342) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🗣 Commented on [#113](https://github.com/animo/paradym-wallet/pull/113#issuecomment-2191525561) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#115](https://github.com/animo/paradym-wallet/pull/115) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#1924](https://github.com/openwallet-foundation/credo-ts/pull/1924) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#109](https://github.com/animo/paradym-wallet/issues/109#issuecomment-2192111506) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2192040059) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 💪 Opened PR [#342](https://github.com/hyperledger/anoncreds-rs/pull/342) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#113](https://github.com/animo/paradym-wallet/pull/113#issuecomment-2191525561) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#115](https://github.com/animo/paradym-wallet/pull/115) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
