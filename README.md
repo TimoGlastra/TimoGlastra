@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#114](https://github.com/animo/paradym-wallet/pull/114) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#20](https://github.com/animo/paradym-sdk-ts/pull/20) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-3. 🗣 Commented on [#113](https://github.com/animo/paradym-wallet/pull/113#issuecomment-2191110012) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#113](https://github.com/animo/paradym-wallet/pull/113) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#1924](https://github.com/openwallet-foundation/credo-ts/pull/1924) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#7](https://github.com/animo/askar-webcrypto/pull/7#issuecomment-2191255803) in [animo/askar-webcrypto](https://github.com/animo/askar-webcrypto)
+2. 🗣 Commented on [#7](https://github.com/animo/askar-webcrypto/pull/7#issuecomment-2191255714) in [animo/askar-webcrypto](https://github.com/animo/askar-webcrypto)
+3. 💪 Opened PR [#114](https://github.com/animo/paradym-wallet/pull/114) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#20](https://github.com/animo/paradym-sdk-ts/pull/20) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+5. 🗣 Commented on [#113](https://github.com/animo/paradym-wallet/pull/113#issuecomment-2191110012) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
