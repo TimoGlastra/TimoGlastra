@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/bcgov/trustdidweb/issues/59#issuecomment-2196798928) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
-2. ❗ Opened issue [#59](https://github.com/bcgov/trustdidweb/issues/59) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
-3. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2196500087) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#342](https://github.com/hyperledger/anoncreds-rs/pull/342#issuecomment-2196499358) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#1926](https://github.com/openwallet-foundation/credo-ts/issues/1926#issuecomment-2196457298) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#1927](https://github.com/openwallet-foundation/credo-ts/pull/1927) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#59](https://github.com/bcgov/trustdidweb/issues/59#issuecomment-2196798928) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
+3. ❗ Opened issue [#59](https://github.com/bcgov/trustdidweb/issues/59) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
+4. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2196500087) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#342](https://github.com/hyperledger/anoncreds-rs/pull/342#issuecomment-2196499358) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
