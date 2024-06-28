@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1926](https://github.com/openwallet-foundation/credo-ts/issues/1926#issuecomment-2196457298) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1926](https://github.com/openwallet-foundation/credo-ts/issues/1926#issuecomment-2196424508) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1925](https://github.com/openwallet-foundation/credo-ts/pull/1925#issuecomment-2194297798) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#277](https://github.com/openwallet-foundation/credo-ts-ext/pull/277#issuecomment-2194179779) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-5. 🗣 Commented on [#1925](https://github.com/openwallet-foundation/credo-ts/pull/1925#issuecomment-2194177958) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#296](https://github.com/hyperledger/indy-vdr/pull/296#issuecomment-2196500087) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#342](https://github.com/hyperledger/anoncreds-rs/pull/342#issuecomment-2196499358) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#1926](https://github.com/openwallet-foundation/credo-ts/issues/1926#issuecomment-2196457298) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1926](https://github.com/openwallet-foundation/credo-ts/issues/1926#issuecomment-2196424508) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1925](https://github.com/openwallet-foundation/credo-ts/pull/1925#issuecomment-2194297798) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
