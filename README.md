@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/bcgov/trustdidweb/issues/61#issuecomment-2198483377) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
-2. 💪 Opened PR [#1929](https://github.com/openwallet-foundation/credo-ts/pull/1929) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1928](https://github.com/openwallet-foundation/credo-ts/pull/1928) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#1928](https://github.com/openwallet-foundation/credo-ts/pull/1928) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1927](https://github.com/openwallet-foundation/credo-ts/pull/1927) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#53](https://github.com/decentralized-identity/linked-vp/issues/53) in [decentralized-identity/linked-vp](https://github.com/decentralized-identity/linked-vp)
+2. ❗ Opened issue [#16](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/16) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. 🗣 Commented on [#61](https://github.com/bcgov/trustdidweb/issues/61#issuecomment-2198483377) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
+4. 💪 Opened PR [#1929](https://github.com/openwallet-foundation/credo-ts/pull/1929) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#1928](https://github.com/openwallet-foundation/credo-ts/pull/1928) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
