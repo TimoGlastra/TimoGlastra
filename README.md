@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199710852) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199453258) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. ❗ Opened issue [#17](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/17) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. ❗ Opened issue [#53](https://github.com/decentralized-identity/linked-vp/issues/53) in [decentralized-identity/linked-vp](https://github.com/decentralized-identity/linked-vp)
-5. ❗ Opened issue [#16](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/16) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+1. 🗣 Commented on [#1935](https://github.com/openwallet-foundation/credo-ts/issues/1935#issuecomment-2200023196) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199710852) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199453258) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. ❗ Opened issue [#17](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/17) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+5. ❗ Opened issue [#53](https://github.com/decentralized-identity/linked-vp/issues/53) in [decentralized-identity/linked-vp](https://github.com/decentralized-identity/linked-vp)
 <!--END_SECTION:activity-->
 
 ---
