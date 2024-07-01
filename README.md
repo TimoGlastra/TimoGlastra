@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/17) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-2. ❗ Opened issue [#53](https://github.com/decentralized-identity/linked-vp/issues/53) in [decentralized-identity/linked-vp](https://github.com/decentralized-identity/linked-vp)
-3. ❗ Opened issue [#16](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/16) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. 🗣 Commented on [#61](https://github.com/bcgov/trustdidweb/issues/61#issuecomment-2198483377) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
-5. 💪 Opened PR [#1929](https://github.com/openwallet-foundation/credo-ts/pull/1929) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199453258) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. ❗ Opened issue [#17](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/17) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. ❗ Opened issue [#53](https://github.com/decentralized-identity/linked-vp/issues/53) in [decentralized-identity/linked-vp](https://github.com/decentralized-identity/linked-vp)
+4. ❗ Opened issue [#16](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/16) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+5. 🗣 Commented on [#61](https://github.com/bcgov/trustdidweb/issues/61#issuecomment-2198483377) in [bcgov/trustdidweb](https://github.com/bcgov/trustdidweb)
 <!--END_SECTION:activity-->
 
 ---
