@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/78#issuecomment-2202729595) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🗣 Commented on [#1935](https://github.com/openwallet-foundation/credo-ts/issues/1935#issuecomment-2200023196) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199710852) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199453258) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. ❗ Opened issue [#17](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/17) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+1. 🗣 Commented on [#271](https://github.com/hyperledger/aries-askar/pull/271#issuecomment-2203021150) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#78](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/78#issuecomment-2202729595) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🗣 Commented on [#1935](https://github.com/openwallet-foundation/credo-ts/issues/1935#issuecomment-2200023196) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199710852) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#306](https://github.com/hyperledger/indy-vdr/issues/306#issuecomment-2199453258) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
