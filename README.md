@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18#issuecomment-2204174942) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-2. ❗ Opened issue [#19](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/19) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-3. ❗ Opened issue [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. 🗣 Commented on [#271](https://github.com/hyperledger/aries-askar/pull/271#issuecomment-2203021150) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-5. 🗣 Commented on [#78](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/78#issuecomment-2202729595) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. 🎉 Merged PR [#117](https://github.com/animo/paradym-wallet/pull/117) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18#issuecomment-2204174942) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+3. ❗ Opened issue [#19](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/19) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+4. ❗ Opened issue [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+5. 🗣 Commented on [#271](https://github.com/hyperledger/aries-askar/pull/271#issuecomment-2203021150) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
 <!--END_SECTION:activity-->
 
 ---
