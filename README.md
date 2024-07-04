@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/animo/expo-ausweis-sdk/issues/7#issuecomment-2208465268) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-2. 🗣 Commented on [#4](https://github.com/animo/expo-ausweis-sdk/issues/4#issuecomment-2208462318) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-3. 🗣 Commented on [#5](https://github.com/animo/expo-ausweis-sdk/issues/5#issuecomment-2208458394) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-4. 🗣 Commented on [#3](https://github.com/animo/expo-ausweis-sdk/issues/3#issuecomment-2208456363) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 🗣 Commented on [#6](https://github.com/animo/expo-ausweis-sdk/issues/6#issuecomment-2208455522) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+1. 🔒 Closed issue [#3](https://github.com/animo/expo-ausweis-sdk/issues/3) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+2. 🎉 Merged PR [#12](https://github.com/animo/expo-ausweis-sdk/pull/12) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+3. 🔒 Closed issue [#1](https://github.com/animo/expo-ausweis-sdk/issues/1) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+4. 🎉 Merged PR [#11](https://github.com/animo/expo-ausweis-sdk/pull/11) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+5. 🔒 Closed issue [#6](https://github.com/animo/expo-ausweis-sdk/issues/6) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
