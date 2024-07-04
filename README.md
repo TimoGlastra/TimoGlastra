@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2208182506) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🎉 Merged PR [#117](https://github.com/animo/paradym-wallet/pull/117) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18#issuecomment-2204174942) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-4. ❗ Opened issue [#19](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/19) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
-5. ❗ Opened issue [#18](https://github.com/DutchBlockchainCoalition/CompanyPassport/issues/18) in [DutchBlockchainCoalition/CompanyPassport](https://github.com/DutchBlockchainCoalition/CompanyPassport)
+1. 🗣 Commented on [#7](https://github.com/animo/expo-ausweis-sdk/issues/7#issuecomment-2208465268) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+2. 🗣 Commented on [#4](https://github.com/animo/expo-ausweis-sdk/issues/4#issuecomment-2208462318) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+3. 🗣 Commented on [#5](https://github.com/animo/expo-ausweis-sdk/issues/5#issuecomment-2208458394) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+4. 🗣 Commented on [#3](https://github.com/animo/expo-ausweis-sdk/issues/3#issuecomment-2208456363) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+5. 🗣 Commented on [#6](https://github.com/animo/expo-ausweis-sdk/issues/6#issuecomment-2208455522) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
