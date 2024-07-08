@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1943](https://github.com/openwallet-foundation/credo-ts/issues/1943#issuecomment-2212457077) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1943](https://github.com/openwallet-foundation/credo-ts/issues/1943#issuecomment-2212454692) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🔒 Closed issue [#3](https://github.com/animo/expo-ausweis-sdk/issues/3) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-4. 🎉 Merged PR [#12](https://github.com/animo/expo-ausweis-sdk/pull/12) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 🔒 Closed issue [#1](https://github.com/animo/expo-ausweis-sdk/issues/1) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+1. 🗣 Commented on [#1942](https://github.com/openwallet-foundation/credo-ts/pull/1942#issuecomment-2213619644) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#1944](https://github.com/openwallet-foundation/credo-ts/pull/1944#issuecomment-2213619131) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#1943](https://github.com/openwallet-foundation/credo-ts/issues/1943#issuecomment-2212457077) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1943](https://github.com/openwallet-foundation/credo-ts/issues/1943#issuecomment-2212454692) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🔒 Closed issue [#3](https://github.com/animo/expo-ausweis-sdk/issues/3) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
