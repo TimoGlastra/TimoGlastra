@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220123422) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-2. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220102884) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-3. 🗣 Commented on [#1944](https://github.com/openwallet-foundation/credo-ts/pull/1944#issuecomment-2213722984) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#1942](https://github.com/openwallet-foundation/credo-ts/pull/1942#issuecomment-2213619644) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1944](https://github.com/openwallet-foundation/credo-ts/pull/1944#issuecomment-2213619131) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#118](https://github.com/animo/paradym-wallet/pull/118#issuecomment-2222860750) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220123422) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+3. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220102884) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+4. 🗣 Commented on [#1944](https://github.com/openwallet-foundation/credo-ts/pull/1944#issuecomment-2213722984) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#1942](https://github.com/openwallet-foundation/credo-ts/pull/1942#issuecomment-2213619644) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
