@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/animo/paradym-wallet/pull/119) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#118](https://github.com/animo/paradym-wallet/pull/118) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#118](https://github.com/animo/paradym-wallet/pull/118#issuecomment-2222860750) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220123422) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🗣 Commented on [#82](https://github.com/Sphereon-Opensource/SIOP-OID4VP/pull/82#issuecomment-2220102884) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
+1. ❌ Closed PR [#73](https://github.com/animo/paradym-wallet/pull/73) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❌ Closed PR [#52](https://github.com/animo/paradym-wallet/pull/52) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. ❌ Closed PR [#51](https://github.com/animo/paradym-wallet/pull/51) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❌ Closed PR [#11](https://github.com/animo/paradym-wallet/pull/11) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❌ Closed PR [#71](https://github.com/animo/paradym-wallet/pull/71) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
