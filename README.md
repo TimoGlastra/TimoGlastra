@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#132](https://github.com/openid/OpenID4VCI/issues/132#issuecomment-2242377430) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. 🎉 Merged PR [#1958](https://github.com/openwallet-foundation/credo-ts/pull/1958) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1957](https://github.com/openwallet-foundation/credo-ts/pull/1957) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🚀 Published release [v0.5.8](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.8) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#129](https://github.com/Sphereon-Opensource/OID4VC/pull/129#issuecomment-2239007907) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+1. ❗ Opened issue [#245](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/245) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
+2. 🗣 Commented on [#132](https://github.com/openid/OpenID4VCI/issues/132#issuecomment-2242377430) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 🎉 Merged PR [#1958](https://github.com/openwallet-foundation/credo-ts/pull/1958) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#1957](https://github.com/openwallet-foundation/credo-ts/pull/1957) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🚀 Published release [v0.5.8](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.8) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
