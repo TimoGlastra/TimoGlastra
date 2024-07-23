@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/animo/paradym-wallet/pull/126) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#22](https://github.com/animo/openid4vc-playground/pull/22#issuecomment-2244684728) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-3. ❗ Opened issue [#2806](https://github.com/tamagui/tamagui/issues/2806) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-4. 🚀 Published release [v0.5.9](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.9) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1959](https://github.com/openwallet-foundation/credo-ts/pull/1959) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#4](https://github.com/animo/openid4vc-playground-funke/pull/4) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 💪 Opened PR [#126](https://github.com/animo/paradym-wallet/pull/126) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#22](https://github.com/animo/openid4vc-playground/pull/22#issuecomment-2244684728) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. ❗ Opened issue [#2806](https://github.com/tamagui/tamagui/issues/2806) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+5. 🚀 Published release [v0.5.9](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.9) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
