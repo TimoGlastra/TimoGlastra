@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2806](https://github.com/tamagui/tamagui/issues/2806#issuecomment-2254655616) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. ❗ Opened issue [#1967](https://github.com/openwallet-foundation/credo-ts/issues/1967) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#126](https://github.com/animo/paradym-wallet/pull/126) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#119](https://github.com/animo/paradym-wallet/pull/119) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#13](https://github.com/animo/expo-ausweis-sdk/pull/13) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+1. 🎉 Merged PR [#14](https://github.com/animo/expo-ausweis-sdk/pull/14) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+2. 💪 Opened PR [#14](https://github.com/animo/expo-ausweis-sdk/pull/14) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+3. 🗣 Commented on [#2806](https://github.com/tamagui/tamagui/issues/2806#issuecomment-2254655616) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+4. ❗ Opened issue [#1967](https://github.com/openwallet-foundation/credo-ts/issues/1967) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#126](https://github.com/animo/paradym-wallet/pull/126) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
