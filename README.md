@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. 💪 Opened PR [#133](https://github.com/Sphereon-Opensource/OID4VC/pull/133) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🎉 Merged PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#14](https://github.com/animo/expo-ausweis-sdk/pull/14) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+1. 🗣 Commented on [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134#issuecomment-2260231732) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 💪 Opened PR [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 💪 Opened PR [#133](https://github.com/Sphereon-Opensource/OID4VC/pull/133) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🎉 Merged PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
