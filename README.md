@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134#issuecomment-2260231732) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. 💪 Opened PR [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 💪 Opened PR [#133](https://github.com/Sphereon-Opensource/OID4VC/pull/133) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 🎉 Merged PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#1972](https://github.com/openwallet-foundation/credo-ts/pull/1972) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#135](https://github.com/Sphereon-Opensource/OID4VC/pull/135#issuecomment-2260263210) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. ❌ Closed PR [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 🗣 Commented on [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134#issuecomment-2260262713) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 💪 Opened PR [#135](https://github.com/Sphereon-Opensource/OID4VC/pull/135) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 🗣 Commented on [#134](https://github.com/Sphereon-Opensource/OID4VC/pull/134#issuecomment-2260231732) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
