@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/animo/paradym-wallet/pull/130) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#1983](https://github.com/openwallet-foundation/credo-ts/pull/1983) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#136](https://github.com/Sphereon-Opensource/OID4VC/pull/136) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. ❗ Opened issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. ❗ Opened issue [#1977](https://github.com/openwallet-foundation/credo-ts/issues/1977) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#130](https://github.com/animo/paradym-wallet/pull/130#issuecomment-2263163093) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#130](https://github.com/animo/paradym-wallet/pull/130) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#1983](https://github.com/openwallet-foundation/credo-ts/pull/1983) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#136](https://github.com/Sphereon-Opensource/OID4VC/pull/136) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. ❗ Opened issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
