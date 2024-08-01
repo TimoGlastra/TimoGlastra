@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1977](https://github.com/openwallet-foundation/credo-ts/issues/1977) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/OID4VC/pull/131#issuecomment-2262639670) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🎉 Merged PR [#1976](https://github.com/openwallet-foundation/credo-ts/pull/1976) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#1976](https://github.com/openwallet-foundation/credo-ts/pull/1976) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#1975](https://github.com/openwallet-foundation/credo-ts/issues/1975) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+2. ❗ Opened issue [#1977](https://github.com/openwallet-foundation/credo-ts/issues/1977) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#131](https://github.com/Sphereon-Opensource/OID4VC/pull/131#issuecomment-2262639670) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🎉 Merged PR [#1976](https://github.com/openwallet-foundation/credo-ts/pull/1976) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#1976](https://github.com/openwallet-foundation/credo-ts/pull/1976) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
