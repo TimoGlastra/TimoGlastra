@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/animo/paradym-wallet/pull/134) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#134](https://github.com/animo/paradym-wallet/pull/134) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#132](https://github.com/animo/paradym-wallet/pull/132) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#16](https://github.com/animo/expo-ausweis-sdk/pull/16) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 💪 Opened PR [#132](https://github.com/animo/paradym-wallet/pull/132) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. ❗ Opened issue [#1990](https://github.com/openwallet-foundation/credo-ts/issues/1990) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#134](https://github.com/animo/paradym-wallet/pull/134) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#134](https://github.com/animo/paradym-wallet/pull/134) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#132](https://github.com/animo/paradym-wallet/pull/132) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#16](https://github.com/animo/expo-ausweis-sdk/pull/16) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
