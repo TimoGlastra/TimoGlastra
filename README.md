@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/animo/openid4vc-playground-funke/pull/11) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-2. 💪 Opened PR [#10](https://github.com/animo/openid4vc-playground-funke/pull/10) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. 🎉 Merged PR [#17](https://github.com/animo/expo-ausweis-sdk/pull/17) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-4. 💪 Opened PR [#17](https://github.com/animo/expo-ausweis-sdk/pull/17) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 🎉 Merged PR [#137](https://github.com/animo/paradym-wallet/pull/137) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#13](https://github.com/animo/openid4vc-playground-funke/pull/13) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 💪 Opened PR [#12](https://github.com/animo/openid4vc-playground-funke/pull/12) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. ❗ Opened issue [#1997](https://github.com/openwallet-foundation/credo-ts/issues/1997) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#11](https://github.com/animo/openid4vc-playground-funke/pull/11) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 💪 Opened PR [#10](https://github.com/animo/openid4vc-playground-funke/pull/10) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
 <!--END_SECTION:activity-->
 
 ---
