@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/hyperledger/aries-askar/issues/299#issuecomment-2289483490) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 💪 Opened PR [#139](https://github.com/animo/paradym-wallet/pull/139) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#1994](https://github.com/openwallet-foundation/credo-ts/pull/1994#issuecomment-2289091035) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#1998](https://github.com/openwallet-foundation/credo-ts/pull/1998) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#13](https://github.com/animo/openid4vc-playground-funke/pull/13) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+1. ❗ Opened issue [#2000](https://github.com/openwallet-foundation/credo-ts/issues/2000) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🚀 Published release [v0.5.10](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.10) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#1999](https://github.com/openwallet-foundation/credo-ts/issues/1999) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#299](https://github.com/hyperledger/aries-askar/issues/299#issuecomment-2289483490) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 💪 Opened PR [#139](https://github.com/animo/paradym-wallet/pull/139) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
