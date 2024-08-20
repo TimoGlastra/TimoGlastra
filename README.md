@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/animo/paradym-wallet/pull/146) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#5](https://github.com/animo/expo-secure-environment/pull/5) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-3. ❗ Opened issue [#2005](https://github.com/openwallet-foundation/credo-ts/issues/2005) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#19](https://github.com/animo/expo-ausweis-sdk/pull/19) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 🎉 Merged PR [#141](https://github.com/animo/paradym-wallet/pull/141) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. ❗ Opened issue [#143](https://github.com/Sphereon-Opensource/OID4VC/issues/143) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 💪 Opened PR [#146](https://github.com/animo/paradym-wallet/pull/146) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#5](https://github.com/animo/expo-secure-environment/pull/5) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. ❗ Opened issue [#2005](https://github.com/openwallet-foundation/credo-ts/issues/2005) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#19](https://github.com/animo/expo-ausweis-sdk/pull/19) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
