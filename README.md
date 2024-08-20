@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#144](https://github.com/Sphereon-Opensource/OID4VC/issues/144) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. ❗ Opened issue [#143](https://github.com/Sphereon-Opensource/OID4VC/issues/143) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 💪 Opened PR [#146](https://github.com/animo/paradym-wallet/pull/146) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#5](https://github.com/animo/expo-secure-environment/pull/5) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-5. ❗ Opened issue [#2005](https://github.com/openwallet-foundation/credo-ts/issues/2005) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#160](https://github.com/Sphereon-Opensource/PEX/pull/160) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. ❗ Opened issue [#144](https://github.com/Sphereon-Opensource/OID4VC/issues/144) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. ❗ Opened issue [#143](https://github.com/Sphereon-Opensource/OID4VC/issues/143) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 💪 Opened PR [#146](https://github.com/animo/paradym-wallet/pull/146) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#5](https://github.com/animo/expo-secure-environment/pull/5) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
 <!--END_SECTION:activity-->
 
 ---
