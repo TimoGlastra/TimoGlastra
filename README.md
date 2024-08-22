@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/animo/paradym-wallet/pull/148#issuecomment-2301632951) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🔒 Closed issue [#1993](https://github.com/openwallet-foundation/credo-ts/issues/1993) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#1994](https://github.com/openwallet-foundation/credo-ts/pull/1994) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#148](https://github.com/animo/paradym-wallet/pull/148) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#160](https://github.com/Sphereon-Opensource/PEX/pull/160) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. ❗ Opened issue [#6](https://github.com/animo/expo-secure-environment/issues/6) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+2. 🗣 Commented on [#148](https://github.com/animo/paradym-wallet/pull/148#issuecomment-2301632951) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🔒 Closed issue [#1993](https://github.com/openwallet-foundation/credo-ts/issues/1993) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#1994](https://github.com/openwallet-foundation/credo-ts/pull/1994) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#148](https://github.com/animo/paradym-wallet/pull/148) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
