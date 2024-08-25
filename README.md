@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/animo/expo-secure-environment/pull/9) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. 💪 Opened PR [#9](https://github.com/animo/expo-secure-environment/pull/9) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-3. ❌ Closed PR [#136](https://github.com/animo/paradym-wallet/pull/136) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#155](https://github.com/animo/paradym-wallet/pull/155) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#155](https://github.com/animo/paradym-wallet/pull/155) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#157](https://github.com/animo/paradym-wallet/pull/157) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#157](https://github.com/animo/paradym-wallet/pull/157) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#9](https://github.com/animo/expo-secure-environment/pull/9) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. 💪 Opened PR [#9](https://github.com/animo/expo-secure-environment/pull/9) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+5. ❌ Closed PR [#136](https://github.com/animo/paradym-wallet/pull/136) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
