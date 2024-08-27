@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/animo/openid4vc-playground-funke/pull/21) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-2. ❌ Closed PR [#22](https://github.com/animo/openid4vc-playground-funke/pull/22) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. 🗣 Commented on [#17](https://github.com/animo/openid4vc-playground-funke/pull/17#issuecomment-2312113051) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-4. ❌ Closed PR [#17](https://github.com/animo/openid4vc-playground-funke/pull/17) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-5. 🎉 Merged PR [#162](https://github.com/animo/paradym-wallet/pull/162) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#164](https://github.com/animo/paradym-wallet/pull/164) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#21](https://github.com/animo/openid4vc-playground-funke/pull/21) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. ❌ Closed PR [#22](https://github.com/animo/openid4vc-playground-funke/pull/22) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+4. 🗣 Commented on [#17](https://github.com/animo/openid4vc-playground-funke/pull/17#issuecomment-2312113051) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. ❌ Closed PR [#17](https://github.com/animo/openid4vc-playground-funke/pull/17) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
 <!--END_SECTION:activity-->
 
 ---
