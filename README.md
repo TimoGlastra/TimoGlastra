@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#162](https://github.com/animo/paradym-wallet/pull/162) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#163](https://github.com/animo/paradym-wallet/pull/163) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#162](https://github.com/animo/paradym-wallet/pull/162) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#2013](https://github.com/openwallet-foundation/credo-ts/pull/2013) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2012](https://github.com/openwallet-foundation/credo-ts/pull/2012) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#21](https://github.com/animo/openid4vc-playground-funke/pull/21) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. ❌ Closed PR [#22](https://github.com/animo/openid4vc-playground-funke/pull/22) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. 🗣 Commented on [#17](https://github.com/animo/openid4vc-playground-funke/pull/17#issuecomment-2312113051) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+4. ❌ Closed PR [#17](https://github.com/animo/openid4vc-playground-funke/pull/17) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 🎉 Merged PR [#162](https://github.com/animo/paradym-wallet/pull/162) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
