@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-2. ❗ Opened issue [#2020](https://github.com/openwallet-foundation/credo-ts/issues/2020) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#173](https://github.com/animo/paradym-wallet/pull/173) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#10](https://github.com/animo/expo-secure-environment/issues/10) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-5. 🗣 Commented on [#161](https://github.com/Sphereon-Opensource/PEX/issues/161#issuecomment-2317901524) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🎉 Merged PR [#2019](https://github.com/openwallet-foundation/credo-ts/pull/2019) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+3. ❗ Opened issue [#2020](https://github.com/openwallet-foundation/credo-ts/issues/2020) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#173](https://github.com/animo/paradym-wallet/pull/173) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❗ Opened issue [#10](https://github.com/animo/expo-secure-environment/issues/10) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
 <!--END_SECTION:activity-->
 
 ---
