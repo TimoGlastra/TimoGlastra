@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#163](https://github.com/Sphereon-Opensource/PEX/issues/163#issuecomment-2330996680) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#2023](https://github.com/openwallet-foundation/credo-ts/pull/2023#issuecomment-2324388831) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2019](https://github.com/openwallet-foundation/credo-ts/pull/2019) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-5. ❗ Opened issue [#2020](https://github.com/openwallet-foundation/credo-ts/issues/2020) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#161](https://github.com/Sphereon-Opensource/PEX/issues/161#issuecomment-2331055352) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#163](https://github.com/Sphereon-Opensource/PEX/issues/163#issuecomment-2330996680) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#2023](https://github.com/openwallet-foundation/credo-ts/pull/2023#issuecomment-2324388831) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#2019](https://github.com/openwallet-foundation/credo-ts/pull/2019) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
 <!--END_SECTION:activity-->
 
 ---
