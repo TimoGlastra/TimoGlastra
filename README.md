@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-2. ❗ Opened issue [#146](https://github.com/Sphereon-Opensource/OID4VC/issues/146) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 💪 Opened PR [#145](https://github.com/Sphereon-Opensource/OID4VC/pull/145) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 🔒 Closed issue [#2022](https://github.com/openwallet-foundation/credo-ts/issues/2022) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2023](https://github.com/openwallet-foundation/credo-ts/pull/2023) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#308](https://github.com/hyperledger/aries-askar/pull/308#issuecomment-2334087794) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+2. 🗣 Commented on [#307](https://github.com/hyperledger/aries-askar/issues/307#issuecomment-2334087547) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🎉 Merged PR [#21](https://github.com/animo/paradym-sdk-ts/pull/21) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+4. ❗ Opened issue [#146](https://github.com/Sphereon-Opensource/OID4VC/issues/146) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 💪 Opened PR [#145](https://github.com/Sphereon-Opensource/OID4VC/pull/145) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
