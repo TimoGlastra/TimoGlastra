@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#345](https://github.com/hyperledger/anoncreds-rs/pull/345) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🎉 Merged PR [#327](https://github.com/hyperledger/indy-vdr/pull/327) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#127](https://github.com/animo/paradym-wallet/pull/127#issuecomment-2334782808) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❌ Closed PR [#127](https://github.com/animo/paradym-wallet/pull/127) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#174](https://github.com/animo/paradym-wallet/pull/174) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2340062058) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🎉 Merged PR [#345](https://github.com/hyperledger/anoncreds-rs/pull/345) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🎉 Merged PR [#327](https://github.com/hyperledger/indy-vdr/pull/327) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🗣 Commented on [#127](https://github.com/animo/paradym-wallet/pull/127#issuecomment-2334782808) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❌ Closed PR [#127](https://github.com/animo/paradym-wallet/pull/127) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
