@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🔒 Closed issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-3. 🔒 Closed issue [#10](https://github.com/animo/expo-ausweis-sdk/issues/10) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-4. 🎉 Merged PR [#171](https://github.com/openwallet-foundation/credo-ts-docs/pull/171) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-5. 🎉 Merged PR [#2003](https://github.com/openwallet-foundation/credo-ts/pull/2003) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#346](https://github.com/hyperledger/anoncreds-rs/pull/346) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. ❗ Opened issue [#309](https://github.com/hyperledger/aries-askar/issues/309) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 💪 Opened PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🔒 Closed issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+5. 🔒 Closed issue [#10](https://github.com/animo/expo-ausweis-sdk/issues/10) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
 <!--END_SECTION:activity-->
 
 ---
