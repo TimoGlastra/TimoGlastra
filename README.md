@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#346](https://github.com/hyperledger/anoncreds-rs/pull/346) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. ❗ Opened issue [#309](https://github.com/hyperledger/aries-askar/issues/309) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-3. 💪 Opened PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🔒 Closed issue [#15](https://github.com/animo/expo-ausweis-sdk/issues/15) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-5. 🔒 Closed issue [#10](https://github.com/animo/expo-ausweis-sdk/issues/10) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+1. 🎉 Merged PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#176](https://github.com/animo/paradym-wallet/pull/176#issuecomment-2350692119) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#346](https://github.com/hyperledger/anoncreds-rs/pull/346) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. ❗ Opened issue [#309](https://github.com/hyperledger/aries-askar/issues/309) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 💪 Opened PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
