@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2355420462) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2354722081) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2354720560) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 💪 Opened PR [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. 🎉 Merged PR [#176](https://github.com/animo/paradym-wallet/pull/176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356220904) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/OID4VC/pull/145#issuecomment-2356216065) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2356202541) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2355420462) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2354722081) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
