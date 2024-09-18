@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356338890) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356290786) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356220904) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 🗣 Commented on [#145](https://github.com/Sphereon-Opensource/OID4VC/pull/145#issuecomment-2356216065) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. 🗣 Commented on [#164](https://github.com/Sphereon-Opensource/PEX/pull/164#issuecomment-2356202541) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#147](https://github.com/Sphereon-Opensource/OID4VC/pull/147#issuecomment-2357720409) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 🗣 Commented on [#147](https://github.com/Sphereon-Opensource/OID4VC/pull/147#issuecomment-2357714626) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356338890) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356290786) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 🗣 Commented on [#148](https://github.com/Sphereon-Opensource/OID4VC/pull/148#issuecomment-2356220904) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
