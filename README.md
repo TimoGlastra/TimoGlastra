@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/FIDEScommunity/CompanyPassport/pull/20) in [FIDEScommunity/CompanyPassport](https://github.com/FIDEScommunity/CompanyPassport)
-2. 🗣 Commented on [#2040](https://github.com/openwallet-foundation/credo-ts/issues/2040#issuecomment-2365022216) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#331](https://github.com/hyperledger/indy-vdr/pull/331#issuecomment-2361326690) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-4. 💪 Opened PR [#178](https://github.com/animo/paradym-wallet/pull/178) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#2039](https://github.com/openwallet-foundation/credo-ts/pull/2039#issuecomment-2358893575) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#97](https://github.com/animo/react-native-ble-didcomm/pull/97#issuecomment-2371130501) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
+2. 🗣 Commented on [#168](https://github.com/Sphereon-Opensource/PEX/pull/168#issuecomment-2371123604) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🎉 Merged PR [#20](https://github.com/FIDEScommunity/CompanyPassport/pull/20) in [FIDEScommunity/CompanyPassport](https://github.com/FIDEScommunity/CompanyPassport)
+4. 🗣 Commented on [#2040](https://github.com/openwallet-foundation/credo-ts/issues/2040#issuecomment-2365022216) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#331](https://github.com/hyperledger/indy-vdr/pull/331#issuecomment-2361326690) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
