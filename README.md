@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#173](https://github.com/mosip/tuvali/issues/173) in [mosip/tuvali](https://github.com/mosip/tuvali)
-2. 🗣 Commented on [#180](https://github.com/animo/paradym-wallet/pull/180#issuecomment-2376575472) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#180](https://github.com/animo/paradym-wallet/pull/180) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#97](https://github.com/animo/react-native-ble-didcomm/pull/97#issuecomment-2371130501) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
-5. 🗣 Commented on [#168](https://github.com/Sphereon-Opensource/PEX/pull/168#issuecomment-2371123604) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 💪 Opened PR [#2045](https://github.com/openwallet-foundation/credo-ts/pull/2045) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#173](https://github.com/mosip/tuvali/issues/173) in [mosip/tuvali](https://github.com/mosip/tuvali)
+3. 🗣 Commented on [#180](https://github.com/animo/paradym-wallet/pull/180#issuecomment-2376575472) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#180](https://github.com/animo/paradym-wallet/pull/180) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#97](https://github.com/animo/react-native-ble-didcomm/pull/97#issuecomment-2371130501) in [animo/react-native-ble-didcomm](https://github.com/animo/react-native-ble-didcomm)
 <!--END_SECTION:activity-->
 
 ---
