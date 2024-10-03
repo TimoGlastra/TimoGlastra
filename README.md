@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/hyperledger/aries-askar/issues/314#issuecomment-2390806210) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. ❗ Opened issue [#155](https://github.com/Sphereon-Opensource/OID4VC/issues/155) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. ❗ Opened issue [#154](https://github.com/Sphereon-Opensource/OID4VC/issues/154) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 🗣 Commented on [#83](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/83#issuecomment-2388094486) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
-5. 🗣 Commented on [#144](https://github.com/Sphereon-Opensource/OID4VC/issues/144#issuecomment-2388088165) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+1. 🗣 Commented on [#147](https://github.com/Sphereon-Opensource/OID4VC/pull/147#issuecomment-2391334497) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 🗣 Commented on [#314](https://github.com/hyperledger/aries-askar/issues/314#issuecomment-2390806210) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. ❗ Opened issue [#155](https://github.com/Sphereon-Opensource/OID4VC/issues/155) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. ❗ Opened issue [#154](https://github.com/Sphereon-Opensource/OID4VC/issues/154) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 🗣 Commented on [#83](https://github.com/Sphereon-Opensource/SIOP-OID4VP/issues/83#issuecomment-2388094486) in [Sphereon-Opensource/SIOP-OID4VP](https://github.com/Sphereon-Opensource/SIOP-OID4VP)
 <!--END_SECTION:activity-->
 
 ---
