@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2053](https://github.com/openwallet-foundation/credo-ts/pull/2053) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2397017547) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🗣 Commented on [#309](https://github.com/hyperledger/aries-askar/issues/309#issuecomment-2393109323) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🎉 Merged PR [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049#issuecomment-2392081724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397468946) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397467791) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397466186) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#2053](https://github.com/openwallet-foundation/credo-ts/pull/2053) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2397017547) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
