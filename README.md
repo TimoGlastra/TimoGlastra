@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#309](https://github.com/hyperledger/aries-askar/issues/309#issuecomment-2393109323) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-2. 🎉 Merged PR [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049#issuecomment-2392081724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#147](https://github.com/Sphereon-Opensource/OID4VC/pull/147#issuecomment-2391334497) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. 🗣 Commented on [#314](https://github.com/hyperledger/aries-askar/issues/314#issuecomment-2390806210) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+1. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2397017547) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 🗣 Commented on [#309](https://github.com/hyperledger/aries-askar/issues/309#issuecomment-2393109323) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+3. 🎉 Merged PR [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2049](https://github.com/openwallet-foundation/credo-ts/pull/2049#issuecomment-2392081724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#147](https://github.com/Sphereon-Opensource/OID4VC/pull/147#issuecomment-2391334497) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
