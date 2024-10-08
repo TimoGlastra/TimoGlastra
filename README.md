@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-2. 🎉 Merged PR [#2053](https://github.com/openwallet-foundation/credo-ts/pull/2053) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2052](https://github.com/openwallet-foundation/credo-ts/pull/2052#issuecomment-2399266742) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397468946) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397467791) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2399342396) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. ❗ Opened issue [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+3. 🎉 Merged PR [#2053](https://github.com/openwallet-foundation/credo-ts/pull/2053) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2052](https://github.com/openwallet-foundation/credo-ts/pull/2052#issuecomment-2399266742) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2397468946) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
