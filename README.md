@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2399619343) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2399617021) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#182](https://github.com/animo/paradym-wallet/pull/182) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2399342396) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. ❗ Opened issue [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+1. 🎉 Merged PR [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 🗣 Commented on [#157](https://github.com/Sphereon-Opensource/OID4VC/pull/157#issuecomment-2399720724) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2399619343) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#181](https://github.com/animo/paradym-wallet/pull/181#issuecomment-2399617021) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#182](https://github.com/animo/paradym-wallet/pull/182) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
