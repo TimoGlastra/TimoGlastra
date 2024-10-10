@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2057](https://github.com/openwallet-foundation/credo-ts/issues/2057) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#159](https://github.com/Sphereon-Opensource/OID4VC/pull/159) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🗣 Commented on [#314](https://github.com/hyperledger/aries-askar/issues/314#issuecomment-2404115405) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
-4. 🎉 Merged PR [#185](https://github.com/animo/paradym-wallet/pull/185) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#184](https://github.com/animo/paradym-wallet/pull/184) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🚀 Published release [v0.5.11](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.11) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#2057](https://github.com/openwallet-foundation/credo-ts/issues/2057) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#159](https://github.com/Sphereon-Opensource/OID4VC/pull/159) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🗣 Commented on [#314](https://github.com/hyperledger/aries-askar/issues/314#issuecomment-2404115405) in [hyperledger/aries-askar](https://github.com/hyperledger/aries-askar)
+5. 🎉 Merged PR [#185](https://github.com/animo/paradym-wallet/pull/185) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
