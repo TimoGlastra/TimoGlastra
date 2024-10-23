@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/openwallet-foundation/credo-ts/issues/549#issuecomment-2415873964) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#160](https://github.com/Sphereon-Opensource/OID4VC/pull/160) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 🗣 Commented on [#159](https://github.com/Sphereon-Opensource/OID4VC/pull/159#issuecomment-2413467075) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 🗣 Commented on [#2037](https://github.com/openwallet-foundation/credo-ts/pull/2037#issuecomment-2413450690) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#79](https://github.com/openid/OpenID4VCI/issues/79#issuecomment-2411739317) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🗣 Commented on [#2064](https://github.com/openwallet-foundation/credo-ts/issues/2064#issuecomment-2429382347) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#549](https://github.com/openwallet-foundation/credo-ts/issues/549#issuecomment-2415873964) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#160](https://github.com/Sphereon-Opensource/OID4VC/pull/160) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🗣 Commented on [#159](https://github.com/Sphereon-Opensource/OID4VC/pull/159#issuecomment-2413467075) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 🗣 Commented on [#2037](https://github.com/openwallet-foundation/credo-ts/pull/2037#issuecomment-2413450690) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
