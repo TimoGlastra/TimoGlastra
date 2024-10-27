@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32382](https://github.com/expo/expo/issues/32382) in [expo/expo](https://github.com/expo/expo)
-2. 🎉 Merged PR [#1](https://github.com/animo/mdoc-data-transfer/pull/1) in [animo/mdoc-data-transfer](https://github.com/animo/mdoc-data-transfer)
-3. ❗ Opened issue [#177](https://github.com/Sphereon-Opensource/PEX/issues/177) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 🚀 Published release [v0.5.12](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.12) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#173](https://github.com/Sphereon-Opensource/PEX/pull/173#issuecomment-2437881996) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#177](https://github.com/Sphereon-Opensource/PEX/issues/177#issuecomment-2439997398) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. ❗ Opened issue [#32382](https://github.com/expo/expo/issues/32382) in [expo/expo](https://github.com/expo/expo)
+3. 🎉 Merged PR [#1](https://github.com/animo/mdoc-data-transfer/pull/1) in [animo/mdoc-data-transfer](https://github.com/animo/mdoc-data-transfer)
+4. ❗ Opened issue [#177](https://github.com/Sphereon-Opensource/PEX/issues/177) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+5. 🚀 Published release [v0.5.12](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.12) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
