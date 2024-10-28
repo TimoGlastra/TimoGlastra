@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/Sphereon-Opensource/PEX/issues/177#issuecomment-2439997398) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. ❗ Opened issue [#32382](https://github.com/expo/expo/issues/32382) in [expo/expo](https://github.com/expo/expo)
-3. 🎉 Merged PR [#1](https://github.com/animo/mdoc-data-transfer/pull/1) in [animo/mdoc-data-transfer](https://github.com/animo/mdoc-data-transfer)
-4. ❗ Opened issue [#177](https://github.com/Sphereon-Opensource/PEX/issues/177) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🚀 Published release [v0.5.12](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.12) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2069](https://github.com/openwallet-foundation/credo-ts/pull/2069#issuecomment-2441278812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#190](https://github.com/animo/paradym-wallet/pull/190) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#177](https://github.com/Sphereon-Opensource/PEX/issues/177#issuecomment-2439997398) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+4. ❗ Opened issue [#32382](https://github.com/expo/expo/issues/32382) in [expo/expo](https://github.com/expo/expo)
+5. 🎉 Merged PR [#1](https://github.com/animo/mdoc-data-transfer/pull/1) in [animo/mdoc-data-transfer](https://github.com/animo/mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
