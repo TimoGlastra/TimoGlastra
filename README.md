@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2071](https://github.com/openwallet-foundation/credo-ts/pull/2071) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#1](https://github.com/jfromaniello/typedmap/issues/1#issuecomment-2442339086) in [jfromaniello/typedmap](https://github.com/jfromaniello/typedmap)
-3. ❗ Opened issue [#1](https://github.com/jfromaniello/typedmap/issues/1) in [jfromaniello/typedmap](https://github.com/jfromaniello/typedmap)
-4. ❗ Opened issue [#2070](https://github.com/openwallet-foundation/credo-ts/issues/2070) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2069](https://github.com/openwallet-foundation/credo-ts/pull/2069) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#192](https://github.com/animo/paradym-wallet/pull/192) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#2071](https://github.com/openwallet-foundation/credo-ts/pull/2071) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2071](https://github.com/openwallet-foundation/credo-ts/pull/2071) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1](https://github.com/jfromaniello/typedmap/issues/1#issuecomment-2442339086) in [jfromaniello/typedmap](https://github.com/jfromaniello/typedmap)
+5. ❗ Opened issue [#1](https://github.com/jfromaniello/typedmap/issues/1) in [jfromaniello/typedmap](https://github.com/jfromaniello/typedmap)
 <!--END_SECTION:activity-->
 
 ---
