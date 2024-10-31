@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252#issuecomment-2449161498) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-2. 🔒 Closed issue [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-3. 💪 Opened PR [#262](https://github.com/Sphereon-Opensource/SSI-SDK/pull/262) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
-4. 💪 Opened PR [#178](https://github.com/Sphereon-Opensource/PEX/pull/178) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🎉 Merged PR [#196](https://github.com/animo/paradym-wallet/pull/196) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#179](https://github.com/Sphereon-Opensource/PEX/pull/179) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. 🗣 Commented on [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252#issuecomment-2449161498) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+3. 🔒 Closed issue [#252](https://github.com/Sphereon-Opensource/SSI-SDK/issues/252) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+4. 💪 Opened PR [#262](https://github.com/Sphereon-Opensource/SSI-SDK/pull/262) in [Sphereon-Opensource/SSI-SDK](https://github.com/Sphereon-Opensource/SSI-SDK)
+5. 💪 Opened PR [#178](https://github.com/Sphereon-Opensource/PEX/pull/178) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
