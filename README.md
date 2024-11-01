@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47344](https://github.com/facebook/react-native/issues/47344#issuecomment-2450662330) in [facebook/react-native](https://github.com/facebook/react-native)
-2. ❗ Opened issue [#47344](https://github.com/facebook/react-native/issues/47344) in [facebook/react-native](https://github.com/facebook/react-native)
-3. 💪 Opened PR [#165](https://github.com/Sphereon-Opensource/OID4VC/pull/165) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-4. 💪 Opened PR [#184](https://github.com/Sphereon-Opensource/PEX/pull/184) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🗣 Commented on [#182](https://github.com/Sphereon-Opensource/PEX/pull/182#issuecomment-2449803483) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+1. 🗣 Commented on [#2077](https://github.com/openwallet-foundation/credo-ts/issues/2077#issuecomment-2451365642) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#47344](https://github.com/facebook/react-native/issues/47344#issuecomment-2450662330) in [facebook/react-native](https://github.com/facebook/react-native)
+3. ❗ Opened issue [#47344](https://github.com/facebook/react-native/issues/47344) in [facebook/react-native](https://github.com/facebook/react-native)
+4. 💪 Opened PR [#165](https://github.com/Sphereon-Opensource/OID4VC/pull/165) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 💪 Opened PR [#184](https://github.com/Sphereon-Opensource/PEX/pull/184) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
 <!--END_SECTION:activity-->
 
 ---
