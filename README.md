@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#199](https://github.com/animo/paradym-wallet/pull/199) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#198](https://github.com/animo/paradym-wallet/pull/198) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#47344](https://github.com/facebook/react-native/issues/47344#issuecomment-2452892414) in [facebook/react-native](https://github.com/facebook/react-native)
-4. 💪 Opened PR [#199](https://github.com/animo/paradym-wallet/pull/199) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#166](https://github.com/Sphereon-Opensource/OID4VC/pull/166) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+1. 🗣 Commented on [#25](https://github.com/animo/animo-mediator/issues/25#issuecomment-2454733260) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 🎉 Merged PR [#199](https://github.com/animo/paradym-wallet/pull/199) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#198](https://github.com/animo/paradym-wallet/pull/198) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#47344](https://github.com/facebook/react-native/issues/47344#issuecomment-2452892414) in [facebook/react-native](https://github.com/facebook/react-native)
+5. 💪 Opened PR [#199](https://github.com/animo/paradym-wallet/pull/199) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
