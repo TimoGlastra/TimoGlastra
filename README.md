@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-2. 🔒 Closed issue [#2086](https://github.com/openwallet-foundation/credo-ts/issues/2086) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2086](https://github.com/openwallet-foundation/credo-ts/issues/2086#issuecomment-2463016360) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🚀 Published release [v0.5.13](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.13) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2081](https://github.com/openwallet-foundation/credo-ts/pull/2081) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#2088](https://github.com/openwallet-foundation/credo-ts/pull/2088) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
+3. 🔒 Closed issue [#2086](https://github.com/openwallet-foundation/credo-ts/issues/2086) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2086](https://github.com/openwallet-foundation/credo-ts/issues/2086#issuecomment-2463016360) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🚀 Published release [v0.5.13](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.13) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
