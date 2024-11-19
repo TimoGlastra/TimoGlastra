@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/animo/oid4vc-ts/pull/4) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-2. 🎉 Merged PR [#3](https://github.com/animo/oid4vc-ts/pull/3) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-3. ❌ Closed PR [#36](https://github.com/animo/mdoc/pull/36) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🎉 Merged PR [#2](https://github.com/animo/oid4vc-ts/pull/2) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-5. 🗣 Commented on [#2084](https://github.com/openwallet-foundation/credo-ts/issues/2084#issuecomment-2482150401) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#37](https://github.com/animo/mdoc/pull/37) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🎉 Merged PR [#5](https://github.com/animo/oid4vc-ts/pull/5) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+3. 🎉 Merged PR [#4](https://github.com/animo/oid4vc-ts/pull/4) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+4. 🎉 Merged PR [#3](https://github.com/animo/oid4vc-ts/pull/3) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+5. ❌ Closed PR [#36](https://github.com/animo/mdoc/pull/36) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
