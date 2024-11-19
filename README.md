@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/animo/mdoc/pull/37) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🎉 Merged PR [#5](https://github.com/animo/oid4vc-ts/pull/5) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-3. 🎉 Merged PR [#4](https://github.com/animo/oid4vc-ts/pull/4) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-4. 🎉 Merged PR [#3](https://github.com/animo/oid4vc-ts/pull/3) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-5. ❌ Closed PR [#36](https://github.com/animo/mdoc/pull/36) in [animo/mdoc](https://github.com/animo/mdoc)
+1. 🎉 Merged PR [#2090](https://github.com/openwallet-foundation/credo-ts/pull/2090) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2090](https://github.com/openwallet-foundation/credo-ts/pull/2090) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#195](https://github.com/openwallet-foundation/tac/issues/195) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+4. ❗ Opened issue [#194](https://github.com/openwallet-foundation/tac/issues/194) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+5. 🎉 Merged PR [#38](https://github.com/animo/mdoc/pull/38) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
