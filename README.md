@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/animo/oid4vc-ts/pull/7) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-2. 💪 Opened PR [#2104](https://github.com/openwallet-foundation/credo-ts/pull/2104) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❌ Closed PR [#183](https://github.com/Sphereon-Opensource/PEX/pull/183) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-4. 💪 Opened PR [#187](https://github.com/Sphereon-Opensource/PEX/pull/187) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-5. 🔒 Closed issue [#84](https://github.com/openwallet-foundation/credo-ts/issues/84) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#2104](https://github.com/openwallet-foundation/credo-ts/pull/2104) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2105](https://github.com/openwallet-foundation/credo-ts/pull/2105) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2102](https://github.com/openwallet-foundation/credo-ts/pull/2102) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#171](https://github.com/Sphereon-Opensource/OID4VC/pull/171#issuecomment-2495956264) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 🎉 Merged PR [#7](https://github.com/animo/oid4vc-ts/pull/7) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
