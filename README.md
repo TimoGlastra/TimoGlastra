@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#172](https://github.com/Sphereon-Opensource/OID4VC/pull/172) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. 🗣 Commented on [#28](https://github.com/animo/openid4vc-playground-funke/pull/28#issuecomment-2496110621) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. 💪 Opened PR [#28](https://github.com/animo/openid4vc-playground-funke/pull/28) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-4. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2496079575) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-5. 🎉 Merged PR [#2106](https://github.com/openwallet-foundation/credo-ts/pull/2106) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#170](https://github.com/Sphereon-Opensource/OID4VC/pull/170#issuecomment-2496556304) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+2. 💪 Opened PR [#227](https://github.com/animo/paradym-wallet/pull/227) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#172](https://github.com/Sphereon-Opensource/OID4VC/pull/172) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🗣 Commented on [#28](https://github.com/animo/openid4vc-playground-funke/pull/28#issuecomment-2496110621) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 💪 Opened PR [#28](https://github.com/animo/openid4vc-playground-funke/pull/28) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
 <!--END_SECTION:activity-->
 
 ---
