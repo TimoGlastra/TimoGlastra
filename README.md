@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/Sphereon-Opensource/OID4VC/pull/170#issuecomment-2497200090) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-2. 🗣 Commented on [#170](https://github.com/Sphereon-Opensource/OID4VC/pull/170#issuecomment-2496556304) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-3. 💪 Opened PR [#227](https://github.com/animo/paradym-wallet/pull/227) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#172](https://github.com/Sphereon-Opensource/OID4VC/pull/172) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. 🗣 Commented on [#28](https://github.com/animo/openid4vc-playground-funke/pull/28#issuecomment-2496110621) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+1. 🗣 Commented on [#173](https://github.com/mosip/tuvali/issues/173#issuecomment-2497697672) in [mosip/tuvali](https://github.com/mosip/tuvali)
+2. 🔒 Closed issue [#173](https://github.com/mosip/tuvali/issues/173) in [mosip/tuvali](https://github.com/mosip/tuvali)
+3. 🗣 Commented on [#170](https://github.com/Sphereon-Opensource/OID4VC/pull/170#issuecomment-2497200090) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+4. 🗣 Commented on [#170](https://github.com/Sphereon-Opensource/OID4VC/pull/170#issuecomment-2496556304) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+5. 💪 Opened PR [#227](https://github.com/animo/paradym-wallet/pull/227) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
