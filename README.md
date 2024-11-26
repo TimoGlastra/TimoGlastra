@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#235](https://github.com/animo/paradym-wallet/pull/235) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#236](https://github.com/animo/paradym-wallet/pull/236) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#8](https://github.com/animo/expo-mdoc-data-transfer/pull/8#issuecomment-2500673610) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
-4. 🎉 Merged PR [#232](https://github.com/animo/paradym-wallet/pull/232) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#232](https://github.com/animo/paradym-wallet/pull/232) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#258](https://github.com/openwallet-foundation/sd-jwt-js/issues/258#issuecomment-2500949494) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 💪 Opened PR [#237](https://github.com/animo/paradym-wallet/pull/237) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. ❌ Closed PR [#235](https://github.com/animo/paradym-wallet/pull/235) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#236](https://github.com/animo/paradym-wallet/pull/236) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#8](https://github.com/animo/expo-mdoc-data-transfer/pull/8#issuecomment-2500673610) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
