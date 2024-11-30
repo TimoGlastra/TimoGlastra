@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#329](https://github.com/openwallet-foundation/askar/issues/329) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. ❗ Opened issue [#2119](https://github.com/openwallet-foundation/credo-ts/issues/2119) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#252](https://github.com/animo/paradym-wallet/pull/252) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#173](https://github.com/Sphereon-Opensource/OID4VC/issues/173) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
-5. ❗ Opened issue [#2118](https://github.com/openwallet-foundation/credo-ts/issues/2118) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#947](https://github.com/fabian-hiller/valibot/issues/947) in [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot)
+2. ❗ Opened issue [#329](https://github.com/openwallet-foundation/askar/issues/329) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. ❗ Opened issue [#2119](https://github.com/openwallet-foundation/credo-ts/issues/2119) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#252](https://github.com/animo/paradym-wallet/pull/252) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❗ Opened issue [#173](https://github.com/Sphereon-Opensource/OID4VC/issues/173) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
 <!--END_SECTION:activity-->
 
 ---
