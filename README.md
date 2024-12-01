@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. ❗ Opened issue [#24](https://github.com/animo/expo-secure-environment/issues/24) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-3. ❗ Opened issue [#23](https://github.com/animo/expo-secure-environment/issues/23) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-4. ❗ Opened issue [#22](https://github.com/animo/expo-secure-environment/issues/22) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-5. 🗣 Commented on [#19](https://github.com/animo/expo-secure-environment/issues/19#issuecomment-2509139375) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+1. 🗣 Commented on [#330](https://github.com/openwallet-foundation/askar/pull/330#issuecomment-2509789387) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. ❗ Opened issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+3. ❗ Opened issue [#24](https://github.com/animo/expo-secure-environment/issues/24) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. ❗ Opened issue [#23](https://github.com/animo/expo-secure-environment/issues/23) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+5. ❗ Opened issue [#22](https://github.com/animo/expo-secure-environment/issues/22) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
 <!--END_SECTION:activity-->
 
 ---
