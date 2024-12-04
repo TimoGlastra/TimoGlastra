@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#187](https://github.com/Sphereon-Opensource/PEX/pull/187#issuecomment-2517009484) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
-2. 🗣 Commented on [#44](https://github.com/openid/federation-wallet/issues/44#issuecomment-2517000755) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-3. 🎉 Merged PR [#255](https://github.com/animo/paradym-wallet/pull/255) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#255](https://github.com/animo/paradym-wallet/pull/255) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#2123](https://github.com/openwallet-foundation/credo-ts/issues/2123#issuecomment-2514714157) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#253](https://github.com/animo/paradym-wallet/pull/253) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#187](https://github.com/Sphereon-Opensource/PEX/pull/187#issuecomment-2517009484) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+3. 🗣 Commented on [#44](https://github.com/openid/federation-wallet/issues/44#issuecomment-2517000755) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+4. 🎉 Merged PR [#255](https://github.com/animo/paradym-wallet/pull/255) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#255](https://github.com/animo/paradym-wallet/pull/255) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
