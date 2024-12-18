@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#23](https://github.com/auer-martin/dcql/issues/23) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-2. ❗ Opened issue [#22](https://github.com/auer-martin/dcql/issues/22) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-3. 🗣 Commented on [#31](https://github.com/auth0-lab/mdl/issues/31#issuecomment-2549392044) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-4. 🎉 Merged PR [#258](https://github.com/animo/paradym-wallet/pull/258) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#257](https://github.com/animo/paradym-wallet/pull/257) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549469594) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+2. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549464650) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+3. ❗ Opened issue [#24](https://github.com/auer-martin/dcql/issues/24) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+4. ❗ Opened issue [#23](https://github.com/auer-martin/dcql/issues/23) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+5. ❗ Opened issue [#22](https://github.com/auer-martin/dcql/issues/22) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
 <!--END_SECTION:activity-->
 
 ---
