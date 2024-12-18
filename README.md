@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549469594) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-2. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549464650) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-3. ❗ Opened issue [#24](https://github.com/auer-martin/dcql/issues/24) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-4. ❗ Opened issue [#23](https://github.com/auer-martin/dcql/issues/23) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-5. ❗ Opened issue [#22](https://github.com/auer-martin/dcql/issues/22) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+1. 💪 Opened PR [#49](https://github.com/openwallet-foundation/project-proposals/pull/49) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 💪 Opened PR [#48](https://github.com/openwallet-foundation/project-proposals/pull/48) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549469594) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+4. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549464650) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+5. ❗ Opened issue [#24](https://github.com/auer-martin/dcql/issues/24) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
 <!--END_SECTION:activity-->
 
 ---
