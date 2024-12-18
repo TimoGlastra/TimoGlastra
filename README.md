@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/animo/paradym-wallet/pull/258) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#257](https://github.com/animo/paradym-wallet/pull/257) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#258](https://github.com/animo/paradym-wallet/pull/258) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#2133](https://github.com/openwallet-foundation/credo-ts/pull/2133) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#2133](https://github.com/openwallet-foundation/credo-ts/pull/2133) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#23](https://github.com/auer-martin/dcql/issues/23) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+2. ❗ Opened issue [#22](https://github.com/auer-martin/dcql/issues/22) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+3. 🗣 Commented on [#31](https://github.com/auth0-lab/mdl/issues/31#issuecomment-2549392044) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
+4. 🎉 Merged PR [#258](https://github.com/animo/paradym-wallet/pull/258) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#257](https://github.com/animo/paradym-wallet/pull/257) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
