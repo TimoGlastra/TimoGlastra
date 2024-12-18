@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#200](https://github.com/openwallet-foundation/tac/pull/200) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-2. 💪 Opened PR [#2134](https://github.com/openwallet-foundation/credo-ts/pull/2134) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#50](https://github.com/openwallet-foundation/project-proposals/pull/50) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 💪 Opened PR [#49](https://github.com/openwallet-foundation/project-proposals/pull/49) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. 💪 Opened PR [#48](https://github.com/openwallet-foundation/project-proposals/pull/48) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2551006448) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+2. 💪 Opened PR [#200](https://github.com/openwallet-foundation/tac/pull/200) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+3. 💪 Opened PR [#2134](https://github.com/openwallet-foundation/credo-ts/pull/2134) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#50](https://github.com/openwallet-foundation/project-proposals/pull/50) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+5. 💪 Opened PR [#49](https://github.com/openwallet-foundation/project-proposals/pull/49) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
