@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/openwallet-foundation/project-proposals/pull/49) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 💪 Opened PR [#48](https://github.com/openwallet-foundation/project-proposals/pull/48) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549469594) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-4. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549464650) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-5. ❗ Opened issue [#24](https://github.com/auer-martin/dcql/issues/24) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+1. 💪 Opened PR [#50](https://github.com/openwallet-foundation/project-proposals/pull/50) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 💪 Opened PR [#49](https://github.com/openwallet-foundation/project-proposals/pull/49) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 💪 Opened PR [#48](https://github.com/openwallet-foundation/project-proposals/pull/48) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549469594) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+5. 🗣 Commented on [#9](https://github.com/animo/oid4vc-ts/issues/9#issuecomment-2549464650) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
