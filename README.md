@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2552285778) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2552284755) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2552181531) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 🗣 Commented on [#200](https://github.com/openwallet-foundation/tac/pull/200#issuecomment-2552179836) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-5. 🗣 Commented on [#142](https://github.com/openid/oid4vc-haip/issues/142#issuecomment-2551260872) in [openid/oid4vc-haip](https://github.com/openid/oid4vc-haip)
+1. 🗣 Commented on [#49](https://github.com/openwallet-foundation/project-proposals/pull/49#issuecomment-2556814805) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556808385) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. ❗ Opened issue [#25](https://github.com/auer-martin/dcql/issues/25) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+4. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556805814) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+5. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2552285778) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
