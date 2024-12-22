@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/openwallet-foundation/project-proposals/pull/49#issuecomment-2556814805) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556808385) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. ❗ Opened issue [#25](https://github.com/auer-martin/dcql/issues/25) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-4. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556805814) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2552285778) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🗣 Commented on [#25](https://github.com/auer-martin/dcql/issues/25#issuecomment-2558426938) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+2. 🗣 Commented on [#49](https://github.com/openwallet-foundation/project-proposals/pull/49#issuecomment-2556814805) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556808385) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. ❗ Opened issue [#25](https://github.com/auer-martin/dcql/issues/25) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
+5. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556805814) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
