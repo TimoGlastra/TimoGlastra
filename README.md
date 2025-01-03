@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2135](https://github.com/openwallet-foundation/credo-ts/issues/2135#issuecomment-2563563867) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#260](https://github.com/animo/paradym-wallet/pull/260) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#25](https://github.com/auer-martin/dcql/issues/25#issuecomment-2558426938) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
-4. 🗣 Commented on [#49](https://github.com/openwallet-foundation/project-proposals/pull/49#issuecomment-2556814805) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2556808385) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🔒 Closed issue [#26](https://github.com/animo/animo-mediator/issues/26) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+2. 🎉 Merged PR [#27](https://github.com/animo/animo-mediator/pull/27) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. 🗣 Commented on [#2135](https://github.com/openwallet-foundation/credo-ts/issues/2135#issuecomment-2563563867) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#260](https://github.com/animo/paradym-wallet/pull/260) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#25](https://github.com/auer-martin/dcql/issues/25#issuecomment-2558426938) in [auer-martin/dcql](https://github.com/auer-martin/dcql)
 <!--END_SECTION:activity-->
 
 ---
