@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#459](https://github.com/decentralized-identity/didcomm-messaging/issues/459) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
-2. 🗣 Commented on [#2141](https://github.com/openwallet-foundation/credo-ts/issues/2141#issuecomment-2573090080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2142](https://github.com/openwallet-foundation/credo-ts/issues/2142#issuecomment-2573070652) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#378](https://github.com/openid/OpenID4VP/issues/378) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-5. ❗ Opened issue [#2140](https://github.com/openwallet-foundation/credo-ts/issues/2140) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2142](https://github.com/openwallet-foundation/credo-ts/issues/2142#issuecomment-2575088861) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#459](https://github.com/decentralized-identity/didcomm-messaging/issues/459) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
+3. 🗣 Commented on [#2141](https://github.com/openwallet-foundation/credo-ts/issues/2141#issuecomment-2573090080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2142](https://github.com/openwallet-foundation/credo-ts/issues/2142#issuecomment-2573070652) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#378](https://github.com/openid/OpenID4VP/issues/378) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
 <!--END_SECTION:activity-->
 
 ---
