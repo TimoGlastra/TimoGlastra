@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#206](https://github.com/openwallet-foundation/tac/issues/206) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-2. ❗ Opened issue [#205](https://github.com/openwallet-foundation/tac/issues/205) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-3. ❗ Opened issue [#204](https://github.com/openwallet-foundation/tac/issues/204) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-4. 🎉 Merged PR [#28](https://github.com/animo/animo-mediator/pull/28) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-5. 🗣 Commented on [#48](https://github.com/openwallet-foundation/project-proposals/pull/48#issuecomment-2578026071) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 💪 Opened PR [#28](https://github.com/openwallet-foundation-labs/governance/pull/28) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+2. ❗ Opened issue [#206](https://github.com/openwallet-foundation/tac/issues/206) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+3. ❗ Opened issue [#205](https://github.com/openwallet-foundation/tac/issues/205) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+4. ❗ Opened issue [#204](https://github.com/openwallet-foundation/tac/issues/204) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+5. 🎉 Merged PR [#28](https://github.com/animo/animo-mediator/pull/28) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
 <!--END_SECTION:activity-->
 
 ---
