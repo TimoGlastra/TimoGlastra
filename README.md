@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/animo/openid-federation-ts/pull/10#issuecomment-2580052708) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
-2. 🎉 Merged PR [#9](https://github.com/animo/openid-federation-ts/pull/9) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
-3. 💪 Opened PR [#12](https://github.com/animo/oid4vc-ts/pull/12) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-4. 💪 Opened PR [#9](https://github.com/animo/openid-federation-ts/pull/9) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
-5. ❗ Opened issue [#208](https://github.com/openwallet-foundation/tac/issues/208) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+1. 🗣 Commented on [#208](https://github.com/openwallet-foundation/tac/issues/208#issuecomment-2580535862) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+2. 🗣 Commented on [#28](https://github.com/openwallet-foundation-labs/governance/pull/28#issuecomment-2580534420) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+3. 🎉 Merged PR [#12](https://github.com/animo/oid4vc-ts/pull/12) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
+4. 🗣 Commented on [#10](https://github.com/animo/openid-federation-ts/pull/10#issuecomment-2580052708) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
+5. 🎉 Merged PR [#9](https://github.com/animo/openid-federation-ts/pull/9) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
