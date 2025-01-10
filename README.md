@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#204](https://github.com/openwallet-foundation/tac/issues/204#issuecomment-2580586272) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-2. 🗣 Commented on [#208](https://github.com/openwallet-foundation/tac/issues/208#issuecomment-2580535862) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-3. 🗣 Commented on [#28](https://github.com/openwallet-foundation-labs/governance/pull/28#issuecomment-2580534420) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-4. 🎉 Merged PR [#12](https://github.com/animo/oid4vc-ts/pull/12) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
-5. 🗣 Commented on [#10](https://github.com/animo/openid-federation-ts/pull/10#issuecomment-2580052708) in [animo/openid-federation-ts](https://github.com/animo/openid-federation-ts)
+1. 🗣 Commented on [#204](https://github.com/openwallet-foundation/tac/issues/204#issuecomment-2580820427) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+2. 🗣 Commented on [#204](https://github.com/openwallet-foundation/tac/issues/204#issuecomment-2580586272) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+3. 🗣 Commented on [#208](https://github.com/openwallet-foundation/tac/issues/208#issuecomment-2580535862) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+4. 🗣 Commented on [#28](https://github.com/openwallet-foundation-labs/governance/pull/28#issuecomment-2580534420) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+5. 🎉 Merged PR [#12](https://github.com/animo/oid4vc-ts/pull/12) in [animo/oid4vc-ts](https://github.com/animo/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
