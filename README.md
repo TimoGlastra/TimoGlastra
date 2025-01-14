@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#279](https://github.com/openwallet-foundation/credo-ts-ext/pull/279) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
-2. ❗ Opened issue [#28](https://github.com/animo/expo-secure-environment/issues/28) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-3. 🎉 Merged PR [#30](https://github.com/openwallet-foundation-labs/dcql-ts/pull/30) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🎉 Merged PR [#15](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/15) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 💪 Opened PR [#15](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/15) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 💪 Opened PR [#16](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/16) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🎉 Merged PR [#279](https://github.com/openwallet-foundation/credo-ts-ext/pull/279) in [openwallet-foundation/credo-ts-ext](https://github.com/openwallet-foundation/credo-ts-ext)
+3. ❗ Opened issue [#28](https://github.com/animo/expo-secure-environment/issues/28) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. 🎉 Merged PR [#30](https://github.com/openwallet-foundation-labs/dcql-ts/pull/30) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🎉 Merged PR [#15](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/15) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
