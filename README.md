@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/8) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🎉 Merged PR [#264](https://github.com/animo/paradym-wallet/pull/264) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#16](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/16) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 💪 Opened PR [#31](https://github.com/openwallet-foundation-labs/dcql-ts/pull/31) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 💪 Opened PR [#16](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/16) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#29](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/29#issuecomment-2595849896) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+2. ❗ Opened issue [#37](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/37) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. ❌ Closed PR [#12](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/12) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. ❌ Closed PR [#4](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/4) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. ❌ Closed PR [#3](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/3) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
 <!--END_SECTION:activity-->
 
 ---
