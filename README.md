@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/13#issuecomment-2599598840) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599598143) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-3. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599597928) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-4. 🎉 Merged PR [#41](https://github.com/animo/mdoc/pull/41) in [animo/mdoc](https://github.com/animo/mdoc)
-5. ❌ Closed PR [#2094](https://github.com/openwallet-foundation/credo-ts/pull/2094) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#333](https://github.com/hyperledger/indy-vdr/issues/333) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#15](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/15#issuecomment-2599690211) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#13](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/13#issuecomment-2599598840) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599598143) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599597928) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
 <!--END_SECTION:activity-->
 
 ---
