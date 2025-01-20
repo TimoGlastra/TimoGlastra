@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2148](https://github.com/openwallet-foundation/credo-ts/pull/2148) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#16](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/16) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#15](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/15#issuecomment-2602331171) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. ❌ Closed PR [#14](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/14) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❌ Closed PR [#10](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/10) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❗ Opened issue [#32](https://github.com/openwallet-foundation-labs/dcql-ts/issues/32) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 🎉 Merged PR [#2148](https://github.com/openwallet-foundation/credo-ts/pull/2148) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#16](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/16) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#15](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/15#issuecomment-2602331171) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. ❌ Closed PR [#14](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/14) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
