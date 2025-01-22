@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#265](https://github.com/animo/paradym-wallet/pull/265) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. ❗ Opened issue [#32](https://github.com/openwallet-foundation-labs/dcql-ts/issues/32) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🎉 Merged PR [#2148](https://github.com/openwallet-foundation/credo-ts/pull/2148) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#16](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/16) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#15](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/15#issuecomment-2602331171) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606675223) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+2. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606670355) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. 🎉 Merged PR [#265](https://github.com/animo/paradym-wallet/pull/265) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❗ Opened issue [#32](https://github.com/openwallet-foundation-labs/dcql-ts/issues/32) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🎉 Merged PR [#2148](https://github.com/openwallet-foundation/credo-ts/pull/2148) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
