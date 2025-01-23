@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2150](https://github.com/openwallet-foundation/credo-ts/pull/2150#issuecomment-2606726885) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606675223) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-3. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606670355) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-4. 🎉 Merged PR [#265](https://github.com/animo/paradym-wallet/pull/265) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. ❗ Opened issue [#32](https://github.com/openwallet-foundation-labs/dcql-ts/issues/32) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 💪 Opened PR [#2151](https://github.com/openwallet-foundation/credo-ts/pull/2151) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2150](https://github.com/openwallet-foundation/credo-ts/pull/2150#issuecomment-2606726885) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606675223) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2606670355) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. 🎉 Merged PR [#265](https://github.com/animo/paradym-wallet/pull/265) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
