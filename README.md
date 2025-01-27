@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2615019814) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2156](https://github.com/openwallet-foundation/credo-ts/pull/2156) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2615013012) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔓 Reopened issue [#334](https://github.com/hyperledger/indy-vdr/issues/334) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🗣 Commented on [#334](https://github.com/hyperledger/indy-vdr/issues/334#issuecomment-2612283892) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2615117953) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#400](https://github.com/cheqd/sdk/issues/400) in [cheqd/sdk](https://github.com/cheqd/sdk)
+3. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2615019814) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2156](https://github.com/openwallet-foundation/credo-ts/pull/2156) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2615013012) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
