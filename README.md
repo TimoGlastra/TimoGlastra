@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#334](https://github.com/hyperledger/indy-vdr/issues/334#issuecomment-2620543014) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#2145](https://github.com/openwallet-foundation/credo-ts/issues/2145#issuecomment-2620537036) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2162](https://github.com/openwallet-foundation/credo-ts/pull/2162#issuecomment-2620529145) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2159](https://github.com/openwallet-foundation/credo-ts/issues/2159#issuecomment-2618850452) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#268](https://github.com/animo/paradym-wallet/pull/268) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#28](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/28) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#334](https://github.com/hyperledger/indy-vdr/issues/334#issuecomment-2620543014) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. 🗣 Commented on [#2145](https://github.com/openwallet-foundation/credo-ts/issues/2145#issuecomment-2620537036) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2162](https://github.com/openwallet-foundation/credo-ts/pull/2162#issuecomment-2620529145) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2159](https://github.com/openwallet-foundation/credo-ts/issues/2159#issuecomment-2618850452) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
