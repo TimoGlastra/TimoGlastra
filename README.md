@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2162](https://github.com/openwallet-foundation/credo-ts/pull/2162) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#402](https://github.com/openid/OpenID4VP/issues/402) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-3. 💪 Opened PR [#2164](https://github.com/openwallet-foundation/credo-ts/pull/2164) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#49](https://github.com/animo/mdoc/pull/49) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 🎉 Merged PR [#50](https://github.com/animo/mdoc/pull/50) in [animo/mdoc](https://github.com/animo/mdoc)
+1. 🎉 Merged PR [#10](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/10) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+2. 🎉 Merged PR [#14](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/14) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 💪 Opened PR [#33](https://github.com/openwallet-foundation-labs/dcql-ts/pull/33) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 💪 Opened PR [#14](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/14) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+5. 🎉 Merged PR [#11](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/11) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
