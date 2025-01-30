@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/10) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-2. 🎉 Merged PR [#14](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/14) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-3. 💪 Opened PR [#33](https://github.com/openwallet-foundation-labs/dcql-ts/pull/33) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 💪 Opened PR [#14](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/14) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-5. 🎉 Merged PR [#11](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/11) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 💪 Opened PR [#51](https://github.com/animo/mdoc/pull/51) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🎉 Merged PR [#15](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/15) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 💪 Opened PR [#18](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/18) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 💪 Opened PR [#15](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/15) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+5. 🚀 Published release [v0.2.0](https://github.com/openwallet-foundation-labs/openid-federation-ts/releases/tag/v0.2.0) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
