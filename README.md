@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/animo/mdoc/issues/47#issuecomment-2623406834) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🔒 Closed issue [#44](https://github.com/animo/mdoc/issues/44) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🎉 Merged PR [#48](https://github.com/animo/mdoc/pull/48) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 💪 Opened PR [#31](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/31) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2623396029) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#50](https://github.com/animo/mdoc/pull/50) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 💪 Opened PR [#50](https://github.com/animo/mdoc/pull/50) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 🗣 Commented on [#47](https://github.com/animo/mdoc/issues/47#issuecomment-2623406834) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🔒 Closed issue [#44](https://github.com/animo/mdoc/issues/44) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#48](https://github.com/animo/mdoc/pull/48) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
