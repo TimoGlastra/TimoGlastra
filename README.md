@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#51](https://github.com/animo/mdoc/pull/51) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🎉 Merged PR [#15](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/15) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-3. 💪 Opened PR [#18](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/18) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 💪 Opened PR [#15](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/15) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-5. 🚀 Published release [v0.2.0](https://github.com/openwallet-foundation-labs/openid-federation-ts/releases/tag/v0.2.0) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 💪 Opened PR [#53](https://github.com/animo/mdoc/pull/53) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2624105727) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#8](https://github.com/cheqd/credo-ts/pull/8) in [cheqd/credo-ts](https://github.com/cheqd/credo-ts)
+4. 🎉 Merged PR [#51](https://github.com/animo/mdoc/pull/51) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#18](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/18) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
