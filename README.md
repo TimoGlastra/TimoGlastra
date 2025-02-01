@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2628748267) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🗣 Commented on [#43](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/43#issuecomment-2628746809) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-3. 🗣 Commented on [#39](https://github.com/auth0-lab/mdl/issues/39#issuecomment-2624499238) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-4. 🗣 Commented on [#52](https://github.com/animo/mdoc/pull/52#issuecomment-2624176415) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 💪 Opened PR [#53](https://github.com/animo/mdoc/pull/53) in [animo/mdoc](https://github.com/animo/mdoc)
+1. 🗣 Commented on [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19#issuecomment-2628950620) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2628748267) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. 🗣 Commented on [#43](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/43#issuecomment-2628746809) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 🗣 Commented on [#39](https://github.com/auth0-lab/mdl/issues/39#issuecomment-2624499238) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
+5. 🗣 Commented on [#52](https://github.com/animo/mdoc/pull/52#issuecomment-2624176415) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
