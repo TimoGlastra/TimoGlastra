@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/animo/mdoc/pull/52) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🎉 Merged PR [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19#issuecomment-2628950620) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2628748267) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-5. 🗣 Commented on [#43](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/43#issuecomment-2628746809) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+1. 🎉 Merged PR [#54](https://github.com/animo/mdoc/pull/54) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🎉 Merged PR [#52](https://github.com/animo/mdoc/pull/52) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 🎉 Merged PR [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🗣 Commented on [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19#issuecomment-2628950620) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#42](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/42#issuecomment-2628748267) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
 <!--END_SECTION:activity-->
 
 ---
