@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2632797134) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2174](https://github.com/openwallet-foundation/credo-ts/pull/2174) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#54](https://github.com/animo/mdoc/pull/54) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🎉 Merged PR [#52](https://github.com/animo/mdoc/pull/52) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 🎉 Merged PR [#19](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/19) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#53](https://github.com/animo/mdoc/pull/53#issuecomment-2632894149) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 💪 Opened PR [#32](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/32) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#2139](https://github.com/openwallet-foundation/credo-ts/pull/2139#issuecomment-2632797134) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2174](https://github.com/openwallet-foundation/credo-ts/pull/2174) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#54](https://github.com/animo/mdoc/pull/54) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
