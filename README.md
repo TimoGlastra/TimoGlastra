@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/33) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🎉 Merged PR [#32](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/32) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#2175](https://github.com/openwallet-foundation/credo-ts/pull/2175#issuecomment-2633652122) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2177](https://github.com/openwallet-foundation/credo-ts/issues/2177#issuecomment-2633646123) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2174](https://github.com/openwallet-foundation/credo-ts/pull/2174) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#33](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/33) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#413](https://github.com/openid/OpenID4VCI/issues/413#issuecomment-2635489158) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 💪 Opened PR [#33](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/33) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🎉 Merged PR [#32](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/32) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#2175](https://github.com/openwallet-foundation/credo-ts/pull/2175#issuecomment-2633652122) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
