@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2140](https://github.com/openwallet-foundation/credo-ts/issues/2140#issuecomment-2647593552) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#31](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/31) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❗ Opened issue [#30](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/30) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🎉 Merged PR [#34](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/34) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❗ Opened issue [#2185](https://github.com/openwallet-foundation/credo-ts/issues/2185) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#187](https://github.com/Sphereon-Opensource/PEX/pull/187#issuecomment-2649810983) in [Sphereon-Opensource/PEX](https://github.com/Sphereon-Opensource/PEX)
+2. ❌ Closed PR [#166](https://github.com/Sphereon-Opensource/OID4VC/pull/166) in [Sphereon-Opensource/OID4VC](https://github.com/Sphereon-Opensource/OID4VC)
+3. 🗣 Commented on [#2140](https://github.com/openwallet-foundation/credo-ts/issues/2140#issuecomment-2647593552) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#31](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/31) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. ❗ Opened issue [#30](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/30) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
