@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#35](https://github.com/openwallet-foundation-labs/dcql-ts/pull/35) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 💪 Opened PR [#37](https://github.com/openwallet-foundation-labs/dcql-ts/pull/37) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#60](https://github.com/animo/mdoc/issues/60#issuecomment-2656317760) in [animo/mdoc](https://github.com/animo/mdoc)
-4. ❗ Opened issue [#1](https://github.com/berendsliedrecht/ec-compression/issues/1) in [berendsliedrecht/ec-compression](https://github.com/berendsliedrecht/ec-compression)
-5. 🗣 Commented on [#59](https://github.com/animo/mdoc/pull/59#issuecomment-2654219912) in [animo/mdoc](https://github.com/animo/mdoc)
+1. 🎉 Merged PR [#2191](https://github.com/openwallet-foundation/credo-ts/pull/2191) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#2190](https://github.com/openwallet-foundation/credo-ts/pull/2190) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#34](https://github.com/openwallet-foundation-labs/dcql-ts/issues/34#issuecomment-2656609448) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🔒 Closed issue [#34](https://github.com/openwallet-foundation-labs/dcql-ts/issues/34) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 💪 Opened PR [#38](https://github.com/openwallet-foundation-labs/dcql-ts/pull/38) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
