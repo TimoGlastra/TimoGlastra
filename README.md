@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/leecam/CMWallet/issues/3) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
-2. 🎉 Merged PR [#2](https://github.com/animo/expo-digital-credentials-api/pull/2) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-3. 💪 Opened PR [#2](https://github.com/animo/expo-digital-credentials-api/pull/2) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-4. 🎉 Merged PR [#1](https://github.com/animo/expo-digital-credentials-api/pull/1) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-5. 💪 Opened PR [#1](https://github.com/animo/expo-digital-credentials-api/pull/1) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+1. ❗ Opened issue [#35](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/35) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#34](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/34) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#33](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/33) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❗ Opened issue [#3](https://github.com/leecam/CMWallet/issues/3) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
+5. 🎉 Merged PR [#2](https://github.com/animo/expo-digital-credentials-api/pull/2) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
 <!--END_SECTION:activity-->
 
 ---
