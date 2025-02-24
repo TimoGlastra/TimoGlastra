@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 💪 Opened PR [#298](https://github.com/animo/paradym-wallet/pull/298) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🔒 Closed issue [#2140](https://github.com/openwallet-foundation/credo-ts/issues/2140) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2204](https://github.com/openwallet-foundation/credo-ts/pull/2204) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#42](https://github.com/openwallet-foundation-labs/dcql-ts/issues/42) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 💪 Opened PR [#299](https://github.com/animo/paradym-wallet/pull/299) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 💪 Opened PR [#298](https://github.com/animo/paradym-wallet/pull/298) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🔒 Closed issue [#2140](https://github.com/openwallet-foundation/credo-ts/issues/2140) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#2204](https://github.com/openwallet-foundation/credo-ts/pull/2204) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
