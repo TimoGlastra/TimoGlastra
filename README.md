@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/43) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. ❗ Opened issue [#42](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/42) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🔒 Closed issue [#38](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/38) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🔒 Closed issue [#32](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/32) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#40](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/40) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. ❗ Opened issue [#42](https://github.com/auth0-lab/mdl/issues/42) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
+2. 💪 Opened PR [#43](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/43) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#42](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/42) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🔒 Closed issue [#38](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/38) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🔒 Closed issue [#32](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/32) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
