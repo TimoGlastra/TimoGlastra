@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/animo/openid4vc-playground-funke/pull/39#issuecomment-2682328255) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-2. ❗ Opened issue [#42](https://github.com/auth0-lab/mdl/issues/42) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-3. 💪 Opened PR [#43](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/43) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. ❗ Opened issue [#42](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/42) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🔒 Closed issue [#38](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/38) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#39](https://github.com/animo/openid4vc-playground-funke/pull/39) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 🎉 Merged PR [#40](https://github.com/animo/openid4vc-playground-funke/pull/40) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. 🎉 Merged PR [#68](https://github.com/animo/mdoc/pull/68) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🗣 Commented on [#39](https://github.com/animo/openid4vc-playground-funke/pull/39#issuecomment-2682328255) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. ❗ Opened issue [#42](https://github.com/auth0-lab/mdl/issues/42) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
 <!--END_SECTION:activity-->
 
 ---
