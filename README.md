@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2196](https://github.com/openwallet-foundation/credo-ts/issues/2196#issuecomment-2692675691) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2198](https://github.com/openwallet-foundation/credo-ts/issues/2198#issuecomment-2692674661) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🗣 Commented on [#2206](https://github.com/openwallet-foundation/credo-ts/issues/2206#issuecomment-2692657894) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#45](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/45#issuecomment-2692656259) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#45](https://github.com/animo/mdoc/issues/45#issuecomment-2692710030) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🗣 Commented on [#2196](https://github.com/openwallet-foundation/credo-ts/issues/2196#issuecomment-2692675691) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#2198](https://github.com/openwallet-foundation/credo-ts/issues/2198#issuecomment-2692674661) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#2206](https://github.com/openwallet-foundation/credo-ts/issues/2206#issuecomment-2692657894) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
