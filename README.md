@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#393](https://github.com/openid/OpenID4VP/pull/393#issuecomment-2696764588) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-2. 🗣 Commented on [#62](https://github.com/animo/mdoc/pull/62#issuecomment-2695137003) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🎉 Merged PR [#62](https://github.com/animo/mdoc/pull/62) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 💪 Opened PR [#50](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/50) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. ❗ Opened issue [#49](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/49) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🔒 Closed issue [#33](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/33) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🎉 Merged PR [#50](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/50) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#393](https://github.com/openid/OpenID4VP/pull/393#issuecomment-2696764588) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+4. 🗣 Commented on [#62](https://github.com/animo/mdoc/pull/62#issuecomment-2695137003) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#62](https://github.com/animo/mdoc/pull/62) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
