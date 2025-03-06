@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2221](https://github.com/openwallet-foundation/credo-ts/issues/2221) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#52](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/52) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#2220](https://github.com/openwallet-foundation/credo-ts/issues/2220#issuecomment-2703117088) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#2219](https://github.com/openwallet-foundation/credo-ts/issues/2219) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#2218](https://github.com/openwallet-foundation/credo-ts/pull/2218) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#36](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/36) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. ❗ Opened issue [#447](https://github.com/openid/OpenID4VP/issues/447) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+3. ❗ Opened issue [#2221](https://github.com/openwallet-foundation/credo-ts/issues/2221) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#52](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/52) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#2220](https://github.com/openwallet-foundation/credo-ts/issues/2220#issuecomment-2703117088) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
