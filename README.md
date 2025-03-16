@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/57) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 💪 Opened PR [#56](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/56) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❗ Opened issue [#101](https://github.com/oauth-wg/draft-ietf-oauth-attestation-based-client-auth/issues/101) in [oauth-wg/draft-ietf-oauth-attestation-based-client-auth](https://github.com/oauth-wg/draft-ietf-oauth-attestation-based-client-auth)
-4. 🔒 Closed issue [#42](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/42) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#55](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/55) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. ❗ Opened issue [#58](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/58) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#57](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/57) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 💪 Opened PR [#56](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/56) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❗ Opened issue [#101](https://github.com/oauth-wg/draft-ietf-oauth-attestation-based-client-auth/issues/101) in [oauth-wg/draft-ietf-oauth-attestation-based-client-auth](https://github.com/oauth-wg/draft-ietf-oauth-attestation-based-client-auth)
+5. 🔒 Closed issue [#42](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/42) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
