@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#63](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/63) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. ❗ Opened issue [#62](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/62) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❗ Opened issue [#61](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/61) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. ❗ Opened issue [#60](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/60) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#57](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/57#issuecomment-2729604244) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. ❗ Opened issue [#64](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/64) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#63](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/63) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#62](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/62) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❗ Opened issue [#61](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/61) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. ❗ Opened issue [#60](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/60) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
