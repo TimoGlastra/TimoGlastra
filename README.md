@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732620364) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732601814) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732584712) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732579682) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732576730) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#221](https://github.com/openwallet-foundation/askar/issues/221#issuecomment-2733807783) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 🗣 Commented on [#221](https://github.com/openwallet-foundation/askar/issues/221#issuecomment-2733769749) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732620364) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732601814) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#318](https://github.com/animo/paradym-wallet/pull/318#issuecomment-2732584712) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
