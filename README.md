@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#319](https://github.com/animo/paradym-wallet/pull/319) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#2](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/2) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-3. 🗣 Commented on [#40](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/40#issuecomment-2734075879) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 💪 Opened PR [#40](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/40) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🎉 Merged PR [#65](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/65) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. ❗ Opened issue [#462](https://github.com/openid/OpenID4VP/issues/462) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. 💪 Opened PR [#319](https://github.com/animo/paradym-wallet/pull/319) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#2](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/2) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+4. 🗣 Commented on [#40](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/40#issuecomment-2734075879) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#40](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/40) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
