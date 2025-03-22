@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#292](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/292) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
-2. 💪 Opened PR [#2233](https://github.com/openwallet-foundation/credo-ts/pull/2233) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#74](https://github.com/animo/mdoc/pull/74) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🎉 Merged PR [#75](https://github.com/animo/mdoc/pull/75) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 💪 Opened PR [#75](https://github.com/animo/mdoc/pull/75) in [animo/mdoc](https://github.com/animo/mdoc)
+1. ❗ Opened issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
+2. ❗ Opened issue [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+3. ❗ Opened issue [#292](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/292) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+4. 💪 Opened PR [#2233](https://github.com/openwallet-foundation/credo-ts/pull/2233) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#74](https://github.com/animo/mdoc/pull/74) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
