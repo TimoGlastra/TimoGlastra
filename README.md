@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2743846561) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-2. 🔒 Closed issue [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-3. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2743274950) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-4. 💪 Opened PR [#6](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/6) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-5. 🗣 Commented on [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35#issuecomment-2743167047) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#2229](https://github.com/openwallet-foundation/credo-ts/pull/2229#issuecomment-2743975145) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#2215](https://github.com/openwallet-foundation/credo-ts/pull/2215) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#2232](https://github.com/openwallet-foundation/credo-ts/issues/2232) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#72](https://github.com/animo/mdoc/pull/72) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🗣 Commented on [#42](https://github.com/auth0-lab/mdl/issues/42#issuecomment-2743931716) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
 <!--END_SECTION:activity-->
 
 ---
