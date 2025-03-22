@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2743274950) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
-2. 💪 Opened PR [#6](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/6) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-3. 🗣 Commented on [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35#issuecomment-2743167047) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🔒 Closed issue [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#37](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/37#issuecomment-2743166779) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2743846561) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
+2. 🔒 Closed issue [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
+3. 🗣 Commented on [#2](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform/issues/2#issuecomment-2743274950) in [Sphereon-Opensource/mdoc-cbor-crypto-multiplatform](https://github.com/Sphereon-Opensource/mdoc-cbor-crypto-multiplatform)
+4. 💪 Opened PR [#6](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/6) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+5. 🗣 Commented on [#35](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/35#issuecomment-2743167047) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
