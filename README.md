@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#30](https://github.com/animo/expo-secure-environment/issues/30) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. 🗣 Commented on [#2229](https://github.com/openwallet-foundation/credo-ts/pull/2229#issuecomment-2743975145) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2215](https://github.com/openwallet-foundation/credo-ts/pull/2215) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#2232](https://github.com/openwallet-foundation/credo-ts/issues/2232) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#72](https://github.com/animo/mdoc/pull/72) in [animo/mdoc](https://github.com/animo/mdoc)
+1. 🎉 Merged PR [#74](https://github.com/animo/mdoc/pull/74) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🎉 Merged PR [#75](https://github.com/animo/mdoc/pull/75) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 💪 Opened PR [#75](https://github.com/animo/mdoc/pull/75) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🎉 Merged PR [#73](https://github.com/animo/mdoc/pull/73) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 💪 Opened PR [#73](https://github.com/animo/mdoc/pull/73) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
