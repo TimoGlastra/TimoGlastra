@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/animo/openid4vc-playground-funke/pull/42) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-2. 🔒 Closed issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-3. 💪 Opened PR [#39](https://github.com/Sphereon-Opensource/pex-openapi/pull/39) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-4. ❗ Opened issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
-5. ❗ Opened issue [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+1. ❗ Opened issue [#5](https://github.com/animo/PEX/issues/5) in [animo/PEX](https://github.com/animo/PEX)
+2. 💪 Opened PR [#42](https://github.com/animo/openid4vc-playground-funke/pull/42) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. 🔒 Closed issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+4. 💪 Opened PR [#39](https://github.com/Sphereon-Opensource/pex-openapi/pull/39) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+5. ❗ Opened issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
 <!--END_SECTION:activity-->
 
 ---
