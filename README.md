@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/292#issuecomment-2747501220) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
-2. ❗ Opened issue [#5](https://github.com/animo/PEX/issues/5) in [animo/PEX](https://github.com/animo/PEX)
-3. 💪 Opened PR [#42](https://github.com/animo/openid4vc-playground-funke/pull/42) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-4. 🔒 Closed issue [#37](https://github.com/Sphereon-Opensource/pex-openapi/issues/37) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
-5. 💪 Opened PR [#39](https://github.com/Sphereon-Opensource/pex-openapi/pull/39) in [Sphereon-Opensource/pex-openapi](https://github.com/Sphereon-Opensource/pex-openapi)
+1. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2747788927) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+2. 🗣 Commented on [#45](https://github.com/openwallet-foundation-labs/dcql-ts/issues/45#issuecomment-2747775724) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 💪 Opened PR [#46](https://github.com/openwallet-foundation-labs/dcql-ts/pull/46) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🗣 Commented on [#292](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/292#issuecomment-2747501220) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+5. ❗ Opened issue [#5](https://github.com/animo/PEX/issues/5) in [animo/PEX](https://github.com/animo/PEX)
 <!--END_SECTION:activity-->
 
 ---
