@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/animo/paradym-wallet/pull/298) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#42](https://github.com/animo/openid4vc-playground-funke/pull/42) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. 💪 Opened PR [#2235](https://github.com/openwallet-foundation/credo-ts/pull/2235) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#67](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/67) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 💪 Opened PR [#67](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/67) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🔒 Closed issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
+2. 🗣 Commented on [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98#issuecomment-2749314785) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
+3. 🗣 Commented on [#320](https://github.com/animo/paradym-wallet/pull/320#issuecomment-2749308910) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#320](https://github.com/animo/paradym-wallet/pull/320) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#2236](https://github.com/openwallet-foundation/credo-ts/pull/2236) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
