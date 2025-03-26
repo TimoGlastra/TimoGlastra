@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
-2. 🗣 Commented on [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98#issuecomment-2749314785) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
-3. 🗣 Commented on [#320](https://github.com/animo/paradym-wallet/pull/320#issuecomment-2749308910) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#320](https://github.com/animo/paradym-wallet/pull/320) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#2236](https://github.com/openwallet-foundation/credo-ts/pull/2236) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2239](https://github.com/openwallet-foundation/credo-ts/pull/2239#issuecomment-2750912316) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
+3. 🗣 Commented on [#98](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py/issues/98#issuecomment-2749314785) in [eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py](https://github.com/eu-digital-identity-wallet/eudi-srv-web-issuing-eudiw-py)
+4. 🗣 Commented on [#320](https://github.com/animo/paradym-wallet/pull/320#issuecomment-2749308910) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#320](https://github.com/animo/paradym-wallet/pull/320) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
