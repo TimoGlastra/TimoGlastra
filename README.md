@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/animo/expo-digital-credentials-api/issues/3) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-2. 🗣 Commented on [#3](https://github.com/animo/expo-digital-credentials-api/issues/3#issuecomment-2776854189) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-3. 🎉 Merged PR [#2246](https://github.com/openwallet-foundation/credo-ts/pull/2246) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2236](https://github.com/openwallet-foundation/credo-ts/pull/2236) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2241](https://github.com/openwallet-foundation/credo-ts/pull/2241) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#323](https://github.com/animo/paradym-wallet/pull/323) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🔒 Closed issue [#3](https://github.com/animo/expo-digital-credentials-api/issues/3) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+3. 🗣 Commented on [#3](https://github.com/animo/expo-digital-credentials-api/issues/3#issuecomment-2776854189) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+4. 🎉 Merged PR [#2246](https://github.com/openwallet-foundation/credo-ts/pull/2246) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#2236](https://github.com/openwallet-foundation/credo-ts/pull/2236) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
