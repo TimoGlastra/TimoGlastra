@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#323](https://github.com/animo/paradym-wallet/pull/323) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/68) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 💪 Opened PR [#68](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/68) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🗣 Commented on [#2247](https://github.com/openwallet-foundation/credo-ts/pull/2247#issuecomment-2777609879) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#323](https://github.com/animo/paradym-wallet/pull/323) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#500](https://github.com/openid/OpenID4VP/pull/500) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. 🎉 Merged PR [#323](https://github.com/animo/paradym-wallet/pull/323) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/68) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 💪 Opened PR [#68](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/68) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#2247](https://github.com/openwallet-foundation/credo-ts/pull/2247#issuecomment-2777609879) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
