@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2784138587) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
-2. 💪 Opened PR [#326](https://github.com/animo/paradym-wallet/pull/326) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#511](https://github.com/openid/OpenID4VP/issues/511#issuecomment-2784092959) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-4. 🎉 Merged PR [#324](https://github.com/animo/paradym-wallet/pull/324) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#325](https://github.com/animo/paradym-wallet/pull/325) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#22](https://github.com/animo/expo-secure-environment/issues/22#issuecomment-2784567613) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+2. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2784138587) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+3. 💪 Opened PR [#326](https://github.com/animo/paradym-wallet/pull/326) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#511](https://github.com/openid/OpenID4VP/issues/511#issuecomment-2784092959) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+5. 🎉 Merged PR [#324](https://github.com/animo/paradym-wallet/pull/324) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
