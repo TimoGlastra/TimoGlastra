@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/animo/PEX/pull/7) in [animo/PEX](https://github.com/animo/PEX)
-2. 🗣 Commented on [#2251](https://github.com/openwallet-foundation/credo-ts/issues/2251#issuecomment-2789138309) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2252](https://github.com/openwallet-foundation/credo-ts/pull/2252) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2251](https://github.com/openwallet-foundation/credo-ts/issues/2251#issuecomment-2788781293) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#325](https://github.com/animo/paradym-wallet/pull/325) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#1](https://github.com/animo/PEX/pull/1#issuecomment-2789581011) in [animo/PEX](https://github.com/animo/PEX)
+2. 🗣 Commented on [#2](https://github.com/animo/PEX/pull/2#issuecomment-2789580658) in [animo/PEX](https://github.com/animo/PEX)
+3. 🗣 Commented on [#3](https://github.com/animo/PEX/pull/3#issuecomment-2789580358) in [animo/PEX](https://github.com/animo/PEX)
+4. 🗣 Commented on [#4](https://github.com/animo/PEX/pull/4#issuecomment-2789580069) in [animo/PEX](https://github.com/animo/PEX)
+5. 🔒 Closed issue [#5](https://github.com/animo/PEX/issues/5) in [animo/PEX](https://github.com/animo/PEX)
 <!--END_SECTION:activity-->
 
 ---
