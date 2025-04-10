@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. 🗣 Commented on [#25](https://github.com/animo/expo-secure-environment/issues/25#issuecomment-2789784698) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-3. ❗ Opened issue [#519](https://github.com/openid/OpenID4VP/issues/519) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-4. 🎉 Merged PR [#4](https://github.com/animo/PEX/pull/4) in [animo/PEX](https://github.com/animo/PEX)
-5. 💪 Opened PR [#2253](https://github.com/openwallet-foundation/credo-ts/pull/2253) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#76](https://github.com/animo/mdoc/issues/76) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 💪 Opened PR [#9](https://github.com/animo/PEX/pull/9) in [animo/PEX](https://github.com/animo/PEX)
+3. 🔒 Closed issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. 🗣 Commented on [#25](https://github.com/animo/expo-secure-environment/issues/25#issuecomment-2789784698) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+5. ❗ Opened issue [#519](https://github.com/openid/OpenID4VP/issues/519) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
 <!--END_SECTION:activity-->
 
 ---
