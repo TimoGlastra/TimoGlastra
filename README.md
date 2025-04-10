@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#76](https://github.com/animo/mdoc/issues/76) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 💪 Opened PR [#9](https://github.com/animo/PEX/pull/9) in [animo/PEX](https://github.com/animo/PEX)
-3. 🔒 Closed issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-4. 🗣 Commented on [#25](https://github.com/animo/expo-secure-environment/issues/25#issuecomment-2789784698) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-5. ❗ Opened issue [#519](https://github.com/openid/OpenID4VP/issues/519) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+1. 🎉 Merged PR [#10](https://github.com/animo/PEX/pull/10) in [animo/PEX](https://github.com/animo/PEX)
+2. ❗ Opened issue [#76](https://github.com/animo/mdoc/issues/76) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 💪 Opened PR [#9](https://github.com/animo/PEX/pull/9) in [animo/PEX](https://github.com/animo/PEX)
+4. 🔒 Closed issue [#25](https://github.com/animo/expo-secure-environment/issues/25) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+5. 🗣 Commented on [#25](https://github.com/animo/expo-secure-environment/issues/25#issuecomment-2789784698) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
 <!--END_SECTION:activity-->
 
 ---
