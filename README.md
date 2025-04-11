@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#326](https://github.com/animo/paradym-wallet/pull/326) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#2248](https://github.com/openwallet-foundation/credo-ts/pull/2248) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2253](https://github.com/openwallet-foundation/credo-ts/pull/2253) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#485](https://github.com/openid/OpenID4VP/pull/485#issuecomment-2795336069) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-5. 🎉 Merged PR [#10](https://github.com/animo/PEX/pull/10) in [animo/PEX](https://github.com/animo/PEX)
+1. 🎉 Merged PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#32](https://github.com/animo/expo-secure-environment/pull/32) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+4. 💪 Opened PR [#32](https://github.com/animo/expo-secure-environment/pull/32) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+5. 🎉 Merged PR [#326](https://github.com/animo/paradym-wallet/pull/326) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
