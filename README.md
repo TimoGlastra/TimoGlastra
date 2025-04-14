@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#500](https://github.com/openid/OpenID4VP/pull/500#issuecomment-2799948717) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-2. 🗣 Commented on [#519](https://github.com/openid/OpenID4VP/issues/519#issuecomment-2799948065) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-3. 🎉 Merged PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#32](https://github.com/animo/expo-secure-environment/pull/32) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+1. 🎉 Merged PR [#44](https://github.com/animo/openid4vc-playground-funke/pull/44) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 🗣 Commented on [#500](https://github.com/openid/OpenID4VP/pull/500#issuecomment-2799948717) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+3. 🗣 Commented on [#519](https://github.com/openid/OpenID4VP/issues/519#issuecomment-2799948065) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+4. 🎉 Merged PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#330](https://github.com/animo/paradym-wallet/pull/330) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
