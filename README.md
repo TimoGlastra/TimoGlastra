@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#335](https://github.com/animo/paradym-wallet/pull/335) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. ❗ Opened issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. ❗ Opened issue [#42](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/42) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. ❗ Opened issue [#41](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/41) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 💪 Opened PR [#333](https://github.com/animo/paradym-wallet/pull/333) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. ❗ Opened issue [#44](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/44) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🎉 Merged PR [#335](https://github.com/animo/paradym-wallet/pull/335) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. ❗ Opened issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❗ Opened issue [#42](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/42) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. ❗ Opened issue [#41](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/41) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
