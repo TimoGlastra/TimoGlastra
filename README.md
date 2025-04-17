@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. ❗ Opened issue [#42](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/42) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. ❗ Opened issue [#41](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/41) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 💪 Opened PR [#333](https://github.com/animo/paradym-wallet/pull/333) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#500](https://github.com/openid/OpenID4VP/pull/500#issuecomment-2805289572) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+1. 🎉 Merged PR [#335](https://github.com/animo/paradym-wallet/pull/335) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. ❗ Opened issue [#42](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/42) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❗ Opened issue [#41](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/41) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#333](https://github.com/animo/paradym-wallet/pull/333) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
