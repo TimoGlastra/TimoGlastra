@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2257](https://github.com/openwallet-foundation/credo-ts/issues/2257) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#402](https://github.com/openid/OpenID4VP/issues/402#issuecomment-2813282583) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-3. 🔓 Reopened issue [#402](https://github.com/openid/OpenID4VP/issues/402) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-4. ❗ Opened issue [#44](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/44) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🎉 Merged PR [#335](https://github.com/animo/paradym-wallet/pull/335) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#77](https://github.com/animo/mdoc/issues/77#issuecomment-2815255201) in [animo/mdoc](https://github.com/animo/mdoc)
+2. ❗ Opened issue [#2257](https://github.com/openwallet-foundation/credo-ts/issues/2257) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#402](https://github.com/openid/OpenID4VP/issues/402#issuecomment-2813282583) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+4. 🔓 Reopened issue [#402](https://github.com/openid/OpenID4VP/issues/402) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+5. ❗ Opened issue [#44](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/44) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
