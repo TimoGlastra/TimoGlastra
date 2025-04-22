@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#46](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/46) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. ❗ Opened issue [#45](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/45) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🔒 Closed issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43#issuecomment-2816660007) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❗ Opened issue [#2259](https://github.com/openwallet-foundation/credo-ts/issues/2259) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#3](https://github.com/leecam/CMWallet/issues/3#issuecomment-2821008663) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
+2. ❗ Opened issue [#46](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/46) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. ❗ Opened issue [#45](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/45) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🔒 Closed issue [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#43](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/43#issuecomment-2816660007) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
