@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#338](https://github.com/animo/paradym-wallet/pull/338#issuecomment-2821965219) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#338](https://github.com/animo/paradym-wallet/pull/338) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#77](https://github.com/animo/mdoc/issues/77#issuecomment-2821323625) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🗣 Commented on [#3](https://github.com/leecam/CMWallet/issues/3#issuecomment-2821008663) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
-5. ❗ Opened issue [#46](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/46) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❗ Opened issue [#31](https://github.com/FIDEScommunity/DIIP/issues/31) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. ❗ Opened issue [#30](https://github.com/FIDEScommunity/DIIP/issues/30) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. ❗ Opened issue [#29](https://github.com/FIDEScommunity/DIIP/issues/29) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. ❗ Opened issue [#28](https://github.com/FIDEScommunity/DIIP/issues/28) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 🗣 Commented on [#338](https://github.com/animo/paradym-wallet/pull/338#issuecomment-2821965219) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
