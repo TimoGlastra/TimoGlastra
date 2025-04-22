@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#338](https://github.com/animo/paradym-wallet/pull/338) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#77](https://github.com/animo/mdoc/issues/77#issuecomment-2821323625) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🗣 Commented on [#3](https://github.com/leecam/CMWallet/issues/3#issuecomment-2821008663) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
-4. ❗ Opened issue [#46](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/46) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❗ Opened issue [#45](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/45) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#338](https://github.com/animo/paradym-wallet/pull/338#issuecomment-2821965219) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#338](https://github.com/animo/paradym-wallet/pull/338) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#77](https://github.com/animo/mdoc/issues/77#issuecomment-2821323625) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🗣 Commented on [#3](https://github.com/leecam/CMWallet/issues/3#issuecomment-2821008663) in [leecam/CMWallet](https://github.com/leecam/CMWallet)
+5. ❗ Opened issue [#46](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/46) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
