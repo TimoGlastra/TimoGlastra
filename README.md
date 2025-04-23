@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/FIDEScommunity/DIIP/issues/31) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. ❗ Opened issue [#30](https://github.com/FIDEScommunity/DIIP/issues/30) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-3. ❗ Opened issue [#29](https://github.com/FIDEScommunity/DIIP/issues/29) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. ❗ Opened issue [#28](https://github.com/FIDEScommunity/DIIP/issues/28) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-5. 🗣 Commented on [#338](https://github.com/animo/paradym-wallet/pull/338#issuecomment-2821965219) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#31](https://github.com/FIDEScommunity/DIIP/issues/31#issuecomment-2822319559) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. ❗ Opened issue [#31](https://github.com/FIDEScommunity/DIIP/issues/31) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. ❗ Opened issue [#30](https://github.com/FIDEScommunity/DIIP/issues/30) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. ❗ Opened issue [#29](https://github.com/FIDEScommunity/DIIP/issues/29) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. ❗ Opened issue [#28](https://github.com/FIDEScommunity/DIIP/issues/28) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
 <!--END_SECTION:activity-->
 
 ---
