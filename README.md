@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2261](https://github.com/openwallet-foundation/credo-ts/pull/2261) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#436](https://github.com/cheqd/sdk/issues/436) in [cheqd/sdk](https://github.com/cheqd/sdk)
-3. ❗ Opened issue [#2260](https://github.com/openwallet-foundation/credo-ts/issues/2260) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#77](https://github.com/animo/mdoc/issues/77#issuecomment-2823603114) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 🗣 Commented on [#338](https://github.com/animo/paradym-wallet/pull/338#issuecomment-2823574090) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2829881730) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+2. 🎉 Merged PR [#2264](https://github.com/openwallet-foundation/credo-ts/pull/2264) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2261](https://github.com/openwallet-foundation/credo-ts/pull/2261) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#436](https://github.com/cheqd/sdk/issues/436) in [cheqd/sdk](https://github.com/cheqd/sdk)
+5. ❗ Opened issue [#2260](https://github.com/openwallet-foundation/credo-ts/issues/2260) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
