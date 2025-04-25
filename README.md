@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/FIDEScommunity/DIIP/issues/29#issuecomment-2829891212) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2829881730) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
-3. 🎉 Merged PR [#2264](https://github.com/openwallet-foundation/credo-ts/pull/2264) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2261](https://github.com/openwallet-foundation/credo-ts/pull/2261) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#436](https://github.com/cheqd/sdk/issues/436) in [cheqd/sdk](https://github.com/cheqd/sdk)
+1. 🗣 Commented on [#34](https://github.com/FIDEScommunity/DIIP/issues/34#issuecomment-2829927974) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. 🗣 Commented on [#31](https://github.com/FIDEScommunity/DIIP/issues/31#issuecomment-2829924921) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#29](https://github.com/FIDEScommunity/DIIP/issues/29#issuecomment-2829891212) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2829881730) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+5. 🎉 Merged PR [#2264](https://github.com/openwallet-foundation/credo-ts/pull/2264) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
