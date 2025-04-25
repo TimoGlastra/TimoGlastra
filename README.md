@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/FIDEScommunity/DIIP/issues/29#issuecomment-2830234834) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2830225274) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
-3. 🗣 Commented on [#34](https://github.com/FIDEScommunity/DIIP/issues/34#issuecomment-2829927974) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. 🗣 Commented on [#31](https://github.com/FIDEScommunity/DIIP/issues/31#issuecomment-2829924921) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-5. 🗣 Commented on [#29](https://github.com/FIDEScommunity/DIIP/issues/29#issuecomment-2829891212) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+1. 💪 Opened PR [#2266](https://github.com/openwallet-foundation/credo-ts/pull/2266) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#29](https://github.com/FIDEScommunity/DIIP/issues/29#issuecomment-2830234834) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#293](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt/issues/293#issuecomment-2830225274) in [eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt](https://github.com/eu-digital-identity-wallet/eudi-srv-web-verifier-endpoint-23220-4-kt)
+4. 🗣 Commented on [#34](https://github.com/FIDEScommunity/DIIP/issues/34#issuecomment-2829927974) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 🗣 Commented on [#31](https://github.com/FIDEScommunity/DIIP/issues/31#issuecomment-2829924921) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
 <!--END_SECTION:activity-->
 
 ---
