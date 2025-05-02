@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#69](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/69) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🗣 Commented on [#2271](https://github.com/openwallet-foundation/credo-ts/issues/2271#issuecomment-2846835483) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2270](https://github.com/openwallet-foundation/credo-ts/pull/2270) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2270](https://github.com/openwallet-foundation/credo-ts/pull/2270#issuecomment-2846830941) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#585](https://github.com/openid/OpenID4VP/issues/585#issuecomment-2846584135) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+1. 🎉 Merged PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 💪 Opened PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+3. ❌ Closed PR [#26](https://github.com/animo/openid4vc-playground/pull/26) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. 💪 Opened PR [#26](https://github.com/animo/openid4vc-playground/pull/26) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. ❗ Opened issue [#69](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/69) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
