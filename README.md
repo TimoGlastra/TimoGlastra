@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-2. 💪 Opened PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. ❌ Closed PR [#26](https://github.com/animo/openid4vc-playground/pull/26) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 💪 Opened PR [#26](https://github.com/animo/openid4vc-playground/pull/26) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. ❗ Opened issue [#69](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/69) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#340](https://github.com/animo/paradym-wallet/pull/340) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#339](https://github.com/animo/paradym-wallet/pull/339) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#340](https://github.com/animo/paradym-wallet/pull/340) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 💪 Opened PR [#45](https://github.com/animo/openid4vc-playground-funke/pull/45) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
 <!--END_SECTION:activity-->
 
 ---
