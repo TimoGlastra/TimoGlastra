@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#80](https://github.com/animo/mdoc/issues/80) in [animo/mdoc](https://github.com/animo/mdoc)
-2. ❗ Opened issue [#56](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/56) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-3. 💪 Opened PR [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-4. 🎉 Merged PR [#2288](https://github.com/openwallet-foundation/credo-ts/pull/2288) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#222](https://github.com/w3c-fedid/digital-credentials/issues/222#issuecomment-2886905596) in [w3c-fedid/digital-credentials](https://github.com/w3c-fedid/digital-credentials)
+1. 🗣 Commented on [#188](https://github.com/openid/oid4vc-haip/issues/188#issuecomment-2903389416) in [openid/oid4vc-haip](https://github.com/openid/oid4vc-haip)
+2. ❗ Opened issue [#80](https://github.com/animo/mdoc/issues/80) in [animo/mdoc](https://github.com/animo/mdoc)
+3. ❗ Opened issue [#56](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/56) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 💪 Opened PR [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. 🎉 Merged PR [#2288](https://github.com/openwallet-foundation/credo-ts/pull/2288) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
