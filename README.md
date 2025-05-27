@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2301](https://github.com/openwallet-foundation/credo-ts/issues/2301) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2911284543) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#2298](https://github.com/openwallet-foundation/credo-ts/issues/2298#issuecomment-2910325494) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2297](https://github.com/openwallet-foundation/credo-ts/issues/2297#issuecomment-2903775643) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2293](https://github.com/openwallet-foundation/credo-ts/pull/2293) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2250](https://github.com/openwallet-foundation/credo-ts/pull/2250#issuecomment-2911725798) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#2296](https://github.com/openwallet-foundation/credo-ts/pull/2296) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#2301](https://github.com/openwallet-foundation/credo-ts/issues/2301) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2911284543) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#2298](https://github.com/openwallet-foundation/credo-ts/issues/2298#issuecomment-2910325494) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
