@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#528](https://github.com/openid/OpenID4VCI/issues/528#issuecomment-2916008335) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. 🗣 Commented on [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290#issuecomment-2915947651) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915929090) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915604243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 🎉 Merged PR [#48](https://github.com/animo/openid4vc-playground-funke/pull/48) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 🗣 Commented on [#528](https://github.com/openid/OpenID4VCI/issues/528#issuecomment-2916008335) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 🗣 Commented on [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290#issuecomment-2915947651) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915929090) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
