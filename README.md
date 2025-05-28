@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#71](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/71) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🔒 Closed issue [#48](https://github.com/openwallet-foundation-labs/dcql-ts/issues/48) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🎉 Merged PR [#56](https://github.com/openwallet-foundation-labs/dcql-ts/pull/56) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🗣 Commented on [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58#issuecomment-2913143796) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🗣 Commented on [#2303](https://github.com/openwallet-foundation/credo-ts/pull/2303#issuecomment-2912321166) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915604243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 🗣 Commented on [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58#issuecomment-2915600494) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🔒 Closed issue [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🎉 Merged PR [#71](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/71) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🔒 Closed issue [#48](https://github.com/openwallet-foundation-labs/dcql-ts/issues/48) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
