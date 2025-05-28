@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915929090) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915604243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58#issuecomment-2915600494) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🔒 Closed issue [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🎉 Merged PR [#71](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/71) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290#issuecomment-2915947651) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915929090) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🗣 Commented on [#44](https://github.com/openwallet-foundation-labs/dcql-ts/issues/44#issuecomment-2915604243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#58](https://github.com/openwallet-foundation-labs/dcql-ts/issues/58#issuecomment-2915600494) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
