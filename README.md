@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#69](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/69) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. ❗ Opened issue [#72](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/72) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🎉 Merged PR [#48](https://github.com/animo/openid4vc-playground-funke/pull/48) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-4. 🗣 Commented on [#528](https://github.com/openid/OpenID4VCI/issues/528#issuecomment-2916008335) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🗣 Commented on [#2290](https://github.com/openwallet-foundation/credo-ts/pull/2290#issuecomment-2915947651) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#2306](https://github.com/openwallet-foundation/credo-ts/pull/2306) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#69](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/69) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#72](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/72) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🎉 Merged PR [#48](https://github.com/animo/openid4vc-playground-funke/pull/48) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 🗣 Commented on [#528](https://github.com/openid/OpenID4VCI/issues/528#issuecomment-2916008335) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
