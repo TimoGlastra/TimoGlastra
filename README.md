@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#291](https://github.com/openwallet-foundation/sd-jwt-js/issues/291#issuecomment-2994135766) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-2. 💪 Opened PR [#349](https://github.com/animo/paradym-wallet/pull/349) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. ❗ Opened issue [#291](https://github.com/openwallet-foundation/sd-jwt-js/issues/291) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🗣 Commented on [#348](https://github.com/animo/paradym-wallet/pull/348#issuecomment-2987680529) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#348](https://github.com/animo/paradym-wallet/pull/348#issuecomment-2984345076) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#292](https://github.com/openwallet-foundation/sd-jwt-js/pull/292#issuecomment-2995033501) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 🗣 Commented on [#291](https://github.com/openwallet-foundation/sd-jwt-js/issues/291#issuecomment-2994135766) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+3. 💪 Opened PR [#349](https://github.com/animo/paradym-wallet/pull/349) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❗ Opened issue [#291](https://github.com/openwallet-foundation/sd-jwt-js/issues/291) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+5. 🗣 Commented on [#348](https://github.com/animo/paradym-wallet/pull/348#issuecomment-2987680529) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
