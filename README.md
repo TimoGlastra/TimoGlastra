@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2289](https://github.com/openwallet-foundation/credo-ts/pull/2289#issuecomment-2996625172) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#292](https://github.com/openwallet-foundation/sd-jwt-js/pull/292#issuecomment-2995883507) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-3. 🎉 Merged PR [#349](https://github.com/animo/paradym-wallet/pull/349) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#292](https://github.com/openwallet-foundation/sd-jwt-js/pull/292#issuecomment-2995033501) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-5. 🗣 Commented on [#291](https://github.com/openwallet-foundation/sd-jwt-js/issues/291#issuecomment-2994135766) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. 🎉 Merged PR [#2317](https://github.com/openwallet-foundation/credo-ts/pull/2317) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#60](https://github.com/openwallet-foundation-labs/dcql-ts/pull/60) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🚀 Published release [v0.3.0](https://github.com/openwallet-foundation-labs/dcql-ts/releases/tag/v0.3.0) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🎉 Merged PR [#57](https://github.com/openwallet-foundation-labs/dcql-ts/pull/57) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#2289](https://github.com/openwallet-foundation/credo-ts/pull/2289#issuecomment-2996625172) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
