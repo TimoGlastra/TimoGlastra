@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3738](https://github.com/openwallet-foundation/acapy/issues/3738#issuecomment-3005440719) in [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy)
-2. ❌ Closed PR [#2289](https://github.com/openwallet-foundation/credo-ts/pull/2289) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#2324](https://github.com/openwallet-foundation/credo-ts/pull/2324) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2317](https://github.com/openwallet-foundation/credo-ts/pull/2317) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#60](https://github.com/openwallet-foundation-labs/dcql-ts/pull/60) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. ❗ Opened issue [#35](https://github.com/alexmarqs/zod-config/issues/35) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+2. ❗ Opened issue [#34](https://github.com/alexmarqs/zod-config/issues/34) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+3. 🗣 Commented on [#3738](https://github.com/openwallet-foundation/acapy/issues/3738#issuecomment-3005440719) in [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy)
+4. ❌ Closed PR [#2289](https://github.com/openwallet-foundation/credo-ts/pull/2289) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#2324](https://github.com/openwallet-foundation/credo-ts/pull/2324) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
