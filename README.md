@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/alexmarqs/zod-config/pull/36#issuecomment-3015218578) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-2. 💪 Opened PR [#36](https://github.com/alexmarqs/zod-config/pull/36) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-3. ❗ Opened issue [#35](https://github.com/alexmarqs/zod-config/issues/35) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-4. ❗ Opened issue [#34](https://github.com/alexmarqs/zod-config/issues/34) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-5. 🗣 Commented on [#3738](https://github.com/openwallet-foundation/acapy/issues/3738#issuecomment-3005440719) in [openwallet-foundation/acapy](https://github.com/openwallet-foundation/acapy)
+1. ❗ Opened issue [#391](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/issues/391) in [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui)
+2. 🗣 Commented on [#36](https://github.com/alexmarqs/zod-config/pull/36#issuecomment-3015218578) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+3. 💪 Opened PR [#36](https://github.com/alexmarqs/zod-config/pull/36) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+4. ❗ Opened issue [#35](https://github.com/alexmarqs/zod-config/issues/35) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+5. ❗ Opened issue [#34](https://github.com/alexmarqs/zod-config/issues/34) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
 <!--END_SECTION:activity-->
 
 ---
