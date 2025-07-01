@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/alexmarqs/zod-config/issues/2#issuecomment-3022029805) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-2. 💪 Opened PR [#37](https://github.com/alexmarqs/zod-config/pull/37) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-3. ❗ Opened issue [#391](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui/issues/391) in [eu-digital-identity-wallet/eudi-app-android-wallet-ui](https://github.com/eu-digital-identity-wallet/eudi-app-android-wallet-ui)
-4. 🗣 Commented on [#36](https://github.com/alexmarqs/zod-config/pull/36#issuecomment-3015218578) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
-5. 💪 Opened PR [#36](https://github.com/alexmarqs/zod-config/pull/36) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+1. ❗ Opened issue [#351](https://github.com/animo/paradym-wallet/issues/351) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#9](https://github.com/hyperledger/anoncreds-wrapper-javascript/issues/9) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+3. ❗ Opened issue [#49](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/49) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#2](https://github.com/alexmarqs/zod-config/issues/2#issuecomment-3022029805) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
+5. 💪 Opened PR [#37](https://github.com/alexmarqs/zod-config/pull/37) in [alexmarqs/zod-config](https://github.com/alexmarqs/zod-config)
 <!--END_SECTION:activity-->
 
 ---
