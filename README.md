@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023723033) in [animo/animo-demo](https://github.com/animo/animo-demo)
-2. ❗ Opened issue [#174](https://github.com/animo/animo-demo/issues/174) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. ❗ Opened issue [#351](https://github.com/animo/paradym-wallet/issues/351) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#9](https://github.com/hyperledger/anoncreds-wrapper-javascript/issues/9) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-5. ❗ Opened issue [#49](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/49) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
+2. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023723033) in [animo/animo-demo](https://github.com/animo/animo-demo)
+3. ❗ Opened issue [#174](https://github.com/animo/animo-demo/issues/174) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. ❗ Opened issue [#351](https://github.com/animo/paradym-wallet/issues/351) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❗ Opened issue [#9](https://github.com/hyperledger/anoncreds-wrapper-javascript/issues/9) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
