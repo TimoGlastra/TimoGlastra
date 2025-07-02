@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
-3. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023723033) in [animo/animo-demo](https://github.com/animo/animo-demo)
-4. ❗ Opened issue [#174](https://github.com/animo/animo-demo/issues/174) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. ❗ Opened issue [#351](https://github.com/animo/paradym-wallet/issues/351) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+3. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
+4. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023723033) in [animo/animo-demo](https://github.com/animo/animo-demo)
+5. ❗ Opened issue [#174](https://github.com/animo/animo-demo/issues/174) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
