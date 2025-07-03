@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#76](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/76) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. ❗ Opened issue [#3531](https://github.com/tamagui/tamagui/issues/3531) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-3. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 🗣 Commented on [#2328](https://github.com/openwallet-foundation/credo-ts/pull/2328#issuecomment-3032766520) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#76](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/76) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#3531](https://github.com/tamagui/tamagui/issues/3531) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+4. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
 <!--END_SECTION:activity-->
 
 ---
