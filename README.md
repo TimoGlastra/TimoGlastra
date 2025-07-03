@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3531](https://github.com/tamagui/tamagui/issues/3531) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-4. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023723033) in [animo/animo-demo](https://github.com/animo/animo-demo)
+1. 💪 Opened PR [#76](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/76) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#3531](https://github.com/tamagui/tamagui/issues/3531) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+3. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❗ Opened issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+5. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3023866439) in [animo/animo-demo](https://github.com/animo/animo-demo)
 <!--END_SECTION:activity-->
 
 ---
