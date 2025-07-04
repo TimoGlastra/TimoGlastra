@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/openwallet-foundation/askar/pull/399#issuecomment-3035305812) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🗣 Commented on [#2328](https://github.com/openwallet-foundation/credo-ts/pull/2328#issuecomment-3032766520) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#76](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/76) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. ❗ Opened issue [#3531](https://github.com/tamagui/tamagui/issues/3531) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. 💪 Opened PR [#352](https://github.com/animo/paradym-wallet/pull/352) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#77](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/77) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 💪 Opened PR [#77](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/77) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#399](https://github.com/openwallet-foundation/askar/pull/399#issuecomment-3035305812) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+4. 🗣 Commented on [#2328](https://github.com/openwallet-foundation/credo-ts/pull/2328#issuecomment-3032766520) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#76](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/76) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
