@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#65](https://github.com/openwallet-foundation-labs/dcql-ts/issues/65) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🗣 Commented on [#64](https://github.com/openwallet-foundation-labs/dcql-ts/pull/64#issuecomment-3061342401) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#64](https://github.com/openwallet-foundation-labs/dcql-ts/pull/64#issuecomment-3061340827) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🗣 Commented on [#2332](https://github.com/openwallet-foundation/credo-ts/issues/2332#issuecomment-3061123336) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#81](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/81) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#81](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/81) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#65](https://github.com/openwallet-foundation-labs/dcql-ts/issues/65) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🗣 Commented on [#64](https://github.com/openwallet-foundation-labs/dcql-ts/pull/64#issuecomment-3061342401) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🗣 Commented on [#64](https://github.com/openwallet-foundation-labs/dcql-ts/pull/64#issuecomment-3061340827) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#2332](https://github.com/openwallet-foundation/credo-ts/issues/2332#issuecomment-3061123336) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
