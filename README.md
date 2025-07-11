@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/81) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 💪 Opened PR [#354](https://github.com/animo/paradym-wallet/pull/354) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#80](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/80) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🔒 Closed issue [#72](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/72) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#79](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/79) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#2332](https://github.com/openwallet-foundation/credo-ts/issues/2332#issuecomment-3061123336) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#81](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/81) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 💪 Opened PR [#354](https://github.com/animo/paradym-wallet/pull/354) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#80](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/80) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🔒 Closed issue [#72](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/72) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
