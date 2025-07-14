@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068479267) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-2. 💪 Opened PR [#357](https://github.com/animo/paradym-wallet/pull/357) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. ❗ Opened issue [#238](https://github.com/openwallet-foundation/tac/issues/238) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-4. 💪 Opened PR [#82](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/82) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#81](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/81) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#82](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/82) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068520022) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+3. 🔒 Closed issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+4. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068479267) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+5. 💪 Opened PR [#357](https://github.com/animo/paradym-wallet/pull/357) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
