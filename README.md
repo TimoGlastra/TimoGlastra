@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/82) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068520022) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-3. 🔒 Closed issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-4. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068479267) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
-5. 💪 Opened PR [#357](https://github.com/animo/paradym-wallet/pull/357) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#83](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/83#issuecomment-3070264794) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🎉 Merged PR [#82](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/82) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068520022) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+4. 🔒 Closed issue [#3529](https://github.com/tamagui/tamagui/issues/3529) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
+5. 🗣 Commented on [#3529](https://github.com/tamagui/tamagui/issues/3529#issuecomment-3068479267) in [tamagui/tamagui](https://github.com/tamagui/tamagui)
 <!--END_SECTION:activity-->
 
 ---
