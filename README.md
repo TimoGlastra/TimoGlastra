@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🗣 Commented on [#88](https://github.com/openid/oid4vc-haip/issues/88#issuecomment-3088969266) in [openid/oid4vc-haip](https://github.com/openid/oid4vc-haip)
-3. 🗣 Commented on [#2319](https://github.com/openwallet-foundation/credo-ts/pull/2319#issuecomment-3088963467) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/84#issuecomment-3077804057) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/84#issuecomment-3077803462) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 💪 Opened PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🗣 Commented on [#88](https://github.com/openid/oid4vc-haip/issues/88#issuecomment-3088969266) in [openid/oid4vc-haip](https://github.com/openid/oid4vc-haip)
+4. 🗣 Commented on [#2319](https://github.com/openwallet-foundation/credo-ts/pull/2319#issuecomment-3088963467) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/84#issuecomment-3077804057) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
