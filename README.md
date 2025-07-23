@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2318](https://github.com/openwallet-foundation/credo-ts/issues/2318) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#2319](https://github.com/openwallet-foundation/credo-ts/pull/2319) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#327](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/327) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
-4. 🎉 Merged PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 💪 Opened PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 🗣 Commented on [#111](https://github.com/openid/oid4vc-haip/issues/111#issuecomment-3109084792) in [openid/oid4vc-haip](https://github.com/openid/oid4vc-haip)
+2. 🔒 Closed issue [#2318](https://github.com/openwallet-foundation/credo-ts/issues/2318) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2319](https://github.com/openwallet-foundation/credo-ts/pull/2319) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#327](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/327) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
+5. 🎉 Merged PR [#67](https://github.com/openwallet-foundation-labs/dcql-ts/pull/67) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
