@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/openwallet-foundation-labs/dcql-ts/pull/70) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation-labs/dcql-ts/releases/tag/v0.5.0) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/dcql-ts/pull/68) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🔒 Closed issue [#65](https://github.com/openwallet-foundation-labs/dcql-ts/issues/65) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🎉 Merged PR [#69](https://github.com/openwallet-foundation-labs/dcql-ts/pull/69) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 🎉 Merged PR [#71](https://github.com/openwallet-foundation-labs/dcql-ts/pull/71) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 🎉 Merged PR [#70](https://github.com/openwallet-foundation-labs/dcql-ts/pull/70) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation-labs/dcql-ts/releases/tag/v0.5.0) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/dcql-ts/pull/68) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🔒 Closed issue [#65](https://github.com/openwallet-foundation-labs/dcql-ts/issues/65) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
