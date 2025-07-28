@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2331](https://github.com/openwallet-foundation/credo-ts/pull/2331) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#49](https://github.com/animo/openid4vc-playground-funke/pull/49) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-3. 💪 Opened PR [#2337](https://github.com/openwallet-foundation/credo-ts/pull/2337) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#359](https://github.com/animo/paradym-wallet/pull/359) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#2284](https://github.com/openwallet-foundation/credo-ts/pull/2284) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#73](https://github.com/openwallet-foundation-labs/dcql-ts/issues/73) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 🎉 Merged PR [#72](https://github.com/openwallet-foundation-labs/dcql-ts/pull/72) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🎉 Merged PR [#2331](https://github.com/openwallet-foundation/credo-ts/pull/2331) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#49](https://github.com/animo/openid4vc-playground-funke/pull/49) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 💪 Opened PR [#2337](https://github.com/openwallet-foundation/credo-ts/pull/2337) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
