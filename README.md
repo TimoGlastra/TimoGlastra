@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2295](https://github.com/openwallet-foundation/credo-ts/pull/2295#issuecomment-3188462323) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2362](https://github.com/openwallet-foundation/credo-ts/pull/2362#issuecomment-3186320182) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2354](https://github.com/openwallet-foundation/credo-ts/pull/2354#issuecomment-3185576817) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2354](https://github.com/openwallet-foundation/credo-ts/pull/2354#issuecomment-3185565784) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#400](https://github.com/software-mansion/react-native-executorch/issues/400#issuecomment-3184655364) in [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch)
+1. ❗ Opened issue [#408](https://github.com/openwallet-foundation/askar/issues/408) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. ❗ Opened issue [#361](https://github.com/hyperledger/anoncreds-rs/issues/361) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🗣 Commented on [#2322](https://github.com/openwallet-foundation/credo-ts/pull/2322#issuecomment-3188493170) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2295](https://github.com/openwallet-foundation/credo-ts/pull/2295#issuecomment-3188462323) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2362](https://github.com/openwallet-foundation/credo-ts/pull/2362#issuecomment-3186320182) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
