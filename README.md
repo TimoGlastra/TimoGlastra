@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#87](https://github.com/animo/mdoc/issues/87) in [animo/mdoc](https://github.com/animo/mdoc)
-2. ❗ Opened issue [#86](https://github.com/animo/mdoc/issues/86) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🔒 Closed issue [#84](https://github.com/animo/mdoc/issues/84) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🎉 Merged PR [#85](https://github.com/animo/mdoc/pull/85) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 🎉 Merged PR [#369](https://github.com/animo/paradym-wallet/pull/369) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#88](https://github.com/animo/mdoc/pull/88) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 💪 Opened PR [#88](https://github.com/animo/mdoc/pull/88) in [animo/mdoc](https://github.com/animo/mdoc)
+3. ❗ Opened issue [#87](https://github.com/animo/mdoc/issues/87) in [animo/mdoc](https://github.com/animo/mdoc)
+4. ❗ Opened issue [#86](https://github.com/animo/mdoc/issues/86) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🔒 Closed issue [#84](https://github.com/animo/mdoc/issues/84) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
