@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/animo/mdoc/issues/84#issuecomment-3190986710) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 💪 Opened PR [#85](https://github.com/animo/mdoc/pull/85) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🎉 Merged PR [#2365](https://github.com/openwallet-foundation/credo-ts/pull/2365) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2366](https://github.com/openwallet-foundation/credo-ts/pull/2366) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2363](https://github.com/openwallet-foundation/credo-ts/pull/2363#issuecomment-3189637239) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#87](https://github.com/animo/mdoc/issues/87) in [animo/mdoc](https://github.com/animo/mdoc)
+2. ❗ Opened issue [#86](https://github.com/animo/mdoc/issues/86) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 🔒 Closed issue [#84](https://github.com/animo/mdoc/issues/84) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🎉 Merged PR [#85](https://github.com/animo/mdoc/pull/85) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#369](https://github.com/animo/paradym-wallet/pull/369) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
