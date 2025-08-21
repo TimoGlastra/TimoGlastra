@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209708123) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209696192) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209694016) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. 🗣 Commented on [#63](https://github.com/FIDEScommunity/DIIP/issues/63#issuecomment-3209684721) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-5. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209674922) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+1. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209815301) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209708123) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209696192) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209694016) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 🗣 Commented on [#63](https://github.com/FIDEScommunity/DIIP/issues/63#issuecomment-3209684721) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
 <!--END_SECTION:activity-->
 
 ---
