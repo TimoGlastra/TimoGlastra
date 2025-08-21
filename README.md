@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209616109) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209578666) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209573875) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. ❗ Opened issue [#67](https://github.com/FIDEScommunity/DIIP/issues/67) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-5. 🗣 Commented on [#634](https://github.com/openid/OpenID4VCI/issues/634#issuecomment-3194227883) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209708123) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209696192) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209694016) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. 🗣 Commented on [#63](https://github.com/FIDEScommunity/DIIP/issues/63#issuecomment-3209684721) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3209674922) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
 <!--END_SECTION:activity-->
 
 ---
