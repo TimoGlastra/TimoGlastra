@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209986008) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209981138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209977750) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209815301) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#49](https://github.com/animo/openid4vc-playground-funke/pull/49#issuecomment-3210183509) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 🎉 Merged PR [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209986008) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209981138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2376](https://github.com/openwallet-foundation/credo-ts/pull/2376#issuecomment-3209977750) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
