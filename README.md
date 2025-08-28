@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233183224) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🎉 Merged PR [#362](https://github.com/hyperledger/anoncreds-rs/pull/362) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-3. 🎉 Merged PR [#93](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/93) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🎉 Merged PR [#377](https://github.com/animo/paradym-wallet/pull/377) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#378](https://github.com/animo/paradym-wallet/pull/378) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233405644) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233396898) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233183224) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. 🎉 Merged PR [#362](https://github.com/hyperledger/anoncreds-rs/pull/362) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🎉 Merged PR [#93](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/93) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
