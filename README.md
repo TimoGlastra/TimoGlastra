@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233405644) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233396898) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233183224) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. 🎉 Merged PR [#362](https://github.com/hyperledger/anoncreds-rs/pull/362) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#93](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/93) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233527879) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233517715) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233510466) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+4. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233504536) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233496800) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
 <!--END_SECTION:activity-->
 
 ---
