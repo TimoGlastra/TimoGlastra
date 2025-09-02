@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2351](https://github.com/openwallet-foundation/credo-ts/pull/2351) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#2390](https://github.com/openwallet-foundation/credo-ts/pull/2390) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2388](https://github.com/openwallet-foundation/credo-ts/pull/2388) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#175](https://github.com/animo/animo-demo/pull/175#issuecomment-3233551301) in [animo/animo-demo](https://github.com/animo/animo-demo)
-5. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3233527879) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+1. 🗣 Commented on [#2351](https://github.com/openwallet-foundation/credo-ts/pull/2351#issuecomment-3244929951) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🚀 Published release [v0.5.17](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.5.17) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2351](https://github.com/openwallet-foundation/credo-ts/pull/2351) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#2390](https://github.com/openwallet-foundation/credo-ts/pull/2390) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#2388](https://github.com/openwallet-foundation/credo-ts/pull/2388) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
