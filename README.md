@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2406](https://github.com/openwallet-foundation/credo-ts/pull/2406) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2361](https://github.com/openwallet-foundation/credo-ts/pull/2361#issuecomment-3279943594) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2402](https://github.com/openwallet-foundation/credo-ts/issues/2402#issuecomment-3258713084) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2403](https://github.com/openwallet-foundation/credo-ts/issues/2403#issuecomment-3258676087) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#2404](https://github.com/openwallet-foundation/credo-ts/issues/2404) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#55](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/55#issuecomment-3281068293) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 💪 Opened PR [#56](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/56) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 💪 Opened PR [#10](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/10) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+4. 🚀 Published release [v0.2.1](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.1) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+5. 🗣 Commented on [#361](https://github.com/hyperledger/anoncreds-rs/issues/361#issuecomment-3280987133) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
