@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.1](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.1) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-2. 🗣 Commented on [#55](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/55#issuecomment-3281068293) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 💪 Opened PR [#56](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/56) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 💪 Opened PR [#10](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/10) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-5. 🚀 Published release [v0.2.1](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.1) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+1. ❗ Opened issue [#365](https://github.com/hyperledger/anoncreds-rs/issues/365) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+2. 🔒 Closed issue [#176](https://github.com/hyperledger/anoncreds-rs/issues/176) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+3. 🚀 Published release [v0.2.1](https://github.com/hyperledger/anoncreds-rs/releases/tag/v0.2.1) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
+4. 🗣 Commented on [#55](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/55#issuecomment-3281068293) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#56](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/56) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
