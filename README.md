@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3296667371) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3290858412) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3290615742) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🎉 Merged PR [#364](https://github.com/hyperledger/anoncreds-rs/pull/364) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🗣 Commented on [#2406](https://github.com/openwallet-foundation/credo-ts/pull/2406#issuecomment-3285211061) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#57](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/57) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3296667371) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3290858412) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3290615742) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🎉 Merged PR [#364](https://github.com/hyperledger/anoncreds-rs/pull/364) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
 <!--END_SECTION:activity-->
 
 ---
