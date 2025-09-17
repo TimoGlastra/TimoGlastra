@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/58) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🗣 Commented on [#55](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/55#issuecomment-3302034431) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#4](https://github.com/animo/eudi-wallet-functionality/pull/4#issuecomment-3302030704) in [animo/eudi-wallet-functionality](https://github.com/animo/eudi-wallet-functionality)
-4. 🗣 Commented on [#365](https://github.com/hyperledger/anoncreds-rs/issues/365#issuecomment-3302027511) in [hyperledger/anoncreds-rs](https://github.com/hyperledger/anoncreds-rs)
-5. 🎉 Merged PR [#57](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/57) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🚀 Published release [v0.4.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. ❗ Opened issue [#60](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/60) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🎉 Merged PR [#4](https://github.com/animo/eudi-wallet-functionality/pull/4) in [animo/eudi-wallet-functionality](https://github.com/animo/eudi-wallet-functionality)
+4. 🎉 Merged PR [#58](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/58) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#55](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/55#issuecomment-3302034431) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
