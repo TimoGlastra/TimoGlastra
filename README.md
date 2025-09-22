@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/95#issuecomment-3317284530) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🗣 Commented on [#2412](https://github.com/openwallet-foundation/credo-ts/issues/2412#issuecomment-3308277048) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#2411](https://github.com/openwallet-foundation/credo-ts/pull/2411) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#425](https://github.com/openwallet-foundation/askar/pull/425#issuecomment-3304146627) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#61](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/61#issuecomment-3303549759) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#95](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/95#issuecomment-3317401103) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#95](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/95#issuecomment-3317284530) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#2412](https://github.com/openwallet-foundation/credo-ts/issues/2412#issuecomment-3308277048) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#2411](https://github.com/openwallet-foundation/credo-ts/pull/2411) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#425](https://github.com/openwallet-foundation/askar/pull/425#issuecomment-3304146627) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
