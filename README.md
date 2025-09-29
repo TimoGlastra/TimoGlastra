@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/70) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🗣 Commented on [#68](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/68#issuecomment-3345207869) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-3. 🗣 Commented on [#400](https://github.com/software-mansion/react-native-executorch/issues/400#issuecomment-3345200466) in [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch)
-4. 🗣 Commented on [#2072](https://github.com/openwallet-foundation/credo-ts/pull/2072#issuecomment-3334141118) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2295](https://github.com/openwallet-foundation/credo-ts/pull/2295#issuecomment-3334129653) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/65) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+2. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/18#issuecomment-3345278110) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 🎉 Merged PR [#70](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/70) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 🗣 Commented on [#68](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/68#issuecomment-3345207869) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. 🗣 Commented on [#400](https://github.com/software-mansion/react-native-executorch/issues/400#issuecomment-3345200466) in [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch)
 <!--END_SECTION:activity-->
 
 ---
