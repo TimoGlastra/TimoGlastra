@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/54) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 💪 Opened PR [#2424](https://github.com/openwallet-foundation/credo-ts/pull/2424) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-4. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/65) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-5. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/18#issuecomment-3345278110) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 🗣 Commented on [#71](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/71#issuecomment-3350964208) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+2. 💪 Opened PR [#2424](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3.  Labeled issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+4. ❗ Opened issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
+5.  Assigned issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
 <!--END_SECTION:activity-->
 
 ---
