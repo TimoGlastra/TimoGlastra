@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2425](https://github.com/openwallet-foundation/credo-ts/pull/2425) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#54](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/54) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 💪 Opened PR [#2424](https://github.com/openwallet-foundation/credo-ts/pull/2424) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
-5. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/65) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+1. 🎉 Merged PR [#2425](https://github.com/openwallet-foundation/credo-ts/pull/2425) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2425](https://github.com/openwallet-foundation/credo-ts/pull/2425) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#54](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/54) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 💪 Opened PR [#2424](https://github.com/openwallet-foundation/credo-ts/pull/2424) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#242](https://github.com/openwallet-foundation/tac/issues/242) in [openwallet-foundation/tac](https://github.com/openwallet-foundation/tac)
 <!--END_SECTION:activity-->
 
 ---
