@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2433](https://github.com/openwallet-foundation/credo-ts/pull/2433) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65#issuecomment-3358115053) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 💪 Opened PR [#72](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/72) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-5. 🗣 Commented on [#2430](https://github.com/openwallet-foundation/credo-ts/pull/2430#issuecomment-3357064976) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#383](https://github.com/animo/paradym-wallet/pull/383#issuecomment-3365212176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#2433](https://github.com/openwallet-foundation/credo-ts/pull/2433) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65#issuecomment-3358115053) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#72](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/72) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
 <!--END_SECTION:activity-->
 
 ---
