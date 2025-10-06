@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162](https://github.com/openwallet-foundation-labs/eudiplo/issues/162#issuecomment-3372318632) in [openwallet-foundation-labs/eudiplo](https://github.com/openwallet-foundation-labs/eudiplo)
-2. 💪 Opened PR [#2438](https://github.com/openwallet-foundation/credo-ts/pull/2438) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#162](https://github.com/openwallet-foundation-labs/eudiplo/issues/162#issuecomment-3372255249) in [openwallet-foundation-labs/eudiplo](https://github.com/openwallet-foundation-labs/eudiplo)
-4. 🗣 Commented on [#74](https://github.com/openwallet-foundation-labs/dcql-ts/issues/74#issuecomment-3371808170) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🔒 Closed issue [#74](https://github.com/openwallet-foundation-labs/dcql-ts/issues/74) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 💪 Opened PR [#385](https://github.com/animo/paradym-wallet/pull/385) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#162](https://github.com/openwallet-foundation-labs/eudiplo/issues/162#issuecomment-3372318632) in [openwallet-foundation-labs/eudiplo](https://github.com/openwallet-foundation-labs/eudiplo)
+3. 💪 Opened PR [#2438](https://github.com/openwallet-foundation/credo-ts/pull/2438) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#162](https://github.com/openwallet-foundation-labs/eudiplo/issues/162#issuecomment-3372255249) in [openwallet-foundation-labs/eudiplo](https://github.com/openwallet-foundation-labs/eudiplo)
+5. 🗣 Commented on [#74](https://github.com/openwallet-foundation-labs/dcql-ts/issues/74#issuecomment-3371808170) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
