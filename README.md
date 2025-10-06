@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2415](https://github.com/openwallet-foundation/credo-ts/pull/2415#issuecomment-3370494706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2436](https://github.com/openwallet-foundation/credo-ts/pull/2436) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🚀 Published release [v0.3.3](https://github.com/hyperledger/anoncreds-wrapper-javascript/releases/tag/v0.3.3) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-4. 🎉 Merged PR [#16](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/16) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-5. 🗣 Commented on [#72](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/72#issuecomment-3366741643) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+1. 🗣 Commented on [#74](https://github.com/openwallet-foundation-labs/dcql-ts/issues/74#issuecomment-3371808170) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 🔒 Closed issue [#74](https://github.com/openwallet-foundation-labs/dcql-ts/issues/74) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🗣 Commented on [#2415](https://github.com/openwallet-foundation/credo-ts/pull/2415#issuecomment-3370494706) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2436](https://github.com/openwallet-foundation/credo-ts/pull/2436) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🚀 Published release [v0.3.3](https://github.com/hyperledger/anoncreds-wrapper-javascript/releases/tag/v0.3.3) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
