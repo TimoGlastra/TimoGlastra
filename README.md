@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/72#issuecomment-3366741643) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🗣 Commented on [#383](https://github.com/animo/paradym-wallet/pull/383#issuecomment-3365212176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#2433](https://github.com/openwallet-foundation/credo-ts/pull/2433) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65#issuecomment-3358115053) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🎉 Merged PR [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🎉 Merged PR [#16](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/16) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+2. 🗣 Commented on [#72](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/72#issuecomment-3366741643) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. 🗣 Commented on [#383](https://github.com/animo/paradym-wallet/pull/383#issuecomment-3365212176) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#2433](https://github.com/openwallet-foundation/credo-ts/pull/2433) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#65](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/65#issuecomment-3358115053) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
