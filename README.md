@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#525](https://github.com/rolldown/tsdown/issues/525) in [rolldown/tsdown](https://github.com/rolldown/tsdown)
-3. 🎉 Merged PR [#2439](https://github.com/openwallet-foundation/credo-ts/pull/2439) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#101](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/101) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#2360](https://github.com/openwallet-foundation/credo-ts/pull/2360#issuecomment-3372672847) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#6436](https://github.com/rolldown/rolldown/issues/6436) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+2. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#525](https://github.com/rolldown/tsdown/issues/525) in [rolldown/tsdown](https://github.com/rolldown/tsdown)
+4. 🎉 Merged PR [#2439](https://github.com/openwallet-foundation/credo-ts/pull/2439) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#101](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/101) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
