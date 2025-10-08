@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6436](https://github.com/rolldown/rolldown/issues/6436#issuecomment-3375477791) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-2. ❗ Opened issue [#6436](https://github.com/rolldown/rolldown/issues/6436) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-3. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#525](https://github.com/rolldown/tsdown/issues/525) in [rolldown/tsdown](https://github.com/rolldown/tsdown)
-5. 🎉 Merged PR [#2439](https://github.com/openwallet-foundation/credo-ts/pull/2439) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#385](https://github.com/animo/paradym-wallet/pull/385) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#6436](https://github.com/rolldown/rolldown/issues/6436#issuecomment-3375477791) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+3. ❗ Opened issue [#6436](https://github.com/rolldown/rolldown/issues/6436) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+4. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#525](https://github.com/rolldown/tsdown/issues/525) in [rolldown/tsdown](https://github.com/rolldown/tsdown)
 <!--END_SECTION:activity-->
 
 ---
