@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441#issuecomment-3387143390) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#342](https://github.com/hyperledger/indy-vdr/pull/342#issuecomment-3387117593) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. ❗ Opened issue [#3431](https://github.com/hiero-ledger/hiero-sdk-js/issues/3431) in [hiero-ledger/hiero-sdk-js](https://github.com/hiero-ledger/hiero-sdk-js)
-4. 🎉 Merged PR [#385](https://github.com/animo/paradym-wallet/pull/385) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#6436](https://github.com/rolldown/rolldown/issues/6436#issuecomment-3375477791) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+1. 🗣 Commented on [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441#issuecomment-3387222478) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Closed PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2444](https://github.com/openwallet-foundation/credo-ts/pull/2444) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441#issuecomment-3387143390) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#342](https://github.com/hyperledger/indy-vdr/pull/342#issuecomment-3387117593) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
