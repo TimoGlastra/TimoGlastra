@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#385](https://github.com/animo/paradym-wallet/pull/385) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#6436](https://github.com/rolldown/rolldown/issues/6436#issuecomment-3375477791) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-3. ❗ Opened issue [#6436](https://github.com/rolldown/rolldown/issues/6436) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-4. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#525](https://github.com/rolldown/tsdown/issues/525) in [rolldown/tsdown](https://github.com/rolldown/tsdown)
+1. ❗ Opened issue [#3431](https://github.com/hiero-ledger/hiero-sdk-js/issues/3431) in [hiero-ledger/hiero-sdk-js](https://github.com/hiero-ledger/hiero-sdk-js)
+2. 🎉 Merged PR [#385](https://github.com/animo/paradym-wallet/pull/385) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🗣 Commented on [#6436](https://github.com/rolldown/rolldown/issues/6436#issuecomment-3375477791) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+4. ❗ Opened issue [#6436](https://github.com/rolldown/rolldown/issues/6436) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+5. 💪 Opened PR [#2441](https://github.com/openwallet-foundation/credo-ts/pull/2441) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
