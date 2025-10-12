@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2449](https://github.com/openwallet-foundation/credo-ts/pull/2449) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#76](https://github.com/decentralized-identity/didwebvh-ts/issues/76) in [decentralized-identity/didwebvh-ts](https://github.com/decentralized-identity/didwebvh-ts)
-3. ❗ Opened issue [#13](https://github.com/digitalcredentials/jsonld-signatures/issues/13) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
-4. ❗ Opened issue [#102](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/102) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#2360](https://github.com/openwallet-foundation/credo-ts/pull/2360) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2449](https://github.com/openwallet-foundation/credo-ts/pull/2449#issuecomment-3393447229) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#108](https://github.com/PeculiarVentures/x509/pull/108) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
+3. 💪 Opened PR [#2449](https://github.com/openwallet-foundation/credo-ts/pull/2449) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❗ Opened issue [#76](https://github.com/decentralized-identity/didwebvh-ts/issues/76) in [decentralized-identity/didwebvh-ts](https://github.com/decentralized-identity/didwebvh-ts)
+5. ❗ Opened issue [#13](https://github.com/digitalcredentials/jsonld-signatures/issues/13) in [digitalcredentials/jsonld-signatures](https://github.com/digitalcredentials/jsonld-signatures)
 <!--END_SECTION:activity-->
 
 ---
