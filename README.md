@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/animo/mdoc/issues/86#issuecomment-3410257606) in [animo/mdoc](https://github.com/animo/mdoc)
-2. ❗ Opened issue [#6511](https://github.com/rolldown/rolldown/issues/6511) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
-3. 🗣 Commented on [#2451](https://github.com/openwallet-foundation/credo-ts/issues/2451#issuecomment-3397923310) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#51](undefined) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-5. 🔒 Closed issue [#2412](https://github.com/openwallet-foundation/credo-ts/issues/2412) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#383](https://github.com/animo/paradym-wallet/pull/383#issuecomment-3410686644) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#2458](https://github.com/openwallet-foundation/credo-ts/pull/2458#issuecomment-3410625319) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#86](https://github.com/animo/mdoc/issues/86#issuecomment-3410257606) in [animo/mdoc](https://github.com/animo/mdoc)
+4. ❗ Opened issue [#6511](https://github.com/rolldown/rolldown/issues/6511) in [rolldown/rolldown](https://github.com/rolldown/rolldown)
+5. 🗣 Commented on [#2451](https://github.com/openwallet-foundation/credo-ts/issues/2451#issuecomment-3397923310) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
