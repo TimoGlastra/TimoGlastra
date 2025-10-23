@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/animo/paradym-sdk-ts/pull/22#issuecomment-3436623233) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-2. 💪 Opened PR [#22](undefined) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-3. 💪 Opened PR [#2467](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#2466](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#110](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#421](https://github.com/openid/OpenID4VCI/issues/421#issuecomment-3438647647) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. 🗣 Commented on [#22](https://github.com/animo/paradym-sdk-ts/pull/22#issuecomment-3436623233) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+3. 💪 Opened PR [#22](undefined) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+4. 💪 Opened PR [#2467](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#2466](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
