@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🗣 Commented on [#35](https://github.com/animo/expo-mdoc-data-transfer/pull/35#issuecomment-3501967468) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
-3. 🗣 Commented on [#35](https://github.com/animo/expo-mdoc-data-transfer/pull/35#issuecomment-3501966466) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
-4. 💪 Opened PR [#81](undefined) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. ❌ Labeled PR [#31](undefined) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+1. ❌ Labeled PR [#83](undefined) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. ❌ Labeled PR [#83](undefined) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🚀 Published release [dcql@2.0.0](https://github.com/openwallet-foundation-labs/dcql-ts/releases/tag/dcql%402.0.0) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🔒 Closed issue [#73](https://github.com/openwallet-foundation-labs/dcql-ts/issues/73) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 💪 Opened PR [#91](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
