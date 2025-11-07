@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#31](undefined) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
-2. 💪 Opened PR [#123](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#98](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/98#issuecomment-3501344695) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 💪 Opened PR [#25](undefined) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
-5. 🚀 Published release [v0.4.3](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.3) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#35](https://github.com/animo/expo-mdoc-data-transfer/pull/35#issuecomment-3501967468) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+2. 🗣 Commented on [#35](https://github.com/animo/expo-mdoc-data-transfer/pull/35#issuecomment-3501966466) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+3. 💪 Opened PR [#81](undefined) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. ❌ Labeled PR [#31](undefined) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+5. 💪 Opened PR [#123](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
