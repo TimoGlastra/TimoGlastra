@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.3](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.3) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🚀 Published release [v0.4.2](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.2) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🔒 Closed issue [#2383](https://github.com/openwallet-foundation/credo-ts/issues/2383) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2383](https://github.com/openwallet-foundation/credo-ts/issues/2383#issuecomment-3497421015) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🔒 Closed issue [#51](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/51) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 💪 Opened PR [#123](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#98](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/98#issuecomment-3501344695) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 💪 Opened PR [#25](undefined) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+4. 🚀 Published release [v0.4.3](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.3) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🚀 Published release [v0.4.2](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.4.2) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
