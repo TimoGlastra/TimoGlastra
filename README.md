@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#398](https://github.com/animo/paradym-wallet/pull/398#issuecomment-3503217609) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#398](https://github.com/animo/paradym-wallet/pull/398#issuecomment-3503148553) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#398](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#397](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#392](https://github.com/animo/paradym-wallet/issues/392#issuecomment-3502729802) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#398](https://github.com/animo/paradym-wallet/pull/398#issuecomment-3503286682) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🗣 Commented on [#399](https://github.com/animo/paradym-wallet/pull/399#issuecomment-3503278148) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#399](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#363](https://github.com/animo/paradym-wallet/issues/363#issuecomment-3503255615) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🔒 Closed issue [#363](https://github.com/animo/paradym-wallet/issues/363) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
