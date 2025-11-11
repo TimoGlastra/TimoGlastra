@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#100](https://github.com/animo/mdoc/issues/100) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🗣 Commented on [#402](https://github.com/animo/paradym-wallet/issues/402#issuecomment-3512178629) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🔒 Closed issue [#402](https://github.com/animo/paradym-wallet/issues/402) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#402](https://github.com/animo/paradym-wallet/issues/402#issuecomment-3512066771) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. ❌ Closed PR [#2392](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#404](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❗ Opened issue [#403](https://github.com/animo/paradym-wallet/issues/403) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. ❗ Opened issue [#100](https://github.com/animo/mdoc/issues/100) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🗣 Commented on [#402](https://github.com/animo/paradym-wallet/issues/402#issuecomment-3512178629) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🔒 Closed issue [#402](https://github.com/animo/paradym-wallet/issues/402) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
