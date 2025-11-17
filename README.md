@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/16) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-2. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3542002090) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-3. 💪 Opened PR [#425](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3541642589) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-5. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3540966409) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 💪 Opened PR [#2526](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#16](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/16) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3542002090) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+4. 💪 Opened PR [#425](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3541642589) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
