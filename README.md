@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3541642589) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-2. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3540966409) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-3. 🗣 Commented on [#2520](https://github.com/openwallet-foundation/credo-ts/pull/2520#issuecomment-3540963298) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#20](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/20#issuecomment-3540957513) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-5. 🚀 Published release [v0.3.4](https://github.com/hyperledger/anoncreds-wrapper-javascript/releases/tag/v0.3.4) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+1. 🔒 Closed issue [#16](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/16) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+2. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3542002090) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 💪 Opened PR [#425](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3541642589) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+5. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3540966409) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
