@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](undefined) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-2. 🗣 Commented on [#17](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/17#issuecomment-3533967884) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
-3. 🗣 Commented on [#2401](https://github.com/openwallet-foundation/credo-ts/issues/2401#issuecomment-3532249794) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#2401](https://github.com/openwallet-foundation/credo-ts/issues/2401) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2407](https://github.com/openwallet-foundation/credo-ts/issues/2407#issuecomment-3532247405) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3540966409) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+2. 🗣 Commented on [#2520](https://github.com/openwallet-foundation/credo-ts/pull/2520#issuecomment-3540963298) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#20](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/20#issuecomment-3540957513) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+4. 🚀 Published release [v0.3.4](https://github.com/hyperledger/anoncreds-wrapper-javascript/releases/tag/v0.3.4) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
+5. 🗣 Commented on [#20](https://github.com/hyperledger/anoncreds-wrapper-javascript/pull/20#issuecomment-3540952158) in [hyperledger/anoncreds-wrapper-javascript](https://github.com/hyperledger/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
