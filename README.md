@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2527](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#8138](https://github.com/biomejs/biome/issues/8138#issuecomment-3542931956) in [biomejs/biome](https://github.com/biomejs/biome)
-3. 💪 Opened PR [#2526](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#16](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/16) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-5. 🗣 Commented on [#21](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/21#issuecomment-3542002090) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 🗣 Commented on [#2262](https://github.com/openwallet-foundation/credo-ts/issues/2262#issuecomment-3546315343) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2304](https://github.com/openwallet-foundation/credo-ts/pull/2304#issuecomment-3546284478) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2527](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#8138](https://github.com/biomejs/biome/issues/8138#issuecomment-3542931956) in [biomejs/biome](https://github.com/biomejs/biome)
+5. 💪 Opened PR [#2526](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
