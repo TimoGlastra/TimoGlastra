@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#438](https://github.com/openwallet-foundation/askar/issues/438) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🗣 Commented on [#140](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/140#issuecomment-3552838714) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#348](https://github.com/openid/OpenID4VC-HAIP/issues/348#issuecomment-3551556060) in [openid/OpenID4VC-HAIP](https://github.com/openid/OpenID4VC-HAIP)
-4. ❗ Opened issue [#141](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/141) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#2262](https://github.com/openwallet-foundation/credo-ts/issues/2262#issuecomment-3546315343) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#144](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. ❗ Opened issue [#438](https://github.com/openwallet-foundation/askar/issues/438) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 🗣 Commented on [#140](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/140#issuecomment-3552838714) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🗣 Commented on [#348](https://github.com/openid/OpenID4VC-HAIP/issues/348#issuecomment-3551556060) in [openid/OpenID4VC-HAIP](https://github.com/openid/OpenID4VC-HAIP)
+5. ❗ Opened issue [#141](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/141) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
