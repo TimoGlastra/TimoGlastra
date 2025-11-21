@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2532](https://github.com/openwallet-foundation/credo-ts/pull/2532#issuecomment-3562692792) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2532](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#145](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🚀 Published release [v0.3.0](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v0.3.0) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. ❗ Opened issue [#544](https://github.com/changesets/action/issues/544) in [changesets/action](https://github.com/changesets/action)
+1. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562870054) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562869358) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 🗣 Commented on [#71](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/71#issuecomment-3562861845) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❗ Opened issue [#71](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/71) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#101](https://github.com/animo/mdoc/pull/101#issuecomment-3562826469) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
