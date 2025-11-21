@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/animo/mdoc/pull/101#issuecomment-3563031491) in [animo/mdoc](https://github.com/animo/mdoc)
-2. ❗ Opened issue [#2](https://github.com/napi-ffi/node-ffi-napi/issues/2) in [napi-ffi/node-ffi-napi](https://github.com/napi-ffi/node-ffi-napi)
-3. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562870054) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562869358) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 🗣 Commented on [#71](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/71#issuecomment-3562861845) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 💪 Opened PR [#72](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#101](https://github.com/animo/mdoc/pull/101#issuecomment-3563031491) in [animo/mdoc](https://github.com/animo/mdoc)
+3. ❗ Opened issue [#2](https://github.com/napi-ffi/node-ffi-napi/issues/2) in [napi-ffi/node-ffi-napi](https://github.com/napi-ffi/node-ffi-napi)
+4. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562870054) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🗣 Commented on [#102](https://github.com/animo/mdoc/pull/102#issuecomment-3562869358) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
