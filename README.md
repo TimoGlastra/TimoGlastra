@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529#issuecomment-3558549380) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529#issuecomment-3558373122) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529#issuecomment-3558369350) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529#issuecomment-3558363471) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#348](https://github.com/hyperledger/indy-vdr/issues/348#issuecomment-3562061537) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🚀 Published release [v0.4.4](https://github.com/hyperledger/indy-vdr/releases/tag/v0.4.4) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+3. ❗ Opened issue [#348](https://github.com/hyperledger/indy-vdr/issues/348) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+4. 🔒 Closed issue [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2529](https://github.com/openwallet-foundation/credo-ts/issues/2529#issuecomment-3558549380) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
