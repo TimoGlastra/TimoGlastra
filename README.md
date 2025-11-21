@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🚀 Published release [v0.3.0](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v0.3.0) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❗ Opened issue [#544](https://github.com/changesets/action/issues/544) in [changesets/action](https://github.com/changesets/action)
-4. 🗣 Commented on [#348](https://github.com/hyperledger/indy-vdr/issues/348#issuecomment-3562061537) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 🚀 Published release [v0.4.4](https://github.com/hyperledger/indy-vdr/releases/tag/v0.4.4) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+1. 💪 Opened PR [#2532](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#145](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🚀 Published release [v0.3.0](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v0.3.0) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❗ Opened issue [#544](https://github.com/changesets/action/issues/544) in [changesets/action](https://github.com/changesets/action)
+5. 🗣 Commented on [#348](https://github.com/hyperledger/indy-vdr/issues/348#issuecomment-3562061537) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
