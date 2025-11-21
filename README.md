@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#104](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3563184492) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 💪 Opened PR [#72](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#101](https://github.com/animo/mdoc/pull/101#issuecomment-3563031491) in [animo/mdoc](https://github.com/animo/mdoc)
-5. ❗ Opened issue [#2](https://github.com/napi-ffi/node-ffi-napi/issues/2) in [napi-ffi/node-ffi-napi](https://github.com/napi-ffi/node-ffi-napi)
+1. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3563423181) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3563421869) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 💪 Opened PR [#104](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3563184492) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#72](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
