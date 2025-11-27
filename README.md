@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/11#issuecomment-3584516344) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-2. 💪 Opened PR [#11](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-3. ❗ Opened issue [#10](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/10) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-4. 🗣 Commented on [#349](https://github.com/hyperledger/indy-vdr/pull/349#issuecomment-3584284256) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-5. 💪 Opened PR [#148](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 💪 Opened PR [#107](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🗣 Commented on [#11](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/11#issuecomment-3584516344) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. 💪 Opened PR [#11](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+4. ❗ Opened issue [#10](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/10) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+5. 🗣 Commented on [#349](https://github.com/hyperledger/indy-vdr/pull/349#issuecomment-3584284256) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
