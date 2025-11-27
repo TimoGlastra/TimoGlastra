@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#348](https://github.com/hyperledger/indy-vdr/issues/348) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-2. 🗣 Commented on [#348](https://github.com/hyperledger/indy-vdr/issues/348#issuecomment-3584173351) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
-3. 🗣 Commented on [#334](https://github.com/openwallet-foundation/sd-jwt-js/pull/334#issuecomment-3584105777) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🗣 Commented on [#74](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/74#issuecomment-3584097618) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❌ Labeled PR [#2533](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#349](https://github.com/hyperledger/indy-vdr/pull/349#issuecomment-3584204217) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+2. 🗣 Commented on [#74](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/74#issuecomment-3584201097) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 💪 Opened PR [#75](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🔒 Closed issue [#348](https://github.com/hyperledger/indy-vdr/issues/348) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
+5. 🗣 Commented on [#348](https://github.com/hyperledger/indy-vdr/issues/348#issuecomment-3584173351) in [hyperledger/indy-vdr](https://github.com/hyperledger/indy-vdr)
 <!--END_SECTION:activity-->
 
 ---
