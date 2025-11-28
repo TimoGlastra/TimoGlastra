@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/openid/federation-wallet/issues/48#issuecomment-3587875826) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-2. 🗣 Commented on [#20](https://github.com/openid/federation-wallet/issues/20#issuecomment-3587846099) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-3. 🗣 Commented on [#14](https://github.com/openid/federation-wallet/issues/14#issuecomment-3587843285) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-4. 🗣 Commented on [#13](https://github.com/openid/federation-wallet/issues/13#issuecomment-3587830021) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-5. 🗣 Commented on [#39](https://github.com/openid/federation-wallet/issues/39#issuecomment-3587823276) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+1. 💪 Opened PR [#53](undefined) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+2. 🗣 Commented on [#48](https://github.com/openid/federation-wallet/issues/48#issuecomment-3587875826) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+3. 🗣 Commented on [#20](https://github.com/openid/federation-wallet/issues/20#issuecomment-3587846099) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+4. 🗣 Commented on [#14](https://github.com/openid/federation-wallet/issues/14#issuecomment-3587843285) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+5. 🗣 Commented on [#13](https://github.com/openid/federation-wallet/issues/13#issuecomment-3587830021) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
 <!--END_SECTION:activity-->
 
 ---
