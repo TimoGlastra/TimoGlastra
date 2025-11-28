@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/openid/federation-wallet/issues/39#issuecomment-3587823276) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-2. 🚀 Published release [v0.4.0](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v0.4.0) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 💪 Opened PR [#107](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🗣 Commented on [#11](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/11#issuecomment-3584516344) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. 💪 Opened PR [#11](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+1. 🗣 Commented on [#20](https://github.com/openid/federation-wallet/issues/20#issuecomment-3587846099) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+2. 🗣 Commented on [#14](https://github.com/openid/federation-wallet/issues/14#issuecomment-3587843285) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+3. 🗣 Commented on [#13](https://github.com/openid/federation-wallet/issues/13#issuecomment-3587830021) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+4. 🗣 Commented on [#39](https://github.com/openid/federation-wallet/issues/39#issuecomment-3587823276) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+5. 🚀 Published release [v0.4.0](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v0.4.0) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
