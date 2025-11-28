@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2541](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3588463329) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3588137545) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-4. 💪 Opened PR [#437](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#53](undefined) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+1. 🚀 Published release [v0.2.1](https://github.com/openwallet-foundation-labs/openid-federation-ts/releases/tag/v0.2.1) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+2. 🗣 Commented on [#22](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/22#issuecomment-3589403745) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+3. 💪 Opened PR [#2541](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3588463329) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3588137545) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
 <!--END_SECTION:activity-->
 
 ---
