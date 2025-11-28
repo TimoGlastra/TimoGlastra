@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3588137545) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-2. 💪 Opened PR [#437](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#53](undefined) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
-4. 🗣 Commented on [#48](https://github.com/openid/federation-wallet/issues/48#issuecomment-3587875826) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
-5. 🗣 Commented on [#20](https://github.com/openid/federation-wallet/issues/20#issuecomment-3587846099) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
+1. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3588463329) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3588137545) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+3. 💪 Opened PR [#437](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#53](undefined) in [animo/openid4vc-playground-funke](https://github.com/animo/openid4vc-playground-funke)
+5. 🗣 Commented on [#48](https://github.com/openid/federation-wallet/issues/48#issuecomment-3587875826) in [openid/federation-wallet](https://github.com/openid/federation-wallet)
 <!--END_SECTION:activity-->
 
 ---
