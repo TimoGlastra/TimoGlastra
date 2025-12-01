@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3595631125) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. ❗ Opened issue [#2542](https://github.com/openwallet-foundation/credo-ts/issues/2542) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🚀 Published release [v0.2.1](https://github.com/openwallet-foundation-labs/openid-federation-ts/releases/tag/v0.2.1) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-4. 🗣 Commented on [#22](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/22#issuecomment-3589403745) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-5. 💪 Opened PR [#2541](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#11](https://github.com/2060-io/credo-ts-didweb-anoncreds/pull/11#issuecomment-3596601331) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+2. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3595631125) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. ❗ Opened issue [#2542](https://github.com/openwallet-foundation/credo-ts/issues/2542) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🚀 Published release [v0.2.1](https://github.com/openwallet-foundation-labs/openid-federation-ts/releases/tag/v0.2.1) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+5. 🗣 Commented on [#22](https://github.com/openwallet-foundation-labs/openid-federation-ts/pull/22#issuecomment-3589403745) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
 <!--END_SECTION:activity-->
 
 ---
