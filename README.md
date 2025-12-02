@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2553](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3600958695) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-3. ❗ Opened issue [#2551](https://github.com/openwallet-foundation/credo-ts/issues/2551) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3600286241) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❌ Closed PR [#2556](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2553](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3600958695) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+4. ❗ Opened issue [#2551](https://github.com/openwallet-foundation/credo-ts/issues/2551) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
