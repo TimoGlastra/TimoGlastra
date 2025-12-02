@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2551](https://github.com/openwallet-foundation/credo-ts/issues/2551) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3600286241) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3600282518) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#71](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/71#issuecomment-3600276715) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#4](https://github.com/eduwallet-pilots/interop/issues/4#issuecomment-3600958695) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+2. ❗ Opened issue [#2551](https://github.com/openwallet-foundation/credo-ts/issues/2551) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#72](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/72#issuecomment-3600286241) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#53](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/53#issuecomment-3600282518) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
