@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55#issuecomment-3605397514) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🗣 Commented on [#2](https://github.com/anoncreds/anoncreds/issues/2#issuecomment-3605110036) in [anoncreds/anoncreds](https://github.com/anoncreds/anoncreds)
-3. 🗣 Commented on [#2550](https://github.com/openwallet-foundation/credo-ts/pull/2550#issuecomment-3605098228) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Merged PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❌ Closed PR [#2556](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#685](https://github.com/openid/OpenID4VP/issues/685) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. 🗣 Commented on [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55#issuecomment-3605397514) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. 🗣 Commented on [#2](https://github.com/anoncreds/anoncreds/issues/2#issuecomment-3605110036) in [anoncreds/anoncreds](https://github.com/anoncreds/anoncreds)
+4. 🗣 Commented on [#2550](https://github.com/openwallet-foundation/credo-ts/pull/2550#issuecomment-3605098228) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❌ Merged PR [#2550](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
