@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2562](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🔒 Closed issue [#2407](https://github.com/openwallet-foundation/credo-ts/issues/2407) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2562](https://github.com/openwallet-foundation/credo-ts/pull/2562#issuecomment-3610487470) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#2562](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#337](https://github.com/openwallet-foundation/sd-jwt-js/issues/337#issuecomment-3610480636) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. 🗣 Commented on [#2551](https://github.com/openwallet-foundation/credo-ts/issues/2551#issuecomment-3612674095) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Merged PR [#2562](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🔒 Closed issue [#2407](https://github.com/openwallet-foundation/credo-ts/issues/2407) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2562](https://github.com/openwallet-foundation/credo-ts/pull/2562#issuecomment-3610487470) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#2562](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
