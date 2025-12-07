@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/21#issuecomment-3619385595) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-2. 🗣 Commented on [#370](https://github.com/anoncreds/anoncreds-rs/pull/370#issuecomment-3619360563) in [anoncreds/anoncreds-rs](https://github.com/anoncreds/anoncreds-rs)
-3. 🗣 Commented on [#22](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/22#issuecomment-3619354753) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. ❌ Merged PR [#2570](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❌ Merged PR [#2569](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❌ Merged PR [#72](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🔒 Closed issue [#71](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/71) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#21](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/21#issuecomment-3619385595) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+4. 🗣 Commented on [#370](https://github.com/anoncreds/anoncreds-rs/pull/370#issuecomment-3619360563) in [anoncreds/anoncreds-rs](https://github.com/anoncreds/anoncreds-rs)
+5. 🗣 Commented on [#22](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/22#issuecomment-3619354753) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
