@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#12](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-2. 💪 Opened PR [#2577](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3625631978) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 💪 Opened PR [#438](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#12](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+1. ❌ Merged PR [#2577](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Merged PR [#12](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. 💪 Opened PR [#2577](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#150](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/150#issuecomment-3625631978) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 💪 Opened PR [#438](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
