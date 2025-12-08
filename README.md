@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-2. ❌ Merged PR [#78](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#78](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/78#issuecomment-3627731654) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. ❌ Merged PR [#13](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. ❌ Merged PR [#2578](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#2579](https://github.com/openwallet-foundation/credo-ts/issues/2579#issuecomment-3628029791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#14](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+3. ❌ Merged PR [#78](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#78](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/78#issuecomment-3627731654) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. ❌ Merged PR [#13](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
 <!--END_SECTION:activity-->
 
 ---
