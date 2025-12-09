@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🗣 Commented on [#2580](https://github.com/openwallet-foundation/credo-ts/pull/2580#issuecomment-3630152992) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#130](https://github.com/birdofpreyru/react-native-fs/issues/130) in [birdofpreyru/react-native-fs](https://github.com/birdofpreyru/react-native-fs)
-4. ❗ Opened issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#2579](https://github.com/openwallet-foundation/credo-ts/issues/2579#issuecomment-3628029791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#448](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 🗣 Commented on [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55#issuecomment-3630232742) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+3. 🔒 Closed issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+4. 🗣 Commented on [#2580](https://github.com/openwallet-foundation/credo-ts/pull/2580#issuecomment-3630152992) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#130](https://github.com/birdofpreyru/react-native-fs/issues/130) in [birdofpreyru/react-native-fs](https://github.com/birdofpreyru/react-native-fs)
 <!--END_SECTION:activity-->
 
 ---
