@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#130](https://github.com/birdofpreyru/react-native-fs/issues/130) in [birdofpreyru/react-native-fs](https://github.com/birdofpreyru/react-native-fs)
-2. ❗ Opened issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-3. 🗣 Commented on [#2579](https://github.com/openwallet-foundation/credo-ts/issues/2579#issuecomment-3628029791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#14](undefined) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-5. ❌ Merged PR [#78](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🔒 Closed issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 🗣 Commented on [#2580](https://github.com/openwallet-foundation/credo-ts/pull/2580#issuecomment-3630152992) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#130](https://github.com/birdofpreyru/react-native-fs/issues/130) in [birdofpreyru/react-native-fs](https://github.com/birdofpreyru/react-native-fs)
+4. ❗ Opened issue [#446](https://github.com/openwallet-foundation/askar/issues/446) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+5. 🗣 Commented on [#2579](https://github.com/openwallet-foundation/credo-ts/issues/2579#issuecomment-3628029791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
