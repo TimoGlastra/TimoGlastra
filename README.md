@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3633200974) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-2. 🗣 Commented on [#7](https://github.com/eduwallet-pilots/interop/issues/7#issuecomment-3632999452) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-3. ❌ Merged PR [#188](undefined) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 🗣 Commented on [#2579](https://github.com/openwallet-foundation/credo-ts/issues/2579#issuecomment-3632335722) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🚀 Published release [v0.6.1](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.6.1) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#161](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3633227688) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+3. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3633200974) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+4. 🗣 Commented on [#7](https://github.com/eduwallet-pilots/interop/issues/7#issuecomment-3632999452) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+5. ❌ Merged PR [#188](undefined) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
 <!--END_SECTION:activity-->
 
 ---
