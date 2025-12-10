@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2586](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🚀 Published release [v0.4.3](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v.0.4.3) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🔒 Closed issue [#56](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/56) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-4. ❌ Merged PR [#55](undefined) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-5. 🗣 Commented on [#55](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/55#issuecomment-3637455821) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+1. ❌ Merged PR [#449](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 💪 Opened PR [#2586](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🚀 Published release [v0.4.3](https://github.com/openwallet-foundation-labs/oid4vc-ts/releases/tag/v.0.4.3) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🔒 Closed issue [#56](https://github.com/openwallet-foundation/didcomm-mediator-credo/issues/56) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+5. ❌ Merged PR [#55](undefined) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
 <!--END_SECTION:activity-->
 
 ---
