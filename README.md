@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3636174045) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-2. ❌ Merged PR [#161](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❗ Opened issue [#380](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/380) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
-4. 💪 Opened PR [#452](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 💪 Opened PR [#439](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#163](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3636174045) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+3. ❌ Merged PR [#161](undefined) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❗ Opened issue [#380](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/380) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
+5. 💪 Opened PR [#452](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
