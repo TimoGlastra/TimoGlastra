@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2591](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#337](https://github.com/openwallet-foundation/sd-jwt-js/issues/337#issuecomment-3641675644) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-3. 🗣 Commented on [#338](https://github.com/openwallet-foundation/sd-jwt-js/pull/338#issuecomment-3641666781) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🗣 Commented on [#2586](https://github.com/openwallet-foundation/credo-ts/pull/2586#issuecomment-3641653939) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🔒 Closed issue [#76](https://github.com/openwallet-foundation/askar/issues/76) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+1. ❌ Merged PR [#338](undefined) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 🗣 Commented on [#338](https://github.com/openwallet-foundation/sd-jwt-js/pull/338#issuecomment-3641859483) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+3. ❌ Merged PR [#2588](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❌ Merged PR [#2586](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❌ Merged PR [#2591](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
