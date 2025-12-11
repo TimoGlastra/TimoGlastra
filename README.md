@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#442](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar/releases/tag/v0.5.0) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-3. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3643387566) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. ❌ Merged PR [#448](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 💪 Opened PR [#441](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3643529610) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. 💪 Opened PR [#442](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar/releases/tag/v0.5.0) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+4. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3643387566) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. ❌ Merged PR [#448](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
