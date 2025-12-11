@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3642416243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642049507) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-3. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642034806) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-4. ❌ Merged PR [#338](undefined) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-5. 🗣 Commented on [#338](https://github.com/openwallet-foundation/sd-jwt-js/pull/338#issuecomment-3641859483) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. ❗ Opened issue [#15](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/15) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+2. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3642416243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+3. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642049507) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+4. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642034806) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+5. ❌ Merged PR [#338](undefined) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
 <!--END_SECTION:activity-->
 
 ---
