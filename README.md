@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#452](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🗣 Commented on [#2584](https://github.com/openwallet-foundation/credo-ts/issues/2584#issuecomment-3638026724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#2588](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#112](https://github.com/animo/mdoc/issues/112) in [animo/mdoc](https://github.com/animo/mdoc)
-5. ❌ Merged PR [#449](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+1. ❗ Opened issue [#36](https://github.com/digitalcredentials/vc/issues/36) in [digitalcredentials/vc](https://github.com/digitalcredentials/vc)
+2. ❌ Merged PR [#452](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 🗣 Commented on [#2584](https://github.com/openwallet-foundation/credo-ts/issues/2584#issuecomment-3638026724) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2588](undefined) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#112](https://github.com/animo/mdoc/issues/112) in [animo/mdoc](https://github.com/animo/mdoc)
 <!--END_SECTION:activity-->
 
 ---
