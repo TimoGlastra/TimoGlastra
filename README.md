@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#441](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. ❗ Opened issue [#15](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/15) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
-3. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3642416243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642049507) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-5. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642034806) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+1. ❌ Merged PR [#448](undefined) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 💪 Opened PR [#441](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. ❗ Opened issue [#15](https://github.com/2060-io/credo-ts-didweb-anoncreds/issues/15) in [2060-io/credo-ts-didweb-anoncreds](https://github.com/2060-io/credo-ts-didweb-anoncreds)
+4. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3642416243) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#8](https://github.com/eduwallet-pilots/interop/issues/8#issuecomment-3642049507) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
 <!--END_SECTION:activity-->
 
 ---
