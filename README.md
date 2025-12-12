@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#81](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🗣 Commented on [#81](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/81#issuecomment-3645542234) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🗣 Commented on [#441](https://github.com/animo/paradym-wallet/pull/441#issuecomment-3645488242) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❌ Merged PR [#442](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#81](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❌ Merged PR [#441](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. ❌ Merged PR [#81](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#81](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/81#issuecomment-3645542234) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#441](https://github.com/animo/paradym-wallet/pull/441#issuecomment-3645488242) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❌ Merged PR [#442](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
