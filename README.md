@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2593](https://github.com/openwallet-foundation/credo-ts/issues/2593#issuecomment-3645047389) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#2593](https://github.com/openwallet-foundation/credo-ts/issues/2593) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#454](https://github.com/openwallet-foundation/askar/issues/454#issuecomment-3645037744) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-4. ❗ Opened issue [#454](https://github.com/openwallet-foundation/askar/issues/454) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#97](https://github.com/openwallet-foundation-labs/dcql-ts/issues/97#issuecomment-3643529610) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. 💪 Opened PR [#81](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#2593](https://github.com/openwallet-foundation/credo-ts/issues/2593#issuecomment-3645047389) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#2593](https://github.com/openwallet-foundation/credo-ts/issues/2593) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#454](https://github.com/openwallet-foundation/askar/issues/454#issuecomment-3645037744) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+5. ❗ Opened issue [#454](https://github.com/openwallet-foundation/askar/issues/454) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
