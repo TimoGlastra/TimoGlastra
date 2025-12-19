@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3665463008) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3665446952) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2597](https://github.com/openwallet-foundation/credo-ts/issues/2597#issuecomment-3664411342) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Merged PR [#438](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. ❌ Merged PR [#443](undefined) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#84](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/84#issuecomment-3674781939) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. ❗ Opened issue [#83](https://github.com/FIDEScommunity/DIIP/issues/83) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3665463008) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3665446952) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2597](https://github.com/openwallet-foundation/credo-ts/issues/2597#issuecomment-3664411342) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
