@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#45](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3681520362) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❌ Closed PR [#48](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. ❌ Closed PR [#47](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. ❌ Closed PR [#46](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 💪 Opened PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
+2. ❌ Merged PR [#45](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 🗣 Commented on [#2598](https://github.com/openwallet-foundation/credo-ts/issues/2598#issuecomment-3681520362) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. ❌ Closed PR [#48](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. ❌ Closed PR [#47](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
