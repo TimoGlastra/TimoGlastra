@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#77](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/77) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. ❌ Merged PR [#85](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 💪 Opened PR [#85](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 💪 Opened PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
-5. ❌ Merged PR [#45](undefined) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 💪 Opened PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🔒 Closed issue [#77](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/77) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. ❌ Merged PR [#85](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 💪 Opened PR [#85](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 💪 Opened PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
