@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-2. ❌ Merged PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
-3. 💪 Opened PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🔒 Closed issue [#77](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/77) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❌ Merged PR [#85](undefined) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#24](https://github.com/anoncreds/anoncreds-wrapper-javascript/issues/24#issuecomment-3696457323) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+2. ❌ Merged PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
+3. ❌ Merged PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
+4. 💪 Opened PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🔒 Closed issue [#77](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/77) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
