@@ -19,8 +19,8 @@ Github language stats
 1. 🗣 Commented on [#454](https://github.com/animo/paradym-wallet/pull/454#issuecomment-3702324656) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 2. 🗣 Commented on [#450](https://github.com/animo/paradym-wallet/issues/450#issuecomment-3701716709) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 3. 🗣 Commented on [#24](https://github.com/anoncreds/anoncreds-wrapper-javascript/issues/24#issuecomment-3696457323) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. ❌ Merged PR [#117](undefined) in [animo/mdoc](https://github.com/animo/mdoc)
-5. ❌ Merged PR [#3](undefined) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
+4. 🎉 Merged PR [#117](https://github.com/animo/mdoc/pull/117) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#3](https://github.com/decentri-dev/paradym-wallet/pull/3) in [decentri-dev/paradym-wallet](https://github.com/decentri-dev/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
