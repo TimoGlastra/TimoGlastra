@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#468](https://github.com/animo/paradym-wallet/pull/468) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#86](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/86) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.5.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#76](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/76#issuecomment-3710454022) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❗ Opened issue [#23](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/23) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+1. 🔒 Closed issue [#452](https://github.com/animo/paradym-wallet/issues/452) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#468](https://github.com/animo/paradym-wallet/pull/468) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#86](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/86) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.5.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+5. 🗣 Commented on [#76](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/76#issuecomment-3710454022) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
