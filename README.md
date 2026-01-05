@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.5.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🗣 Commented on [#76](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/76#issuecomment-3710454022) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. ❗ Opened issue [#23](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/23) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
-4. 🔒 Closed issue [#83](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/83) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 💪 Opened PR [#468](https://github.com/animo/paradym-wallet/pull/468) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#86](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/86) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.5.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🗣 Commented on [#76](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/76#issuecomment-3710454022) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❗ Opened issue [#23](https://github.com/openwallet-foundation-labs/openid-federation-ts/issues/23) in [openwallet-foundation-labs/openid-federation-ts](https://github.com/openwallet-foundation-labs/openid-federation-ts)
+5. 🔒 Closed issue [#83](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/83) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
