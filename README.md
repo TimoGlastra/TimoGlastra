@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#467](https://github.com/animo/paradym-wallet/pull/467) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#467](https://github.com/animo/paradym-wallet/pull/467) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#466](https://github.com/animo/paradym-wallet/issues/466#issuecomment-3709650192) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#453](https://github.com/animo/paradym-wallet/pull/453#issuecomment-3709479564) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🗣 Commented on [#459](https://github.com/animo/paradym-wallet/issues/459#issuecomment-3709432779) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🔒 Closed issue [#83](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/83) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 💪 Opened PR [#468](https://github.com/animo/paradym-wallet/pull/468) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#467](https://github.com/animo/paradym-wallet/pull/467) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#467](https://github.com/animo/paradym-wallet/pull/467) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#466](https://github.com/animo/paradym-wallet/issues/466#issuecomment-3709650192) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
