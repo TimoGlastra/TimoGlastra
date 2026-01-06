@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#452](https://github.com/animo/paradym-wallet/issues/452) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#468](https://github.com/animo/paradym-wallet/pull/468) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#86](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/86) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🚀 Published release [v0.5.0](https://github.com/openwallet-foundation/askar-wrapper-javascript/releases/tag/v0.5.0) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#76](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/76#issuecomment-3710454022) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❌ Closed PR [#52](https://github.com/animo/openid4vc-playground/pull/52) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. ❌ Closed PR [#54](https://github.com/animo/openid4vc-playground/pull/54) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. ❌ Closed PR [#53](https://github.com/animo/openid4vc-playground/pull/53) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. ❌ Closed PR [#51](https://github.com/animo/openid4vc-playground/pull/51) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. ❌ Closed PR [#50](https://github.com/animo/openid4vc-playground/pull/50) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
