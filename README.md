@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2606](https://github.com/openwallet-foundation/credo-ts/pull/2606) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2606](https://github.com/openwallet-foundation/credo-ts/pull/2606) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#175](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/175) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. ❗ Opened issue [#176](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/176) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 💪 Opened PR [#175](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/175) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 💪 Opened PR [#59](https://github.com/animo/openid4vc-playground/pull/59) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. 🎉 Merged PR [#2606](https://github.com/openwallet-foundation/credo-ts/pull/2606) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2606](https://github.com/openwallet-foundation/credo-ts/pull/2606) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#175](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/175) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. ❗ Opened issue [#176](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/176) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
