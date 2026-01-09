@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729723066) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 💪 Opened PR [#66](https://github.com/openwallet-foundation/project-proposals/pull/66) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. 🗣 Commented on [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350#issuecomment-3729690821) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 💪 Opened PR [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-5. 🎉 Merged PR [#471](https://github.com/animo/paradym-wallet/pull/471) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. ❗ Opened issue [#2612](https://github.com/openwallet-foundation/credo-ts/issues/2612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#177](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/177) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729723066) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 💪 Opened PR [#66](https://github.com/openwallet-foundation/project-proposals/pull/66) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+5. 🗣 Commented on [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350#issuecomment-3729690821) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
 <!--END_SECTION:activity-->
 
 ---
