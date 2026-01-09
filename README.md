@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#346](https://github.com/openwallet-foundation/sd-jwt-js/issues/346#issuecomment-3725352036) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-2. 💪 Opened PR [#348](https://github.com/openwallet-foundation/sd-jwt-js/pull/348) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-3. 🎉 Merged PR [#347](https://github.com/openwallet-foundation/sd-jwt-js/pull/347) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🎉 Merged PR [#2610](https://github.com/openwallet-foundation/credo-ts/pull/2610) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#347](https://github.com/openwallet-foundation/sd-jwt-js/pull/347#issuecomment-3724698391) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. 🎉 Merged PR [#348](https://github.com/openwallet-foundation/sd-jwt-js/pull/348) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 🗣 Commented on [#346](https://github.com/openwallet-foundation/sd-jwt-js/issues/346#issuecomment-3725352036) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+3. 💪 Opened PR [#348](https://github.com/openwallet-foundation/sd-jwt-js/pull/348) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+4. 🎉 Merged PR [#347](https://github.com/openwallet-foundation/sd-jwt-js/pull/347) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+5. 🎉 Merged PR [#2610](https://github.com/openwallet-foundation/credo-ts/pull/2610) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
