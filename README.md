@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729875260) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729873847) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. ❗ Opened issue [#2612](https://github.com/openwallet-foundation/credo-ts/issues/2612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#177](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/177) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729723066) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🎉 Merged PR [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729875260) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729873847) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. ❗ Opened issue [#2612](https://github.com/openwallet-foundation/credo-ts/issues/2612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#177](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/177) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
