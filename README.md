@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3732935904) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 🎉 Merged PR [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-3. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729875260) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3729873847) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. ❗ Opened issue [#2612](https://github.com/openwallet-foundation/credo-ts/issues/2612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#494](https://github.com/openid/OpenID4VP/issues/494#issuecomment-3738817741) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+2. 🗣 Commented on [#84](https://github.com/FIDEScommunity/DIIP/pull/84#issuecomment-3738792672) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🗣 Commented on [#65](https://github.com/openwallet-foundation/project-proposals/pull/65#issuecomment-3738782726) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3732935904) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+5. 🎉 Merged PR [#350](https://github.com/openwallet-foundation/sd-jwt-js/pull/350) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
 <!--END_SECTION:activity-->
 
 ---
