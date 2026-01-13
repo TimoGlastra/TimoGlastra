@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#473](https://github.com/animo/paradym-wallet/pull/473#issuecomment-3740119819) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#124](https://github.com/animo/mdoc/pull/124) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🗣 Commented on [#494](https://github.com/openid/OpenID4VP/issues/494#issuecomment-3738817741) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
-4. 🗣 Commented on [#84](https://github.com/FIDEScommunity/DIIP/pull/84#issuecomment-3738792672) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-5. 🗣 Commented on [#65](https://github.com/openwallet-foundation/project-proposals/pull/65#issuecomment-3738782726) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. ℹ️ Labeled PR [#2617](https://github.com/openwallet-foundation/credo-ts/pull/2617) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2617](https://github.com/openwallet-foundation/credo-ts/pull/2617) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#473](https://github.com/animo/paradym-wallet/pull/473#issuecomment-3740119819) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#124](https://github.com/animo/mdoc/pull/124) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🗣 Commented on [#494](https://github.com/openid/OpenID4VP/issues/494#issuecomment-3738817741) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
 <!--END_SECTION:activity-->
 
 ---
