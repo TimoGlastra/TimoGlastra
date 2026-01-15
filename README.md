@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#474](https://github.com/animo/paradym-wallet/pull/474) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#20](https://github.com/animo/expo-ausweis-sdk/pull/20) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-3. ℹ️ Labeled PR [#4](https://github.com/animo/paradym-eudi-docs/pull/4) in [animo/paradym-eudi-docs](https://github.com/animo/paradym-eudi-docs)
-4. ℹ️ Labeled PR [#4](https://github.com/animo/paradym-eudi-docs/pull/4) in [animo/paradym-eudi-docs](https://github.com/animo/paradym-eudi-docs)
-5. 🎉 Merged PR [#357](https://github.com/openwallet-foundation/sd-jwt-js/pull/357) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. 🗣 Commented on [#2583](https://github.com/openwallet-foundation/credo-ts/pull/2583#issuecomment-3755146993) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#2624](https://github.com/openwallet-foundation/credo-ts/pull/2624) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#474](https://github.com/animo/paradym-wallet/pull/474) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#20](https://github.com/animo/expo-ausweis-sdk/pull/20) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
+5. ℹ️ Labeled PR [#4](https://github.com/animo/paradym-eudi-docs/pull/4) in [animo/paradym-eudi-docs](https://github.com/animo/paradym-eudi-docs)
 <!--END_SECTION:activity-->
 
 ---
