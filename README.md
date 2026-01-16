@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2624](https://github.com/openwallet-foundation/credo-ts/pull/2624) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#474](https://github.com/animo/paradym-wallet/pull/474) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#20](https://github.com/animo/expo-ausweis-sdk/pull/20) in [animo/expo-ausweis-sdk](https://github.com/animo/expo-ausweis-sdk)
-4. 🗣 Commented on [#2583](https://github.com/openwallet-foundation/credo-ts/pull/2583#issuecomment-3755146993) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#2624](https://github.com/openwallet-foundation/credo-ts/pull/2624) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#6](https://github.com/animo/eudi-wallet-functionality/pull/6#issuecomment-3758989830) in [animo/eudi-wallet-functionality](https://github.com/animo/eudi-wallet-functionality)
+2. 💪 Opened PR [#358](https://github.com/openwallet-foundation/sd-jwt-js/pull/358) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+3. ❗ Opened issue [#388](https://github.com/oauth-wg/oauth-sd-jwt-vc/issues/388) in [oauth-wg/oauth-sd-jwt-vc](https://github.com/oauth-wg/oauth-sd-jwt-vc)
+4. 🎉 Merged PR [#2624](https://github.com/openwallet-foundation/credo-ts/pull/2624) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#474](https://github.com/animo/paradym-wallet/pull/474) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
