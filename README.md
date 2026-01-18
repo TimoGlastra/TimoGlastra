@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#84](https://github.com/FIDEScommunity/DIIP/pull/84#issuecomment-3765237415) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-2. ℹ️ Labeled PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#477](https://github.com/animo/paradym-wallet/pull/477) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#477](https://github.com/animo/paradym-wallet/pull/477) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#67](https://github.com/animo/openid4vc-playground/pull/67#issuecomment-3765420304) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+2. 🗣 Commented on [#84](https://github.com/FIDEScommunity/DIIP/pull/84#issuecomment-3765237415) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. ℹ️ Labeled PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🎉 Merged PR [#477](https://github.com/animo/paradym-wallet/pull/477) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
