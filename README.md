@@ -16,8 +16,8 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#475](https://github.com/animo/paradym-wallet/pull/475) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🗣 Commented on [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626#issuecomment-3765716684) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#128](https://github.com/animo/mdoc/pull/128) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 💪 Opened PR [#128](https://github.com/animo/mdoc/pull/128) in [animo/mdoc](https://github.com/animo/mdoc)
 3. 💪 Opened PR [#359](https://github.com/openwallet-foundation/sd-jwt-js/pull/359) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
 4. 🗣 Commented on [#67](https://github.com/animo/openid4vc-playground/pull/67#issuecomment-3765420304) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 5. 🗣 Commented on [#84](https://github.com/FIDEScommunity/DIIP/pull/84#issuecomment-3765237415) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
