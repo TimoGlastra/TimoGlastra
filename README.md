@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771756355) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771755118) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2618](https://github.com/openwallet-foundation/credo-ts/pull/2618#issuecomment-3771619635) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771618375) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#359](https://github.com/openwallet-foundation/sd-jwt-js/pull/359) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. ❗ Opened issue [#360](https://github.com/openwallet-foundation/sd-jwt-js/issues/360) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771756355) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771755118) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2618](https://github.com/openwallet-foundation/credo-ts/pull/2618#issuecomment-3771619635) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771618375) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
