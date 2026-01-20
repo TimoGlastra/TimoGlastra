@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#130](https://github.com/animo/mdoc/issues/130) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 🎉 Merged PR [#479](https://github.com/animo/paradym-wallet/pull/479) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. ❗ Opened issue [#360](https://github.com/openwallet-foundation/sd-jwt-js/issues/360) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771756355) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771755118) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#421](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/issues/421#issuecomment-3774964948) in [eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications)
+2. ❗ Opened issue [#130](https://github.com/animo/mdoc/issues/130) in [animo/mdoc](https://github.com/animo/mdoc)
+3. 🎉 Merged PR [#479](https://github.com/animo/paradym-wallet/pull/479) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❗ Opened issue [#360](https://github.com/openwallet-foundation/sd-jwt-js/issues/360) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+5. 🗣 Commented on [#2616](https://github.com/openwallet-foundation/credo-ts/pull/2616#issuecomment-3771756355) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
