@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2630](https://github.com/openwallet-foundation/credo-ts/issues/2630) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#421](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/issues/421#issuecomment-3774964948) in [eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications)
-3. ❗ Opened issue [#130](https://github.com/animo/mdoc/issues/130) in [animo/mdoc](https://github.com/animo/mdoc)
-4. 🎉 Merged PR [#479](https://github.com/animo/paradym-wallet/pull/479) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. ❗ Opened issue [#360](https://github.com/openwallet-foundation/sd-jwt-js/issues/360) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+1. 💪 Opened PR [#87](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/87) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. ❗ Opened issue [#2630](https://github.com/openwallet-foundation/credo-ts/issues/2630) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#421](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/issues/421#issuecomment-3774964948) in [eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications)
+4. ❗ Opened issue [#130](https://github.com/animo/mdoc/issues/130) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 🎉 Merged PR [#479](https://github.com/animo/paradym-wallet/pull/479) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
