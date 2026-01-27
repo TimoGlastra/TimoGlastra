@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/cre8/project-proposals/pull/1) in [cre8/project-proposals](https://github.com/cre8/project-proposals)
-2. 💪 Opened PR [#1](https://github.com/cre8/project-proposals/pull/1) in [cre8/project-proposals](https://github.com/cre8/project-proposals)
-3. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3805148585) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 💪 Opened PR [#363](https://github.com/openwallet-foundation/sd-jwt-js/pull/363) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-5. 🗣 Commented on [#2641](https://github.com/openwallet-foundation/credo-ts/pull/2641#issuecomment-3800255940) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❌ Closed PR [#66](https://github.com/openwallet-foundation/project-proposals/pull/66) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3806645302) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🎉 Merged PR [#1](https://github.com/cre8/project-proposals/pull/1) in [cre8/project-proposals](https://github.com/cre8/project-proposals)
+4. 💪 Opened PR [#1](https://github.com/cre8/project-proposals/pull/1) in [cre8/project-proposals](https://github.com/cre8/project-proposals)
+5. 🗣 Commented on [#66](https://github.com/openwallet-foundation/project-proposals/pull/66#issuecomment-3805148585) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
