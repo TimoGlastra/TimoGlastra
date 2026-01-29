@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3817402557) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-2. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3817323454) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. ❗ Opened issue [#68](https://github.com/auth0-lab/mdl/issues/68) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-4. 💪 Opened PR [#72](https://github.com/openwallet-foundation/project-proposals/pull/72) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. 🗣 Commented on [#2644](https://github.com/openwallet-foundation/credo-ts/pull/2644#issuecomment-3817123537) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3818118601) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 🗣 Commented on [#71](https://github.com/openwallet-foundation/project-proposals/pull/71#issuecomment-3818067557) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+3. 🗣 Commented on [#71](https://github.com/openwallet-foundation/project-proposals/pull/71#issuecomment-3818057339) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3817402557) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+5. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3817323454) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
