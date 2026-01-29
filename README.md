@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/animo/mdoc/pull/133) in [animo/mdoc](https://github.com/animo/mdoc)
-2. 💪 Opened PR [#697](https://github.com/openid/OpenID4VCI/pull/697) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3818118601) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 🗣 Commented on [#71](https://github.com/openwallet-foundation/project-proposals/pull/71#issuecomment-3818067557) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-5. 🗣 Commented on [#71](https://github.com/openwallet-foundation/project-proposals/pull/71#issuecomment-3818057339) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🗣 Commented on [#695](https://github.com/openid/OpenID4VCI/pull/695#issuecomment-3819369375) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. ❗ Opened issue [#698](https://github.com/openid/OpenID4VCI/issues/698) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3819298307) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 🎉 Merged PR [#133](https://github.com/animo/mdoc/pull/133) in [animo/mdoc](https://github.com/animo/mdoc)
+5. 💪 Opened PR [#697](https://github.com/openid/OpenID4VCI/pull/697) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
