@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#695](https://github.com/openid/OpenID4VCI/pull/695#issuecomment-3819369375) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-2. ❗ Opened issue [#698](https://github.com/openid/OpenID4VCI/issues/698) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-3. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3819298307) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-4. 🎉 Merged PR [#133](https://github.com/animo/mdoc/pull/133) in [animo/mdoc](https://github.com/animo/mdoc)
-5. 💪 Opened PR [#697](https://github.com/openid/OpenID4VCI/pull/697) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3819584781) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+2. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3819470478) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 💪 Opened PR [#699](https://github.com/openid/OpenID4VCI/pull/699) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+4. 🗣 Commented on [#695](https://github.com/openid/OpenID4VCI/pull/695#issuecomment-3819369375) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+5. ❗ Opened issue [#698](https://github.com/openid/OpenID4VCI/issues/698) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
