@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/napi-ffi/node-ffi-napi/issues/2#issuecomment-3823161816) in [napi-ffi/node-ffi-napi](https://github.com/napi-ffi/node-ffi-napi)
-2. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3819584781) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
-3. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3819470478) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
-4. 💪 Opened PR [#699](https://github.com/openid/OpenID4VCI/pull/699) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🗣 Commented on [#695](https://github.com/openid/OpenID4VCI/pull/695#issuecomment-3819369375) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 💪 Opened PR [#183](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/183) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#2](https://github.com/napi-ffi/node-ffi-napi/issues/2#issuecomment-3823161816) in [napi-ffi/node-ffi-napi](https://github.com/napi-ffi/node-ffi-napi)
+3. 🗣 Commented on [#72](https://github.com/openwallet-foundation/project-proposals/pull/72#issuecomment-3819584781) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+4. 🗣 Commented on [#67](https://github.com/FIDEScommunity/DIIP/issues/67#issuecomment-3819470478) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+5. 💪 Opened PR [#699](https://github.com/openid/OpenID4VCI/pull/699) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
