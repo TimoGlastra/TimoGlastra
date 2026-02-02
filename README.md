@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2304](https://github.com/openwallet-foundation/credo-ts/pull/2304#issuecomment-3834452139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#184](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/184#issuecomment-3831487018) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. ❌ Closed PR [#10](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/10) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🗣 Commented on [#10](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/10#issuecomment-3831486029) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🗣 Commented on [#186](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/186#issuecomment-3831437162) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 💪 Opened PR [#136](https://github.com/animo/mdoc/pull/136) in [animo/mdoc](https://github.com/animo/mdoc)
+2. 🗣 Commented on [#2304](https://github.com/openwallet-foundation/credo-ts/pull/2304#issuecomment-3834452139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#184](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/184#issuecomment-3831487018) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. ❌ Closed PR [#10](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/10) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#10](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/10#issuecomment-3831486029) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
