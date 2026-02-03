@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#191](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/191) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 💪 Opened PR [#137](https://github.com/animo/mdoc/pull/137) in [animo/mdoc](https://github.com/animo/mdoc)
-3. 🗣 Commented on [#66](https://github.com/auth0-lab/mdl/issues/66#issuecomment-3840890455) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-4. 🗣 Commented on [#67](https://github.com/auth0-lab/mdl/pull/67#issuecomment-3840887937) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
-5. 🎉 Merged PR [#2647](https://github.com/openwallet-foundation/credo-ts/pull/2647) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#696](https://github.com/openid/OpenID4VCI/issues/696#issuecomment-3841588208) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+2. ❗ Opened issue [#191](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/191) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 💪 Opened PR [#137](https://github.com/animo/mdoc/pull/137) in [animo/mdoc](https://github.com/animo/mdoc)
+4. 🗣 Commented on [#66](https://github.com/auth0-lab/mdl/issues/66#issuecomment-3840890455) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
+5. 🗣 Commented on [#67](https://github.com/auth0-lab/mdl/pull/67#issuecomment-3840887937) in [auth0-lab/mdl](https://github.com/auth0-lab/mdl)
 <!--END_SECTION:activity-->
 
 ---
