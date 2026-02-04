@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ryjones/identity-common-ts/pull/2) in [ryjones/identity-common-ts](https://github.com/ryjones/identity-common-ts)
-2. ❌ Closed PR [#1](https://github.com/ryjones/identity-common-ts/pull/1) in [ryjones/identity-common-ts](https://github.com/ryjones/identity-common-ts)
-3. 🚀 Published release [v0.6.2](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.6.2) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Closed PR [#2648](https://github.com/openwallet-foundation/credo-ts/pull/2648) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#192](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/192) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🗣 Commented on [#68](https://github.com/openwallet-foundation-labs/governance/pull/68#issuecomment-3850023856) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+2. 💪 Opened PR [#68](https://github.com/openwallet-foundation-labs/governance/pull/68) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+3. ❌ Closed PR [#2](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/2) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ❌ Closed PR [#1](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/1) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🚀 Published release [v0.6.2](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.6.2) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
