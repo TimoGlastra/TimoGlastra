@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#192](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/192) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🎉 Merged PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#340](https://github.com/tursodatabase/libsql-client-ts/issues/340) in [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts)
-4. ❌ Closed PR [#2614](https://github.com/openwallet-foundation/credo-ts/pull/2614) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#696](https://github.com/openid/OpenID4VCI/issues/696#issuecomment-3841588208) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+1. 🚀 Published release [v0.6.2](https://github.com/openwallet-foundation/credo-ts/releases/tag/v0.6.2) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Closed PR [#2648](https://github.com/openwallet-foundation/credo-ts/pull/2648) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#192](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/192) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🎉 Merged PR [#2626](https://github.com/openwallet-foundation/credo-ts/pull/2626) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#340](https://github.com/tursodatabase/libsql-client-ts/issues/340) in [tursodatabase/libsql-client-ts](https://github.com/tursodatabase/libsql-client-ts)
 <!--END_SECTION:activity-->
 
 ---
