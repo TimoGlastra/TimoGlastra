@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#366](https://github.com/openwallet-foundation/sd-jwt-js/issues/366#issuecomment-3852571431) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-2. 🗣 Commented on [#68](https://github.com/openwallet-foundation-labs/governance/pull/68#issuecomment-3850023856) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-3. 💪 Opened PR [#68](https://github.com/openwallet-foundation-labs/governance/pull/68) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-4. ❌ Closed PR [#2](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/2) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. ❌ Closed PR [#1](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/1) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. ℹ️ Labeled PR [#3](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. ℹ️ Labeled PR [#3](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#4](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/4) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/governance/pull/68) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+5. 🗣 Commented on [#68](https://github.com/openwallet-foundation-labs/governance/pull/68#issuecomment-3852599874) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
 <!--END_SECTION:activity-->
 
 ---
