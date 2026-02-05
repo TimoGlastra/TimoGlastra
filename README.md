@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#3](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#68](https://github.com/openwallet-foundation-labs/governance/pull/68#issuecomment-3852545907) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
 2. ℹ️ Labeled PR [#3](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. ❗ Opened issue [#4](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/4) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/governance/pull/68) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-5. 🗣 Commented on [#68](https://github.com/openwallet-foundation-labs/governance/pull/68#issuecomment-3852599874) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+3. ℹ️ Labeled PR [#3](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ❗ Opened issue [#4](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/4) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🎉 Merged PR [#68](https://github.com/openwallet-foundation-labs/governance/pull/68) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
 <!--END_SECTION:activity-->
 
 ---
