@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/animo/openid4vc-playground/pull/78#issuecomment-3947140324) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🎉 Merged PR [#487](https://github.com/animo/paradym-wallet/pull/487) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#439](https://github.com/animo/paradym-wallet/pull/439#issuecomment-3936609015) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❌ Closed PR [#439](https://github.com/animo/paradym-wallet/pull/439) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#487](https://github.com/animo/paradym-wallet/pull/487) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#59](https://github.com/animo/expo-mdoc-data-transfer/pull/59#issuecomment-3950683113) in [animo/expo-mdoc-data-transfer](https://github.com/animo/expo-mdoc-data-transfer)
+2. 🗣 Commented on [#78](https://github.com/animo/openid4vc-playground/pull/78#issuecomment-3947140324) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 🎉 Merged PR [#487](https://github.com/animo/paradym-wallet/pull/487) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#439](https://github.com/animo/paradym-wallet/pull/439#issuecomment-3936609015) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. ❌ Closed PR [#439](https://github.com/animo/paradym-wallet/pull/439) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
