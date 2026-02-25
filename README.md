@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#70](https://github.com/openwallet-foundation-labs/governance/pull/70) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-2. 🗣 Commented on [#59](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/59#issuecomment-3962387177) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 💪 Opened PR [#61](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/61) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-4. 💪 Opened PR [#70](https://github.com/openwallet-foundation-labs/governance/pull/70) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-5. 🎉 Merged PR [#69](https://github.com/openwallet-foundation-labs/governance/pull/69) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+1. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/18#issuecomment-3962581170) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 🎉 Merged PR [#62](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/62) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 💪 Opened PR [#62](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/62) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+4. 💪 Opened PR [#12](https://github.com/openwallet-foundation-labs/mdl-js/pull/12) in [openwallet-foundation-labs/mdl-js](https://github.com/openwallet-foundation-labs/mdl-js)
+5. 🗣 Commented on [#65](https://github.com/openwallet-foundation/project-proposals/pull/65#issuecomment-3962540890) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
 <!--END_SECTION:activity-->
 
 ---
