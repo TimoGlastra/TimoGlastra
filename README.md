@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-2. 🎉 Merged PR [#63](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/63) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 💪 Opened PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-4. 💪 Opened PR [#63](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/63) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-5. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/18#issuecomment-3962581170) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+1. 🎉 Merged PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 💪 Opened PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 🎉 Merged PR [#64](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/64) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+4. 💪 Opened PR [#64](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/64) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+5. 🎉 Merged PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
 <!--END_SECTION:activity-->
 
 ---
