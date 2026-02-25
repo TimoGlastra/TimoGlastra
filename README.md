@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/openwallet-foundation-labs/governance/pull/69#issuecomment-3961925194) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-2. 💪 Opened PR [#69](https://github.com/openwallet-foundation-labs/governance/pull/69) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
-3. 🗣 Commented on [#59](https://github.com/TimoGlastra/expo-mdoc-data-transfer/pull/59#issuecomment-3957749810) in [TimoGlastra/expo-mdoc-data-transfer](https://github.com/TimoGlastra/expo-mdoc-data-transfer)
-4. 🗣 Commented on [#59](https://github.com/TimoGlastra/expo-mdoc-data-transfer/pull/59#issuecomment-3950683113) in [TimoGlastra/expo-mdoc-data-transfer](https://github.com/TimoGlastra/expo-mdoc-data-transfer)
-5. 🗣 Commented on [#78](https://github.com/animo/openid4vc-playground/pull/78#issuecomment-3947140324) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 💪 Opened PR [#70](https://github.com/openwallet-foundation-labs/governance/pull/70) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+2. 🎉 Merged PR [#69](https://github.com/openwallet-foundation-labs/governance/pull/69) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+3. 🗣 Commented on [#69](https://github.com/openwallet-foundation-labs/governance/pull/69#issuecomment-3961925194) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+4. 💪 Opened PR [#69](https://github.com/openwallet-foundation-labs/governance/pull/69) in [openwallet-foundation-labs/governance](https://github.com/openwallet-foundation-labs/governance)
+5. 🗣 Commented on [#59](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/59#issuecomment-3957749810) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
