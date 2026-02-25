@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/18#issuecomment-3962581170) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-2. 🎉 Merged PR [#62](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/62) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 💪 Opened PR [#62](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/62) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-4. 💪 Opened PR [#12](https://github.com/openwallet-foundation-labs/mdl-js/pull/12) in [openwallet-foundation-labs/mdl-js](https://github.com/openwallet-foundation-labs/mdl-js)
-5. 🗣 Commented on [#65](https://github.com/openwallet-foundation/project-proposals/pull/65#issuecomment-3962540890) in [openwallet-foundation/project-proposals](https://github.com/openwallet-foundation/project-proposals)
+1. 🎉 Merged PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+2. 🎉 Merged PR [#63](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/63) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 💪 Opened PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+4. 💪 Opened PR [#63](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/63) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+5. 🗣 Commented on [#18](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/18#issuecomment-3962581170) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
