@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-2. 💪 Opened PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 🎉 Merged PR [#64](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/64) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-4. 💪 Opened PR [#64](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/64) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-5. 🎉 Merged PR [#25](https://github.com/animo/paradym-sdk-ts/pull/25) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+1. 🎉 Merged PR [#66](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/66) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 💪 Opened PR [#66](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/66) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 🗣 Commented on [#12](https://github.com/openwallet-foundation-labs/mdl-js/pull/12#issuecomment-3964888654) in [openwallet-foundation-labs/mdl-js](https://github.com/openwallet-foundation-labs/mdl-js)
+4. 🎉 Merged PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+5. 💪 Opened PR [#65](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/65) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
