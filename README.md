@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#496](https://github.com/animo/paradym-wallet/pull/496) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🔒 Closed issue [#145](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/145) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🗣 Commented on [#145](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/145#issuecomment-3991720919) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. ℹ️ Assigned issue [#145](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/145) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 🗣 Commented on [#2679](https://github.com/openwallet-foundation/credo-ts/pull/2679#issuecomment-3989376469) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❗ Opened issue [#93](https://github.com/FIDEScommunity/DIIP/issues/93) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+2. ❗ Opened issue [#92](https://github.com/FIDEScommunity/DIIP/issues/92) in [FIDEScommunity/DIIP](https://github.com/FIDEScommunity/DIIP)
+3. 🎉 Merged PR [#496](https://github.com/animo/paradym-wallet/pull/496) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#496](https://github.com/animo/paradym-wallet/pull/496) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🔒 Closed issue [#145](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/145) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
