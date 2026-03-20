@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#504](https://github.com/animo/paradym-wallet/pull/504) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 💪 Opened PR [#504](https://github.com/animo/paradym-wallet/pull/504) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#31](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/31#issuecomment-4083978596) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🗣 Commented on [#2703](https://github.com/openwallet-foundation/credo-ts/pull/2703#issuecomment-4068187810) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#498](https://github.com/animo/paradym-wallet/pull/498) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#2706](https://github.com/openwallet-foundation/credo-ts/pull/2706#issuecomment-4096973003) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#721](https://github.com/openid/OpenID4VCI/pull/721#issuecomment-4096966520) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
+3. ℹ️ Labeled issue [#1943](https://github.com/facebook/hermes/issues/1943) in [facebook/hermes](https://github.com/facebook/hermes)
+4. ❗ Opened issue [#1943](https://github.com/facebook/hermes/issues/1943) in [facebook/hermes](https://github.com/facebook/hermes)
+5. 🎉 Merged PR [#504](https://github.com/animo/paradym-wallet/pull/504) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
