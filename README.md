@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/eduwallet-pilots/interop/issues/18#issuecomment-4109367911) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
-2. 🗣 Commented on [#31](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/31#issuecomment-4098375151) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#2706](https://github.com/openwallet-foundation/credo-ts/pull/2706#issuecomment-4096973003) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#721](https://github.com/openid/OpenID4VCI/pull/721#issuecomment-4096966520) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. ℹ️ Labeled issue [#1943](https://github.com/facebook/hermes/issues/1943) in [facebook/hermes](https://github.com/facebook/hermes)
+1. 🗣 Commented on [#42](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/42#issuecomment-4109682162) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#18](https://github.com/eduwallet-pilots/interop/issues/18#issuecomment-4109367911) in [eduwallet-pilots/interop](https://github.com/eduwallet-pilots/interop)
+3. 🗣 Commented on [#31](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/31#issuecomment-4098375151) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#2706](https://github.com/openwallet-foundation/credo-ts/pull/2706#issuecomment-4096973003) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#721](https://github.com/openid/OpenID4VCI/pull/721#issuecomment-4096966520) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
