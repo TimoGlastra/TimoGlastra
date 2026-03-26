@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/openwallet-foundation-labs/dcql-ts/issues/126#issuecomment-4128000851) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🗣 Commented on [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127#issuecomment-4127988461) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#2329](https://github.com/openwallet-foundation/credo-ts/pull/2329#issuecomment-4127022338) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2329](https://github.com/openwallet-foundation/credo-ts/pull/2329#issuecomment-4125513129) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2329](https://github.com/openwallet-foundation/credo-ts/pull/2329#issuecomment-4111682478) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ℹ️ Labeled PR [#153](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/153) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. ❌ Closed PR [#2715](https://github.com/openwallet-foundation/credo-ts/pull/2715) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#2571](https://github.com/openwallet-foundation/credo-ts/pull/2571) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#126](https://github.com/openwallet-foundation-labs/dcql-ts/issues/126#issuecomment-4128000851) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127#issuecomment-4127988461) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
