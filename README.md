@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/29#issuecomment-4134459369) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-2. 💪 Opened PR [#510](https://github.com/animo/paradym-wallet/pull/510) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. ❌ Closed PR [#160](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/160) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🎉 Merged PR [#159](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/159) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 💪 Opened PR [#159](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/159) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🗣 Commented on [#2329](https://github.com/openwallet-foundation/credo-ts/pull/2329#issuecomment-4134692602) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#29](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/29#issuecomment-4134459369) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+3. 💪 Opened PR [#510](https://github.com/animo/paradym-wallet/pull/510) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. ❌ Closed PR [#160](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/160) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🎉 Merged PR [#159](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/159) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
