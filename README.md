@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#132](https://github.com/openwallet-foundation-labs/dcql-ts/issues/132) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-2. 🔒 Closed issue [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-3. 🗣 Commented on [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127#issuecomment-4168369181) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🎉 Merged PR [#2329](https://github.com/openwallet-foundation/credo-ts/pull/2329) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#510](https://github.com/animo/paradym-wallet/pull/510) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#132](https://github.com/openwallet-foundation-labs/dcql-ts/issues/132#issuecomment-4168485731) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+2. ❗ Opened issue [#715](https://github.com/openid/OpenID4VP/issues/715) in [openid/OpenID4VP](https://github.com/openid/OpenID4VP)
+3. ❗ Opened issue [#132](https://github.com/openwallet-foundation-labs/dcql-ts/issues/132) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+4. 🔒 Closed issue [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 🗣 Commented on [#127](https://github.com/openwallet-foundation-labs/dcql-ts/issues/127#issuecomment-4168369181) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
