@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2734](https://github.com/openwallet-foundation/credo-ts/issues/2734) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#47](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/47#issuecomment-4182876559) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#47](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/47#issuecomment-4182145804) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🗣 Commented on [#43](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/43#issuecomment-4176643709) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🗣 Commented on [#43](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/43#issuecomment-4176452092) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#165](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/165#issuecomment-4183887930) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. ℹ️ Labeled issue [#51](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/51) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#51](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/51) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ❗ Opened issue [#2734](https://github.com/openwallet-foundation/credo-ts/issues/2734) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#47](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/47#issuecomment-4182876559) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
