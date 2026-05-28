@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#192](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/192) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🎉 Merged PR [#112](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/112) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 💪 Opened PR [#112](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/112) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#191](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/191) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 💪 Opened PR [#191](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/191) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 💪 Opened PR [#113](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/113) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🎉 Merged PR [#192](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/192) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 💪 Opened PR [#192](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/192) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🎉 Merged PR [#112](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/112) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#112](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/112) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
