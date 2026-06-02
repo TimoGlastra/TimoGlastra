@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#193](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/193) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 💪 Opened PR [#193](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/193) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🎉 Merged PR [#113](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/113) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 💪 Opened PR [#113](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/113) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🎉 Merged PR [#192](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/192) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🗣 Commented on [#202](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/202#issuecomment-4600393982) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 🗣 Commented on [#201](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/201#issuecomment-4600253186) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#202](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/202#issuecomment-4600113687) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🗣 Commented on [#202](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/202#issuecomment-4600097470) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🎉 Merged PR [#193](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/193) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
