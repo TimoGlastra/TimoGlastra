@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#209](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/209) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🔒 Closed issue [#232](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/232) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🔒 Closed issue [#65](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/65) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🗣 Commented on [#65](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/65#issuecomment-4625620511) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 🗣 Commented on [#202](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/202#issuecomment-4611162917) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🗣 Commented on [#221](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/221#issuecomment-4642592256) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 💪 Opened PR [#236](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/236) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#209](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/209#issuecomment-4642481562) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 💪 Opened PR [#209](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/209) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🔒 Closed issue [#232](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/232) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
