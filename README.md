@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#125](https://github.com/animo/openid4vc-playground/issues/125#issuecomment-4680770306) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🎉 Merged PR [#2824](https://github.com/openwallet-foundation/credo-ts/pull/2824) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#2824](https://github.com/openwallet-foundation/credo-ts/pull/2824) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#4740](https://github.com/colinhacks/zod/pull/4740#issuecomment-4679369223) in [colinhacks/zod](https://github.com/colinhacks/zod)
-5. 🗣 Commented on [#125](https://github.com/animo/openid4vc-playground/issues/125#issuecomment-4679199926) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. ❗ Opened issue [#2828](https://github.com/openwallet-foundation/credo-ts/issues/2828) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ℹ️ Assigned issue [#215](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/215) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#215](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/215#issuecomment-4682013179) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 💪 Opened PR [#240](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/240) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#125](https://github.com/animo/openid4vc-playground/issues/125#issuecomment-4680770306) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
