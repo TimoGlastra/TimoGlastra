@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#217](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/217) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🎉 Merged PR [#216](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/216) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🎉 Merged PR [#130](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/130) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 💪 Opened PR [#216](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/216) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 💪 Opened PR [#2829](https://github.com/openwallet-foundation/credo-ts/pull/2829) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#217](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/217) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 💪 Opened PR [#217](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/217) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🎉 Merged PR [#216](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/216) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🎉 Merged PR [#130](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/130) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#216](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/216) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
