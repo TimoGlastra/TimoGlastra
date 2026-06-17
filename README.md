@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2836](https://github.com/openwallet-foundation/credo-ts/pull/2836) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2836](https://github.com/openwallet-foundation/credo-ts/pull/2836) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#2834](https://github.com/openwallet-foundation/credo-ts/issues/2834) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2829](https://github.com/openwallet-foundation/credo-ts/pull/2829) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#243](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/243) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 💪 Opened PR [#5](https://github.com/animo/paradym-example-know-your-customer/pull/5) in [animo/paradym-example-know-your-customer](https://github.com/animo/paradym-example-know-your-customer)
+2. 🗣 Commented on [#545](https://github.com/animo/paradym-wallet/pull/545#issuecomment-4730971970) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 🎉 Merged PR [#2836](https://github.com/openwallet-foundation/credo-ts/pull/2836) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#2836](https://github.com/openwallet-foundation/credo-ts/pull/2836) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#2834](https://github.com/openwallet-foundation/credo-ts/issues/2834) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
