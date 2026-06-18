@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/animo/openid4vc-playground/issues/130#issuecomment-4735929739) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-2. 🗣 Commented on [#130](https://github.com/animo/openid4vc-playground/issues/130#issuecomment-4735924860) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-3. 🗣 Commented on [#131](https://github.com/animo/openid4vc-playground/issues/131#issuecomment-4735913758) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🔒 Closed issue [#130](https://github.com/animo/openid4vc-playground/issues/130) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. 🗣 Commented on [#130](https://github.com/animo/openid4vc-playground/issues/130#issuecomment-4735884423) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 💪 Opened PR [#2837](https://github.com/openwallet-foundation/credo-ts/pull/2837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#130](https://github.com/animo/openid4vc-playground/issues/130#issuecomment-4735929739) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+3. 🗣 Commented on [#130](https://github.com/animo/openid4vc-playground/issues/130#issuecomment-4735924860) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+4. 🗣 Commented on [#131](https://github.com/animo/openid4vc-playground/issues/131#issuecomment-4735913758) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. 🔒 Closed issue [#130](https://github.com/animo/openid4vc-playground/issues/130) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
 <!--END_SECTION:activity-->
 
 ---
