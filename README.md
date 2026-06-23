@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#171](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/171) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. ❌ Closed PR [#161](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/161) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🔒 Closed issue [#125](https://github.com/animo/openid4vc-playground/issues/125) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-4. 🎉 Merged PR [#5](https://github.com/animo/paradym-example-know-your-customer/pull/5) in [animo/paradym-example-know-your-customer](https://github.com/animo/paradym-example-know-your-customer)
-5. 💪 Opened PR [#2837](https://github.com/openwallet-foundation/credo-ts/pull/2837) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#2842](https://github.com/openwallet-foundation/credo-ts/pull/2842) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#171](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/171) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. ❌ Closed PR [#161](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/161) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🔒 Closed issue [#125](https://github.com/animo/openid4vc-playground/issues/125) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+5. 🎉 Merged PR [#5](https://github.com/animo/paradym-example-know-your-customer/pull/5) in [animo/paradym-example-know-your-customer](https://github.com/animo/paradym-example-know-your-customer)
 <!--END_SECTION:activity-->
 
 ---
