@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#81](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/81) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 💪 Opened PR [#222](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/222) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🔒 Closed issue [#215](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/215) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🎉 Merged PR [#2842](https://github.com/openwallet-foundation/credo-ts/pull/2842) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#2844](https://github.com/openwallet-foundation/credo-ts/pull/2844) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#378](https://github.com/openwallet-foundation/sd-jwt-js/pull/378) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+2. ❌ Closed PR [#81](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/81) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 💪 Opened PR [#222](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/222) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🔒 Closed issue [#215](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/215) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🎉 Merged PR [#2842](https://github.com/openwallet-foundation/credo-ts/pull/2842) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
