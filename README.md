@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4852592646) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#556](https://github.com/animo/paradym-wallet/pull/556#issuecomment-4841666698) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4836838973) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🎉 Merged PR [#2844](https://github.com/openwallet-foundation/credo-ts/pull/2844) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2848](https://github.com/openwallet-foundation/credo-ts/pull/2848) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+2. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+3. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4852592646) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#556](https://github.com/animo/paradym-wallet/pull/556#issuecomment-4841666698) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4836838973) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
