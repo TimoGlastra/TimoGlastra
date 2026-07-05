@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
-2. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
-3. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
-4. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4852592646) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#556](https://github.com/animo/paradym-wallet/pull/556#issuecomment-4841666698) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 💪 Opened PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
+3. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+4. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+5. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4852592646) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
