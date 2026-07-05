@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
-3. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
-4. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
-5. 🗣 Commented on [#2770](https://github.com/openwallet-foundation/credo-ts/pull/2770#issuecomment-4852592646) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 💪 Opened PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
+4. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+5. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
 <!--END_SECTION:activity-->
 
 ---
