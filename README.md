@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-2. 💪 Opened PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
-4. ℹ️ Labeled issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
-5. ❗ Opened issue [#8](https://github.com/german-national-wallet/issues-tracker-ios/issues/8) in [german-national-wallet/issues-tracker-ios](https://github.com/german-national-wallet/issues-tracker-ios)
+1. 🗣 Commented on [#45](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/45#issuecomment-4955488804) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 🔒 Closed issue [#45](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/45) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🎉 Merged PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 💪 Opened PR [#262](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/262) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🗣 Commented on [#814](https://github.com/openwallet-foundation/eudiplo/issues/814#issuecomment-4878545327) in [openwallet-foundation/eudiplo](https://github.com/openwallet-foundation/eudiplo)
 <!--END_SECTION:activity-->
 
 ---
