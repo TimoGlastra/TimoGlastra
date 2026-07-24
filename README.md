@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069731414) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 💪 Opened PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-3. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069108099) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-4. ❗ Opened issue [#478](https://github.com/openwallet-foundation/askar/issues/478) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🎉 Merged PR [#158](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/158) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 💪 Opened PR [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+2. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069731414) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 💪 Opened PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+4. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069108099) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+5. ❗ Opened issue [#478](https://github.com/openwallet-foundation/askar/issues/478) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
