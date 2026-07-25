@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2760](https://github.com/openwallet-foundation/credo-ts/pull/2760#issuecomment-5079363887) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2813](https://github.com/openwallet-foundation/credo-ts/pull/2813#issuecomment-5079340812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#2880](https://github.com/openwallet-foundation/credo-ts/pull/2880) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168#issuecomment-5079279796) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
-5. 🗣 Commented on [#169](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/169#issuecomment-5079278955) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+1. 💪 Opened PR [#2882](https://github.com/openwallet-foundation/credo-ts/pull/2882) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2868](https://github.com/openwallet-foundation/credo-ts/pull/2868#issuecomment-5079439869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#158](https://github.com/decentralized-identity/didwebvh-ts/issues/158) in [decentralized-identity/didwebvh-ts](https://github.com/decentralized-identity/didwebvh-ts)
+4. 🗣 Commented on [#2760](https://github.com/openwallet-foundation/credo-ts/pull/2760#issuecomment-5079363887) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2813](https://github.com/openwallet-foundation/credo-ts/pull/2813#issuecomment-5079340812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
