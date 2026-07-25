@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2879](https://github.com/openwallet-foundation/credo-ts/pull/2879) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
-3. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069731414) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-4. 💪 Opened PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069108099) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+1. 🗣 Commented on [#2760](https://github.com/openwallet-foundation/credo-ts/pull/2760#issuecomment-5079363887) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2813](https://github.com/openwallet-foundation/credo-ts/pull/2813#issuecomment-5079340812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2880](https://github.com/openwallet-foundation/credo-ts/pull/2880) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168#issuecomment-5079279796) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+5. 🗣 Commented on [#169](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/169#issuecomment-5079278955) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
 <!--END_SECTION:activity-->
 
 ---
