@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
-2. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069731414) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-3. 💪 Opened PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-4. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069108099) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. ❗ Opened issue [#478](https://github.com/openwallet-foundation/askar/issues/478) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+1. 💪 Opened PR [#2879](https://github.com/openwallet-foundation/credo-ts/pull/2879) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+3. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069731414) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+4. 💪 Opened PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+5. 🗣 Commented on [#478](https://github.com/openwallet-foundation/askar/issues/478#issuecomment-5069108099) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
 <!--END_SECTION:activity-->
 
 ---
