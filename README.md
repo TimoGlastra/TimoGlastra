@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2882](https://github.com/openwallet-foundation/credo-ts/pull/2882) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2868](https://github.com/openwallet-foundation/credo-ts/pull/2868#issuecomment-5079439869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#158](https://github.com/decentralized-identity/didwebvh-ts/issues/158) in [decentralized-identity/didwebvh-ts](https://github.com/decentralized-identity/didwebvh-ts)
-4. 🗣 Commented on [#2760](https://github.com/openwallet-foundation/credo-ts/pull/2760#issuecomment-5079363887) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2813](https://github.com/openwallet-foundation/credo-ts/pull/2813#issuecomment-5079340812) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#168](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/168) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+2. 🎉 Merged PR [#169](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig/pull/169) in [openwallet-foundation/digital-wallet-and-agent-overviews-sig](https://github.com/openwallet-foundation/digital-wallet-and-agent-overviews-sig)
+3. 💪 Opened PR [#2882](https://github.com/openwallet-foundation/credo-ts/pull/2882) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2868](https://github.com/openwallet-foundation/credo-ts/pull/2868#issuecomment-5079439869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#158](https://github.com/decentralized-identity/didwebvh-ts/issues/158) in [decentralized-identity/didwebvh-ts](https://github.com/decentralized-identity/didwebvh-ts)
 <!--END_SECTION:activity-->
 
 ---
