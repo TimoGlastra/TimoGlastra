@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#237](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/237) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/236#issuecomment-5193315186) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. ❗ Opened issue [#236](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/236) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🔒 Closed issue [#165](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/165) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 🗣 Commented on [#227](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/227#issuecomment-5176949271) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🗣 Commented on [#2827](https://github.com/openwallet-foundation/credo-ts/pull/2827#issuecomment-5202887869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❗ Opened issue [#237](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/237) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/236#issuecomment-5193315186) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. ❗ Opened issue [#236](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/236) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🔒 Closed issue [#165](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/165) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
