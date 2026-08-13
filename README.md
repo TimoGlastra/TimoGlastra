@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/170#issuecomment-5251563894) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. ❗ Opened issue [#119](https://github.com/PeculiarVentures/xmldsigjs/issues/119) in [PeculiarVentures/xmldsigjs](https://github.com/PeculiarVentures/xmldsigjs)
-3. 🗣 Commented on [#2827](https://github.com/openwallet-foundation/credo-ts/pull/2827#issuecomment-5202887869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❗ Opened issue [#237](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/237) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 🗣 Commented on [#236](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/236#issuecomment-5193315186) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🗣 Commented on [#170](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/170#issuecomment-5277841831) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#170](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/170#issuecomment-5251563894) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#119](https://github.com/PeculiarVentures/xmldsigjs/issues/119) in [PeculiarVentures/xmldsigjs](https://github.com/PeculiarVentures/xmldsigjs)
+4. 🗣 Commented on [#2827](https://github.com/openwallet-foundation/credo-ts/pull/2827#issuecomment-5202887869) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❗ Opened issue [#237](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/237) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
