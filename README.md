@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2907](https://github.com/openwallet-foundation/credo-ts/pull/2907) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#276](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/276) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-3. 💪 Opened PR [#120](https://github.com/PeculiarVentures/xmldsigjs/pull/120) in [PeculiarVentures/xmldsigjs](https://github.com/PeculiarVentures/xmldsigjs)
-4. 💪 Opened PR [#1](https://github.com/TimoGlastra/xmldsigjs/pull/1) in [TimoGlastra/xmldsigjs](https://github.com/TimoGlastra/xmldsigjs)
-5. 🗣 Commented on [#170](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/170#issuecomment-5277841831) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🎉 Merged PR [#276](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/276) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 💪 Opened PR [#2907](https://github.com/openwallet-foundation/credo-ts/pull/2907) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#276](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/276) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 💪 Opened PR [#120](https://github.com/PeculiarVentures/xmldsigjs/pull/120) in [PeculiarVentures/xmldsigjs](https://github.com/PeculiarVentures/xmldsigjs)
+5. 💪 Opened PR [#1](https://github.com/TimoGlastra/xmldsigjs/pull/1) in [TimoGlastra/xmldsigjs](https://github.com/TimoGlastra/xmldsigjs)
 <!--END_SECTION:activity-->
 
 ---
