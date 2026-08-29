@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54642](https://github.com/react/react-native/issues/54642#issuecomment-5461133438) in [react/react-native](https://github.com/react/react-native)
-2. 🗣 Commented on [#4](https://github.com/animo/expo-digital-credentials-api/issues/4#issuecomment-5461126270) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-3. 💪 Opened PR [#8](https://github.com/animo/expo-digital-credentials-api/pull/8) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-4. ❗ Opened issue [#145](https://github.com/PeculiarVentures/x509/issues/145) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
-5. 💪 Opened PR [#249](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/249) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+1. 🎉 Merged PR [#249](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/249) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 🔒 Closed issue [#247](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/247) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#248](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/248#issuecomment-5461492957) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🗣 Commented on [#54642](https://github.com/react/react-native/issues/54642#issuecomment-5461133438) in [react/react-native](https://github.com/react/react-native)
+5. 🗣 Commented on [#4](https://github.com/animo/expo-digital-credentials-api/issues/4#issuecomment-5461126270) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
 <!--END_SECTION:activity-->
 
 ---
