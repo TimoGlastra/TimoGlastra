@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#145](https://github.com/PeculiarVentures/x509/issues/145) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
-2. 💪 Opened PR [#249](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/249) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🗣 Commented on [#2402](https://github.com/openwallet-foundation/credo-ts/issues/2402#issuecomment-5423496821) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#247](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/247#issuecomment-5412015762) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 💪 Opened PR [#102](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/102) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🗣 Commented on [#54642](https://github.com/react/react-native/issues/54642#issuecomment-5461133438) in [react/react-native](https://github.com/react/react-native)
+2. 🗣 Commented on [#4](https://github.com/animo/expo-digital-credentials-api/issues/4#issuecomment-5461126270) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+3. 💪 Opened PR [#8](https://github.com/animo/expo-digital-credentials-api/pull/8) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+4. ❗ Opened issue [#145](https://github.com/PeculiarVentures/x509/issues/145) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
+5. 💪 Opened PR [#249](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/249) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
