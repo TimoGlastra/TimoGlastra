@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#132](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/132) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 💪 Opened PR [#188](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/188) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🎉 Merged PR [#185](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/185) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#187](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/187) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🎉 Merged PR [#186](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/186) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251#issuecomment-5477566023) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 🎉 Merged PR [#192](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/192) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#188](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/188#issuecomment-5476917369) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 💪 Opened PR [#192](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/192) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#51](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/51#issuecomment-5475175980) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
