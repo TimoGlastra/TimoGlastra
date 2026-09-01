@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#103](https://github.com/openwallet-foundation/askar-wrapper-javascript/issues/103) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-2. 🗣 Commented on [#2321](https://github.com/openwallet-foundation/credo-ts/issues/2321#issuecomment-5479391695) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#256](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/256) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🗣 Commented on [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251#issuecomment-5477566023) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. 🎉 Merged PR [#192](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/192) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84#issuecomment-5493290567) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 🔒 Closed issue [#228](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/228) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+3. 🔒 Closed issue [#245](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/245) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+4. 🎉 Merged PR [#193](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/193) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#193](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/193) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
