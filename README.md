@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84#issuecomment-5493290567) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 🔒 Closed issue [#228](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/228) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 🔒 Closed issue [#245](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/245) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-5. 🎉 Merged PR [#193](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/193) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🎉 Merged PR [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 🎉 Merged PR [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84#issuecomment-5493290567) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+4. 🔒 Closed issue [#228](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/228) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 🔒 Closed issue [#245](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/245) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
 <!--END_SECTION:activity-->
 
 ---
