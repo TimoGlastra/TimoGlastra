@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/86) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-2. 🎉 Merged PR [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-3. 🎉 Merged PR [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84#issuecomment-5493290567) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-5. 🔒 Closed issue [#228](https://github.com/openwallet-foundation-labs/oid4vc-ts/issues/228) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+1. 🎉 Merged PR [#288](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/288) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+2. 💪 Opened PR [#86](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/86) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 🎉 Merged PR [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+4. 🎉 Merged PR [#251](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/251) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🗣 Commented on [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84#issuecomment-5493290567) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
