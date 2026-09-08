@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#90](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/90) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-2. 🗣 Commented on [#2926](https://github.com/openwallet-foundation/credo-ts/pull/2926#issuecomment-5573544227) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#288](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/288) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
-4. 💪 Opened PR [#86](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/86) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-5. 🎉 Merged PR [#84](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/84) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+1. 🎉 Merged PR [#90](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/90) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+2. 💪 Opened PR [#90](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/90) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+3. 🗣 Commented on [#2926](https://github.com/openwallet-foundation/credo-ts/pull/2926#issuecomment-5573544227) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#288](https://github.com/openwallet-foundation-labs/oid4vc-ts/pull/288) in [openwallet-foundation-labs/oid4vc-ts](https://github.com/openwallet-foundation-labs/oid4vc-ts)
+5. 💪 Opened PR [#86](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/86) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
