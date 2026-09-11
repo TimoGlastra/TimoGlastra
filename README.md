@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1996](https://github.com/openwallet-foundation/multipaz/issues/1996) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
-2. 🎉 Merged PR [#260](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/260) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🎉 Merged PR [#2931](https://github.com/openwallet-foundation/credo-ts/pull/2931) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#2930](https://github.com/openwallet-foundation/credo-ts/issues/2930) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#2931](https://github.com/openwallet-foundation/credo-ts/pull/2931) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#200](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/200#issuecomment-5631783265) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. ❗ Opened issue [#263](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/263) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🗣 Commented on [#262](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/262#issuecomment-5631296522) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. ❗ Opened issue [#1996](https://github.com/openwallet-foundation/multipaz/issues/1996) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
+5. 🎉 Merged PR [#260](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/260) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
