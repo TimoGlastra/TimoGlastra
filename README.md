@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#264](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/264) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 🗣 Commented on [#200](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/200#issuecomment-5631783265) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. ❗ Opened issue [#263](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/263) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-4. 🗣 Commented on [#262](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/262#issuecomment-5631296522) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-5. ❗ Opened issue [#1996](https://github.com/openwallet-foundation/multipaz/issues/1996) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
+1. 💪 Opened PR [#269](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/269) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+2. 🗣 Commented on [#76](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/76#issuecomment-5664320874) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+3. 🔒 Closed issue [#76](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/76) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+4. 🗣 Commented on [#57](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/57#issuecomment-5664320056) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
+5. 🔒 Closed issue [#57](https://github.com/openwallet-foundation-labs/mdoc-ts/issues/57) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
 <!--END_SECTION:activity-->
 
 ---
