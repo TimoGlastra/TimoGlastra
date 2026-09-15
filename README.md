@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#271](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/271) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-2. 💪 Opened PR [#271](https://github.com/openwallet-foundation-labs/mdoc-ts/pull/271) in [openwallet-foundation-labs/mdoc-ts](https://github.com/openwallet-foundation-labs/mdoc-ts)
-3. 🗣 Commented on [#138](https://github.com/openwallet-foundation-labs/dcql-ts/pull/138#issuecomment-5666610624) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-4. 🗣 Commented on [#157](https://github.com/openwallet-foundation-labs/dcql-ts/pull/157#issuecomment-5666608209) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 🎉 Merged PR [#8](https://github.com/animo/expo-digital-credentials-api/pull/8) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+1. 💪 Opened PR [#212](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/212) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. ℹ️ Labeled issue [#211](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/211) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#211](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/211) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ℹ️ Labeled issue [#210](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/210) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. ℹ️ Labeled issue [#210](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/210) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
