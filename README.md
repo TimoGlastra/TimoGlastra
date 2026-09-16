@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/212#issuecomment-5695003947) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 💪 Opened PR [#164](https://github.com/animo/openid4vc-playground/pull/164) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-3. ❗ Opened issue [#213](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/213) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🗣 Commented on [#206](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/206#issuecomment-5683847156) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 💪 Opened PR [#212](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/212) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#157](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/157#issuecomment-5698741478) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#252](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/252#issuecomment-5698589864) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 💪 Opened PR [#393](https://github.com/openwallet-foundation/sd-jwt-js/pull/393) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
+4. 🎉 Merged PR [#164](https://github.com/openwallet-foundation-labs/dcql-ts/pull/164) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+5. 💪 Opened PR [#164](https://github.com/openwallet-foundation-labs/dcql-ts/pull/164) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
 <!--END_SECTION:activity-->
 
 ---
