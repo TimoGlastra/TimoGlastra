@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/157#issuecomment-5698741478) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#252](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/252#issuecomment-5698589864) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 💪 Opened PR [#393](https://github.com/openwallet-foundation/sd-jwt-js/pull/393) in [openwallet-foundation/sd-jwt-js](https://github.com/openwallet-foundation/sd-jwt-js)
-4. 🎉 Merged PR [#164](https://github.com/openwallet-foundation-labs/dcql-ts/pull/164) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
-5. 💪 Opened PR [#164](https://github.com/openwallet-foundation-labs/dcql-ts/pull/164) in [openwallet-foundation-labs/dcql-ts](https://github.com/openwallet-foundation-labs/dcql-ts)
+1. ℹ️ Labeled issue [#259](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/259) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. ℹ️ Labeled issue [#259](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/259) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#259](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/259) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ℹ️ Labeled issue [#258](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/258) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. ℹ️ Labeled issue [#258](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/258) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
