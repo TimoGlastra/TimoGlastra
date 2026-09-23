@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#284](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/284#issuecomment-5775339315) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#276](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/276#issuecomment-5775321473) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#276](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/276#issuecomment-5760516749) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. ℹ️ Labeled PR [#280](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/280) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🔒 Closed issue [#207](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/207) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#2952](https://github.com/openwallet-foundation/credo-ts/issues/2952#issuecomment-5793831612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#284](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/284#issuecomment-5775339315) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#276](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/276#issuecomment-5775321473) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#276](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/276#issuecomment-5760516749) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. ℹ️ Labeled PR [#280](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/280) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
