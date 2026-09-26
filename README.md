@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#287](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/287) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#290](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/290#issuecomment-5844790720) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. ❌ Closed PR [#576](https://github.com/animo/paradym-wallet/pull/576) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#576](https://github.com/animo/paradym-wallet/pull/576#issuecomment-5828787136) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 🎉 Merged PR [#577](https://github.com/animo/paradym-wallet/pull/577) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🔒 Closed issue [#285](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/285) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🔒 Closed issue [#286](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/286) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🔒 Closed issue [#287](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/287) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#290](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/290#issuecomment-5844790720) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. ❌ Closed PR [#576](https://github.com/animo/paradym-wallet/pull/576) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
