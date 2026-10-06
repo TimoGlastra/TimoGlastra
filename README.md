@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3019](https://github.com/openwallet-foundation/credo-ts/pull/3019#issuecomment-6020629805) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#3014](https://github.com/openwallet-foundation/credo-ts/issues/3014#issuecomment-6015058746) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#323](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/323#issuecomment-6015283406) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🗣 Commented on [#808](https://github.com/openid/OpenID4VCI/issues/808#issuecomment-6015260184) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
-5. 🔒 Closed issue [#323](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/323) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🎉 Merged PR [#2994](https://github.com/openwallet-foundation/credo-ts/pull/2994) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#3019](https://github.com/openwallet-foundation/credo-ts/pull/3019#issuecomment-6020629805) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#3014](https://github.com/openwallet-foundation/credo-ts/issues/3014#issuecomment-6015058746) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#323](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/323#issuecomment-6015283406) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#808](https://github.com/openid/OpenID4VCI/issues/808#issuecomment-6015260184) in [openid/OpenID4VCI](https://github.com/openid/OpenID4VCI)
 <!--END_SECTION:activity-->
 
 ---
