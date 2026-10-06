@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#315](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/315) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#2828](https://github.com/openwallet-foundation/credo-ts/issues/2828#issuecomment-5989793922) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🔒 Closed issue [#310](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/310) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#2995](https://github.com/openwallet-foundation/credo-ts/pull/2995) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2994](https://github.com/openwallet-foundation/credo-ts/pull/2994#issuecomment-5934281318) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🔒 Closed issue [#2612](https://github.com/openwallet-foundation/credo-ts/issues/2612) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#315](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/315) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#2828](https://github.com/openwallet-foundation/credo-ts/issues/2828#issuecomment-5989793922) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🔒 Closed issue [#310](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/310) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🎉 Merged PR [#2995](https://github.com/openwallet-foundation/credo-ts/pull/2995) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
