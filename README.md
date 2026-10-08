@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#335](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/335) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 💪 Opened PR [#334](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/334) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#3029](https://github.com/openwallet-foundation/credo-ts/pull/3029#issuecomment-6057877119) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#2997](https://github.com/openwallet-foundation/credo-ts/issues/2997) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#3030](https://github.com/openwallet-foundation/credo-ts/pull/3030#issuecomment-6055846501) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#3026](https://github.com/openwallet-foundation/credo-ts/issues/3026#issuecomment-6067291486) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#3026](https://github.com/openwallet-foundation/credo-ts/issues/3026#issuecomment-6067284969) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#3030](https://github.com/openwallet-foundation/credo-ts/pull/3030#issuecomment-6057897830) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#335](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/335) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#334](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/334) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
