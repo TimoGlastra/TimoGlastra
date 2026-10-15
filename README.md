@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#342](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/342#issuecomment-6139409083) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#3026](https://github.com/openwallet-foundation/credo-ts/issues/3026#issuecomment-6112398791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#335](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/335) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#334](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/334) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🗣 Commented on [#3035](https://github.com/openwallet-foundation/credo-ts/pull/3035#issuecomment-6067259935) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#337](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/337#issuecomment-6188691337) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#342](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/342#issuecomment-6139409083) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#3026](https://github.com/openwallet-foundation/credo-ts/issues/3026#issuecomment-6112398791) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#335](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/335) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🎉 Merged PR [#334](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/334) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
