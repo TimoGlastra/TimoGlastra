@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#479](https://github.com/openwallet-foundation/askar/pull/479#issuecomment-6214610610) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🗣 Commented on [#3003](https://github.com/openwallet-foundation/credo-ts/pull/3003#issuecomment-6214533457) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❗ Opened issue [#3067](https://github.com/openwallet-foundation/credo-ts/issues/3067) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#3062](https://github.com/openwallet-foundation/credo-ts/pull/3062#issuecomment-6214491340) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🔒 Closed issue [#342](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/342) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 💪 Opened PR [#46](https://github.com/animo/expo-secure-environment/pull/46) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+2. ❗ Opened issue [#3069](https://github.com/openwallet-foundation/credo-ts/issues/3069) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#587](https://github.com/animo/paradym-wallet/pull/587) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🗣 Commented on [#479](https://github.com/openwallet-foundation/askar/pull/479#issuecomment-6214610610) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+5. 🗣 Commented on [#3003](https://github.com/openwallet-foundation/credo-ts/pull/3003#issuecomment-6214533457) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
