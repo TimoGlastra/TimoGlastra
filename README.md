@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/animo/expo-secure-environment/issues/38#issuecomment-6210597989) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. 🎉 Merged PR [#355](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/355) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 💪 Opened PR [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 💪 Opened PR [#3070](https://github.com/openwallet-foundation/credo-ts/pull/3070) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#355](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/355) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#3067](https://github.com/openwallet-foundation/credo-ts/issues/3067#issuecomment-6214521659) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195#issuecomment-6221212467) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+3. 🗣 Commented on [#3062](https://github.com/openwallet-foundation/credo-ts/pull/3062#issuecomment-6202911576) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#341](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/341#issuecomment-6201562286) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#351](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/351#issuecomment-6199024809) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
