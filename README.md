@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3049](https://github.com/openwallet-foundation/credo-ts/pull/3049#issuecomment-6192214492) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#336](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/336#issuecomment-6190475832) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#2763](https://github.com/openwallet-foundation/credo-ts/issues/2763#issuecomment-6191315263) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#340](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/340) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🗣 Commented on [#337](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/337#issuecomment-6188730768) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#479](https://github.com/openwallet-foundation/askar/pull/479#issuecomment-6214610610) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+2. 🗣 Commented on [#3003](https://github.com/openwallet-foundation/credo-ts/pull/3003#issuecomment-6214533457) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#3067](https://github.com/openwallet-foundation/credo-ts/issues/3067) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#3062](https://github.com/openwallet-foundation/credo-ts/pull/3062#issuecomment-6214491340) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🔒 Closed issue [#342](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/342) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
