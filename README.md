@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/animo/expo-secure-environment/pull/46) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
-2. ❗ Opened issue [#3069](https://github.com/openwallet-foundation/credo-ts/issues/3069) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#587](https://github.com/animo/paradym-wallet/pull/587) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🗣 Commented on [#479](https://github.com/openwallet-foundation/askar/pull/479#issuecomment-6214610610) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#3003](https://github.com/openwallet-foundation/credo-ts/pull/3003#issuecomment-6214533457) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#38](https://github.com/animo/expo-secure-environment/issues/38#issuecomment-6210597989) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+2. 🎉 Merged PR [#355](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/355) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 💪 Opened PR [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+4. 💪 Opened PR [#3070](https://github.com/openwallet-foundation/credo-ts/pull/3070) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#355](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/355) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
