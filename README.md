@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#368](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/368#issuecomment-6271677560) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🔒 Closed issue [#2828](https://github.com/openwallet-foundation/credo-ts/issues/2828) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#3072](https://github.com/openwallet-foundation/credo-ts/pull/3072#issuecomment-6267105808) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#370](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/370) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🗣 Commented on [#3075](https://github.com/openwallet-foundation/credo-ts/pull/3075#issuecomment-6264617075) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#38](https://github.com/animo/expo-secure-environment/issues/38#issuecomment-6271691265) in [animo/expo-secure-environment](https://github.com/animo/expo-secure-environment)
+2. 🗣 Commented on [#368](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/368#issuecomment-6271677560) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🔒 Closed issue [#2828](https://github.com/openwallet-foundation/credo-ts/issues/2828) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#3072](https://github.com/openwallet-foundation/credo-ts/pull/3072#issuecomment-6267105808) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#370](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/370) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
