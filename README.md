@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3077](https://github.com/openwallet-foundation/credo-ts/pull/3077) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-3. 🎉 Merged PR [#600](https://github.com/animo/paradym-wallet/pull/600) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 🎉 Merged PR [#376](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/376) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. ℹ️ Labeled PR [#3112](https://github.com/openwallet-foundation/credo-ts/pull/3112) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❌ Closed PR [#21](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/21) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+2. ❌ Closed PR [#36](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/36) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+3. ❌ Closed PR [#17](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/17) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+4. ❌ Closed PR [#7](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/7) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+5. 💪 Opened PR [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
