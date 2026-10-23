@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#479](https://github.com/openwallet-foundation/askar/pull/479#issuecomment-6365880492) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-2. 🎉 Merged PR [#596](https://github.com/animo/paradym-wallet/pull/596) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 🎉 Merged PR [#594](https://github.com/animo/paradym-wallet/pull/594) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#596](https://github.com/animo/paradym-wallet/pull/596) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#594](https://github.com/animo/paradym-wallet/pull/594) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#3077](https://github.com/openwallet-foundation/credo-ts/pull/3077) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🎉 Merged PR [#479](https://github.com/openwallet-foundation/askar/pull/479) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 🎉 Merged PR [#600](https://github.com/animo/paradym-wallet/pull/600) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 🎉 Merged PR [#376](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/376) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. ℹ️ Labeled PR [#3112](https://github.com/openwallet-foundation/credo-ts/pull/3112) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
