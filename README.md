@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#21](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/21) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-2. ❌ Closed PR [#36](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/36) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-3. ❌ Closed PR [#17](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/17) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. ❌ Closed PR [#7](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/7) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-5. 💪 Opened PR [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+1. ❌ Closed PR [#106](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/106) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#106](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/106#issuecomment-6375852845) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. 🎉 Merged PR [#102](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/102) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❌ Closed PR [#21](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/21) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+5. ❌ Closed PR [#36](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/36) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
