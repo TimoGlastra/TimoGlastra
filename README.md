@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/375#issuecomment-6395337803) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#375](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/375#issuecomment-6395317354) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#376](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/376#issuecomment-6367749126) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. ❌ Closed PR [#106](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/106) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#106](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/106#issuecomment-6375852845) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 💪 Opened PR [#603](https://github.com/animo/paradym-wallet/pull/603) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#380](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/380) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🎉 Merged PR [#601](https://github.com/animo/paradym-wallet/pull/601) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#601](https://github.com/animo/paradym-wallet/pull/601) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#373](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/373) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
