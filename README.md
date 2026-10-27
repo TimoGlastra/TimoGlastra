@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6426723383) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-3. 🗣 Commented on [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39#issuecomment-6423235291) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. 💪 Opened PR [#33](https://github.com/animo/paradym-sdk-ts/pull/33) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
-5. 🎉 Merged PR [#605](https://github.com/animo/paradym-wallet/pull/605) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🗣 Commented on [#374](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/374#issuecomment-6425402166) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6426723383) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+4. 🗣 Commented on [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39#issuecomment-6423235291) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+5. 💪 Opened PR [#33](https://github.com/animo/paradym-sdk-ts/pull/33) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
 <!--END_SECTION:activity-->
 
 ---
