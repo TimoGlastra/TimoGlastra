@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/44) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-2. ❗ Opened issue [#299](https://github.com/callstackincubator/react-native-harness/issues/299) in [callstackincubator/react-native-harness](https://github.com/callstackincubator/react-native-harness)
-3. 💪 Opened PR [#112](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/112) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#390](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/390#issuecomment-6446825501) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 💪 Opened PR [#111](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/111) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. 🎉 Merged PR [#45](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/45) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+2. 🎉 Merged PR [#44](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/44) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+3. 💪 Opened PR [#114](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/114) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. ❗ Opened issue [#280](https://github.com/Koromix/koffi/issues/280) in [Koromix/koffi](https://github.com/Koromix/koffi)
+5. 💪 Opened PR [#3130](https://github.com/openwallet-foundation/credo-ts/pull/3130) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
