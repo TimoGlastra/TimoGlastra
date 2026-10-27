@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/animo/pex-ts/pull/5) in [animo/pex-ts](https://github.com/animo/pex-ts)
-2. ℹ️ Labeled issue [#389](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/389) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. ❗ Opened issue [#389](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/389) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#42](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/42) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-5. 💪 Opened PR [#42](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/42) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+1. 💪 Opened PR [#44](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/44) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+2. ❗ Opened issue [#299](https://github.com/callstackincubator/react-native-harness/issues/299) in [callstackincubator/react-native-harness](https://github.com/callstackincubator/react-native-harness)
+3. 💪 Opened PR [#112](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/112) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+4. 🗣 Commented on [#390](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/390#issuecomment-6446825501) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#111](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/111) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
