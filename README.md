@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/374#issuecomment-6425402166) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6426723383) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. 🗣 Commented on [#39](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/39#issuecomment-6423235291) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-5. 💪 Opened PR [#33](https://github.com/animo/paradym-sdk-ts/pull/33) in [animo/paradym-sdk-ts](https://github.com/animo/paradym-sdk-ts)
+1. 💪 Opened PR [#5](https://github.com/animo/pex-ts/pull/5) in [animo/pex-ts](https://github.com/animo/pex-ts)
+2. ℹ️ Labeled issue [#389](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/389) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. ❗ Opened issue [#389](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/389) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🎉 Merged PR [#42](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/42) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+5. 💪 Opened PR [#42](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/42) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
