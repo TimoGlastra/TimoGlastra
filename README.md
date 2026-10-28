@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#606](https://github.com/animo/paradym-wallet/pull/606) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#10](https://github.com/animo/pex-ts/pull/10) in [animo/pex-ts](https://github.com/animo/pex-ts)
-3. 🎉 Merged PR [#47](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/47) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. 💪 Opened PR [#10](https://github.com/animo/pex-ts/pull/10) in [animo/pex-ts](https://github.com/animo/pex-ts)
-5. 💪 Opened PR [#47](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/47) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+1. 🎉 Merged PR [#12](https://github.com/animo/expo-digital-credentials-api/pull/12) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+2. 🎉 Merged PR [#606](https://github.com/animo/paradym-wallet/pull/606) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#12](https://github.com/animo/expo-digital-credentials-api/pull/12) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+4. 💪 Opened PR [#606](https://github.com/animo/paradym-wallet/pull/606) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#10](https://github.com/animo/pex-ts/pull/10) in [animo/pex-ts](https://github.com/animo/pex-ts)
 <!--END_SECTION:activity-->
 
 ---
