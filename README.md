@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/45) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-2. 🎉 Merged PR [#44](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/44) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-3. 💪 Opened PR [#114](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/114) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. ❗ Opened issue [#280](https://github.com/Koromix/koffi/issues/280) in [Koromix/koffi](https://github.com/Koromix/koffi)
-5. 💪 Opened PR [#3130](https://github.com/openwallet-foundation/credo-ts/pull/3130) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#606](https://github.com/animo/paradym-wallet/pull/606) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#10](https://github.com/animo/pex-ts/pull/10) in [animo/pex-ts](https://github.com/animo/pex-ts)
+3. 🎉 Merged PR [#47](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/47) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+4. 💪 Opened PR [#10](https://github.com/animo/pex-ts/pull/10) in [animo/pex-ts](https://github.com/animo/pex-ts)
+5. 💪 Opened PR [#47](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/47) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
