@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3138](https://github.com/openwallet-foundation/credo-ts/pull/3138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#3139](https://github.com/openwallet-foundation/credo-ts/pull/3139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#3138](https://github.com/openwallet-foundation/credo-ts/pull/3138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#3137](https://github.com/openwallet-foundation/credo-ts/pull/3137) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#505](https://github.com/openwallet-foundation/askar/pull/505#issuecomment-6481728353) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+1. 🗣 Commented on [#3076](https://github.com/openwallet-foundation/credo-ts/pull/3076#issuecomment-6480133299) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#505](https://github.com/openwallet-foundation/askar/pull/505#issuecomment-6481069078) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
+3. 🎉 Merged PR [#3138](https://github.com/openwallet-foundation/credo-ts/pull/3138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#3139](https://github.com/openwallet-foundation/credo-ts/pull/3139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#3138](https://github.com/openwallet-foundation/credo-ts/pull/3138) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
