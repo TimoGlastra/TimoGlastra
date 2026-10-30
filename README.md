@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6496330567) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#3080](https://github.com/openwallet-foundation/credo-ts/pull/3080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#3139](https://github.com/openwallet-foundation/credo-ts/pull/3139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#388](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/388#issuecomment-6493134412) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🎉 Merged PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6496330567) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#3080](https://github.com/openwallet-foundation/credo-ts/pull/3080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🎉 Merged PR [#3139](https://github.com/openwallet-foundation/credo-ts/pull/3139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
