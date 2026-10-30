@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3157](https://github.com/openwallet-foundation/credo-ts/pull/3157) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🎉 Merged PR [#3155](https://github.com/openwallet-foundation/credo-ts/pull/3155) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#3153](https://github.com/openwallet-foundation/credo-ts/pull/3153) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#3156](https://github.com/openwallet-foundation/credo-ts/pull/3156) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#401](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/401) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 💪 Opened PR [#3168](https://github.com/openwallet-foundation/credo-ts/pull/3168) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#170](https://github.com/PeculiarVentures/x509/pull/170) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
+3. 💪 Opened PR [#3167](https://github.com/openwallet-foundation/credo-ts/pull/3167) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#3166](https://github.com/openwallet-foundation/credo-ts/pull/3166) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#403](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/403) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
