@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6496330567) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#3080](https://github.com/openwallet-foundation/credo-ts/pull/3080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🎉 Merged PR [#3139](https://github.com/openwallet-foundation/credo-ts/pull/3139) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#882](https://github.com/decentralized-identity/aries-rfcs/pull/882#issuecomment-6506688076) in [decentralized-identity/aries-rfcs](https://github.com/decentralized-identity/aries-rfcs)
+2. 🎉 Merged PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#3103](https://github.com/openwallet-foundation/credo-ts/pull/3103#issuecomment-6496330567) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🎉 Merged PR [#3080](https://github.com/openwallet-foundation/credo-ts/pull/3080) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#392](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/392) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
