@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#402](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/402) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🎉 Merged PR [#403](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/403) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🎉 Merged PR [#170](https://github.com/PeculiarVentures/x509/pull/170) in [PeculiarVentures/x509](https://github.com/PeculiarVentures/x509)
-4. 💪 Opened PR [#3172](https://github.com/openwallet-foundation/credo-ts/pull/3172) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#3171](https://github.com/openwallet-foundation/credo-ts/pull/3171) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🗣 Commented on [#405](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/405#issuecomment-6561462692) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🗣 Commented on [#404](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/404#issuecomment-6561282118) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🗣 Commented on [#406](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/406#issuecomment-6561252513) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#406](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/406#issuecomment-6561224462) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#405](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/405#issuecomment-6560985433) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
