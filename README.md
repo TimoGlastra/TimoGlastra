@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#616](https://github.com/animo/paradym-wallet/pull/616) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-2. 🎉 Merged PR [#617](https://github.com/animo/paradym-wallet/pull/617) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-3. 💪 Opened PR [#617](https://github.com/animo/paradym-wallet/pull/617) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. ❌ Closed PR [#168](https://github.com/animo/openid4vc-playground/pull/168) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
-5. ❌ Closed PR [#167](https://github.com/animo/openid4vc-playground/pull/167) in [animo/openid4vc-playground](https://github.com/animo/openid4vc-playground)
+1. 🎉 Merged PR [#432](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/432) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. 🚀 Published release [SD JWT v0.24.3](https://github.com/openwallet-foundation-labs/identity-common-ts/releases/tag/sd-jwt-v0.24.3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 💪 Opened PR [#432](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/432) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🎉 Merged PR [#122](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/122) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+5. 💪 Opened PR [#122](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/122) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
 <!--END_SECTION:activity-->
 
 ---
