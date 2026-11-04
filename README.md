@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#432](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/432) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🚀 Published release [SD JWT v0.24.3](https://github.com/openwallet-foundation-labs/identity-common-ts/releases/tag/sd-jwt-v0.24.3) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 💪 Opened PR [#432](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/432) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🎉 Merged PR [#122](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/122) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
-5. 💪 Opened PR [#122](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer/pull/122) in [openwallet-foundation-labs/expo-mdoc-data-transfer](https://github.com/openwallet-foundation-labs/expo-mdoc-data-transfer)
+1. 🎉 Merged PR [#3186](https://github.com/openwallet-foundation/credo-ts/pull/3186) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#3186](https://github.com/openwallet-foundation/credo-ts/pull/3186) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🎉 Merged PR [#49](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/49) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
+4. 🎉 Merged PR [#619](https://github.com/animo/paradym-wallet/pull/619) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 💪 Opened PR [#619](https://github.com/animo/paradym-wallet/pull/619) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
