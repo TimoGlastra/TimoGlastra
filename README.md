@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-2. 💪 Opened PR [#14](https://github.com/animo/expo-digital-credentials-api/pull/14) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
-3. 🎉 Merged PR [#620](https://github.com/animo/paradym-wallet/pull/620) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-4. 💪 Opened PR [#620](https://github.com/animo/paradym-wallet/pull/620) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. ❗ Opened issue [#2164](https://github.com/openwallet-foundation/multipaz/issues/2164) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
+1. 🗣 Commented on [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195#issuecomment-6661598688) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+2. 💪 Opened PR [#438](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/438) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🎉 Merged PR [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+4. 💪 Opened PR [#14](https://github.com/animo/expo-digital-credentials-api/pull/14) in [animo/expo-digital-credentials-api](https://github.com/animo/expo-digital-credentials-api)
+5. 🎉 Merged PR [#620](https://github.com/animo/paradym-wallet/pull/620) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
