@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3186](https://github.com/openwallet-foundation/credo-ts/pull/3186) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#3186](https://github.com/openwallet-foundation/credo-ts/pull/3186) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#49](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/49) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. 🎉 Merged PR [#619](https://github.com/animo/paradym-wallet/pull/619) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
-5. 💪 Opened PR [#619](https://github.com/animo/paradym-wallet/pull/619) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+1. 🎉 Merged PR [#3188](https://github.com/openwallet-foundation/credo-ts/pull/3188) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2150](https://github.com/openwallet-foundation/multipaz/pull/2150#issuecomment-6642472696) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
+3. ℹ️ Labeled issue [#436](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/436) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. ❗ Opened issue [#436](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/436) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 💪 Opened PR [#3188](https://github.com/openwallet-foundation/credo-ts/pull/3188) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
