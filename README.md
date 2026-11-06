@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2164](https://github.com/openwallet-foundation/multipaz/issues/2164#issuecomment-6671549862) in [openwallet-foundation/multipaz](https://github.com/openwallet-foundation/multipaz)
-2. 🗣 Commented on [#120](https://github.com/PeculiarVentures/xmldsigjs/pull/120#issuecomment-6671468683) in [PeculiarVentures/xmldsigjs](https://github.com/PeculiarVentures/xmldsigjs)
-3. 🗣 Commented on [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195#issuecomment-6661598688) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. 💪 Opened PR [#438](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/438) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🎉 Merged PR [#195](https://github.com/openwallet-foundation/credo-ts-docs/pull/195) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+1. 💪 Opened PR [#621](https://github.com/animo/paradym-wallet/pull/621) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 💪 Opened PR [#3197](https://github.com/openwallet-foundation/credo-ts/pull/3197) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#3165](https://github.com/openwallet-foundation/credo-ts/pull/3165#issuecomment-6690312251) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#3164](https://github.com/openwallet-foundation/credo-ts/pull/3164#issuecomment-6689513647) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#443](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/443) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
