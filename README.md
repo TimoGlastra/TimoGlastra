@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#442](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/442#issuecomment-6704781403) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🎉 Merged PR [#3197](https://github.com/openwallet-foundation/credo-ts/pull/3197) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🔒 Closed issue [#2891](https://github.com/openwallet-foundation/credo-ts/issues/2891) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#2892](https://github.com/openwallet-foundation/credo-ts/issues/2892) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#2893](https://github.com/openwallet-foundation/credo-ts/pull/2893) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ℹ️ Labeled issue [#446](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/446) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+2. ❗ Opened issue [#446](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/446) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🎉 Merged PR [#443](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/443) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#442](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/442#issuecomment-6705899190) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#443](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/443#issuecomment-6705432801) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
 <!--END_SECTION:activity-->
 
 ---
