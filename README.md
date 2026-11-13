@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3240](https://github.com/openwallet-foundation/credo-ts/pull/3240) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#463](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/463) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 💪 Opened PR [#462](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/462) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-4. 🗣 Commented on [#2910](https://github.com/openwallet-foundation/credo-ts/pull/2910#issuecomment-6839043353) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❌ Closed PR [#2795](https://github.com/openwallet-foundation/credo-ts/pull/2795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#3232](https://github.com/openwallet-foundation/credo-ts/pull/3232) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#3232](https://github.com/openwallet-foundation/credo-ts/pull/3232#issuecomment-6857004152) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#31](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/31) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+4. ❗ Opened issue [#6](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/6) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+5. 🗣 Commented on [#3235](https://github.com/openwallet-foundation/credo-ts/pull/3235#issuecomment-6855889076) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
