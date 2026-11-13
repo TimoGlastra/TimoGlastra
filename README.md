@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#462](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/462) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🗣 Commented on [#2910](https://github.com/openwallet-foundation/credo-ts/pull/2910#issuecomment-6839043353) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. ❌ Closed PR [#2795](https://github.com/openwallet-foundation/credo-ts/pull/2795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. ❌ Closed PR [#2304](https://github.com/openwallet-foundation/credo-ts/pull/2304) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1819](https://github.com/openwallet-foundation/credo-ts/pull/1819#issuecomment-6838995968) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#3240](https://github.com/openwallet-foundation/credo-ts/pull/3240) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#463](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/463) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 💪 Opened PR [#462](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/462) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🗣 Commented on [#2910](https://github.com/openwallet-foundation/credo-ts/pull/2910#issuecomment-6839043353) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. ❌ Closed PR [#2795](https://github.com/openwallet-foundation/credo-ts/pull/2795) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ---
