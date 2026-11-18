@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#474](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/474) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🎉 Merged PR [#476](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/476) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🎉 Merged PR [#53](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/53) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
-4. 🎉 Merged PR [#119](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/119) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. 🗣 Commented on [#3303](https://github.com/openwallet-foundation/credo-ts/pull/3303#issuecomment-6957048170) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#3309](https://github.com/openwallet-foundation/credo-ts/pull/3309) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🔒 Closed issue [#244](https://github.com/openwallet-foundation-labs/identity-common-ts/issues/244) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+3. 🎉 Merged PR [#474](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/474) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🎉 Merged PR [#476](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/476) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🎉 Merged PR [#53](https://github.com/anoncreds/anoncreds-wrapper-javascript/pull/53) in [anoncreds/anoncreds-wrapper-javascript](https://github.com/anoncreds/anoncreds-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ---
