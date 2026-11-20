@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#479](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/479) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-2. 🎉 Merged PR [#480](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/480) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-3. 🗣 Commented on [#886](https://github.com/decentralized-identity/aries-rfcs/issues/886#issuecomment-7022271141) in [decentralized-identity/aries-rfcs](https://github.com/decentralized-identity/aries-rfcs)
-4. 🗣 Commented on [#515](https://github.com/openwallet-foundation/askar/pull/515#issuecomment-7022215708) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 🗣 Commented on [#886](https://github.com/decentralized-identity/aries-rfcs/issues/886#issuecomment-7021043376) in [decentralized-identity/aries-rfcs](https://github.com/decentralized-identity/aries-rfcs)
+1. 🗣 Commented on [#3323](https://github.com/openwallet-foundation/credo-ts/pull/3323#issuecomment-7034782236) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#886](https://github.com/decentralized-identity/aries-rfcs/issues/886#issuecomment-7021504034) in [decentralized-identity/aries-rfcs](https://github.com/decentralized-identity/aries-rfcs)
+3. 🎉 Merged PR [#479](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/479) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+4. 🎉 Merged PR [#480](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/480) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+5. 🗣 Commented on [#886](https://github.com/decentralized-identity/aries-rfcs/issues/886#issuecomment-7022271141) in [decentralized-identity/aries-rfcs](https://github.com/decentralized-identity/aries-rfcs)
 <!--END_SECTION:activity-->
 
 ---
