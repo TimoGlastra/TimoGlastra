@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3342](https://github.com/openwallet-foundation/credo-ts/issues/3342#issuecomment-7103355607) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. ❗ Opened issue [#3342](https://github.com/openwallet-foundation/credo-ts/issues/3342) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#515](https://github.com/openwallet-foundation/askar/pull/515#issuecomment-7096014902) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-4. 🎉 Merged PR [#481](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/481) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
-5. 🎉 Merged PR [#484](https://github.com/openwallet-foundation-labs/identity-common-ts/pull/484) in [openwallet-foundation-labs/identity-common-ts](https://github.com/openwallet-foundation-labs/identity-common-ts)
+1. 🗣 Commented on [#418](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift/issues/418#issuecomment-7137232648) in [eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift)
+2. 🗣 Commented on [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37#issuecomment-7137164280) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+3. ❗ Opened issue [#36](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/36) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+4. ℹ️ Labeled issue [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+5. ❗ Opened issue [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
 <!--END_SECTION:activity-->
 
 ---
