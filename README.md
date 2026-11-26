@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift/issues/418#issuecomment-7137232648) in [eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift](https://github.com/eu-digital-identity-wallet/eudi-lib-ios-openid4vci-swift)
-2. 🗣 Commented on [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37#issuecomment-7137164280) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
-3. ❗ Opened issue [#36](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/36) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
-4. ℹ️ Labeled issue [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
-5. ❗ Opened issue [#37](https://github.com/german-national-wallet/de-eudi-wallet-ios/issues/37) in [german-national-wallet/de-eudi-wallet-ios](https://github.com/german-national-wallet/de-eudi-wallet-ios)
+1. 🎉 Merged PR [#639](https://github.com/animo/paradym-wallet/pull/639) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+2. 🎉 Merged PR [#638](https://github.com/animo/paradym-wallet/pull/638) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+3. 💪 Opened PR [#639](https://github.com/animo/paradym-wallet/pull/639) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+4. 💪 Opened PR [#638](https://github.com/animo/paradym-wallet/pull/638) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
+5. 🎉 Merged PR [#637](https://github.com/animo/paradym-wallet/pull/637) in [animo/paradym-wallet](https://github.com/animo/paradym-wallet)
 <!--END_SECTION:activity-->
 
 ---
