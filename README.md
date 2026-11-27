@@ -16,11 +16,11 @@ Github language stats
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#175](https://github.com/openwallet-foundation/credo-ts-docs/pull/175#issuecomment-7214910182) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-2. ❌ Closed PR [#175](https://github.com/openwallet-foundation/credo-ts-docs/pull/175) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-3. 🗣 Commented on [#174](https://github.com/openwallet-foundation/credo-ts-docs/pull/174#issuecomment-7214904013) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-4. ❌ Closed PR [#174](https://github.com/openwallet-foundation/credo-ts-docs/pull/174) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
-5. 🗣 Commented on [#164](https://github.com/openwallet-foundation/credo-ts-docs/pull/164#issuecomment-7214893719) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+1. 🗣 Commented on [#3351](https://github.com/openwallet-foundation/credo-ts/issues/3351#issuecomment-7219047428) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#175](https://github.com/openwallet-foundation/credo-ts-docs/pull/175#issuecomment-7214910182) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+3. ❌ Closed PR [#175](https://github.com/openwallet-foundation/credo-ts-docs/pull/175) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+4. 🗣 Commented on [#174](https://github.com/openwallet-foundation/credo-ts-docs/pull/174#issuecomment-7214904013) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
+5. ❌ Closed PR [#174](https://github.com/openwallet-foundation/credo-ts-docs/pull/174) in [openwallet-foundation/credo-ts-docs](https://github.com/openwallet-foundation/credo-ts-docs)
 <!--END_SECTION:activity-->
 
 ---
